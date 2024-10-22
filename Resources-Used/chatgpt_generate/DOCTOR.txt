@@ -1,0 +1,242 @@
+"DNA samples were extracted from bone marrow of LILY MURPHY(29Y04567).\tDOCTOR: LILY MURPHY\nIDNUM: 29Y04567
+(TO: LM: SD/ec 19.07.63)\tDOCTOR: LM\nDOCTOR: SD\nDATE: 19.07.63=>2063-07-19
+MICROSCOPIC: (Reported by Dr A Turner)\tDOCTOR: A Turner
+(TO/ec 19.07.63)\tDOCTOR: TO\nDATE: 19.07.63=>2063-07-19
+MICROSCOPIC (Reported by Dr R Stewart & registrar Dr M Foster):\tDOCTOR: R Stewart\nDOCTOR: M Foster
+(TO: KC;EW/ec 19.07.63)\tDOCTOR: KC\nDOCTOR: EW\nDATE: 19.07.63=>2063-07-19
+(TV/ta 19/07/63)\tDOCTOR: TV\nDATE: 19/07/63=>2063-07-19
+PRO KIANA KIMBALL\tDOCTOR: KIANA KIMBALL
+(TO: MC; BR/rt 20.07.63)\tDOCTOR: MC\nDOCTOR: BR\nDATE: 20.07.63=>2063-07-20
+Result to Dr McConnell/Dr REBECCA ANDERSON (surg reg) by A/Prof Cooper/ Dr Patterson 8:50am on 20/07/63.\tDOCTOR: McConnell\nDOCTOR: REBECCA ANDERSON\nDOCTOR: Cooper\nDOCTOR: Patterson\nDATE: 20/07/63=>2063-07-20
+(GR/ta 21/07/63)\tDOCTOR: GR\nDATE: 21/07/63=>2063-07-21
+(TO: JS: PT/mm 20.07.63)\tDOCTOR: JS\nDOCTOR: PT\nDATE: 20.07.63=>2063-07-20
+Result to Dr Jameson via anaesthetics registrar by Dr S Gibson at 11:30am on the 18th of November 2018.\tDOCTOR: Jameson\nDOCTOR: S Gibson\nTIME: 11:30am on the 18th of November 2018=>2018-11-18T11:30
+(TO: MM; CN/rt 21.07.63)\tDOCTOR: MM\nDOCTOR: CN\nDATE: 21.07.63=>2063-07-21
+Phone result to Dr M Mitchell by Dr L Collins/S Turner at 13:40 on 21.07.63.\tDOCTOR: M Mitchell\nDOCTOR: L Collins\nDOCTOR: S Turner\nDATE: 21.07.63=>2063-07-21
+(TO: AC: LM/mm 22.07.63)\tDOCTOR: AC\nDOCTOR: LM\nDATE: 22.07.63=>2063-07-22
+(SC/mm 27.07.63)\tDOCTOR: SC\nDATE: 27.07.63=>2063-07-27"
+"Saliva samples were collected for analysis from JORDAN JACKSON(32Y07854).\tDOCTOR: JORDAN JACKSON\nIDNUM: 32Y07854
+(TO: JJ: KT/ec 07.11.66)\tDOCTOR: JJ\nDOCTOR: KT\nDATE: 07.11.66=>2066-11-07
+MICROSCOPIC: (Reported by Dr H Turner)\tDOCTOR: H Turner
+(TO/ec 07.11.66)\tDOCTOR: TO\nDATE: 07.11.66=>2066-11-07
+MICROSCOPIC (Reported by Dr M Bennett & registrar Dr S Patel):\tDOCTOR: M Bennett\nDOCTOR: S Patel
+(TO: LC;JW/ec 07.11.66)\tDOCTOR: LC\nDOCTOR: JW\nDATE: 07.11.66=>2066-11-07
+(TV/ta 07/11/66)\tDOCTOR: TV\nDATE: 07/11/66=>2066-11-07
+PRO LUCIA LAMBERT\tDOCTOR: LUCIA LAMBERT
+(TO: LD; AW/rt 08.11.66)\tDOCTOR: LD\nDOCTOR: AW\nDATE: 08.11.66=>2066-11-08
+Result to Dr Levy/Dr SAMUEL WHITE (surg reg) by A/Prof Adams/ Dr Bennett 9:15am on 08/11/66.\tDOCTOR: Levy\nDOCTOR: SAMUEL WHITE\nDOCTOR: Adams\nDOCTOR: Bennett\nDATE: 08/11/66=>2066-11-08
+(GR/ta 09/11/66)\tDOCTOR: GR\nDATE: 09/11/66=>2066-11-09
+(TO: MN: RS/mm 08.11.66)\tDOCTOR: MN\nDOCTOR: RS\nDATE: 08.11.66=>2066-11-08
+Result to Dr Mitchell via anaesthetics registrar by Dr S Reynolds at 10:55am on the 6th of December 2016.\tDOCTOR: Mitchell\nDOCTOR: S Reynolds\nTIME: 10:55am on the 6th of December 2016=>2016-12-06T10:55
+(TO: DD; KL/rt 09.11.66)\tDOCTOR: DD\nDOCTOR: KL\nDATE: 09.11.66=>2066-11-09
+Phone result to Dr D Duncan by Dr P King/A Williams at 12:10 on 09.11.66.\tDOCTOR: D Duncan\nDOCTOR: P King\nDOCTOR: A Williams\nDATE: 09.11.66=>2066-11-09
+(TO: KG: CF/mm 10.11.66)\tDOCTOR: KG\nDOCTOR: CF\nDATE: 10.11.66=>2066-11-10
+(SC/mm 15.11.66)\tDOCTOR: SC\nDATE: 15.11.66=>2066-11-15"
+VZ/rt 15.3.64\tDOCTOR: VZ\nDATE: 15.3.64=>2064-03-15
+AC/ta 10/5/63\tDOCTOR: AC\nDATE: 10/5/63=>2063-05-10
+MICROSCOPIC (Reported by Dr M Aiken)\tDOCTOR: M Aiken
+Reported by Dr A Cramer at 09:45am on the 15/8/2014\tDOCTOR: A Cramer\nTIME: 09:45am on the 15/8/2014=>2014-08-15T09:45
+Distribution: FILE-COPY, DR Landon, NSW-CANCER-REGISTRY, DR STEWART, DR HARRISON\tDOCTOR: Landon\nDOCTOR: STEWART\nDOCTOR: HARRISON
+Note: Confirmed specimen orientation with Dr ZENAIDA CAMPOS on 22/6/64\tDOCTOR: ZENAIDA CAMPOS\nDATE: 22/6/64=>2064-06-22
+Additional history: Known Stage 2 Prostate Cancer - on hormone therapy (Dr Rodriguez)\tDOCTOR: Rodriguez
+TO: TY; JM/rt 05.9.64\tDOCTOR: TY\nDOCTOR: JM\nDATE: 05.9.64=>2064-09-05
+MICROSCOPIC: (Reported by Dr X Durocher)\tDOCTOR: X Durocher
+Representative slides seen with Dr GERMAINE HENSON\tDOCTOR: GERMAINE HENSON
+Result to Dr Kress by Dr M Stenberg at 14:30 on the 2nd of December 2014\tDOCTOR: Kress\nDOCTOR: M Stenberg\nTIME: 14:30 on the 2nd of December 2014=>2014-12-02T14:30
+Result to Dr Harper by Dr S Raymond at 14:30 on the 2nd of December 2014\tDOCTOR: Harper\nDOCTOR: S Raymond\nTIME: 14:30 on the 2nd of December 2014=>2014-12-02T14:30
+DR YEN AGUILAR BEACH\tDOCTOR: YEN AGUILAR BEACH
+The slides of specimens B and D, together with the previous smears, have been reviewed with Prof P WALDEN\tDOCTOR: P WALDEN
+Reported by P. Simon Validated by: Dr M Barnett\tDOCTOR: P. Simon\nDOCTOR: M Barnett
+Reported by J. Hickman\tDOCTOR: J. Hickman
+HER2 IN SITU HYBRIDIZATION reported by Dr A Caruso, ST. LUKE'S HOSPITAL Hospital\tDOCTOR: A Caruso\nHOSPITAL: ST. LUKE'S HOSPITAL
+ADDITIONAL REPORT 3 (10.9.64) (Reported by Dr E Iskandar)\tDATE: 10.9.64=>2064-09-10\nDOCTOR: E Iskandar
+The specimen underwent re-examination by Drs. Anderson and Hayes, resulting in the processing of an additional 2 blocks, specifically blocks 17 - 18. \tDOCTOR: Anderson\nDOCTOR: Hayes
+Drs. Turner and Robinson conducted a secondary examination of the specimen, leading to the processing of 4 more blocks, denoted as blocks 19 - 22. \tDOCTOR: Turner\nDOCTOR: Robinson
+A re-evaluation of the specimen was performed by Drs. Collins and Anderson, and 2 more blocks, specifically blocks 23 - 24, were subsequently processed. \tDOCTOR: Collins\nDOCTOR: Anderson
+Drs. Robinson and Kelly revisited the specimen, leading to the processing of an additional 3 blocks, marked as blocks 25 - 27. \tDOCTOR: Robinson\nDOCTOR: Kelly
+Drs. Miller and White re-examined the specimen, and a further 5 blocks were processed, numbered as blocks 28 - 32. \tDOCTOR: Miller\nDOCTOR: White
+Drs. Foster and Mills conducted a re-evaluation of the specimen, resulting in the processing of 3 additional blocks, specifically blocks 17 - 19. \tDOCTOR: Foster\nDOCTOR: Mills
+The material underwent a second examination by Drs. Robinson and Hayes, and 3 more blocks were processed, denoted as blocks 20 - 22. \tDOCTOR: Robinson\nDOCTOR: Hayes
+Drs. Kelly and Collins conducted a re-evaluation, leading to the processing of an extra 2 blocks, marked as blocks 23 - 24. \tDOCTOR: Kelly\nDOCTOR: Collins
+Upon further inspection, Drs. Miller and White revisited the specimen, resulting in the processing of 5 additional blocks, numbered as blocks 25 - 29. \tDOCTOR: Miller\nDOCTOR: White
+A secondary examination was performed by Drs. Anderson and Hayes, and 2 more blocks were processed, identified as blocks 30 - 31. \tDOCTOR: Anderson\nDOCTOR: Hayes
+Drs. Foster and Robinson re-examined the specimen, leading to the processing of an additional 3 blocks, specifically blocks 32 - 34. \tDOCTOR: Foster\nDOCTOR: Robinson
+The specimen underwent a second evaluation by Drs. Turner and Kelly, and 4 more blocks were processed, denoted as blocks 35 - 38. \tDOCTOR: Turner\nDOCTOR: Kelly
+Drs. Collins and Miller conducted a re-evaluation, resulting in the processing of 2 additional blocks, marked as blocks 39 - 40. \tDOCTOR: Collins\nDOCTOR: Miller
+Upon further inspection, Drs. White and Anderson revisited the specimen, leading to the processing of 6 more blocks, numbered as blocks 41 - 46. \tDOCTOR: White\nDOCTOR: Anderson
+A secondary examination was performed by Drs. Hayes and Foster, and 3 more blocks were processed, identified as blocks 47 - 49. \tDOCTOR: Hayes\nDOCTOR: Foster
+Slides will be forwarded to A/Professor Reynolds for assessment, and a supplementary report will be issued. \tDOCTOR: Reynolds
+A/Professor Turner will receive the slides for evaluation, and an accompanying report will be provided. \tDOCTOR: Turner
+The material will be sent to A/Professor Martinez for expert opinion, and a supplementary report will follow. \tDOCTOR: Martinez
+Slides will be dispatched to A/Professor Higgins for review, and a detailed report will be issued. \tDOCTOR: Higgins
+A/Professor Palmer will be given the slides for assessment, and an additional report will be issued. \tDOCTOR: Palmer
+Slides will be sent to A/Professor Rodriguez for examination, and a supplementary report will follow. \tDOCTOR: Rodriguez
+A/Professor Turner will receive the slides for assessment, and a comprehensive report will be provided. \tDOCTOR: Turner
+Slides will be forwarded to A/Professor Chen for expert opinion, and a detailed report will follow. \tDOCTOR: Chen
+A/Professor Wilson will be given the slides for evaluation, and an additional report will be issued. \tDOCTOR: Wilson
+The material will be sent to A/Professor Foster for review, and a supplementary report will be generated. \tDOCTOR: Foster
+Slides will be dispatched to A/Professor Baker for assessment, and a comprehensive report will be provided. \tDOCTOR: Baker
+A/Professor Martinez will receive the slides for examination, and an additional report will follow. \tDOCTOR: Martinez
+The slides will be sent to A/Professor Perry for expert opinion, and a detailed report will be issued. \tDOCTOR: Perry
+A/Professor Turner will be given the slides for evaluation, and a supplementary report will be generated. \tDOCTOR: Turner
+Slides will be forwarded to A/Professor Adams for review, and a comprehensive report will follow. \tDOCTOR: Adams
+A/Professor Smith will receive the slides for assessment, and an accompanying report will be provided. \tDOCTOR: Smith
+Slides will be sent to A/Professor Thompson for examination, and a supplementary report will follow. \tDOCTOR: Thompson
+A/Professor Turner will be given the slides for evaluation, and a comprehensive report will be provided. \tDOCTOR: Turner
+Slides will be forwarded to A/Professor Garcia for expert opinion, and a detailed report will follow. \tDOCTOR: Garcia
+A/Professor Wilson will receive the slides for assessment, and a supplementary report will be generated. \tDOCTOR: Wilson
+The material will be sent to A/Professor Foster for review, and a comprehensive report will be provided. \tDOCTOR: Foster
+Slides will be dispatched to A/Professor Martinez for assessment, and an additional report will follow. \tDOCTOR: Martinez
+A/Professor Turner will be given the slides for evaluation, and a detailed report will be issued. \tDOCTOR: Turner
+Slides will be sent to A/Professor Rodriguez for expert opinion, and a supplementary report will be generated. \tDOCTOR: Rodriguez
+A/Professor Palmer will receive the slides for examination, and a comprehensive report will follow. \tDOCTOR: Palmer
+Slides will be sent to A/Professor Turner for examination, and a supplementary report will be issued. \tDOCTOR: Turner
+A/Professor Foster will receive the slides for assessment, and a comprehensive report will be provided. \tDOCTOR: Foster
+Slides will be forwarded to A/Professor Collins for expert opinion, and a detailed report will follow. \tDOCTOR: Collins
+A/Professor Rodriguez will be given the slides for evaluation, and an additional report will be issued. \tDOCTOR: Rodriguez
+The material will be sent to A/Professor Baker for review, and a supplementary report will be generated. \tDOCTOR: Baker
+Slides will be dispatched to A/Professor Martinez for assessment, and a comprehensive report will follow. \tDOCTOR: Martinez
+A/Professor Thompson will receive the slides for examination, and an accompanying report will be provided. \tDOCTOR: Thompson
+The slides will be sent to A/Professor Garcia for expert opinion, and a detailed report will be issued. \tDOCTOR: Garcia
+A/Professor Turner will be given the slides for evaluation, and a supplementary report will be generated. \tDOCTOR: Turner
+Slides will be forwarded to A/Professor Adams for review, and a comprehensive report will follow. \tDOCTOR: Adams
+Therefore, the slides will be forwarded to A/Professor Reynolds at ST. JAMES MEDICAL CENTER Hospital for assessment, and an additional report will be issued. \tDOCTOR: Reynolds\nHOSPITAL: ST. JAMES MEDICAL CENTER
+The material will be sent to A/Professor Turner at GREENWOOD GENERAL HOSPITAL Hospital for his expert opinion, and a supplementary report will follow. \tDOCTOR: Turner\nHOSPITAL: GREENWOOD GENERAL HOSPITAL
+Hence, the slides will be dispatched to A/Professor Martinez at MAPLEWOOD MEDICAL CENTER Hospital for examination, and a comprehensive report will be provided. \tDOCTOR: Martinez\nHOSPITAL: MAPLEWOOD MEDICAL CENTER
+Consequently, A/Professor Rodriguez at RIVERVIEW REGIONAL HOSPITAL Hospital will receive the slides for evaluation, and a detailed report will be issued. \tDOCTOR: Rodriguez\nHOSPITAL: RIVERVIEW REGIONAL HOSPITAL
+As a result, the slides will be sent to A/Professor Baker at SUNSET MEMORIAL HOSPITAL Hospital for expert opinion, and an additional report will be generated. \tDOCTOR: Baker\nHOSPITAL: SUNSET MEMORIAL HOSPITAL
+Henceforth, the slides will be sent to A/Professor Foster at PINEWOOD MEDICAL CENTER Hospital for his assessment, and a supplementary report will be issued. \tDOCTOR: Foster\nHOSPITAL: PINEWOOD MEDICAL CENTER
+Consequently, the material will be forwarded to A/Professor Turner at BLUEBELL HOSPITAL Hospital for examination, and a comprehensive report will follow. \tDOCTOR: Turner\nHOSPITAL: BLUEBELL HOSPITAL
+Therefore, A/Professor Collins at OAKVIEW GENERAL HOSPITAL Hospital will receive the slides for his expert opinion, and a detailed report will be issued. \tDOCTOR: Collins\nHOSPITAL: OAKVIEW GENERAL HOSPITAL
+As a result, the slides will be dispatched to A/Professor Rodriguez at SUNNYDALE MEDICAL CENTER Hospital for evaluation, and an additional report will be generated. \tDOCTOR: Rodriguez\nHOSPITAL: SUNNYDALE MEDICAL CENTER
+Accordingly, the slides will be sent to A/Professor Martinez at HILLCREST REGIONAL HOSPITAL Hospital for review, and a comprehensive report will follow. \tDOCTOR: Martinez\nHOSPITAL: HILLCREST REGIONAL HOSPITAL
+Therefore, A/Professor Thompson at GLENWOOD HOSPITAL Hospital will receive the slides for his opinion, and a supplementary report will be issued. \tDOCTOR: Thompson\nHOSPITAL: GLENWOOD HOSPITAL
+Consequently, the material will be forwarded to A/Professor Baker at LAKESIDE MEDICAL CENTER Hospital for examination, and a detailed report will follow. \tDOCTOR: Baker\nHOSPITAL: LAKESIDE MEDICAL CENTER
+Hence, A/Professor Adams at MOUNTAINVIEW HOSPITAL Hospital will be given the slides for his expert opinion, and an additional report will be generated. \tDOCTOR: Adams\nHOSPITAL: MOUNTAINVIEW HOSPITAL
+Consequently, the slides will be dispatched to A/Professor Turner at GREENWOOD GENERAL HOSPITAL Hospital for evaluation, and a comprehensive report will be provided. \tDOCTOR: Turner\nHOSPITAL: GREENWOOD GENERAL HOSPITAL
+Therefore, A/Professor Rodriguez at RIVERVIEW REGIONAL HOSPITAL Hospital will receive the slides for his opinion, and a supplementary report will follow. \tDOCTOR: Rodriguez\nHOSPITAL: RIVERVIEW REGIONAL HOSPITAL
+Consequently, the slides will be sent to A/Professor Foster at PINEWOOD MEDICAL CENTER Hospital for examination, and a comprehensive report will be issued. \tDOCTOR: Foster\nHOSPITAL: PINEWOOD MEDICAL CENTER
+Therefore, A/Professor Turner at BLUEBELL HOSPITAL Hospital will be given the slides for his expert opinion, and a detailed report will follow. \tDOCTOR: Turner\nHOSPITAL: BLUEBELL HOSPITAL
+As a result, the material will be forwarded to A/Professor Collins at OAKVIEW GENERAL HOSPITAL Hospital for assessment, and an additional report will be generated. \tDOCTOR: Collins\nHOSPITAL: OAKVIEW GENERAL HOSPITAL
+Consequently, the slides will be sent to A/Professor Rodriguez at SUNNYDALE MEDICAL CENTER Hospital for evaluation, and a comprehensive report will follow. \tDOCTOR: Rodriguez\nHOSPITAL: SUNNYDALE MEDICAL CENTER
+Therefore, A/Professor Martinez at HILLCREST REGIONAL HOSPITAL Hospital will receive the slides for his opinion, and a supplementary report will be issued. \tDOCTOR: Martinez\nHOSPITAL: HILLCREST REGIONAL HOSPITAL
+Accordingly, the slides will be dispatched to A/Professor Thompson at GLENWOOD HOSPITAL Hospital for examination, and a detailed report will follow. \tDOCTOR: Thompson\nHOSPITAL: GLENWOOD HOSPITAL
+Hence, A/Professor Baker at LAKESIDE MEDICAL CENTER Hospital will be given the slides for his expert opinion, and an additional report will be generated. \tDOCTOR: Baker\nHOSPITAL: LAKESIDE MEDICAL CENTER
+Consequently, the slides will be sent to A/Professor Adams at MOUNTAINVIEW HOSPITAL Hospital for evaluation, and a comprehensive report will be provided. \tDOCTOR: Adams\nHOSPITAL: MOUNTAINVIEW HOSPITAL
+Therefore, A/Professor Turner at GREENWOOD GENERAL HOSPITAL Hospital will receive the slides for his opinion, and a supplementary report will follow. \tDOCTOR: Turner\nHOSPITAL: GREENWOOD GENERAL HOSPITAL
+Consequently, the material will be forwarded to A/Professor Rodriguez at RIVERVIEW REGIONAL HOSPITAL Hospital for assessment, and a detailed report will be issued. \tDOCTOR: Rodriguez\nHOSPITAL: RIVERVIEW REGIONAL HOSPITAL
+This additional discovery was deliberated with Dr. Turner by A/Prof. Rodriguez on 6/7/63. \tDOCTOR: Turner\nDOCTOR: Rodriguez\nDATE: 6/7/63=>2063-07-06
+The extra finding was discussed with Dr. Collins by A/Prof. Foster on 4/8/63. \tDOCTOR: Collins\nDOCTOR: Foster\nDATE: 4/8/63=>2063-08-04
+Dr. Baker and A/Prof. Adams had a conversation about this supplementary observation on 9/10/63. \tDOCTOR: Baker\nDOCTOR: Adams\nDATE: 9/10/63=>2063-10-09
+A/Prof. Thompson and Dr. Rodriguez conferred about this new finding on 7/6/63. \tDOCTOR: Thompson\nDOCTOR: Rodriguez\nDATE: 7/6/63=>2063-06-07
+Dr. Foster was consulted by A/Prof. Martinez regarding this additional discovery on 12/15/63. \tDOCTOR: Foster\nDOCTOR: Martinez\nDATE: 12/15/63=>2063-12-15
+Dr. Turner and A/Prof. Foster had a discussion about this supplementary finding on 8/9/63. \tDOCTOR: Turner\nDOCTOR: Foster\nDATE: 8/9/63=>2063-09-08
+A/Prof. Rodriguez and Dr. Collins deliberated on this extra observation on 5/11/63. \tDOCTOR: Rodriguez\nDOCTOR: Collins\nDATE: 5/11/63=>2063-11-05
+Dr. Baker was consulted by A/Prof. Adams regarding this additional discovery on 3/12/63. \tDOCTOR: Baker\nDOCTOR: Adams\nDATE: 3/12/63=>2063-12-03
+A/Prof. Thompson and Dr. Rodriguez conferred about this new finding on 1/2/63. \tDOCTOR: Thompson\nDOCTOR: Rodriguez\nDATE: 1/2/63=>2063-02-01
+Dr. Foster had a conversation with A/Prof. Martinez about this supplementary observation on 11/10/63. \tDOCTOR: Foster\nDOCTOR: Martinez\nDATE: 11/10/63=>2063-10-11
+This extra discovery was discussed with Dr. Turner by A/Prof. Rodriguez on 7/6/63. \tDOCTOR: Turner\nDOCTOR: Rodriguez\nDATE: 7/6/63=>2063-06-07
+A/Prof. Collins and Dr. Foster had a conversation about this supplementary observation on 5/3/63. \tDOCTOR: Collins\nDOCTOR: Foster\nDATE: 5/3/63=>2063-03-05
+Dr. Baker was consulted by A/Prof. Adams regarding this additional discovery on 12/15/63. \tDOCTOR: Baker\nDOCTOR: Adams\nDATE: 12/15/63=>2063-12-15
+A/Prof. Thompson and Dr. Rodriguez deliberated on this extra observation on 8/9/63. \tDOCTOR: Thompson\nDOCTOR: Rodriguez\nDATE: 8/9/63=>2063-09-08
+Dr. Foster and A/Prof. Martinez had a discussion about this supplementary finding on 5/11/63. \tDOCTOR: Foster\nDOCTOR: Martinez\nDATE: 5/11/63=>2063-11-05
+A/Prof. Turner and Dr. Collins were consulted regarding this additional discovery on 3/12/63. \tDOCTOR: Turner\nDOCTOR: Collins\nDATE: 3/12/63=>2063-12-03
+Dr. Baker and A/Prof. Adams conferred about this new finding on 1/2/63. \tDOCTOR: Baker\nDOCTOR: Adams\nDATE: 1/2/63=>2063-02-01
+A/Prof. Thompson was consulted by Dr. Rodriguez regarding this additional observation on 11/10/63. \tDOCTOR: Thompson\nDOCTOR: Rodriguez\nDATE: 11/10/63=>2063-10-11
+Dr. Foster and A/Prof. Turner had a conversation about this supplementary discovery on 7/6/63. \tDOCTOR: Foster\nDOCTOR: Turner\nDATE: 7/6/63=>2063-06-07
+A/Prof. Collins and Dr. Baker deliberated on this extra finding on 5/3/63. \tDOCTOR: Collins\nDOCTOR: Baker\nDATE: 5/3/63=>2063-03-05
+Dr. Foster was consulted by A/Prof. Adams regarding this additional observation on 12/15/63. \tDOCTOR: Foster\nDOCTOR: Adams\nDATE: 12/15/63=>2063-12-15
+A/Prof. Thompson and Dr. Rodriguez conferred about this new observation on 8/9/63. \tDOCTOR: Thompson\nDOCTOR: Rodriguez\nDATE: 8/9/63=>2063-09-08
+Dr. Foster and A/Prof. Martinez had a discussion about this supplementary finding on 5/11/63. \tDOCTOR: Foster\nDOCTOR: Martinez\nDATE: 5/11/63=>2063-11-05
+A/Prof. Turner and Dr. Collins were consulted regarding this additional discovery on 3/12/63. \tDOCTOR: Turner\nDOCTOR: Collins\nDATE: 3/12/63=>2063-12-03
+Dr. Baker and A/Prof. Adams deliberated on this extra finding on 1/2/63. \tDOCTOR: Baker\nDOCTOR: Adams\nDATE: 1/2/63=>2063-02-01
+Verified by Dr. Reynolds\tDOCTOR: Reynolds
+Noted by: Dr. Collins\tDOCTOR: Collins
+Informed by Dr. Turner\tDOCTOR: Turner
+Confirmed by: Dr. Martinez\tDOCTOR: Martinez
+Acknowledged by Dr. Baker\tDOCTOR: Baker
+Validated by Dr. Adams\tDOCTOR: Adams
+Acknowledged by: Dr. Turner\tDOCTOR: Turner
+Confirmed by Dr. Foster\tDOCTOR: Foster
+Verified by: Dr. Rodriguez\tDOCTOR: Rodriguez
+Noted by Dr. Collins\tDOCTOR: Collins
+Affirmed by: Dr. Baker\tDOCTOR: Baker
+Verified by Dr. Martinez\tDOCTOR: Martinez
+Acknowledged by: Dr. Thompson\tDOCTOR: Thompson
+Confirmed by Dr. Adams\tDOCTOR: Adams
+Validated by: Dr. Turner\tDOCTOR: Turner
+Noted by Dr. Foster\tDOCTOR: Foster
+Affirmed by: Dr. Rodriguez\tDOCTOR: Rodriguez
+Verified by Dr. Collins\tDOCTOR: Collins
+Acknowledged by: Dr. Baker\tDOCTOR: Baker
+Confirmed by Dr. Martinez\tDOCTOR: Martinez
+Validated by: Dr. Thompson\tDOCTOR: Thompson
+Affirmed by Dr. Adams\tDOCTOR: Adams
+Noted by: Dr. Turner\tDOCTOR: Turner
+Acknowledged by Dr. Foster\tDOCTOR: Foster
+Confirmed by: Dr. Rodriguez\tDOCTOR: Rodriguez
+Outcome conveyed to Dr. Turner by Dr. Foster at 15.7.13 on 14:30. \tDOCTOR: Turner\nDOCTOR: Foster\nTIME: 15.7.13 on 14:30=>2013-07-15T14:30
+Report delivered to Dr. Adams by Dr. Martinez at 3.4.13 on 08:15. \tDOCTOR: Adams\nDOCTOR: Martinez\nTIME: 3.4.13 on 08:15=>2013-04-03T08:15
+Findings sent to Dr. Rodriguez by Dr. Collins at 18.9.13 on 12:20. \tDOCTOR: Rodriguez\nDOCTOR: Collins\nTIME: 18.9.13 on 12:20=>2013-09-18T12:20
+Result communicated to Dr. Baker by Dr. Thompson at 5.6.13 on 16:45. \tDOCTOR: Baker\nDOCTOR: Thompson\nTIME: 5.6.13 on 16:45=>2013-06-05T16:45
+Outcome conveyed to Dr. Martinez by Dr. Turner at 22.11.13 on 09:10. \tDOCTOR: Martinez\nDOCTOR: Turner\nTIME: 22.11.13 on 09:10=>2013-11-22T09:10
+Report sent to Dr. Adams by Dr. Turner at 10.8.13 on 18:20. \tDOCTOR: Adams\nDOCTOR: Turner\nTIME: 10.8.13 on 18:20=>2013-08-10T18:20
+Findings delivered to Dr. Foster by Dr. Martinez at 14.2.13 on 22:40. \tDOCTOR: Foster\nDOCTOR: Martinez\nTIME: 14.2.13 on 22:40=>2013-02-14T22:40
+Result communicated to Dr. Rodriguez by Dr. Collins at 7.5.13 on 13:05. \tDOCTOR: Rodriguez\nDOCTOR: Collins\nTIME: 7.5.13 on 13:05=>2013-05-07T13:05
+Outcome conveyed to Dr. Baker by Dr. Thompson at 19.10.13 on 10:15. \tDOCTOR: Baker\nDOCTOR: Thompson\nTIME: 19.10.13 on 10:15=>2013-10-19T10:15
+Report sent to Dr. Martinez by Dr. Turner at 3.12.13 on 21:30. \tDOCTOR: Martinez\nDOCTOR: Turner\nTIME: 3.12.13 on 21:30=>2013-12-03T21:30
+Findings delivered to Dr. Adams by Dr. Foster at 8.6.13 on 15:50. \tDOCTOR: Adams\nDOCTOR: Foster\nTIME: 8.6.13 on 15:50=>2013-06-08T15:50
+Result communicated to Dr. Rodriguez by Dr. Collins at 25.9.13 on 07:25. \tDOCTOR: Rodriguez\nDOCTOR: Collins\nTIME: 25.9.13 on 07:25=>2013-09-25T07:25
+Outcome conveyed to Dr. Baker by Dr. Thompson at 11.4.13 on 14:55. \tDOCTOR: Baker\nDOCTOR: Thompson\nTIME: 11.4.13 on 14:55=>2013-04-11T14:55
+Report sent to Dr. Martinez by Dr. Turner at 16.11.13 on 11:10. \tDOCTOR: Martinez\nDOCTOR: Turner\nTIME: 16.11.13 on 11:10=>2013-11-16T11:10
+Findings delivered to Dr. Adams by Dr. Foster at 12.7.13 on 20:45. \tDOCTOR: Adams\nDOCTOR: Foster\nTIME: 12.7.13 on 20:45=>2013-07-12T20:45
+Result communicated to Dr. Rodriguez by Dr. Collins at 9.2.13 on 16:35. \tDOCTOR: Rodriguez\nDOCTOR: Collins\nTIME: 9.2.13 on 16:35=>2013-02-09T16:35
+Outcome conveyed to Dr. Baker by Dr. Thompson at 14.5.13 on 09:50. \tDOCTOR: Baker\nDOCTOR: Thompson\nTIME: 14.5.13 on 09:50=>2013-05-14T09:50
+Report sent to Dr. Martinez by Dr. Turner at 20.10.13 on 06:15. \tDOCTOR: Martinez\nDOCTOR: Turner\nTIME: 20.10.13 on 06:15=>2013-10-20T06:15
+Findings delivered to Dr. Adams by Dr. Foster at 5.3.13 on 23:55. \tDOCTOR: Adams\nDOCTOR: Foster\nTIME: 5.3.13 on 23:55=>2013-03-05T23:55
+Result communicated to Dr. Rodriguez by Dr. Collins at 17.8.13 on 12:30. \tDOCTOR: Rodriguez\nDOCTOR: Collins\nTIME: 17.8.13 on 12:30=>2013-08-17T12:30
+Outcome conveyed to Dr. Baker by Dr. Thompson at 28.1.13 on 19:20. \tDOCTOR: Baker\nDOCTOR: Thompson\nTIME: 28.1.13 on 19:20=>2013-01-28T19:20
+Report sent to Dr. Martinez by Dr. Turner at 6.6.13 on 08:45. \tDOCTOR: Martinez\nDOCTOR: Turner\nTIME: 6.6.13 on 08:45=>2013-06-06T08:45
+Findings delivered to Dr. Adams by Dr. Foster at 23.11.13 on 17:00. \tDOCTOR: Adams\nDOCTOR: Foster\nTIME: 23.11.13 on 17:00=>2013-11-23T17:00
+Result communicated to Dr. Rodriguez by Dr. Collins at 15.4.13 on 13:40. \tDOCTOR: Rodriguez\nDOCTOR: Collins\nTIME: 15.4.13 on 13:40=>2013-04-15T13:40
+Outcome conveyed to Dr. Baker by Dr. Thompson at 30.7.13 on 22:05. \tDOCTOR: Baker\nDOCTOR: Thompson\nTIME: 30.7.13 on 22:05=>2013-07-30T22:05
+Outcome conveyed to Dr. Martinez by Dr. Turner at 13.6.13 on 16:15. \tDOCTOR: Martinez\nDOCTOR: Turner\nTIME: 13.6.13 on 16:15=>2013-06-13T16:15
+Report sent to Dr. Adams by Dr. Collins at 7.9.13 on 08:30. \tDOCTOR: Adams\nDOCTOR: Collins\nTIME: 7.9.13 on 08:30=>2013-09-07T08:30
+Findings delivered to Dr. Foster by Dr. Thompson at 22.4.13 on 12:50. \tDOCTOR: Foster\nDOCTOR: Thompson\nTIME: 22.4.13 on 12:50=>2013-04-22T12:50
+Result communicated to Dr. Rodriguez by Dr. Baker at 18.11.13 on 09:25. \tDOCTOR: Rodriguez\nDOCTOR: Baker\nTIME: 18.11.13 on 09:25=>2013-11-18T09:25
+Outcome conveyed to Dr. Turner by Dr. Martinez at 3.8.13 on 14:40. \tDOCTOR: Turner\nDOCTOR: Martinez\nTIME: 3.8.13 on 14:40=>2013-08-03T14:40
+Report sent to Dr. Collins by Dr. Adams at 16.12.13 on 21:00. \tDOCTOR: Collins\nDOCTOR: Adams\nTIME: 16.12.13 on 21:00=>2013-12-16T21:00
+Findings delivered to Dr. Thompson by Dr. Foster at 11.5.13 on 18:35. \tDOCTOR: Thompson\nDOCTOR: Foster\nTIME: 11.5.13 on 18:35=>2013-05-11T18:35
+Result communicated to Dr. Baker by Dr. Rodriguez at 5.2.13 on 10:45. \tDOCTOR: Baker\nDOCTOR: Rodriguez\nTIME: 5.2.13 on 10:45=>2013-02-05T10:45
+Outcome conveyed to Dr. Martinez by Dr. Turner at 9.7.13 on 22:20. \tDOCTOR: Martinez\nDOCTOR: Turner\nTIME: 9.7.13 on 22:20=>2013-07-09T22:20
+Report sent to Dr. Adams by Dr. Collins at 28.10.13 on 19:55. \tDOCTOR: Adams\nDOCTOR: Collins\nTIME: 28.10.13 on 19:55=>2013-10-28T19:55
+Findings delivered to Dr. Foster by Dr. Thompson at 14.3.13 on 08:10. \tDOCTOR: Foster\nDOCTOR: Thompson\nTIME: 14.3.13 on 08:10=>2013-03-14T08:10
+Result communicated to Dr. Rodriguez by Dr. Baker at 17.9.13 on 15:45. \tDOCTOR: Rodriguez\nDOCTOR: Baker\nTIME: 17.9.13 on 15:45=>2013-09-17T15:45
+Outcome conveyed to Dr. Turner by Dr. Martinez at 20.1.13 on 11:30. \tDOCTOR: Turner\nDOCTOR: Martinez\nTIME: 20.1.13 on 11:30=>2013-01-20T11:30
+Report sent to Dr. Collins by Dr. Adams at 4.6.13 on 06:05. \tDOCTOR: Collins\nDOCTOR: Adams\nTIME: 4.6.13 on 06:05=>2013-06-04T06:05
+Findings delivered to Dr. Thompson by Dr. Foster at 27.11.13 on 14:50. \tDOCTOR: Thompson\nDOCTOR: Foster\nTIME: 27.11.13 on 14:50=>2013-11-27T14:50
+Result communicated to Dr. Baker by Dr. Rodriguez at 10.4.13 on 17:25. \tDOCTOR: Baker\nDOCTOR: Rodriguez\nTIME: 10.4.13 on 17:25=>2013-04-10T17:25
+Outcome conveyed to Dr. Martinez by Dr. Turner at 23.8.13 on 19:00. \tDOCTOR: Martinez\nDOCTOR: Turner\nTIME: 23.8.13 on 19:00=>2013-08-23T19:00
+Report sent to Dr. Adams by Dr. Collins at 6.5.13 on 10:15. \tDOCTOR: Adams\nDOCTOR: Collins\nTIME: 6.5.13 on 10:15=>2013-05-06T10:15
+Findings delivered to Dr. Foster by Dr. Thompson at 19.12.13 on 23:30. \tDOCTOR: Foster\nDOCTOR: Thompson\nTIME: 19.12.13 on 23:30=>2013-12-19T23:30
+Result communicated to Dr. Rodriguez by Dr. Baker at 15.6.13 on 12:05. \tDOCTOR: Rodriguez\nDOCTOR: Baker\nTIME: 15.6.13 on 12:05=>2013-06-15T12:05
+Result to Dr H Traves by Dr H Lontz at 27.5.13 on 15:30pm.\tDOCTOR: H Traves\nDOCTOR: H Lontz\nTIME: 27.5.13 on 15:30pm=>2013-05-27T15:30
+Reporting to Dr H Traves was done by Dr H Lontz on 14.8.13 at 08:45am.\tDOCTOR: H Traves\nDOCTOR: H Lontz\nTIME: 14.8.13 on 08:45am=>2013-08-14T08:45
+Dr H Lontz reported the results to Dr H Traves on 05.11.13 at 18:20pm.\tDOCTOR: H Traves\nDOCTOR: H Lontz\nTIME: 05.11.13 on 18:20pm=>2013-11-05T18:20
+Results were communicated to Dr H Traves by Dr H Lontz on 09.3.13 at 12:15pm.\tDOCTOR: H Traves\nDOCTOR: H Lontz\nTIME: 09.3.13 on 12:15pm=>2013-03-09T12:15
+Result to Dr H Traves by Dr H Lontz at 18.7.13 on 22:40pm.\tDOCTOR: H Traves\nDOCTOR: H Lontz\nTIME: 18.7.13 on 22:40pm=>2013-07-18T22:40
+Reporting to Dr H Traves was done by Dr H Lontz on 02.6.13 at 09:10am.\tDOCTOR: H Traves\nDOCTOR: H Lontz\nTIME: 02.6.13 on 09:10am=>2013-06-02T09:10
+Dr H Lontz reported the results to Dr H Traves on 30.9.13 at 16:55pm.\tDOCTOR: H Traves\nDOCTOR: H Lontz\nTIME: 30.9.13 on 16:55pm=>2013-09-30T16:55
+Results were communicated to Dr H Traves by Dr H Lontz on 12.4.13 at 14:25pm.\tDOCTOR: H Traves\nDOCTOR: H Lontz\nTIME: 12.4.13 on 14:25pm=>2013-04-12T14:25
+Result to Dr H Traves by Dr H Lontz at 21.10.13 on 19:05pm.\tDOCTOR: H Traves\nDOCTOR: H Lontz\nTIME: 21.10.13 on 19:05pm=>2013-10-21T19:05
+Reporting to Dr H Traves was done by Dr H Lontz on 03.1.13 at 10:30am.\tDOCTOR: H Traves\nDOCTOR: H Lontz\nTIME: 03.1.13 on 10:30am=>2013-01-03T10:30
+Dr H Lontz reported the results to Dr H Traves on 15.12.13 at 21:15pm.\tDOCTOR: H Traves\nDOCTOR: H Lontz\nTIME: 15.12.13 on 21:15pm=>2013-12-15T21:15
+Results were communicated to Dr H Traves by Dr H Lontz on 08.8.13 at 17:50pm.\tDOCTOR: H Traves\nDOCTOR: H Lontz\nTIME: 08.8.13 on 17:50pm=>2013-08-08T17:50
+Result to Dr H Traves by Dr H Lontz at 11.2.13 on 13:40pm.\tDOCTOR: H Traves\nDOCTOR: H Lontz\nTIME: 11.2.13 on 13:40pm=>2013-02-11T13:40
+Reporting to Dr H Traves was done by Dr H Lontz on 04.6.13 at 08:20am.\tDOCTOR: H Traves\nDOCTOR: H Lontz\nTIME: 04.6.13 on 08:20am=>2013-06-04T08:20
+Dr H Lontz reported the results to Dr H Traves on 19.11.13 at 23:35pm.\tDOCTOR: H Traves\nDOCTOR: H Lontz\nTIME: 19.11.13 on 23:35pm=>2013-11-19T23:35
+Results were communicated to Dr H Traves by Dr H Lontz on 07.7.13 at 11:45am.\tDOCTOR: H Traves\nDOCTOR: H Lontz\nTIME: 07.7.13 on 11:45am=>2013-07-07T11:45
+Result to Dr H Traves by Dr H Lontz at 23.9.13 on 18:30pm.\tDOCTOR: H Traves\nDOCTOR: H Lontz\nTIME: 23.9.13 on 18:30pm=>2013-09-23T18:30
+Reporting to Dr H Traves was done by Dr H Lontz on 16.3.13 at 14:10pm.\tDOCTOR: H Traves\nDOCTOR: H Lontz\nTIME: 16.3.13 on 14:10pm=>2013-03-16T14:10
+Dr H Lontz reported the results to Dr H Traves on 29.5.13 at 19:25pm.\tDOCTOR: H Traves\nDOCTOR: H Lontz\nTIME: 29.5.13 on 19:25pm=>2013-05-29T19:25
+Results were communicated to Dr H Traves by Dr H Lontz on 10.12.13 at 22:55pm.\tDOCTOR: H Traves\nDOCTOR: H Lontz\nTIME: 10.12.13 on 22:55pm=>2013-12-10T22:55

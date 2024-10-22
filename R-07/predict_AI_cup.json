@@ -1,0 +1,27 @@
+{
+    "post_process":"argmax",
+    "threshold": null,
+    "model_name_or_path":"chpt/roberta-large_chunk_size_32_add_newline/output/checkpoint-41348",
+    "output_AI_cup_prediction_file":"formal_test/formal_chunk_size_32/predict_41348_test.txt",
+    "task_name":"ner",
+    "deid_strategy" : "ai_cup",
+    "notation":"BILOU",
+    "ner_types":["DOCTOR", "DATE", "IDNUM", "HOSPITAL", "MEDICALRECORD", "PATIENT", "TIME", "DEPARTMENT", "CITY", "ZIP", "STREET", "STATE", "AGE", "ORGANIZATION", "DURATION", "SET", "PHONE", "LOCATION-OTHER", "COUNTRY", "URL", "ROOM"],
+    "truncation":true,
+    "max_length":512,
+    "label_all_tokens":false,
+    "return_entity_level_metrics":true,
+    "text_column_name":"tokens",
+    "label_column_name":"labels",
+    "output_dir":"./run/models",
+    "logging_dir":"./run/logs",
+    "overwrite_output_dir":false,
+    "do_train":false,
+    "do_eval":false,
+    "do_predict":true,
+    "report_to":["tensorboard"],
+    "per_device_train_batch_size":0,
+    "per_device_eval_batch_size":16,
+    "logging_steps":1000
+   }
+   

@@ -1,0 +1,1138 @@
+45yo man with suspected lung mass.\tAGE: 45
+
+50 yo man - laparoscopic cholecystectomy for gallstones.\tAGE: 50
+
+Diabetes - insulin-dependent since age 35, currently managing with metformin.\tAGE: 35
+
+P/H appendectomy at age 28.\tAGE: 28
+
+55 yr old, adenocarcinoma of the colon.\tAGE: 55
+28yo woman with recurrent migraines.\tAGE: 28
+
+65 yo man - coronary artery bypass grafting for coronary artery disease.\tAGE: 65
+
+Asthma - diagnosed at age 12, using inhalers for symptom control.\tAGE: 12
+
+P/H kidney stone removal at age 40.\tAGE: 40
+
+48 yr old, ductal carcinoma in situ (DCIS) of the left breast.\tAGE: 48
+
+33yo man with lower back pain.\tAGE: 33
+
+60 yo woman - total hip replacement for osteoarthritis.\tAGE: 60
+
+Hypertension - diagnosed at age 50, currently on antihypertensive medication.\tAGE: 50
+
+P/H appendectomy at age 25.\tAGE: 25
+
+52 yr old, prostate adenocarcinoma.\tAGE: 52
+
+38yo woman with irritable bowel syndrome.\tAGE: 38
+
+70 yo man - transurethral resection of the prostate (TURP) for benign prostatic hyperplasia (BPH).\tAGE: 70
+
+Type 2 diabetes - diagnosed at age 45, managed with diet and exercise.\tAGE: 45
+
+P/H tonsillectomy at age 8.\tAGE: 8
+
+44 yr old, basal cell carcinoma on the nose.\tAGE: 44
+
+55yo man with elevated cholesterol levels.\tAGE: 55
+
+63 yo woman - lumpectomy for early-stage breast cancer.\tAGE: 63
+
+Rheumatoid arthritis - diagnosed at age 30, on disease-modifying antirheumatic drugs (DMARDs).\tAGE: 30
+
+P/H hernia repair at age 32.\tAGE: 32
+
+57 yr old, squamous cell carcinoma of the esophagus.\tAGE: 57
+34yo man with recurrent sinus infections.\tAGE: 34
+
+72 yo woman - knee replacement surgery for osteoarthritis.\tAGE: 72
+
+Type 1 diabetes - diagnosed at age 8, using insulin pump for management.\tAGE: 8
+
+P/H gallbladder removal at age 42.\tAGE: 42
+
+50 yr old, colorectal polyps detected during colonoscopy.\tAGE: 50
+
+26yo woman with anxiety and panic attacks.\tAGE: 26
+
+68 yo man - coronary stent placement for angina.\tAGE: 68
+
+Hypothyroidism - diagnosed at age 36, on levothyroxine therapy.\tAGE: 36
+
+P/H broken arm at age 15.\tAGE: 15
+
+56 yr old, endometrial hyperplasia.\tAGE: 56
+
+40yo woman with acid reflux symptoms.\tAGE: 40
+
+62 yo man - atrial fibrillation, currently on anticoagulation therapy.\tAGE: 62
+
+Type 2 diabetes - diagnosed at age 55, managed with oral medications.\tAGE: 55
+
+P/H adenoidectomy at age 10.\tAGE: 10
+
+48 yr old, basal cell carcinoma on the forehead.\tAGE: 48
+
+45yo man with high blood pressure.\tAGE: 45
+
+59 yo woman - lumbar discectomy for herniated disc.\tAGE: 59
+
+Osteoporosis - diagnosed at age 52, on bisphosphonate therapy.\tAGE: 52
+
+P/H tonsillectomy at age 7.\tAGE: 7
+
+54 yr old, non-small cell lung cancer.\tAGE: 54
+42 yo male with suspected pancreatic lesions, raising questions about the ovarian origin or potential pancreatic primary.\tAGE: 42
+
+A 55 yo female presenting with pancreatic lesions, prompting considerations of ovarian origin or potential pancreatic primary.\tAGE: 55
+
+Pancreatic lesions observed in a 70 yo female, leading to speculation about their ovarian origin or the possibility of being a pancreatic primary.\tAGE: 70
+
+Suspected pancreatic lesions in a 58 yo female, prompting investigation into the potential ovarian origin or primary pancreatic nature.\tAGE: 58
+
+A 67 yo woman with pancreatic lesions, raising questions about their ovarian origin or potential as a pancreatic primary.\tAGE: 67
+Diagnosed with Grade III endometrial cancer following postmenopausal bleeding. The patient's family history includes an aunt with breast cancer in her 60s.\tAGE: 60
+
+Grade III endometrial cancer detected after postmenopausal bleeding. Family history notes an aunt diagnosed with breast cancer at the age of 65s.\tAGE: 65
+
+Postmenopausal bleeding led to the diagnosis of Grade III endometrial cancer. Family history reveals that the patient's aunt had breast cancer in her 60s.\tAGE: 64
+
+A 64-year-old individual with postmenopausal bleeding was diagnosed with Grade III endometrial cancer. The patient's family history includes an aunt who had breast cancer in her 64s.\tAGE: 64
+
+Grade III endometrial cancer diagnosed after postmenopausal bleeding. Family history indicates an aunt with breast cancer in her 65s.\tAGE: 65
+
+Postmenopausal bleeding led to the diagnosis of Grade III endometrial cancer. The patient's family history includes an aunt diagnosed with breast cancer at 65s.\tAGE: 65
+
+A 65-year-old individual diagnosed with Grade III endometrial cancer after postmenopausal bleeding. Family history notes an aunt with breast cancer in her 65s.\tAGE: 65
+
+Diagnosed with Grade III endometrial cancer following postmenopausal bleeding. The patient's aunt had breast cancer in her 65s.\tAGE: 65
+
+Grade III endometrial cancer detected after postmenopausal bleeding. The patient's family history includes an aunt with breast cancer in her 66s.\tAGE: 66
+
+Postmenopausal bleeding led to the diagnosis of Grade III endometrial cancer. Family history reveals that the patient's aunt had breast cancer in her 63s.\tAGE: 63
+
+A 63-year-old individual with postmenopausal bleeding was diagnosed with Grade III endometrial cancer. The patient's family history includes an aunt who had breast cancer in her 63s.\tAGE: 63
+
+Grade III endometrial cancer diagnosed after postmenopausal bleeding. Family history indicates an aunt with breast cancer in her 67s.\tAGE: 67
+
+Postmenopausal bleeding led to the diagnosis of Grade III endometrial cancer. The patient's family history includes an aunt diagnosed with breast cancer at 64s.\tAGE: 64
+
+A 64-year-old individual diagnosed with Grade III endometrial cancer after postmenopausal bleeding. Family history notes an aunt with breast cancer in her 65s.\tAGE: 64
+
+Diagnosed with Grade III endometrial cancer following postmenopausal bleeding. The patient's aunt had breast cancer in her 65s.\tAGE: 65
+
+Grade III endometrial cancer detected after postmenopausal bleeding. The patient's family history includes an aunt with breast cancer in her 62s.\tAGE: 62
+
+Postmenopausal bleeding led to the diagnosis of Grade III endometrial cancer. Family history reveals that the patient's aunt had breast cancer in her 61s.\tAGE: 61
+
+A 61-year-old individual with postmenopausal bleeding was diagnosed with Grade III endometrial cancer. The patient's family history includes an aunt who had breast cancer in her 61s.\tAGE: 61
+
+Grade III endometrial cancer diagnosed after postmenopausal bleeding. Family history indicates an aunt with breast cancer in her 68s.\tAGE: 68
+
+Postmenopausal bleeding led to the diagnosis of Grade III endometrial cancer. The patient's family history includes an aunt diagnosed with breast cancer at 67.\tAGE: 67
+
+A 67-year-old individual diagnosed with Grade III endometrial cancer after postmenopausal bleeding. Family history notes an aunt with breast cancer in her 67s.\tAGE: 67
+
+Diagnosed with Grade III endometrial cancer following postmenopausal bleeding. The patient's aunt had breast cancer in her 65s.\tAGE: 65
+
+Grade III endometrial cancer detected after postmenopausal bleeding. The patient's family history includes an aunt with breast cancer in her 63s.\tAGE: 63
+
+Postmenopausal bleeding led to the diagnosis of Grade III endometrial cancer. Family history reveals that the patient's aunt had breast cancer in her 66s.\tAGE: 66
+
+A 66-year-old individual with postmenopausal bleeding was diagnosed with Grade III endometrial cancer. The patient's family history includes an aunt who had breast cancer in her 66s.\tAGE: 66
+
+Grade III endometrial cancer diagnosed after postmenopausal bleeding. Family history indicates an aunt with breast cancer in her 64s.\tAGE: 64
+
+Postmenopausal bleeding led to the diagnosis of Grade III endometrial cancer. The patient's family history includes an aunt diagnosed with breast cancer at 66s.\tAGE: 66
+
+Diagnosed with Grade III endometrial cancer following postmenopausal bleeding. The patient's family history includes an aunt with breast cancer in her 68s.\tAGE: 68
+
+Postmenopausal bleeding led to the diagnosis of Grade III endometrial cancer. Family history reveals that the patient's aunt had breast cancer in her 63s.\tAGE: 63
+
+A 63-year-old individual with postmenopausal bleeding was diagnosed with Grade III endometrial cancer. The patient's family history includes an aunt who had breast cancer in her 63s.\tAGE: 63
+
+
+75 yr old woman diagnosed with grade 2 endometrioid adenocarcinoma of the uterus. Underwent total abdominal hysterectomy (TAH), bilateral salpingo-oophorectomy (BSO), washings, and bilateral external and internal pelvic nodal dissection.\tAGE: 75
+
+52 yr old female with stage 1 endometrioid adenocarcinoma of the uterus. Had a total abdominal hysterectomy (TAH), bilateral salpingo-oophorectomy (BSO), washings, and underwent bilateral external and internal pelvic nodal dissection.\tAGE: 52
+
+A 63 yr old woman diagnosed with grade 3 endometrioid adenocarcinoma of the uterus. Surgical procedures included total abdominal hysterectomy (TAH), bilateral salpingo-oophorectomy (BSO), washings, and bilateral external and internal pelvic nodal dissection.\tAGE: 63
+
+45 yr old woman diagnosed with grade 1 endometrioid adenocarcinoma of the uterus. Underwent total abdominal hysterectomy (TAH), bilateral salpingo-oophorectomy (BSO), washings, and bilateral external and internal pelvic nodal dissection.\tAGE: 45
+
+58 yr old female with stage 2 endometrioid adenocarcinoma of the uterus. Had a total abdominal hysterectomy (TAH), bilateral salpingo-oophorectomy (BSO), washings, and underwent bilateral external and internal pelvic nodal dissection.\tAGE: 58
+
+A 70 yr old woman diagnosed with grade 3 endometrioid adenocarcinoma of the uterus. Surgical procedures included total abdominal hysterectomy (TAH), bilateral salpingo-oophorectomy (BSO), washings, and bilateral external and internal pelvic nodal dissection.\tAGE: 70
+
+62 yr old woman diagnosed with grade 2 endometrioid adenocarcinoma of the uterus. Underwent total abdominal hysterectomy (TAH), bilateral salpingo-oophorectomy (BSO), washings, and bilateral external and internal pelvic nodal dissection.\tAGE: 62
+
+53 yr old female with stage 1 endometrioid adenocarcinoma of the uterus. Had a total abdominal hysterectomy (TAH), bilateral salpingo-oophorectomy (BSO), washings, and underwent bilateral external and internal pelvic nodal dissection.\tAGE: 53
+
+A 68 yr old woman diagnosed with grade 3 endometrioid adenocarcinoma of the uterus. Surgical procedures included total abdominal hysterectomy (TAH), bilateral salpingo-oophorectomy (BSO), washings, and bilateral external and internal pelvic nodal dissection.\tAGE: 68
+
+55 yr old woman diagnosed with grade 1 endometrioid adenocarcinoma of the uterus. Underwent total abdominal hysterectomy (TAH), bilateral salpingo-oophorectomy (BSO), washings, and bilateral external and internal pelvic nodal dissection.\tAGE: 55
+
+48 yr old female with stage 2 endometrioid adenocarcinoma of the uterus. Had a total abdominal hysterectomy (TAH), bilateral salpingo-oophorectomy (BSO), washings, and underwent bilateral external and internal pelvic nodal dissection.\tAGE: 48
+
+A 75 yr old woman diagnosed with grade 3 endometrioid adenocarcinoma of the uterus. Surgical procedures included total abdominal hysterectomy (TAH), bilateral salpingo-oophorectomy (BSO), washings, and bilateral external and internal pelvic nodal dissection.\tAGE: 75
+
+57 yr old woman diagnosed with grade 2 endometrioid adenocarcinoma of the uterus. Underwent total abdominal hysterectomy (TAH), bilateral salpingo-oophorectomy (BSO), washings, and bilateral external and internal pelvic nodal dissection.\tAGE: 57
+
+49 yr old female with stage 1 endometrioid adenocarcinoma of the uterus. Had a total abdominal hysterectomy (TAH), bilateral salpingo-oophorectomy (BSO), washings, and underwent bilateral external and internal pelvic nodal dissection.\tAGE: 49
+
+A 64 yr old woman diagnosed with grade 3 endometrioid adenocarcinoma of the uterus. Surgical procedures included total abdominal hysterectomy (TAH), bilateral salpingo-oophorectomy (BSO), washings, and bilateral external and internal pelvic nodal dissection.\tAGE: 64
+
+50 yr old woman diagnosed with grade 1 endometrioid adenocarcinoma of the uterus. Underwent total abdominal hysterectomy (TAH), bilateral salpingo-oophorectomy (BSO), washings, and bilateral external and internal pelvic nodal dissection.\tAGE: 50
+
+56 yr old female with stage 2 endometrioid adenocarcinoma of the uterus. Had a total abdominal hysterectomy (TAH), bilateral salpingo-oophorectomy (BSO), washings, and underwent bilateral external and internal pelvic nodal dissection.\tAGE: 56
+
+A 72 yr old woman diagnosed with grade 3 endometrioid adenocarcinoma of the uterus. Surgical procedures included total abdominal hysterectomy (TAH), bilateral salpingo-oophorectomy (BSO), washings, and bilateral external and internal pelvic nodal dissection.\tAGE: 72
+
+61 yr old woman diagnosed with grade 2 endometrioid adenocarcinoma of the uterus. Underwent total abdominal hysterectomy (TAH), bilateral salpingo-oophorectomy (BSO), washings, and bilateral external and internal pelvic nodal dissection.\tAGE: 61
+
+51 yr old female with stage 1 endometrioid adenocarcinoma of the uterus. Had a total abdominal hysterectomy (TAH), bilateral salpingo-oophorectomy (BSO), washings, and underwent bilateral external and internal pelvic nodal dissection.\tAGE: 51
+
+A 67 yr old woman diagnosed with grade 3 endometrioid adenocarcinoma of the uterus. Surgical procedures included total abdominal hysterectomy (TAH), bilateral salpingo-oophorectomy (BSO), washings, and bilateral external and internal pelvic nodal dissection.\tAGE: 67
+
+54 yr old woman diagnosed with grade 1 endometrioid adenocarcinoma of the uterus. Underwent total abdominal hysterectomy (TAH), bilateral salpingo-oophorectomy (BSO), washings, and bilateral external and internal pelvic nodal dissection.\tAGE: 54
+
+47 yr old female with stage 2 endometrioid adenocarcinoma of the uterus. Had a total abdominal hysterectomy (TAH), bilateral salpingo-oophorectomy (BSO), washings, and underwent bilateral external and internal pelvic nodal dissection.\tAGE: 47
+
+A 71-year-old woman diagnosed with grade 3 endometrioid adenocarcinoma of the uterus. Surgical procedures included total abdominal hysterectomy (TAH), bilateral salpingo-oophorectomy (BSO), washings, and bilateral external and internal pelvic nodal dissection.\tAGE: 71
+
+59 yr old woman diagnosed with grade 2 endometrioid adenocarcinoma of the uterus. Underwent total abdominal hysterectomy (TAH), bilateral salpingo-oophorectomy (BSO), washings, and bilateral external and internal pelvic nodal dissection.\tAGE: 59
+
+46 yr old female with stage 1 endometrioid adenocarcinoma of the uterus. Had a total abdominal hysterectomy (TAH), bilateral salpingo-oophorectomy (BSO), washings, and underwent bilateral external and internal pelvic nodal dissection.\tAGE: 46
+
+A 66-year-old woman diagnosed with grade 3 endometrioid adenocarcinoma of the uterus. Surgical procedures included total abdominal hysterectomy (TAH), bilateral salpingo-oophorectomy (BSO), washings, and bilateral external and internal pelvic nodal dissection.\tAGE: 66
+
+60 yr old woman diagnosed with grade 1 endometrioid adenocarcinoma of the uterus. Underwent total abdominal hysterectomy (TAH), bilateral salpingo-oophorectomy (BSO), washings, and bilateral external and internal pelvic nodal dissection.\tAGE: 60
+
+44 yr old female with stage 2 endometrioid adenocarcinoma of the uterus. Had a total abdominal hysterectomy (TAH), bilateral salpingo-oophorectomy (BSO), washings, and underwent bilateral external and internal pelvic nodal dissection.\tAGE: 44
+
+A 73 yr old woman diagnosed with grade 3 endometrioid adenocarcinoma of the uterus. Surgical procedures included total abdominal hysterectomy (TAH), bilateral salpingo-oophorectomy (BSO), washings, and bilateral external and internal pelvic nodal dissection.\tAGE: 73
+
+52 yr old woman diagnosed with grade 2 endometrioid adenocarcinoma of the uterus. Underwent total abdominal hysterectomy (TAH), bilateral salpingo-oophorectomy (BSO), washings, and bilateral external and internal pelvic nodal dissection.\tAGE: 52
+
+53 yr old female with stage 1 endometrioid adenocarcinoma of the uterus. Had a total abdominal hysterectomy (TAH), bilateral salpingo-oophorectomy (BSO), washings, and underwent bilateral external and internal pelvic nodal dissection.\tAGE: 53
+
+A 65 yr old woman diagnosed with grade 3 endometrioid adenocarcinoma of the uterus. Surgical procedures included total abdominal hysterectomy (TAH), bilateral salpingo-oophorectomy (BSO), washings, and bilateral external and internal pelvic nodal dissection.\tAGE: 65
+
+
+60-year-old woman with grade 3 endometrioid adenocarcinoma of the uterus. TAH, BSO, washings, bilateral external and internal pelvic nodal dissection.\tAGE: 60
+
+55-year-old female diagnosed with grade 3 endometrioid adenocarcinoma of the uterus. Underwent total abdominal hysterectomy (TAH), bilateral salpingo-oophorectomy (BSO), washings, and bilateral external and internal pelvic nodal dissection.\tAGE: 55
+
+63-year-old woman with grade 3 endometrioid adenocarcinoma of the uterus. TAH, BSO, washings, and bilateral external and internal pelvic nodal dissection performed.\tAGE: 63
+
+51-year-old woman with grade 3 endometrioid adenocarcinoma of the uterus. TAH, BSO, washings, bilateral external and internal pelvic nodal dissection.\tAGE: 51
+
+68-year-old female diagnosed with grade 3 endometrioid adenocarcinoma of the uterus. Underwent total abdominal hysterectomy (TAH), bilateral salpingo-oophorectomy (BSO), washings, and bilateral external and internal pelvic nodal dissection.\tAGE: 68
+
+47-year-old woman with grade 3 endometrioid adenocarcinoma of the uterus. TAH, BSO, washings, and bilateral external and internal pelvic nodal dissection performed.\tAGE: 47
+
+64-year-old woman with grade 3 endometrioid adenocarcinoma of the uterus. TAH, BSO, washings, bilateral external and internal pelvic nodal dissection.\tAGE: 64
+
+53-year-old female diagnosed with grade 3 endometrioid adenocarcinoma of the uterus. Underwent total abdominal hysterectomy (TAH), bilateral salpingo-oophorectomy (BSO), washings, and bilateral external and internal pelvic nodal dissection.\tAGE: 53
+
+59-year-old woman with grade 3 endometrioid adenocarcinoma of the uterus. TAH, BSO, washings, and bilateral external and internal pelvic nodal dissection performed.\tAGE: 59
+
+49-year-old woman with grade 3 endometrioid adenocarcinoma of the uterus. TAH, BSO, washings, bilateral external and internal pelvic nodal dissection.\tAGE: 49
+
+70-year-old female diagnosed with grade 3 endometrioid adenocarcinoma of the uterus. Underwent total abdominal hysterectomy (TAH), bilateral salpingo-oophorectomy (BSO), washings, and bilateral external and internal pelvic nodal dissection.\tAGE: 70
+
+56-year-old woman with grade 3 endometrioid adenocarcinoma of the uterus. TAH, BSO, washings, and bilateral external and internal pelvic nodal dissection performed.\tAGE: 56
+
+46-year-old woman with grade 3 endometrioid adenocarcinoma of the uterus. TAH, BSO, washings, bilateral external and internal pelvic nodal dissection.\tAGE: 46
+
+71-year-old female diagnosed with grade 3 endometrioid adenocarcinoma of the uterus. Underwent total abdominal hysterectomy (TAH), bilateral salpingo-oophorectomy (BSO), washings, and bilateral external and internal pelvic nodal dissection.\tAGE: 71
+
+57-year-old woman with grade 3 endometrioid adenocarcinoma of the uterus. TAH, BSO, washings, and bilateral external and internal pelvic nodal dissection performed.\tAGE: 57
+
+52-year-old woman with grade 3 endometrioid adenocarcinoma of the uterus. TAH, BSO, washings, bilateral external and internal pelvic nodal dissection.\tAGE: 52
+
+67-year-old female diagnosed with grade 3 endometrioid adenocarcinoma of the uterus. Underwent total abdominal hysterectomy (TAH), bilateral salpingo-oophorectomy (BSO), washings, and bilateral external and internal pelvic nodal dissection.\tAGE: 67
+
+48-year-old woman with grade 3 endometrioid adenocarcinoma of the uterus. TAH, BSO, washings, and bilateral external and internal pelvic nodal dissection.\tAGE: 48
+
+65-year-old female diagnosed with grade 3 endometrioid adenocarcinoma of the uterus. Underwent total abdominal hysterectomy (TAH), bilateral salpingo-oophorectomy (BSO), washings, and bilateral external and internal pelvic nodal dissection.\tAGE: 65
+
+54-year-old woman with grade 3 endometrioid adenocarcinoma of the uterus. TAH, BSO, washings, and bilateral external and internal pelvic nodal dissection performed.\tAGE: 54
+
+61-year-old woman with grade 3 endometrioid adenocarcinoma of the uterus. TAH, BSO, washings, bilateral external and internal pelvic nodal dissection.\tAGE: 61
+
+50-year-old female diagnosed with grade 3 endometrioid adenocarcinoma of the uterus. Underwent total abdominal hysterectomy (TAH), bilateral salpingo-oophorectomy (BSO), washings, and bilateral external and internal pelvic nodal dissection.\tAGE: 50
+
+66-year-old woman with grade 3 endometrioid adenocarcinoma of the uterus. TAH, BSO, washings, and bilateral external and internal pelvic nodal dissection performed.\tAGE: 66
+
+55-year-old woman with grade 3 endometrioid adenocarcinoma of the uterus. TAH, BSO, washings, bilateral external and internal pelvic nodal dissection.\tAGE: 55
+
+69-year-old female diagnosed with grade 3 endometrioid adenocarcinoma of the uterus. Underwent total abdominal hysterectomy (TAH), bilateral salpingo-oophorectomy (BSO), washings, and bilateral external and internal pelvic nodal dissection.\tAGE: 69
+
+53-year-old woman with grade 3 endometrioid adenocarcinoma of the uterus. TAH, BSO, washings, and bilateral external and internal pelvic nodal dissection performed.\tAGE: 53
+
+62-year-old woman with grade 3 endometrioid adenocarcinoma of the uterus. TAH, BSO, washings, bilateral external and internal pelvic nodal dissection.\tAGE: 62
+
+
+45yo female presenting with abdominal pain. Recent gastroscopy revealed no abnormalities. However, a CT scan identified a sizable soft tissue mass in the greater curvature of the stomach, with a possible peritoneal nodule. Laparoscopy is planned for a diagnostic evaluation, suspecting a gastrointestinal stromal tumor (GIST). Notably, a large GIST is suspected to originate from the stomach. Pre-operative PET scan indicates no masses on the diaphragm's right side, only the presence of adhesions between the right diaphragm and the liver.\tAGE: 45
+
+A 50yo female complained of abdominal pain. Gastroscopy results were normal, but a subsequent CT scan revealed a significant soft tissue mass in the greater curvature of the stomach, along with a potential peritoneal nodule. Laparoscopy is scheduled for a diagnostic exploration, suspecting a gastrointestinal stromal tumor (GIST). The examination suggests a large GIST arising from the stomach. A pre-operative PET scan shows no masses on the right diaphragm, only adhesions between the right diaphragm and the liver.\tAGE: 50
+
+A 55yo woman presented with a history of abdominal pain. Gastroscopy showed no abnormalities, but a CT scan detected a substantial soft tissue mass in the greater curvature of the stomach, along with a possible peritoneal nodule. Laparoscopy is planned to confirm the diagnosis, with suspicions leaning towards a gastrointestinal stromal tumor (GIST). The examination indicates a sizable GIST originating from the stomach. Pre-operative PET scan results show no masses on the right diaphragm, only adhesions between the right diaphragm and the liver.\tAGE: 55
+
+38yo female presenting with abdominal pain. Recent gastroscopy revealed no abnormalities. However, a CT scan identified a sizable soft tissue mass in the greater curvature of the stomach, with a possible peritoneal nodule. Laparoscopy is planned for a diagnostic evaluation, suspecting a gastrointestinal stromal tumor (GIST). Notably, a large GIST is suspected to originate from the stomach. Pre-operative PET scan indicates no masses on the diaphragm's right side, only the presence of adhesions between the right diaphragm and the liver.\tAGE: 38
+
+A 42yo female complained of abdominal pain. Gastroscopy results were normal, but a subsequent CT scan revealed a significant soft tissue mass in the greater curvature of the stomach, along with a potential peritoneal nodule. Laparoscopy is scheduled for a diagnostic exploration, suspecting a gastrointestinal stromal tumor (GIST). The examination suggests a large GIST arising from the stomach. A pre-operative PET scan shows no masses on the right diaphragm, only adhesions between the right diaphragm and the liver.\tAGE: 42
+
+A 55yo woman presented with a history of abdominal pain. Gastroscopy showed no abnormalities, but a CT scan detected a substantial soft tissue mass in the greater curvature of the stomach, along with a possible peritoneal nodule. Laparoscopy is planned to confirm the diagnosis, with suspicions leaning towards a gastrointestinal stromal tumor (GIST). The examination indicates a sizable GIST originating from the stomach. Pre-operative PET scan results show no masses on the right diaphragm, only adhesions between the right diaphragm and the liver.\tAGE: 55
+
+47yo female presenting with abdominal pain. Recent gastroscopy revealed no abnormalities. However, a CT scan identified a sizable soft tissue mass in the greater curvature of the stomach, with a possible peritoneal nodule. Laparoscopy is planned for a diagnostic evaluation, suspecting a gastrointestinal stromal tumor (GIST). Notably, a large GIST is suspected to originate from the stomach. Pre-operative PET scan indicates no masses on the diaphragm's right side, only the presence of adhesions between the right diaphragm and the liver.\tAGE: 47
+
+A 60yo female complained of abdominal pain. Gastroscopy results were normal, but a subsequent CT scan revealed a significant soft tissue mass in the greater curvature of the stomach, along with a potential peritoneal nodule. Laparoscopy is scheduled for a diagnostic exploration, suspecting a gastrointestinal stromal tumor (GIST). The examination suggests a large GIST arising from the stomach. A pre-operative PET scan shows no masses on the right diaphragm, only adhesions between the right diaphragm and the liver.\tAGE: 60
+
+A 51yo woman presented with a history of abdominal pain. Gastroscopy showed no abnormalities, but a CT scan detected a substantial soft tissue mass in the greater curvature of the stomach, along with a possible peritoneal nodule. Laparoscopy is planned to confirm the diagnosis, with suspicions leaning towards a gastrointestinal stromal tumor (GIST). The examination indicates a sizable GIST originating from the stomach. Pre-operative PET scan results show no masses on the right diaphragm, only adhesions between the right diaphragm and the liver.\tAGE: 51
+
+43yo female presenting with abdominal pain. Recent gastroscopy revealed no abnormalities. However, a CT scan identified a sizable soft tissue mass in the greater curvature of the stomach, with a possible peritoneal nodule. Laparoscopy is planned for a diagnostic evaluation, suspecting a gastrointestinal stromal tumor (GIST). Notably, a large GIST is suspected to originate from the stomach. Pre-operative PET scan indicates no masses on the diaphragm's right side, only the presence of adhesions between the right diaphragm and the liver.\tAGE: 43
+
+A 55yo female complained of abdominal pain. Gastroscopy results were normal, but a subsequent CT scan revealed a significant soft tissue mass in the greater curvature of the stomach, along with a potential peritoneal nodule. Laparoscopy is scheduled for a diagnostic exploration, suspecting a gastrointestinal stromal tumor (GIST). The examination suggests a large GIST arising from the stomach. A pre-operative PET scan shows no masses on the right diaphragm, only adhesions between the right diaphragm and the liver.\tAGE: 55
+
+A 49yo woman presented with a history of abdominal pain. Gastroscopy showed no abnormalities, but a CT scan detected a substantial soft tissue mass in the greater curvature of the stomach, along with a possible peritoneal nodule. Laparoscopy is planned to confirm the diagnosis, with suspicions leaning towards a gastrointestinal stromal tumor (GIST). The examination indicates a sizable GIST originating from the stomach. Pre-operative PET scan results show no masses on the right diaphragm, only adhesions between the right diaphragm and the liver.\tAGE: 49
+
+35yo female presenting with abdominal pain. Recent gastroscopy revealed no abnormalities. However, a CT scan identified a sizable soft tissue mass in the greater curvature of the stomach, with a possible peritoneal nodule. Laparoscopy is planned for a diagnostic evaluation, suspecting a gastrointestinal stromal tumor (GIST). Notably, a large GIST is suspected to originate from the stomach. Pre-operative PET scan indicates no masses on the diaphragm's right side, only the presence of adhesions between the right diaphragm and the liver.\tAGE: 35
+
+A 41yo female complained of abdominal pain. Gastroscopy results were normal, but a subsequent CT scan revealed a significant soft tissue mass in the greater curvature of the stomach, along with a potential peritoneal nodule. Laparoscopy is scheduled for a diagnostic exploration, suspecting a gastrointestinal stromal tumor (GIST). The examination suggests a large GIST arising from the stomach. A pre-operative PET scan shows no masses on the right diaphragm, only adhesions between the right diaphragm and the liver.\tAGE: 41
+
+A 56yo woman presented with a history of abdominal pain. Gastroscopy showed no abnormalities, but a CT scan detected a substantial soft tissue mass in the greater curvature of the stomach, along with a possible peritoneal nodule. Laparoscopy is planned to confirm the diagnosis, with suspicions leaning towards a gastrointestinal stromal tumor (GIST). The examination indicates a sizable GIST originating from the stomach. Pre-operative PET scan results show no masses on the right diaphragm, only adhesions between the right diaphragm and the liver.\tAGE: 56
+
+40yo female presenting with abdominal pain. Recent gastroscopy revealed no abnormalities. However, a CT scan identified a sizable soft tissue mass in the greater curvature of the stomach, with a possible peritoneal nodule. Laparoscopy is planned for a diagnostic evaluation, suspecting a gastrointestinal stromal tumor (GIST). Notably, a large GIST is suspected to originate from the stomach. Pre-operative PET scan indicates no masses on the diaphragm's right side, only the presence of adhesions between the right diaphragm and the liver.\tAGE: 40
+
+A 48yo female complained of abdominal pain. Gastroscopy results were normal, but a subsequent CT scan revealed a significant soft tissue mass in the greater curvature of the stomach, along with a potential peritoneal nodule. Laparoscopy is scheduled for a diagnostic exploration, suspecting a gastrointestinal stromal tumor (GIST). The examination suggests a large GIST arising from the stomach. A pre-operative PET scan shows no masses on the right diaphragm, only adhesions between the right diaphragm and the liver.\tAGE: 48
+
+A 58yo woman presented with a history of abdominal pain. Gastroscopy showed no abnormalities, but a CT scan detected a substantial soft tissue mass in the greater curvature of the stomach, along with a possible peritoneal nodule. Laparoscopy is planned to confirm the diagnosis, with suspicions leaning towards a gastrointestinal stromal tumor (GIST). The examination indicates a sizable GIST originating from the stomach. Pre-operative PET scan results show no masses on the right diaphragm, only adhesions between the right diaphragm and the liver.\tAGE: 58
+
+55yo female presenting with abdominal pain. Recent gastroscopy revealed no abnormalities. However, a CT scan identified a sizable soft tissue mass in the greater curvature of the stomach, with a possible peritoneal nodule. Laparoscopy is planned for a diagnostic evaluation, suspecting a gastrointestinal stromal tumor (GIST). Notably, a large GIST is suspected to originate from the stomach. Pre-operative PET scan indicates no masses on the diaphragm's right side, only the presence of adhesions between the right diaphragm and the liver.\tAGE: 55
+
+A 37yo female complained of abdominal pain. Gastroscopy results were normal, but a subsequent CT scan revealed a significant soft tissue mass in the greater curvature of the stomach, along with a potential peritoneal nodule. Laparoscopy is scheduled for a diagnostic exploration, suspecting a gastrointestinal stromal tumor (GIST). The examination suggests a large GIST arising from the stomach. A pre-operative PET scan shows no masses on the right diaphragm, only adhesions between the right diaphragm and the liver.\tAGE: 37
+
+A 46yo woman presented with a history of abdominal pain. Gastroscopy showed no abnormalities, but a CT scan detected a substantial soft tissue mass in the greater curvature of the stomach, along with a possible peritoneal nodule. Laparoscopy is planned to confirm the diagnosis, with suspicions leaning towards a gastrointestinal stromal tumor (GIST). The examination indicates a sizable GIST originating from the stomach. Pre-operative PET scan results show no masses on the right diaphragm, only adhesions between the right diaphragm and the liver.\tAGE: 46
+
+42yo female presenting with abdominal pain. Recent gastroscopy revealed no abnormalities. However, a CT scan identified a sizable soft tissue mass in the greater curvature of the stomach, with a possible peritoneal nodule. Laparoscopy is planned for a diagnostic evaluation, suspecting a gastrointestinal stromal tumor (GIST). Notably, a large GIST is suspected to originate from the stomach. Pre-operative PET scan indicates no masses on the diaphragm's right side, only the presence of adhesions between the right diaphragm and the liver.\tAGE: 42
+
+A 50yo female complained of abdominal pain. Gastroscopy results were normal, but a subsequent CT scan revealed a significant soft tissue mass in the greater curvature of the stomach, along with a potential peritoneal nodule. Laparoscopy is scheduled for a diagnostic exploration, suspecting a gastrointestinal stromal tumor (GIST). The examination suggests a large GIST arising from the stomach. A pre-operative PET scan shows no masses on the right diaphragm, only adhesions between the right diaphragm and the liver.\tAGE: 50
+
+A 59yo woman presented with a history of abdominal pain. Gastroscopy showed no abnormalities, but a CT scan detected a substantial soft tissue mass in the greater curvature of the stomach, along with a possible peritoneal nodule. Laparoscopy is planned to confirm the diagnosis, with suspicions leaning towards a gastrointestinal stromal tumor (GIST). The examination indicates a sizable GIST originating from the stomach. Pre-operative PET scan results show no masses on the right diaphragm, only adhesions between the right diaphragm and the liver.\tAGE: 59
+
+44yo female presenting with abdominal pain. Recent gastroscopy revealed no abnormalities. However, a CT scan identified a sizable soft tissue mass in the greater curvature of the stomach, with a possible peritoneal nodule. Laparoscopy is planned for a diagnostic evaluation, suspecting a gastrointestinal stromal tumor (GIST). Notably, a large GIST is suspected to originate from the stomach. Pre-operative PET scan indicates no masses on the diaphragm's right side, only the presence of adhesions between the right diaphragm and the liver.\tAGE: 44
+
+A 52yo female complained of abdominal pain. Gastroscopy results were normal, but a subsequent CT scan revealed a significant soft tissue mass in the greater curvature of the stomach, along with a potential peritoneal nodule. Laparoscopy is scheduled for a diagnostic exploration, suspecting a gastrointestinal stromal tumor (GIST). The examination suggests a large GIST arising from the stomach. A pre-operative PET scan shows no masses on the right diaphragm, only adhesions between the right diaphragm and the liver.\tAGE: 52
+
+A 54yo woman presented with a history of abdominal pain. Gastroscopy showed no abnormalities, but a CT scan detected a substantial soft tissue mass in the greater curvature of the stomach, along with a possible peritoneal nodule. Laparoscopy is planned to confirm the diagnosis, with suspicions leaning towards a gastrointestinal stromal tumor (GIST). The examination indicates a sizable GIST originating from the stomach. Pre-operative PET scan results show no masses on the right diaphragm, only adhesions between the right diaphragm and the liver.\tAGE: 54
+
+36yo female presenting with abdominal pain. Recent gastroscopy revealed no abnormalities. However, a CT scan identified a sizable soft tissue mass in the greater curvature of the stomach, with a possible peritoneal nodule. Laparoscopy is planned for a diagnostic evaluation, suspecting a gastrointestinal stromal tumor (GIST). Notably, a large GIST is suspected to originate from the stomach. Pre-operative PET scan indicates no masses on the diaphragm's right side, only the presence of adhesions between the right diaphragm and the liver.\tAGE: 36
+
+A 49yo female complained of abdominal pain. Gastroscopy results were normal, but a subsequent CT scan revealed a significant soft tissue mass in the greater curvature of the stomach, along with a potential peritoneal nodule. Laparoscopy is scheduled for a diagnostic exploration, suspecting a gastrointestinal stromal tumor (GIST). The examination suggests a large GIST arising from the stomach. A pre-operative PET scan shows no masses on the right diaphragm, only adhesions between the right diaphragm and the liver.\tAGE: 49
+
+A 53yo woman presented with a history of abdominal pain. Gastroscopy showed no abnormalities, but a CT scan detected a substantial soft tissue mass in the greater curvature of the stomach, along with a possible peritoneal nodule. Laparoscopy is planned to confirm the diagnosis, with suspicions leaning towards a gastrointestinal stromal tumor (GIST). The examination indicates a sizable GIST originating from the stomach. Pre-operative PET scan results show no masses on the right diaphragm, only adhesions between the right diaphragm and the liver.\tAGE: 53
+
+
+42 year old woman with a history of endometrial cancer, TAH done, refused BSO and nodal dissection. Large fibroid uterus. Endometrial cancer. Menorrhagia. Type 2 DM. Obesity. Hypertension.\tAGE: 42
+
+A 55 year old patient diagnosed with endometrial cancer, underwent total abdominal hysterectomy (TAH) but declined bilateral salpingo-oophorectomy (BSO) and nodal dissection. She presents with a large fibroid uterus, persistent menorrhagia, and manages comorbidities including type 2 diabetes, obesity, and hypertension.\tAGE: 55
+
+39 year old with a history of endometrial cancer, who had a total abdominal hysterectomy (TAH) and declined bilateral salpingo-oophorectomy (BSO) and nodal dissection. She is dealing with a large fibroid uterus, ongoing menorrhagia, and managing type 2 diabetes, obesity, and hypertension.\tAGE: 39
+
+48 year old woman with a history of endometrial cancer, TAH done, refused BSO and nodal dissection. Large fibroid uterus. Endometrial cancer. Menorrhagia. Type 2 DM. Obesity. Hypertension.\tAGE: 48
+
+A 61 year old patient diagnosed with endometrial cancer, underwent total abdominal hysterectomy (TAH) but declined bilateral salpingo-oophorectomy (BSO) and nodal dissection. She presents with a large fibroid uterus, persistent menorrhagia, and manages comorbidities including type 2 diabetes, obesity, and hypertension.\tAGE: 61
+
+37 year old with a history of endometrial cancer, who had a total abdominal hysterectomy (TAH) and declined bilateral salpingo-oophorectomy (BSO) and nodal dissection. She is dealing with a large fibroid uterus, ongoing menorrhagia, and managing type 2 diabetes, obesity, and hypertension.\tAGE: 37
+
+50 year old woman with a history of endometrial cancer, TAH done, refused BSO and nodal dissection. Large fibroid uterus. Endometrial cancer. Menorrhagia. Type 2 DM. Obesity. Hypertension.\tAGE: 50
+
+A 44 year old patient diagnosed with endometrial cancer, underwent total abdominal hysterectomy (TAH) but declined bilateral salpingo-oophorectomy (BSO) and nodal dissection. She presents with a large fibroid uterus, persistent menorrhagia, and manages comorbidities including type 2 diabetes, obesity, and hypertension.\tAGE: 44
+
+53 year old with a history of endometrial cancer, who had a total abdominal hysterectomy (TAH) and declined bilateral salpingo-oophorectomy (BSO) and nodal dissection. She is dealing with a large fibroid uterus, ongoing menorrhagia, and managing type 2 diabetes, obesity, and hypertension.\tAGE: 53
+
+46 year old woman with a history of endometrial cancer, TAH done, refused BSO and nodal dissection. Large fibroid uterus. Endometrial cancer. Menorrhagia. Type 2 DM. Obesity. Hypertension.\tAGE: 46
+
+A 59 year old patient diagnosed with endometrial cancer, underwent total abdominal hysterectomy (TAH) but declined bilateral salpingo-oophorectomy (BSO) and nodal dissection. She presents with a large fibroid uterus, persistent menorrhagia, and manages comorbidities including type 2 diabetes, obesity, and hypertension.\tAGE: 59
+
+36 year old with a history of endometrial cancer, who had a total abdominal hysterectomy (TAH) and declined bilateral salpingo-oophorectomy (BSO) and nodal dissection. She is dealing with a large fibroid uterus, ongoing menorrhagia, and managing type 2 diabetes, obesity, and hypertension.\tAGE: 36
+
+49 year old woman with a history of endometrial cancer, TAH done, refused BSO and nodal dissection. Large fibroid uterus. Endometrial cancer. Menorrhagia. Type 2 DM. Obesity. Hypertension.\tAGE: 49
+
+A 58 year old patient diagnosed with endometrial cancer, underwent total abdominal hysterectomy (TAH) but declined bilateral salpingo-oophorectomy (BSO) and nodal dissection. She presents with a large fibroid uterus, persistent menorrhagia, and manages comorbidities including type 2 diabetes, obesity, and hypertension.\tAGE: 58
+
+41 year old with a history of endometrial cancer, who had a total abdominal hysterectomy (TAH) and declined bilateral salpingo-oophorectomy (BSO) and nodal dissection. She is dealing with a large fibroid uterus, ongoing menorrhagia, and managing type 2 diabetes, obesity, and hypertension.\tAGE: 41
+
+52 year old woman with a history of endometrial cancer, TAH done, refused BSO and nodal dissection. Large fibroid uterus. Endometrial cancer. Menorrhagia. Type 2 DM. Obesity. Hypertension.\tAGE: 52
+
+A 43 year old patient diagnosed with endometrial cancer, underwent total abdominal hysterectomy (TAH) but declined bilateral salpingo-oophorectomy (BSO) and nodal dissection. She presents with a large fibroid uterus, persistent menorrhagia, and manages comorbidities including type 2 diabetes, obesity, and hypertension.\tAGE: 43
+
+56 year old with a history of endometrial cancer, who had a total abdominal hysterectomy (TAH) and declined bilateral salpingo-oophorectomy (BSO) and nodal dissection. She is dealing with a large fibroid uterus, ongoing menorrhagia, and managing type 2 diabetes, obesity, and hypertension.\tAGE: 56
+
+40 year old woman with a history of endometrial cancer, TAH done, refused BSO and nodal dissection. Large fibroid uterus. Endometrial cancer. Menorrhagia. Type 2 DM. Obesity. Hypertension.\tAGE: 40
+
+A 57 year old patient diagnosed with endometrial cancer, underwent total abdominal hysterectomy (TAH) but declined bilateral salpingo-oophorectomy (BSO) and nodal dissection. She presents with a large fibroid uterus, persistent menorrhagia, and manages comorbidities including type 2 diabetes, obesity, and hypertension.\tAGE: 57
+
+35 year old with a history of endometrial cancer, who had a total abdominal hysterectomy (TAH) and declined bilateral salpingo-oophorectomy (BSO) and nodal dissection. She is dealing with a large fibroid uterus, ongoing menorrhagia, and managing type 2 diabetes, obesity, and hypertension.\tAGE: 35
+
+51 year old woman with a history of endometrial cancer, TAH done, refused BSO and nodal dissection. Large fibroid uterus. Endometrial cancer. Menorrhagia. Type 2 DM. Obesity. Hypertension.\tAGE: 51
+
+A 45 year old patient diagnosed with endometrial cancer, underwent total abdominal hysterectomy (TAH) but declined bilateral salpingo-oophorectomy (BSO) and nodal dissection. She presents with a large fibroid uterus, persistent menorrhagia, and manages comorbidities including type 2 diabetes, obesity, and hypertension.\tAGE: 45
+
+54 year old with a history of endometrial cancer, who had a total abdominal hysterectomy (TAH) and declined bilateral salpingo-oophorectomy (BSO) and nodal dissection. She is dealing with a large fibroid uterus, ongoing menorrhagia, and managing type 2 diabetes, obesity, and hypertension.\tAGE: 54
+
+47 year old woman with a history of endometrial cancer, TAH done, refused BSO and nodal dissection. Large fibroid uterus. Endometrial cancer. Menorrhagia. Type 2 DM. Obesity. Hypertension.\tAGE: 47
+
+A 62 year old patient diagnosed with endometrial cancer, underwent total abdominal hysterectomy (TAH) but declined bilateral salpingo-oophorectomy (BSO) and nodal dissection. She presents with a large fibroid uterus, persistent menorrhagia, and manages comorbidities including type 2 diabetes, obesity, and hypertension.\tAGE: 62
+
+38 year old with a history of endometrial cancer, who had a total abdominal hysterectomy (TAH) and declined bilateral salpingo-oophorectomy (BSO) and nodal dissection. She is dealing with a large fibroid uterus, ongoing menorrhagia, and managing type 2 diabetes, obesity, and hypertension.\tAGE: 38
+
+49 year old woman with a history of endometrial cancer, TAH done, refused BSO and nodal dissection. Large fibroid uterus. Endometrial cancer. Menorrhagia. Type 2 DM. Obesity. Hypertension.\tAGE: 49
+
+A 58 year old patient diagnosed with endometrial cancer, underwent total abdominal hysterectomy (TAH) but declined bilateral salpingo-oophorectomy (BSO) and nodal dissection. She presents with a large fibroid uterus, persistent menorrhagia, and manages comorbidities including type 2 diabetes, obesity, and hypertension.\tAGE: 58
+
+43 year old with a history of endometrial cancer, who had a total abdominal hysterectomy (TAH) and declined bilateral salpingo-oophorectomy (BSO) and nodal dissection. She is dealing with a large fibroid uterus, ongoing menorrhagia, and managing type 2 diabetes, obesity, and hypertension.\tAGE: 43
+
+
+45 year old man with liver cyst and elevated AFP. Hypertension. Anxiety disorder. Renal cyst.\tAGE: 45
+
+60 year old woman with lung nodule and elevated CEA. Type 2 diabetes. Major depressive disorder. Adrenal mass.\tAGE: 60
+
+55 year old male with pancreatic mass and elevated CA 19-9. Hyperlipidemia. Bipolar disorder. Splenic cyst.\tAGE: 55
+
+70 year old woman with ovarian mass and elevated CA 125. Osteoporosis. Generalized anxiety disorder. Endometrial polyp.\tAGE: 70
+
+58 year old man with thyroid nodule and elevated TSH. Coronary artery disease. Obsessive-compulsive disorder. Parathyroid adenoma.\tAGE: 58
+
+68 year old female with breast mass and elevated CA 15-3. Osteoarthritis. Panic disorder. Thyroid cyst.\tAGE: 68
+
+75 year old man with prostate mass and elevated PSA. Chronic obstructive pulmonary disease. Post-traumatic stress disorder. Renal cyst.\tAGE: 75
+
+53 year old woman with renal mass and elevated EPO. Rheumatoid arthritis. Social anxiety disorder. Liver cyst.\tAGE: 53
+
+62 year old male with colorectal mass and elevated CEA. Hypothyroidism. Generalized anxiety disorder. Splenic cyst.\tAGE: 62
+
+48 year old woman with adrenal mass and elevated metanephrines. Migraine. Major depressive disorder. Pancreatic cyst.\tAGE: 48
+
+67 year old man with bladder mass and elevated NMP22. Atrial fibrillation. Post-traumatic stress disorder. Renal cyst.\tAGE: 67
+
+56 year old female with esophageal mass and elevated CEA. Type 2 diabetes. Panic disorder. Liver cyst.\tAGE: 56
+
+72 year old woman with gastric mass and elevated CA 19-9. Osteoporosis. Generalized anxiety disorder. Renal cyst.\tAGE: 72
+
+50 year old man with testicular mass and elevated AFP. Hypertension. Obsessive-compulsive disorder. Thyroid nodule.\tAGE: 50
+
+64 year old woman with adrenal mass and elevated metanephrines. Rheumatoid arthritis. Panic disorder. Splenic cyst.\tAGE: 64
+
+55 year old male with renal mass and elevated EPO. Hyperlipidemia. Major depressive disorder. Liver cyst.\tAGE: 55
+
+78 year old woman with pancreatic mass and elevated CA 19-9. Coronary artery disease. Social anxiety disorder. Renal cyst.\tAGE: 78
+
+58 year old woman with ovarian mass and elevated CA 125. Osteoarthritis. Panic disorder. Thyroid nodule.\tAGE: 58
+
+63 year old man with colorectal mass and elevated CEA. Chronic obstructive pulmonary disease. Generalized anxiety disorder. Splenic cyst.\tAGE: 63
+
+47 year old female with lung nodule and elevated CEA. Hypothyroidism. Major depressive disorder. Liver cyst.\tAGE: 47
+
+68 year old man with liver cyst and elevated AFP. Migraine. Obsessive-compulsive disorder. Renal mass.\tAGE: 68
+
+59 year old woman with thyroid nodule and elevated TSH. Atrial fibrillation. Panic disorder. Splenic cyst.\tAGE: 59
+
+74 year old male with prostate mass and elevated PSA. Type 2 diabetes. Social anxiety disorder. Renal cyst.\tAGE: 74
+
+51 year old woman with breast mass and elevated CA 15-3. Rheumatoid arthritis. Major depressive disorder. Thyroid nodule.\tAGE: 51
+
+66 year old man with bladder mass and elevated NMP22. Osteoporosis. Panic disorder. Renal cyst.\tAGE: 66
+
+49 year old female with esophageal mass and elevated CEA. Hyperlipidemia. Obsessive-compulsive disorder. Liver cyst.\tAGE: 49
+
+71 year old woman with gastric mass and elevated CA 19-9. Hypertension. Generalized anxiety disorder. Renal cyst.\tAGE: 71
+
+54 year old man with testicular mass and elevated AFP. Osteoarthritis. Post-traumatic stress disorder. Thyroid nodule.\tAGE: 54
+
+65 year old woman with adrenal mass and elevated metanephrines. Coronary artery disease. Panic disorder. Splenic cyst.\tAGE: 65
+
+53 year old male with renal mass and elevated EPO. Atrial fibrillation. Major depressive disorder. Liver cyst.\tAGE: 53
+
+
+45yo male with a history of chest pain. Echocardiogram (N). CT - small nodule in the left lung + ?pleural effusion. Thoracoscopy for dx ?lung cancer. Small ?lung cancer in the left lung. Pre-op PET ?2' on mediastinum: No mass seen, just adhesions between mediastinum + heart.\tAGE: 45
+
+55yo female with hx joint pain. X-ray (N). MRI - large cyst in the knee joint + ?synovial thickening. Arthroscopy for dx ?osteoarthritis. Large ?osteoarthritis cyst in the knee. Pre-op CT ?2' on adjacent bones: No mass seen, just adhesions between bones + joint.\tAGE: 55
+
+68yo male with hx vision problems. Eye exam (N). MRI - small lesion in optic nerve + ?retinal detachment. Ophthalmoscopy for dx ?optic nerve tumor. Small ?optic nerve tumor. Pre-op ultrasound ?2' on eye structures: No mass seen, just adhesions between eye structures.\tAGE: 68
+
+37yo female with hx migraines. Neurological exam (N). MRI - small lesion in the brain + ?vascular malformation. Craniotomy for dx ?brain tumor. Small ?brain tumor identified. Pre-op angiogram ?2' on blood vessels: No mass seen, just adhesions between blood vessels + brain.\tAGE: 37
+
+60yo male with hx back pain. Spinal X-ray (N). MRI - herniated disc in the lumbar spine + ?nerve compression. Discectomy for dx ?disc herniation. Herniated disc in the lumbar spine. Pre-op nerve conduction study ?2' on affected nerves: No mass seen, just adhesions between nerves + disc.\tAGE: 60
+
+42yo female with hx respiratory issues. Pulmonary function test (N). CT - small nodule in the lung + ?pleural thickening. Thoracoscopy for dx ?lung disease. Small ?lung disease nodule identified. Pre-op bronchoscopy ?2' on airways: No mass seen, just adhesions between airways + lung.\tAGE: 42
+
+55yo male with hx digestive problems. Endoscopy (N). CT - enlarged lymph nodes in the abdomen + ?intestinal mass. Laparoscopy for dx ?gastrointestinal cancer. Enlarged ?gastrointestinal cancer mass found. Pre-op colonoscopy ?2' on colon: No mass seen, just adhesions between colon + mass.\tAGE: 55
+
+48yo female with hx skin lesions. Dermatological exam (N). Biopsy - small tumor in the skin + ?melanoma. Excision for dx ?skin cancer. Small ?skin cancer tumor identified. Pre-op skin imaging ?2' on adjacent tissues: No mass seen, just adhesions between tissues + skin.\tAGE: 48
+
+70yo male with hx heart palpitations. EKG (N). Echocardiogram - enlarged heart + ?valve regurgitation. Cardiac catheterization for dx ?cardiac disease. Enlarged ?cardiac disease identified. Pre-op stress test ?2' on heart: No mass seen, just adhesions between heart + surrounding structures.\tAGE: 70
+
+35yo female with hx urinary issues. Urological exam (N). CT - small mass in the bladder + ?calculi. Cystoscopy for dx ?bladder tumor. Small ?bladder tumor found. Pre-op kidney ultrasound ?2' on adjacent organs: No mass seen, just adhesions between organs + bladder.\tAGE: 35
+
+58yo male with hx hearing loss. Audiogram (N). MRI - small lesion in the auditory nerve + ?cochlear damage. Vestibular testing for dx ?hearing disorder. Small ?hearing disorder lesion identified. Pre-op CT ?2' on ear structures: No mass seen, just adhesions between ear structures + nerve.\tAGE: 58
+
+44yo female with hx reproductive concerns. Pelvic exam (N). Ultrasound - ovarian cyst + ?uterine fibroids. Laparoscopy for dx ?gynecological issues. Ovarian cyst + ?gynecological issues detected. Pre-op hysteroscopy ?2' on reproductive organs: No mass seen, just adhesions between organs + cyst.\tAGE: 44
+
+65yo male with hx balance problems. Neurological exam (N). MRI - small lesion in the cerebellum + ?vascular malformation. Craniotomy for dx ?brain disorder. Small ?brain disorder lesion found. Pre-op balance test ?2' on cerebellum: No mass seen, just adhesions between cerebellum + surrounding structures.\tAGE: 65
+
+39yo female with hx dental pain. Dental X-ray (N). CT - small abscess in the jaw + ?tooth infection. Oral surgery for dx ?dental abscess. Small ?dental abscess identified. Pre-op dental exam ?2' on affected area: No mass seen, just adhesions between affected area + surrounding tissues.\tAGE: 39
+
+72yo male with hx cognitive decline. Cognitive assessment (N). MRI - small atrophy in the brain + ?vascular dementia. Neurological testing for dx ?neurological disorder. Small ?neurological disorder atrophy detected. Pre-op memory test ?2' on brain: No mass seen, just adhesions between brain + surrounding structures.\tAGE: 72
+
+50yo female with hx weight loss. Nutritional assessment (N). CT - small mass in the liver + ?hepatitis. Liver biopsy for dx ?liver disease. Small ?liver disease mass found. Pre-op blood tests ?2' on liver function: No mass seen, just adhesions between liver + surrounding tissues.\tAGE: 50
+
+47yo male with hx eye discomfort. Eye exam (N). MRI - small lesion in the optic nerve + ?retinal detachment. Ophthalmoscopy for dx ?optic nerve disorder. Small ?optic nerve disorder lesion identified. Pre-op vision test ?2' on optic nerve: No mass seen, just adhesions between optic nerve + surrounding structures.\tAGE: 47
+
+60yo female with hx joint stiffness. X-ray (N). MRI - enlarged synovium in the knee + ?osteoarthritis. Arthroscopy for dx ?joint disorder. Enlarged ?joint disorder synovium detected. Pre-op mobility test ?2' on affected joint: No mass seen, just adhesions between joint + surrounding structures.\tAGE: 60
+
+55yo male with hx respiratory issues. Pulmonary function test (N). CT - small nodule in the lung + ?pleural thickening. Thoracoscopy for dx ?lung disorder. Small ?lung disorder nodule found. Pre-op bronchoscopy ?2' on airways: No mass seen, just adhesions between airways + lung.\tAGE: 55
+
+42yo female with hx digestive problems. Endoscopy (N). CT - enlarged lymph nodes in the abdomen + ?intestinal mass. Laparoscopy for dx ?gastrointestinal disorder. Enlarged ?gastrointestinal disorder mass identified. Pre-op colonoscopy ?2' on colon: No mass seen, just adhesions between colon + mass.\tAGE: 42
+
+65yo male with hx back pain. Spinal X-ray (N). MRI - herniated disc in the lumbar spine + ?nerve compression. Discectomy for dx ?disc disorder. Herniated disc in the lumbar spine. Pre-op nerve conduction study ?2' on affected nerves: No mass seen, just adhesions between nerves + disc.\tAGE: 65
+
+40yo female with hx respiratory issues. Pulmonary function test (N). CT - small nodule in the lung + ?pleural thickening. Thoracoscopy for dx ?lung disorder. Small ?lung disorder nodule identified. Pre-op bronchoscopy ?2' on airways: No mass seen, just adhesions between airways + lung.\tAGE: 40
+
+58yo male with hx digestive problems. Endoscopy (N). CT - enlarged lymph nodes in the abdomen + ?intestinal mass. Laparoscopy for dx ?gastrointestinal disorder. Enlarged ?gastrointestinal disorder mass identified. Pre-op colonoscopy ?2' on colon: No mass seen, just adhesions between colon + mass.\tAGE: 58
+
+43yo female with hx skin lesions. Dermatological exam (N). Biopsy - small tumor in the skin + ?melanoma. Excision for dx ?skin cancer. Small ?skin cancer tumor identified. Pre-op skin imaging ?2' on adjacent tissues: No mass seen, just adhesions between tissues + skin.\tAGE: 43
+
+72yo male with hx heart palpitations. EKG (N). Echocardiogram - enlarged heart + ?valve regurgitation. Cardiac catheterization for dx ?cardiac disorder. Enlarged ?cardiac disorder identified. Pre-op stress test ?2' on heart: No mass seen, just adhesions between heart + surrounding structures.\tAGE: 72
+
+38yo female with hx urinary issues. Urological exam (N). CT - small mass in the bladder + ?calculi. Cystoscopy for dx ?bladder tumor. Small ?bladder tumor found. Pre-op kidney ultrasound ?2' on adjacent organs: No mass seen, just adhesions between organs + bladder.\tAGE: 38
+
+62yo male with hx hearing loss. Audiogram (N). MRI - small lesion in the auditory nerve + ?cochlear damage. Vestibular testing for dx ?hearing disorder. Small ?hearing disorder lesion identified. Pre-op CT ?2' on ear structures: No mass seen, just adhesions between ear structures + nerve.\tAGE: 62
+
+45yo female with hx reproductive concerns. Pelvic exam (N). Ultrasound - ovarian cyst + ?uterine fibroids. Laparoscopy for dx ?gynecological issues. Ovarian cyst + ?gynecological issues detected. Pre-op hysteroscopy ?2' on reproductive organs: No mass seen, just adhesions between organs + cyst.\tAGE: 45
+
+68yo male with hx balance problems. Neurological exam (N). MRI - small lesion in the cerebellum + ?vascular malformation. Craniotomy for dx ?brain disorder. Small ?brain disorder lesion found. Pre-op balance test ?2' on cerebellum: No mass seen, just adhesions between cerebellum + surrounding structures.\tAGE: 68
+
+55yo female with hx dental pain. Dental X-ray (N). CT - small abscess in the jaw + ?tooth infection. Oral surgery for dx ?dental abscess. Small ?dental abscess identified. Pre-op dental exam ?2' on affected area: No mass seen, just adhesions between affected area + surrounding tissues.\tAGE: 55
+
+
+42yr old man with metastatic lung cancer and widespread pleural effusion.\tAGE: 42
+
+Diagnosed with aggressive breast cancer, a 38yr old woman with enlarged axillary lymph nodes.\tAGE: 38
+
+Prostate cancer patient, 64yr old, with extensive bone metastases and elevated PSA levels.\tAGE: 64
+
+Bulky mediastinal lymph nodes observed in a 50yr old man with stage III esophageal cancer.\tAGE: 50
+
+A man aged 30yr diagnosed with glioblastoma, demonstrating diffuse brain involvement.\tAGE: 30
+
+55yr old woman with advanced ovarian cancer and ascites accumulation.\tAGE: 55
+
+Non-Hodgkin lymphoma diagnosis in a 48yr old male, presenting with systemic lymphadenopathy.\tAGE: 48
+
+Aggressive gastric cancer observed in a 62yr old patient with peritoneal metastases.\tAGE: 62
+
+41yr old man with renal cell carcinoma and multiple renal masses.\tAGE: 41
+
+Thyroid cancer patient, 59yr old, exhibiting cervical lymph node enlargement.\tAGE: 59
+
+Stage IV pancreatic cancer in a 47yr old woman with liver and peritoneal metastases.\tAGE: 47
+
+Diagnosed with aggressive melanoma, a 33yr old man with widespread skin lesions.\tAGE: 33
+
+60yr old male with colorectal cancer and hepatic metastases.\tAGE: 60
+
+A woman aged 44yr with triple-negative breast cancer and palpable breast mass.\tAGE: 44
+
+53yr old man with squamous cell carcinoma of the lung and mediastinal involvement.\tAGE: 53
+
+Osteosarcoma diagnosis in a 35yr old patient with a primary tumor in the femur.\tAGE: 35
+
+49yr old woman with endometrial cancer and extensive invasion into surrounding tissues.\tAGE: 49
+
+Advanced bladder cancer observed in a 58yr old man with hematuria and urinary urgency.\tAGE: 58
+
+Non-small cell lung cancer in a 39yr old patient with a history of smoking.\tAGE: 39
+
+45yr old woman with Hodgkin lymphoma and palpable supraclavicular lymph nodes.\tAGE: 45
+
+Diagnosed with chronic myeloid leukemia, a 57yr old male with elevated white blood cell count.\tAGE: 57
+
+36yr old man with testicular cancer and retroperitoneal lymph node involvement.\tAGE: 36
+
+Aggressive pancreatic neuroendocrine tumor in a 51yr old patient with abdominal pain.\tAGE: 51
+
+54yr old woman with triple-positive breast cancer and positive hormone receptor status.\tAGE: 54
+
+Rectal cancer diagnosis in a 37yr old patient with perirectal fat infiltration.\tAGE: 37
+
+A man aged 56yr with esophageal adenocarcinoma and Barrett's esophagus history.\tAGE: 56
+
+43yr old woman with metastatic renal cell carcinoma and lung metastases.\tAGE: 43
+
+Diagnosed with diffuse large B-cell lymphoma, a 61yr old male with systemic symptoms.\tAGE: 61
+
+32yr old man with glioma and contrast-enhancing lesions on brain imaging.\tAGE: 32
+
+Ovarian cancer patient, 50yr old, with peritoneal carcinomatosis and CA-125 elevation.\tAGE: 50
+
+
+
+A 45yo woman with bilateral adnexal masses and enlarged inguinal lymph nodes, along with an elevated Ca125 level. Groin node FNAB confirms metastatic large cell carcinoma.\tAGE: 45
+
+An 55yo woman presents bilateral adnexal masses, enlarged inguinal lymph nodes, and an elevated Ca125 level. FNAB of groin nodes indicates metastatic large cell carcinoma.\tAGE: 55
+
+A 60yo woman diagnosed with bilateral adnexal masses, enlarged inguinal lymph nodes, and elevated Ca125 levels. FNAB of groin nodes reveals metastatic large cell carcinoma.\tAGE: 60
+
+An 70yo woman with bilateral adnexal masses and enlarged inguinal lymph nodes, accompanied by an elevated Ca125 level. FNAB of groin nodes confirms metastatic large cell carcinoma.\tAGE: 70
+
+A 75yo woman presents bilateral adnexal masses, enlarged inguinal lymph nodes, and an elevated Ca125 level. Groin node FNAB results point towards metastatic large cell carcinoma.\tAGE: 75
+
+A 62yo woman diagnosed with bilateral adnexal masses, enlarged inguinal lymph nodes, and elevated Ca125 levels. FNAB of groin nodes reveals metastatic large cell carcinoma.\tAGE: 62
+
+An 48yo woman with bilateral adnexal masses and enlarged inguinal lymph nodes, along with an elevated Ca125 level. Groin node FNAB confirms metastatic large cell carcinoma.\tAGE: 48
+
+A 53yo woman presents bilateral adnexal masses, enlarged inguinal lymph nodes, and an elevated Ca125 level. FNAB of groin nodes indicates metastatic large cell carcinoma.\tAGE: 53
+
+A 58yo woman diagnosed with bilateral adnexal masses, enlarged inguinal lymph nodes, and elevated Ca125 levels. FNAB of groin nodes reveals metastatic large cell carcinoma.\tAGE: 58
+
+An 80yo woman with bilateral adnexal masses and enlarged inguinal lymph nodes, accompanied by an elevated Ca125 level. FNAB of groin nodes confirms metastatic large cell carcinoma.\tAGE: 80
+
+A 50yo woman presents bilateral adnexal masses, enlarged inguinal lymph nodes, and an elevated Ca125 level. Groin node FNAB results point towards metastatic large cell carcinoma.\tAGE: 50
+
+A 67yo woman diagnosed with bilateral adnexal masses, enlarged inguinal lymph nodes, and elevated Ca125 levels. FNAB of groin nodes reveals metastatic large cell carcinoma.\tAGE: 67
+
+An 72yo woman with bilateral adnexal masses and enlarged inguinal lymph nodes, along with an elevated Ca125 level. Groin node FNAB confirms metastatic large cell carcinoma.\tAGE: 72
+
+A 55yo woman presents bilateral adnexal masses, enlarged inguinal lymph nodes, and an elevated Ca125 level. FNAB of groin nodes indicates metastatic large cell carcinoma.\tAGE: 55
+
+A 63yo woman diagnosed with bilateral adnexal masses, enlarged inguinal lymph nodes, and elevated Ca125 levels. FNAB of groin nodes reveals metastatic large cell carcinoma.\tAGE: 63
+
+An 47yo woman with bilateral adnexal masses and enlarged inguinal lymph nodes, accompanied by an elevated Ca125 level. FNAB of groin nodes confirms metastatic large cell carcinoma.\tAGE: 47
+
+A 59yo woman presents bilateral adnexal masses, enlarged inguinal lymph nodes, and an elevated Ca125 level. Groin node FNAB results point towards metastatic large cell carcinoma.\tAGE: 59
+
+A 64yo woman diagnosed with bilateral adnexal masses, enlarged inguinal lymph nodes, and elevated Ca125 levels. FNAB of groin nodes reveals metastatic large cell carcinoma.\tAGE: 64
+
+An 53yo woman with bilateral adnexal masses and enlarged inguinal lymph nodes, along with an elevated Ca125 level. Groin node FNAB confirms metastatic large cell carcinoma.\tAGE: 53
+
+A 76yo woman presents bilateral adnexal masses, enlarged inguinal lymph nodes, and an elevated Ca125 level. FNAB of groin nodes indicates metastatic large cell carcinoma.\tAGE: 76
+
+A 69yo woman diagnosed with bilateral adnexal masses, enlarged inguinal lymph nodes, and elevated Ca125 levels. FNAB of groin nodes reveals metastatic large cell carcinoma.\tAGE: 69
+
+An 49yo woman with bilateral adnexal masses and enlarged inguinal lymph nodes, accompanied by an elevated Ca125 level. FNAB of groin nodes confirms metastatic large cell carcinoma.\tAGE: 49
+
+A 56yo woman presents bilateral adnexal masses, enlarged inguinal lymph nodes, and an elevated Ca125 level. Groin node FNAB results point towards metastatic large cell carcinoma.\tAGE: 56
+
+A 61yo woman diagnosed with bilateral adnexal masses, enlarged inguinal lymph nodes, and elevated Ca125 levels. FNAB of groin nodes reveals metastatic large cell carcinoma.\tAGE: 61
+
+An 51yo woman with bilateral adnexal masses and enlarged inguinal lymph nodes, along with an elevated Ca125 level. Groin node FNAB confirms metastatic large cell carcinoma.\tAGE: 51
+
+A 74yo woman presents bilateral adnexal masses, enlarged inguinal lymph nodes, and an elevated Ca125 level. FNAB of groin nodes indicates metastatic large cell carcinoma.\tAGE: 74
+
+A 66yo woman diagnosed with bilateral adnexal masses, enlarged inguinal lymph nodes, and elevated Ca125 levels. FNAB of groin nodes reveals metastatic large cell carcinoma.\tAGE: 66
+
+An 46yo woman with bilateral adnexal masses and enlarged inguinal lymph nodes, accompanied by an elevated Ca125 level. FNAB of groin nodes confirms metastatic large cell carcinoma.\tAGE: 46
+
+A 57yo woman presents bilateral adnexal masses, enlarged inguinal lymph nodes, and an elevated Ca125 level. Groin node FNAB results point towards metastatic large cell carcinoma.\tAGE: 57
+
+A 78yo woman diagnosed with bilateral adnexal masses, enlarged inguinal lymph nodes, and elevated Ca125 levels. FNAB of groin nodes reveals metastatic large cell carcinoma.\tAGE: 78
+
+
+46 year old with bilateral complex ovarian masses, ascites, raised tumor markers, and liver lesions. A 3-week history of abdominal distension and a 10-day history of constipation. Sepsis and ascites and pleural effusions. At surgery, retroperitoneal bowel perf at sigmoid, likely primary sigmoid tumor.\tAGE: 46\nDURATION: 3 week=>P3W\nDURATION: 10 day=>P10D
+
+A 46-year-old patient presenting with bilateral complex ovarian masses, ascites, elevated tumor markers, and liver lesions. A 3-week history of abdominal distension and a 10-day history of constipation is reported. The presence of sepsis, ascites, and pleural effusions is noted. Surgical intervention reveals retroperitoneal bowel perforation at the sigmoid, suggesting a likely primary sigmoid tumor.\tAGE: 46\nDURATION: 3 week=>P3W\nDURATION: 10 day=>P10D
+
+Individual aged 46 with bilateral complex ovarian masses, ascites, increased tumor markers, and liver lesions. Reports a 3-week history of abdominal distension and a 10-day history of constipation. Sepsis, ascites, and pleural effusions are observed. Surgical findings indicate retroperitoneal bowel perforation at the sigmoid, pointing to a probable primary sigmoid tumor.\tAGE: 46\nDURATION: 3 week=>P3W\nDURATION: 10 day=>P10D
+
+42 year old with bilateral complex ovarian masses, ascites, raised tumor markers, liver lesions. A 3-week history of abdominal distension. 10-day history of constipation. Sepsis and ascites and pleural effusions. At surgery, retroperitoneal bowel perf at sigmoid, likely primary sigmoid tumor.\tAGE: 42\nDURATION: 3 week=>P3W\nDURATION: 10 day=>P10D
+
+25 year old with bilateral complex ovarian masses, ascites, raised tumor markers, and liver lesions. A 3-week history of abdominal distension. A 10-day history of constipation. Sepsis and ascites and pleural effusions. At surgery, retroperitoneal bowel perf at sigmoid, likely primary sigmoid tumor.\tAGE: 42\nDURATION: 3 week=>P3W\nDURATION: 10 day=>P10D
+
+33 year old presenting with bilateral complex ovarian masses, ascites, elevated tumor markers, and liver lesions. A 3-week history of abdominal distension and a 10-day history of constipation. The patient also exhibits sepsis, ascites, and pleural effusions. During surgery, retroperitoneal bowel perforation at the sigmoid is observed, suggesting a primary sigmoid tumor.\tAGE: 42\nDURATION: 3 week=>P3W\nDURATION: 10 day=>P10D
+
+36 year old individual diagnosed with bilateral complex ovarian masses, ascites, increased tumor markers, and liver lesions. The patient reports a 3-week history of abdominal distension and a 10-day history of constipation. Notably, the patient is experiencing sepsis, ascites, and pleural effusions. Surgical intervention reveals retroperitoneal bowel perforation at the sigmoid, indicating a likely primary sigmoid tumor.\tAGE: 36\nDURATION: 3 week=>P3W\nDURATION: 10 day=>P10D
+
+42 year old presenting with bilateral complex ovarian masses, ascites, elevated tumor markers, and liver lesions. A 3-week history of abdominal distension and a 10-day history of constipation. The patient also exhibits sepsis, ascites, and pleural effusions. During surgery, retroperitoneal bowel perforation at the sigmoid is observed, suggesting a primary sigmoid tumor.\tAGE: 42\nDURATION: 3 week=>P3W\nDURATION: 10 day=>P10D
+
+31 year old individual diagnosed with bilateral complex ovarian masses, ascites, increased tumor markers, and liver lesions. The patient reports a 3-week history of abdominal distension and a 10-day history of constipation. Notably, the patient is experiencing sepsis, ascites, and pleural effusions. Surgical intervention reveals retroperitoneal bowel perforation at the sigmoid, indicating a likely primary sigmoid tumor.\tAGE: 31\nDURATION: 3 week=>P3W\nDURATION: 10 day=>P10D
+
+29 year old presenting with bilateral complex ovarian masses, ascites, elevated tumor markers, and liver lesions. A 3-week history of abdominal distension and a 10-day history of constipation. The patient also exhibits sepsis, ascites, and pleural effusions. During surgery, retroperitoneal bowel perforation at the sigmoid is observed, suggesting a primary sigmoid tumor.\tAGE: 29\nDURATION: 3 week=>P3W\nDURATION: 10 day=>P10D
+
+38 year old individual diagnosed with bilateral complex ovarian masses, ascites, increased tumor markers, and liver lesions. The patient reports a 3-week history of abdominal distension and a 10-day history of constipation. Notably, the patient is experiencing sepsis, ascites, and pleural effusions. Surgical intervention reveals retroperitoneal bowel perforation at the sigmoid, indicating a likely primary sigmoid tumor.\tAGE: 38\nDURATION: 3 week=>P3W\nDURATION: 10 day=>P10D
+
+34 year old presenting with bilateral complex ovarian masses, ascites, elevated tumor markers, and liver lesions. A 3-week history of abdominal distension and a 10-day history of constipation. The patient also exhibits sepsis, ascites, and pleural effusions. During surgery, retroperitoneal bowel perforation at the sigmoid is observed, suggesting a primary sigmoid tumor.\tAGE: 34\nDURATION: 3 week=>P3W\nDURATION: 10 day=>P10D
+
+45 year old individual diagnosed with bilateral complex ovarian masses, ascites, increased tumor markers, and liver lesions. The patient reports a 3-week history of abdominal distension and a 10-day history of constipation. Notably, the patient is experiencing sepsis, ascites, and pleural effusions. Surgical intervention reveals retroperitoneal bowel perforation at the sigmoid, indicating a likely primary sigmoid tumor.\tAGE: 45\nDURATION: 3 week=>P3W\nDURATION: 10 day=>P10D
+
+30 year old presenting with bilateral complex ovarian masses, ascites, elevated tumor markers, and liver lesions. A 3-week history of abdominal distension and a 10-day history of constipation. The patient also exhibits sepsis, ascites, and pleural effusions. During surgery, retroperitoneal bowel perforation at the sigmoid is observed, suggesting a primary sigmoid tumor.\tAGE: 30\nDURATION: 3 week=>P3W\nDURATION: 10 day=>P10D
+
+
+M / 30 Slides of laparoscopic cholecystectomy for evaluation.\tAGE: 30
+
+M / 45 Slides of appendectomy surgery for consultation.\tAGE: 45
+
+F / 55 Slides of colon resection procedure for assessment.\tAGE: 55
+
+F / 28 Slides of hernia repair for expert opinion.\tAGE: 28
+
+M / 62 Slides of liver transplant operation for feedback.\tAGE: 62
+
+F / 40 Slides of breast biopsy for diagnostic scrutiny.\tAGE: 40
+
+M / 50 Slides of prostatectomy for expert analysis.\tAGE: 50
+
+F / 35 Slides of ovarian cystectomy for professional review.\tAGE: 35
+
+M / 48 Slides of thyroidectomy surgery for evaluation.\tAGE: 48
+
+F / 25 Slides of rhinoplasty for expert opinion.\tAGE: 25
+
+M / 55 Slides of hip replacement surgery for review.\tAGE: 55
+
+F / 42 Slides of mastectomy for diagnostic assessment.\tAGE: 42
+
+M / 38 Slides of spinal fusion for professional scrutiny.\tAGE: 38
+
+F / 60 Slides of knee arthroscopy for expert analysis.\tAGE: 60
+
+M / 32 Slides of cataract surgery for review.\tAGE: 32
+
+F / 46 Slides of myomectomy for diagnostic consultation.\tAGE: 46
+
+M / 29 Slides of vasectomy procedure for professional opinion.\tAGE: 29
+
+F / 52 Slides of rotator cuff repair for expert scrutiny.\tAGE: 52
+
+M / 44 Slides of carpal tunnel release for assessment.\tAGE: 44
+
+F / 33 Slides of endometrial ablation for diagnostic review.\tAGE: 33
+
+M / 58 Slides of lung lobectomy for professional opinion.\tAGE: 58
+
+F / 27 Slides of tonsillectomy surgery for expert analysis.\tAGE: 27
+
+M / 47 Slides of varicocelectomy for review.\tAGE: 47
+
+F / 36 Slides of septoplasty for diagnostic scrutiny.\tAGE: 36
+
+M / 53 Slides of ACL reconstruction for professional assessment.\tAGE: 53
+
+F / 31 Slides of blepharoplasty for expert review.\tAGE: 31
+
+M / 39 Slides of esophagectomy for evaluation.\tAGE: 39
+
+F / 49 Slides of dental implant surgery for opinion.\tAGE: 49
+
+M / 34 Slides of tubal ligation for diagnostic analysis.\tAGE: 34
+
+F / 56 Slides of tummy tuck procedure for professional scrutiny.\tAGE: 56
+
+M / 26 Slides of LASIK eye surgery for expert assessment.\tAGE: 26
+
+F / 41 Slides of lumpectomy for review.\tAGE: 41
+
+M / 54 Slides of gastric sleeve surgery for opinion.\tAGE: 54
+
+F / 37 Slides of wisdom tooth extraction for diagnostic analysis.\tAGE: 37
+
+M / 59 Slides of thoracotomy for professional scrutiny.\tAGE: 59
+
+F / 28 Slides of rhinoplasty for expert review.\tAGE: 28
+
+M / 43 Slides of prostatectomy for evaluation.\tAGE: 43
+
+F / 30 Slides of breast augmentation for opinion.\tAGE: 30
+
+M / 51 Slides of appendectomy surgery for professional scrutiny.\tAGE: 51
+
+F / 44 Slides of ovarian cystectomy for diagnostic analysis.\tAGE: 44
+
+M / 35 Slides of hip replacement surgery for review.\tAGE: 35
+
+F / 52 Slides of mastectomy for expert opinion.\tAGE: 52
+
+M / 38 Slides of spinal fusion for professional assessment.\tAGE: 38
+
+F / 61 Slides of knee arthroscopy for evaluation.\tAGE: 61
+
+M / 33 Slides of cataract surgery for diagnostic scrutiny.\tAGE: 33
+
+F / 47 Slides of myomectomy for professional review.\tAGE: 47
+
+M / 30 Slides of vasectomy procedure for expert analysis.\tAGE: 30
+
+F / 53 Slides of rotator cuff repair for opinion.\tAGE: 53
+
+M / 45 Slides of carpal tunnel release for professional scrutiny.\tAGE: 45
+
+F / 34 Slides of endometrial ablation for diagnostic assessment.\tAGE: 34
+
+M / 59 Slides of lung lobectomy for expert opinion.\tAGE: 59
+
+F / 28 Slides of tonsillectomy surgery for review.\tAGE: 28
+
+M / 46 Slides of varicocelectomy for evaluation.\tAGE: 46
+
+F / 36 Slides of septoplasty for professional scrutiny.\tAGE: 36
+
+M / 54 Slides of ACL reconstruction for expert review.\tAGE: 54
+
+F / 32 Slides of blepharoplasty for diagnostic analysis.\tAGE: 32
+
+M / 40 Slides of esophagectomy for professional scrutiny.\tAGE: 40
+
+F / 50 Slides of dental implant surgery for opinion.\tAGE: 50
+
+M / 31 Slides of tubal ligation for diagnostic analysis.\tAGE: 31
+
+F / 57 Slides of tummy tuck procedure for professional scrutiny.\tAGE: 57
+
+
+Previous pathology indicating metastatic adenocarcinoma.?1deg ovarian mass. 59 year old with metastatic adenocarcinoma from ascitic fluid - no primary identified as mentioned.\tAGE: 59
+
+Earlier cytological findings revealing metastatic adenocarcinoma.?1deg ovarian tumor. 68 year old diagnosed with metastatic adenocarcinoma from peritoneal effusion - no primary tumor specified.\tAGE: 68
+
+Prior pathology results showing metastatic adenocarcinoma.?1deg ovarian lesion. 62 year old with metastatic adenocarcinoma detected in peritoneal fluid - primary source unknown as described.\tAGE: 62
+
+Previous cytological examination indicating metastatic adenocarcinoma.?1deg ovarian neoplasm. 71 year old diagnosed with metastatic adenocarcinoma from peritoneal fluid - primary tumor not identified.\tAGE: 71
+
+Earlier pathology reports revealing metastatic adenocarcinoma.?1deg ovarian mass. 56 year old with metastatic adenocarcinoma from ascitic fluid - no primary tumor mentioned.\tAGE: 56
+
+Previous cytology results showing metastatic adenocarcinoma.?1deg ovarian tumor. 67 year old with metastatic adenocarcinoma in peritoneal fluid - primary origin not known as reported.\tAGE: 67
+
+Earlier pathology findings indicating metastatic adenocarcinoma.?1deg ovarian lesion. 73 year old diagnosed with metastatic adenocarcinoma from ascitic fluid - no primary source specified.\tAGE: 73
+
+Previous cytological examination revealing metastatic adenocarcinoma.?1deg ovarian neoplasm. 65 year old with metastatic adenocarcinoma from peritoneal fluid - primary tumor not identified.\tAGE: 65
+
+Prior pathology reports showing metastatic adenocarcinoma.?1deg ovarian mass. 70 year old diagnosed with metastatic adenocarcinoma from ascitic fluid - primary tumor unknown as detailed.\tAGE: 70
+
+Earlier cytology results indicating metastatic adenocarcinoma.?1deg ovarian tumor. 58 year old with metastatic adenocarcinoma from peritoneal fluid - no primary tumor identified.\tAGE: 58
+
+Previous pathology findings revealing metastatic adenocarcinoma.?1deg ovarian lesion. 64 year old with metastatic adenocarcinoma detected in ascitic fluid - primary source unspecified.\tAGE: 64
+
+Prior cytological examination showing metastatic adenocarcinoma.?1deg ovarian neoplasm. 69 year old with metastatic adenocarcinoma from peritoneal fluid - primary tumor not mentioned.\tAGE: 69
+
+Previous pathology results indicating metastatic adenocarcinoma.?1deg ovarian mass. 61 year old diagnosed with metastatic adenocarcinoma from ascitic fluid - no primary source identified.\tAGE: 61
+
+Earlier cytology findings revealing metastatic adenocarcinoma.?1deg ovarian tumor. 74 year old with metastatic adenocarcinoma in peritoneal fluid - primary origin not known as reported.\tAGE: 74
+
+Previous pathology reports showing metastatic adenocarcinoma.?1deg ovarian lesion. 66 year old diagnosed with metastatic adenocarcinoma from ascitic fluid - primary tumor not specified.\tAGE: 66
+
+Prior cytological examination indicating metastatic adenocarcinoma.?1deg ovarian neoplasm. 60 year old with metastatic adenocarcinoma from peritoneal fluid - primary tumor not identified.\tAGE: 60
+
+Earlier pathology findings revealing metastatic adenocarcinoma.?1deg ovarian mass. 72 year old with metastatic adenocarcinoma from ascitic fluid - no primary tumor mentioned.\tAGE: 72
+
+Previous cytology results showing metastatic adenocarcinoma.?1deg ovarian tumor. 63 year old with metastatic adenocarcinoma from peritoneal fluid - primary tumor not known as detailed.\tAGE: 63
+
+Prior pathology reports indicating metastatic adenocarcinoma.?1deg ovarian lesion. 57 year old diagnosed with metastatic adenocarcinoma from ascitic fluid - no primary source specified.\tAGE: 57
+
+Earlier cytology findings revealing metastatic adenocarcinoma.?1deg ovarian neoplasm. 68 year old with metastatic adenocarcinoma in peritoneal fluid - primary tumor unspecified.\tAGE: 68
+
+Previous pathology results showing metastatic adenocarcinoma.?1deg ovarian mass. 71 year old diagnosed with metastatic adenocarcinoma from ascitic fluid - primary tumor not identified.\tAGE: 71
+
+Prior cytological examination indicating metastatic adenocarcinoma.?1deg ovarian tumor. 59 year old with metastatic adenocarcinoma from peritoneal fluid - no primary tumor specified.\tAGE: 59
+
+Earlier pathology findings revealing metastatic adenocarcinoma.?1deg ovarian lesion. 66 year old with metastatic adenocarcinoma detected in ascitic fluid - primary source not known as reported.\tAGE: 66
+
+Previous cytology results showing metastatic adenocarcinoma.?1deg ovarian neoplasm. 63 year old with metastatic adenocarcinoma from peritoneal fluid - primary tumor not specified.\tAGE: 63
+
+Prior pathology reports indicating metastatic adenocarcinoma.?1deg ovarian mass. 57 year old diagnosed with metastatic adenocarcinoma from ascitic fluid - no primary source identified.\tAGE: 57
+
+Earlier cytology findings revealing metastatic adenocarcinoma.?1deg ovarian tumor. 70 year old with metastatic adenocarcinoma in peritoneal fluid - primary tumor not known as detailed.\tAGE: 70
+
+Previous pathology results showing metastatic adenocarcinoma.?1deg ovarian lesion. 61 year old diagnosed with metastatic adenocarcinoma from ascitic fluid - primary tumor unspecified.\tAGE: 61
+
+Prior cytological examination indicating metastatic adenocarcinoma.?1deg ovarian neoplasm. 58 year old with metastatic adenocarcinoma from peritoneal fluid - primary tumor not identified.\tAGE: 58
+
+Earlier pathology findings revealing metastatic adenocarcinoma.?1deg ovarian mass. 74 year old with metastatic adenocarcinoma detected in ascitic fluid - no primary tumor mentioned.\tAGE: 74
+
+Previous cytology results showing metastatic adenocarcinoma.?1deg ovarian tumor. 65 year old with metastatic adenocarcinoma from peritoneal fluid - primary source not known as reported.\tAGE: 65
+
+
+Pelvic mass. Family history of heart disease at age 45. Possible osteoporosis. Signs of liver dysfunction.\tAGE: 45
+
+Abdominal discomfort. Mother diagnosed with diabetes at age 50. Arthritis symptoms. Indications of kidney issues.\tAGE: 50
+
+Persistent bloating. Sister had breast cancer at age 40. Joint pain. Potential thyroid complications.\tAGE: 40
+
+Unexplained weight loss. Father suffered a stroke at age 65. Osteoarthritis. Concerns about pancreatic function.\tAGE: 65
+
+Digestive issues. Family history of colorectal cancer at age 55. Joint stiffness. Possible gallbladder problems.\tAGE: 55
+
+Lower back pain. Brother diagnosed with hypertension at age 50. Osteoarthritis. Suspected prostate concerns.\tAGE: 50
+
+Fatigue and weakness. Mother had ovarian cancer at age 60. Joint discomfort. Indications of adrenal issues.\tAGE: 60
+
+Changes in bowel habits. Aunt diagnosed with Crohn's disease at age 35. Osteoarthritis symptoms. Possible liver dys function.\tAGE: 35
+
+Abdominal pain. Grandfather had a heart attack at age 70. Joint stiffness. Concerns about kidney function.\tAGE: 70
+
+Persistent bloating. Sister diagnosed with lupus at age 30. Joint pain. Indications of potential lung issues.\tAGE: 30
+
+Unexplained weight gain. Father had diabetes at age 55. Osteoarthritis. Concerns about thyroid function.\tAGE: 55
+
+Digestive issues. Family history of pancreatic cancer at age 60. Joint discomfort. Possible gallbladder complications.\tAGE: 60
+
+Pelvic pain. Mother diagnosed with endometriosis at age 40. Arthritis symptoms. Indications of kidney issues.\tAGE: 40
+
+Lower back pain. Brother had a stroke at age 45. Osteoarthritis. Concerns about liver function.\tAGE: 45
+
+Fatigue and weakness. Sister had breast cancer at age 50. Joint stiffness. Possible adrenal complications.\tAGE: 50
+
+Changes in bowel habits. Grandfather diagnosed with ulcerative colitis at age 55. Osteoarthritis symptoms. Suspected prostate concerns.\tAGE: 55
+
+Abdominal discomfort. Aunt had a heart attack at age 60. Joint pain. Indications of potential lung issues.\tAGE: 60
+
+Persistent bloating. Mother diagnosed with irritable bowel syndrome at age 35. Arthritis symptoms. Concerns about kidney function.\tAGE: 35
+
+Unexplained weight loss. Father suffered from lung cancer at age 65. Osteoarthritis. Possible gallbladder problems.\tAGE: 65
+
+Digestive issues. Family history of stomach cancer at age 40. Joint discomfort. Indications of liver dysfunction.\tAGE: 40
+
+Lower back pain. Brother diagnosed with multiple sclerosis at age 30. Osteoarthritis symptoms. Suspected adrenal issues.\tAGE: 30
+
+Fatigue and weakness. Mother had a stroke at age 70. Joint stiffness. Concerns about pancreatic function.\tAGE: 70
+
+Changes in bowel habits. Sister diagnosed with celiac disease at age 45. Osteoarthritis. Possible kidney complications.\tAGE: 45
+
+Pelvic pain. Grandfather suffered from prostate cancer at age 50. Arthritis symptoms. Indications of thyroid issues.\tAGE: 50
+
+Abdominal pain. Aunt diagnosed with fibromyalgia at age 55. Joint pain. Possible lung complications.\tAGE: 55
+
+Persistent bloating. Father had a heart attack at age 60. Osteoarthritis symptoms. Concerns about liver function.\tAGE: 60
+
+Unexplained weight gain. Sister diagnosed with polycystic ovary syndrome at age 40. Joint stiffness. Indications of adrenal issues.\tAGE: 40
+
+Digestive issues. Family history of liver disease at age 65. Arthritis symptoms. Possible gallbladder problems.\tAGE: 65
+
+Lower back pain. Brother suffered from Crohn's disease at age 35. Osteoarthritis. Suspected kidney complications.\tAGE: 35
+
+Fatigue and weakness. Mother had diabetes at age 50. Joint discomfort. Concerns about thyroid function.\tAGE: 50
+
+Changes in bowel habits. Grandfather diagnosed with colorectal cancer at age 55. Osteoarthritis symptoms. Possible prostate concerns.\tAGE: 55
+
+Abdominal discomfort. Aunt had a stroke at age 60. Joint pain. Indications of potential lung issues.\tAGE: 60
+
+Persistent bloating. Sister diagnosed with endometriosis at age 35. Arthritis symptoms. Concerns about kidney function.\tAGE: 35
+
+Unexplained weight loss. Father suffered from lupus at age 45. Osteoarthritis. Possible liver dysfunction.\tAGE: 45
+
+Digestive issues. Family history of ovarian cancer at age 50. Joint discomfort. Indications of adrenal issues.\tAGE: 50
+
+Pelvic pain. Brother had a heart attack at age 70. Osteoarthritis symptoms. Suspected pancreatic complications.\tAGE: 70
+
+Lower back pain. Mother diagnosed with irritable bowel syndrome at age 40. Joint stiffness. Concerns about kidney function.\tAGE: 40
+
+Fatigue and weakness. Sister suffered from stomach cancer at age 65. Arthritis symptoms. Possible gallbladder problems.\tAGE: 65
+
+Changes in bowel habits. Grandfather diagnosed with multiple sclerosis at age 30. Osteoarthritis. Suspected thyroid issues.\tAGE: 30
+
+Abdominal pain. Aunt had diabetes at age 55. Joint pain. Indications of potential lung complications.\tAGE: 55
+
+Persistent bloating. Father diagnosed with fibromyalgia at age 60. Osteoarthritis symptoms. Concerns about liver function.\tAGE: 60
+
+Unexplained weight gain. Sister had a stroke at age 35. Joint stiffness. Possible adrenal issues.\tAGE: 35
+
+Digestive issues. Family history of prostate cancer at age 45. Arthritis symptoms. Indications of kidney complications.\tAGE: 45
+
+Lower back pain. Brother suffered from celiac disease at age 50. Osteoarthritis. Suspected pancreatic issues.\tAGE: 50
+
+Fatigue and weakness. Mother diagnosed with polycystic ovary syndrome at age 55. Joint discomfort. Possible thyroid complications.\tAGE: 55
+
+Changes in bowel habits. Grandfather had a heart attack at age 40. Osteoarthritis symptoms. Suspected prostate concerns.\tAGE: 40
+
+Abdominal discomfort. Aunt diagnosed with colorectal cancer at age 70. Joint pain. Indications of potential lung issues.\tAGE: 70
+
+Persistent bloating. Sister had a stroke at age 35. Arthritis symptoms. Concerns about kidney function.\tAGE: 35
+
+Unexplained weight loss. Father suffered from endometriosis at age 45. Osteoarthritis. Possible liver dysfunction.\tAGE: 45
+
+Digestive issues. Family history of lupus at age 60. Joint discomfort. Indications of adrenal issues.\tAGE: 60
+
+Pelvic pain. Brother diagnosed with diabetes at age 30. Osteoarthritis symptoms. Suspected pancreatic complications.\tAGE: 30
+
+Lower back pain. Mother had a heart attack at age 65. Joint stiffness. Concerns about thyroid function.\tAGE: 65
+
+Fatigue and weakness. Sister suffered from fibromyalgia at age 40. Arthritis symptoms. Possible gallbladder problems.\tAGE: 40
+
+Changes in bowel habits. Grandfather diagnosed with stomach cancer at age 55. Osteoarthritis. Suspected kidney complications.\tAGE: 55
+
+Abdominal pain. Aunt had diabetes at age 60. Joint pain. Indications of potential lung complications.\tAGE: 60
+
+Persistent bloating. Father diagnosed with multiple sclerosis at age 35. Osteoarthritis symptoms. Concerns about liver function.\tAGE: 35
+
+Unexplained weight gain. Sister had a stroke at age 50. Joint stiffness. Possible adrenal issues.\tAGE: 50
+
+Digestive issues. Family history of ovarian cancer at age 55. Arthritis symptoms. Indications of thyroid complications.\tAGE: 55
+
+Pelvic pain. Brother suffered from irritable bowel syndrome at age 70. Osteoarthritis. Suspected prostate concerns.\tAGE: 70
+
+Lower back pain. Mother diagnosed with lupus at age 45. Joint discomfort. Concerns about pancreatic function.\tAGE: 45
+
+
+45 year old - right lung nodule. CEA 12.3. CA19-9 35. MRI shows 2 cm mass.\tAGE: 45
+
+32 year old female - abdominal pain. Lipase 480. Amylase 220. CT scan reveals pancreatitis.\tAGE: 32
+
+Male, 55 years old - chest pain. Troponin 0.8. ECG shows ST-segment elevation.\tAGE: 55
+
+60 year old - thyroid nodule. TSH 3.5. Thyroid ultrasound shows a 1.5 cm nodule.\tAGE: 60
+
+25 year old woman - irregular menstruation. LH 8. FSH 7. Pelvic ultrasound shows polycystic ovaries.\tAGE: 25
+
+40 year old male - left knee pain. X-ray reveals osteoarthritis. CRP 5.2.\tAGE: 40
+
+48 year old - elevated liver enzymes. ALT 80. AST 65. Abdominal ultrasound shows fatty liver.\tAGE: 48
+
+Female, 30 years old - recurrent urinary tract infections. Urine culture positive for Escherichia coli.\tAGE: 30
+
+58 year old male - lower back pain. MRI indicates herniated disc at L4-L5.\tAGE: 58
+
+35 year old woman - shortness of breath. D-dimer elevated. CT angiography shows pulmonary embolism.\tAGE: 35
+
+42 year old male - excessive thirst and urination. Fasting glucose 180. HbA1c 8.5.\tAGE: 42
+
+50 year old - epigastric pain. Endoscopy reveals gastric ulcer. H. pylori positive.\tAGE: 50
+
+33 year old female - headache and blurred vision. MRI shows pituitary adenoma.\tAGE: 33
+
+Male, 55 years old - chest discomfort. Echocardiogram shows reduced left ventricular ejection fraction.\tAGE: 55
+
+28 year old woman - joint pain. Positive anti-CCP antibodies. Rheumatoid factor elevated.\tAGE: 28
+
+65 year old - memory loss. Mini-Mental State Examination score 20/30. MRI shows hippocampal atrophy.\tAGE: 65
+
+38 year old male - elevated blood pressure. Ambulatory monitoring confirms hypertension.\tAGE: 38
+
+44 year old female - weight gain and fatigue. TSH 6.5. Diagnosis: hypothyroidism.\tAGE: 44
+
+30 year old - abdominal bloating. CA125 elevated. CT scan reveals ovarian cyst.\tAGE: 30
+
+Female, 50 years old - postmenopausal bleeding. Endometrial biopsy shows endometrial hyperplasia.\tAGE: 50
+
+47 year old male - sudden severe headache. CT scan demonstrates subarachnoid hemorrhage.\tAGE: 47
+
+36 year old woman - joint stiffness. Positive ANA. Diagnosis: systemic lupus erythematosus.\tAGE: 36
+
+55 year old - hoarseness. Neck ultrasound reveals thyroid nodule compressing the vocal cords.\tAGE: 55
+
+Male, 40 years old - chest tightness. ECG shows ST-segment depression. Troponin elevated.\tAGE: 40
+
+31 year old male - flank pain. CT scan identifies kidney stone.\tAGE: 31
+
+49 year old female - postmenopausal hot flashes. FSH elevated. Diagnosis: menopause.\tAGE: 49
+
+39 year old male - erectile dysfunction. Total testosterone low. Diagnosis: hypogonadism.\tAGE: 39
+
+56 year old - fatigue and pale skin. CBC shows low hemoglobin. Diagnosis: iron deficiency anemia.\tAGE: 56
+
+29 year old woman - chest pain. ECG shows normal sinus rhythm. Diagnosis: anxiety.\tAGE: 29
+
+Female, 43 years old - breast lump. Mammogram reveals a 2 cm mass.\tAGE: 43
+
+46 year old male - frequent urination. PSA elevated. Diagnosis: prostate hyperplasia.\tAGE: 46
+
+34 year old - right shoulder pain. X-ray indicates rotator cuff tear.\tAGE: 34
+
+54 year old woman - joint swelling. Anti-CCP antibodies positive. Diagnosis: rheumatoid arthritis.\tAGE: 54
+
+41 year old male - abdominal discomfort. CT scan shows diverticulitis.\tAGE: 41
+
+27 year old female - facial rash. ANA positive. Diagnosis: systemic lupus erythematosus.\tAGE: 27
+
+52 year old - dyspepsia. Upper endoscopy reveals gastric ulcer. H. pylori negative.\tAGE: 52
+
+Male, 37 years old - sudden onset of double vision. MRI shows demyelinating lesions.\tAGE: 37
+
+53 year old female - chest pain. Stress test indicates myocardial ischemia.\tAGE: 53
+
+32 year old male - abdominal pain. CT scan shows appendicitis.\tAGE: 32
+
+48 year old - recurrent headaches. Brain MRI reveals migraines.\tAGE: 48
+
+26 year old female - fatigue and hair loss. TSH elevated. Diagnosis: hypothyroidism.\tAGE: 26
+
+58 year old male - abdominal pain. CT scan shows pancreatic adenocarcinoma.\tAGE: 58
+
+35 year old woman - joint pain and morning stiffness. Positive rheumatoid factor.\tAGE: 35
+
+49 year old male - difficulty swallowing. Upper endoscopy reveals esophageal stricture.\tAGE: 49
+
+Female, 30 years old - pelvic pain. Transvaginal ultrasound shows ovarian cyst.\tAGE: 30
+
+43 year old male - fatigue and weakness. CBC indicates low hemoglobin. Diagnosis: anemia.\tAGE: 43
+
+29 year old - right knee swelling. X-ray shows osteoarthritis. CRP 4.8.\tAGE: 29
+
+50 year old woman - breast lump. Mammogram reveals suspicious mass.\tAGE: 50
+
+36 year old male - chronic cough. Chest X-ray shows lung mass. Biopsy pending.\tAGE: 36
+
+44 year old - persistent cough. Chest CT scan reveals pulmonary fibrosis.\tAGE: 44
+
+
+48 year old with pelvic mass, looks like ovarian with elevated Ca125, also thickened endometrium, and smear suggestive of invasion. Hx of breast cancer previously on tamoxifen. Pelvic mass - ?histopath.\tAGE: 48
+
+64 year old with pelvic mass resembling ovarian, elevated Ca125, thickened endometrium, and smear suggesting invasion. History of breast cancer, previously on tamoxifen. Pelvic mass requires histopathological evaluation.\tAGE: 64
+
+82 year old presenting with pelvic mass, likely ovarian with elevated Ca125, thickened endometrium, and invasion indicated on smear. Past history of breast cancer with tamoxifen use. Consider histopathological assessment for the pelvic mass.\tAGE: 82
+
+37 year old with pelvic mass, looks like ovarian with raised Ca125, also thickened endometrium, and smear suggestive of invasion. Hx of breast cancer previously on tamoxifen. Pelvic mass - ?histopath.\tAGE: 37
+
+61 year old with pelvic mass resembling ovarian, elevated Ca125, thickened endometrium, and smear suggesting invasion. History of breast cancer, previously on tamoxifen. Pelvic mass requires histopathological evaluation.\tAGE: 61
+
+54 year old presenting with pelvic mass, likely ovarian with elevated Ca125, thickened endometrium, and invasion indicated on smear. Past history of breast cancer with tamoxifen use. Consider histopathological assessment for the pelvic mass.\tAGE: 54
+
+42 year old with pelvic mass, looks like ovarian with raised Ca125, also thickened endometrium, and smear suggestive of invasion. Hx of breast cancer previously on tamoxifen. Pelvic mass - ?histopath.\tAGE: 42
+
+58 year old with pelvic mass resembling ovarian, elevated Ca125, thickened endometrium, and smear suggesting invasion. History of breast cancer, previously on tamoxifen. Pelvic mass requires histopathological evaluation.\tAGE: 58
+
+71 year old presenting with pelvic mass, likely ovarian with elevated Ca125, thickened endometrium, and invasion indicated on smear. Past history of breast cancer with tamoxifen use. Consider histopathological assessment for the pelvic mass.\tAGE: 71
+
+39 year old with pelvic mass, looks like ovarian with raised Ca125, also thickened endometrium, and smear suggestive of invasion. Hx of breast cancer previously on tamoxifen. Pelvic mass - ?histopath.\tAGE: 39
+
+56 year old with pelvic mass resembling ovarian, elevated Ca125, thickened endometrium, and smear suggesting invasion. History of breast cancer, previously on tamoxifen. Pelvic mass requires histopathological evaluation.\tAGE: 56
+
+68 year old presenting with pelvic mass, likely ovarian with elevated Ca125, thickened endometrium, and invasion indicated on smear. Past history of breast cancer with tamoxifen use. Consider histopathological assessment for the pelvic mass.\tAGE: 68
+
+47 year old with pelvic mass, looks like ovarian with raised Ca125, also thickened endometrium, and smear suggestive of invasion. Hx of breast cancer previously on tamoxifen. Pelvic mass - ?histopath.\tAGE: 47
+
+62 year old with pelvic mass resembling ovarian, elevated Ca125, thickened endometrium, and smear suggesting invasion. History of breast cancer, previously on tamoxifen. Pelvic mass requires histopathological evaluation.\tAGE: 62
+
+75 year old presenting with pelvic mass, likely ovarian with elevated Ca125, thickened endometrium, and invasion indicated on smear. Past history of breast cancer with tamoxifen use. Consider histopathological assessment for the pelvic mass.\tAGE: 75
+
+36 year old with pelvic mass, looks like ovarian with raised Ca125, also thickened endometrium, and smear suggestive of invasion. Hx of breast cancer previously on tamoxifen. Pelvic mass - ?histopath.\tAGE: 36
+
+49 year old with pelvic mass resembling ovarian, elevated Ca125, thickened endometrium, and smear suggesting invasion. History of breast cancer, previously on tamoxifen. Pelvic mass requires histopathological evaluation.\tAGE: 49
+
+79 year old presenting with pelvic mass, likely ovarian with elevated Ca125, thickened endometrium, and invasion indicated on smear. Past history of breast cancer with tamoxifen use. Consider histopathological assessment for the pelvic mass.\tAGE: 79
+
+40 year old with pelvic mass, looks like ovarian with raised Ca125, also thickened endometrium, and smear suggestive of invasion. Hx of breast cancer previously on tamoxifen. Pelvic mass - ?histopath.\tAGE: 40
+
+55 year old with pelvic mass resembling ovarian, elevated Ca125, thickened endometrium, and smear suggesting invasion. History of breast cancer, previously on tamoxifen. Pelvic mass requires histopathological evaluation.\tAGE: 55
+
+78 year old presenting with pelvic mass, likely ovarian with elevated Ca125, thickened endometrium, and invasion indicated on smear. Past history of breast cancer with tamoxifen use. Consider histopathological assessment for the pelvic mass.\tAGE: 78
+
+35 year old with pelvic mass, looks like ovarian with raised Ca125, also thickened endometrium, and smear suggestive of invasion. Hx of breast cancer previously on tamoxifen. Pelvic mass - ?histopath.\tAGE: 35
+
+59 year old with pelvic mass resembling ovarian, elevated Ca125, thickened endometrium, and smear suggesting invasion. History of breast cancer, previously on tamoxifen. Pelvic mass requires histopathological evaluation.\tAGE: 59
+
+74 year old presenting with pelvic mass, likely ovarian with elevated Ca125, thickened endometrium, and invasion indicated on smear. Past history of breast cancer with tamoxifen use. Consider histopathological assessment for the pelvic mass.\tAGE: 74
+
+38 year old with pelvic mass, looks like ovarian with raised Ca125, also thickened endometrium, and smear suggestive of invasion. Hx of breast cancer previously on tamoxifen. Pelvic mass - ?histopath.\tAGE: 38
+
+53 year old with pelvic mass resembling ovarian, elevated Ca125, thickened endometrium, and smear suggesting invasion. History of breast cancer, previously on tamoxifen. Pelvic mass requires histopathological evaluation.\tAGE: 53
+
+70 year old presenting with pelvic mass, likely ovarian with elevated Ca125, thickened endometrium, and invasion indicated on smear. Past history of breast cancer with tamoxifen use. Consider histopathological assessment for the pelvic mass.\tAGE: 70
+
+45 year old with pelvic mass, looks like ovarian with raised Ca125, also thickened endometrium, and smear suggestive of invasion. Hx of breast cancer previously on tamoxifen. Pelvic mass - ?histopath.\tAGE: 45
+
+60 year old with pelvic mass resembling ovarian, elevated Ca125, thickened endometrium, and smear suggesting invasion. History of breast cancer, previously on tamoxifen. Pelvic mass requires histopathological evaluation.\tAGE: 60
+
+77 year old presenting with pelvic mass, likely ovarian with elevated Ca125, thickened endometrium, and invasion indicated on smear. Past history of breast cancer with tamoxifen use. Consider histopathological assessment for the pelvic mass.\tAGE: 77

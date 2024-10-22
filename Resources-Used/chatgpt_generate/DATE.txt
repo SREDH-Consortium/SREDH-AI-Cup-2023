@@ -1,0 +1,144 @@
+The liver tissue around the cysts is firm and nodular (? cirrhosis) (SM/bl 3/15/22)\tDOCTOR: SM\nDATE: 3/15/22=>2022-03-15
+
+The lung tissue near the mass is dark and spongy (? edema) (JW/bl 9/5/18)\tDOCTOR: JW\nDATE: 9/5/18=>2018-09-05
+
+The skin tissue adjacent to the rash is red and inflamed (? dermatitis) (EK/bl 11/20/19)\tDOCTOR: EK\nDATE: 11/20/19=>2019-11-20
+
+The kidney tissue near the cyst is smooth and pale (? nephritis) (LH/bl 6/10/21)\tDOCTOR: LH\nDATE: 6/10/21=>2021-06-10
+
+The bone tissue around the fracture is jagged and swollen (? inflammation) (CW/bl 2/3/17)\tDOCTOR: CW\nDATE: 2/3/17=>2017-02-03
+
+The heart tissue adjacent to the valve is thickened and discolored (? fibrosis) (MS/bl 8/14/20)\tDOCTOR: MS\nDATE: 8/14/20=>2020-08-14
+
+The brain tissue around the lesion is soft and mushy (? necrosis) (RS/bl 12/7/25)\tDOCTOR: RS\nDATE: 12/7/25=>2025-12-07
+
+The muscle tissue near the injury is tender and swollen (? inflammation) (BG/bl 4/2/19)\tDOCTOR: BG\nDATE: 4/2/19=>2019-04-02
+
+The joint tissue around the arthritis is warm and stiff (? inflammation) (JL/bl 10/11/23)\tDOCTOR: JL\nDATE: 10/11/23=>2023-10-11
+
+The stomach tissue near the ulcer is irritated and red (? gastritis) (PT/bl 5/19/14)\tDOCTOR: PT\nDATE: 5/19/14=>2014-05-19
+Underwent appendectomy and cholecystectomy on 15 March 2019.\tDATE: 15 March 2019=>2019-03-15
+
+Completed nephrectomy and bladder reconstruction on 5 July 2022.\tDATE: 5 July 2022=>2022-07-05
+
+Received splenectomy and pancreaticoduodenectomy on 10 September 2017.\tDATE: 10 September 2017=>2017-09-10
+
+Went through prostatectomy and pelvic lymph node dissection on 8 May 2020.\tDATE: 8 May 2020=>2020-05-08
+
+Had thyroidectomy and parathyroidectomy on 12 November 2024.\tDATE: 12 November 2024=>2024-11-12
+
+Experienced colectomy and ileostomy formation on 18 June 2021.\tDATE: 18 June 2021=>2021-06-18
+
+Endured gastrectomy and esophagectomy on 25 October 2016.\tDATE: 25 October 2016=>2016-10-25
+
+Completed bilateral mastectomy and axillary lymph node dissection on 3 February 2018.\tDATE: 3 February 2018=>2018-02-03
+
+Had laminectomy and spinal fusion on 7 April 2023.\tDATE: 7 April 2023=>2023-04-07
+
+Underwent oophorectomy and salpingectomy on 14 December 2015.\tDATE: 14 December 2015=>2015-12-14
+FOLLOW-UP NOTE (15.11.2022): CT SCAN RESULTS\tDATE: 15.11.2022=>2022-11-15
+
+ADDENDUM (5.3.2019): BLOOD TEST FINDINGS\tDATE: 5.3.2019=>2019-03-05
+
+UPDATE (18.9.2017): MRI INTERPRETATION\tDATE: 18.9.2017=>2017-09-18
+
+REVISION (7.5.2020): PATHOLOGY REPORT\tDATE: 7.5.2020=>2020-05-07
+
+SUPPLEMENTARY FINDINGS (14.12.2024): GENETIC TESTING\tDATE: 14.12.2024=>2024-12-14
+
+ADJUNCTIVE NOTE (30.8.2018): BIOPSY ANALYSIS\tDATE: 30.8.2018=>2018-08-30
+
+APPENDIX (22.6.2021): ULTRASOUND RESULTS\tDATE: 22.6.2021=>2021-06-22
+
+POSTSCRIPT (9.3.2015): ELECTROCARDIOGRAM\tDATE: 9.3.2015=>2015-03-09
+
+SUPPLEMENTARY OBSERVATIONS (11.10.2019): EEG EVALUATION\tDATE: 11.10.2019=>2019-10-11
+
+ADDITIONAL COMMENTS (3.4.2016): X-RAY INTERPRETATION\tDATE: 3.4.2016=>2016-04-03
+SUPPLEMENTARY ANALYSIS /3/21:\tDATE: /3/21=>2021-03
+
+FOLLOW-UP NOTE /11/18:\tDATE: /11/18=>2018-11
+
+APPENDIX /9/23:\tDATE: /9/23=>2023-09
+
+REVISION /5/14:\tDATE: /5/14=>2014-05
+
+ADDENDUM /12/9:\tDATE: /12/9=>2009-12
+
+UPDATE /6/27:\tDATE: /6/27=>2027-06
+
+SUPPLEMENTARY FINDINGS /8/3:\tDATE: /8/3=>2003-08
+
+POSTSCRIPT /10/6:\tDATE: /10/6=>2006-10
+
+ADJUNCTIVE NOTE /4/17:\tDATE: /4/17=>2017-04
+
+ADDITIONAL OBSERVATIONS /2/12:\tDATE: /2/12=>2012-02
+**FOLLOW-UP NOTE: GENETIC SCREENING RESULTS BY Dr K. Nguyen (5.2.2019)\tDOCTOR: K. Nguyen\nDATE: 5.2.2019=>2019-02-05
+
+**ADDITIONAL FINDINGS: BIOPSY ANALYSIS BY Dr J. Reynolds (8.9.2022)\tDOCTOR: J. Reynolds\nDATE: 8.9.2022=>2022-09-08
+
+**SUPPLEMENTARY OBSERVATIONS: PATHOLOGY REPORT BY Dr M. Patel (15.4.2017)\tDOCTOR: M. Patel\nDATE: 15.4.2017=>2017-04-15
+
+**REVISION: MRI INTERPRETATION BY Dr L. Carter (3.11.2020)\tDOCTOR: L. Carter\nDATE: 3.11.2020=>2020-11-03
+
+**ADJUNCTIVE NOTE: ULTRASOUND RESULTS BY Dr S. Chang (22.6.2024)\tDOCTOR: S. Chang\nDATE: 22.6.2024=>2024-06-22
+
+**APPENDIX: CT SCAN FINDINGS BY Dr P. Rodriguez (17.12.2018)\tDOCTOR: P. Rodriguez\nDATE: 17.12.2018=>2018-12-17
+
+**POSTSCRIPT: X-RAY INTERPRETATION BY Dr N. Williams (9.8.2015)\tDOCTOR: N. Williams\nDATE: 9.8.2015=>2015-08-09
+
+**UPDATE: EEG EVALUATION BY Dr Q. Smith (14.3.2021)\tDOCTOR: Q. Smith\nDATE: 14.3.2021=>2021-03-14
+
+**SUPPLEMENTARY ANALYSIS: ELECTROCARDIOGRAM BY Dr R. Patel (7.9.2016)\tDOCTOR: R. Patel\nDATE: 7.9.2016=>2016-09-07
+
+**ADDENDUM: BLOOD TEST FINDINGS BY Dr A. Johnson (26.5.2013)\tDOCTOR: A. Johnson\nDATE: 26.5.2013=>2013-05-26
+2nd Opinion on CT Scan. (remarks by DR. J Smith 15.8.2020)\tDOCTOR: J Smith\nDATE: 15.8.2020=>2020-08-15
+
+Review of X-ray Results. (notations by Dr. L. Patel 5.12.2017)\tDOCTOR: L. Patel\nDATE: 5.12.2017=>2017-12-05
+
+Pathology Consultation for Biopsy. (comments by Dr. M. Davis 10.6.2019)\tDOCTOR: M. Davis\nDATE: 10.6.2019=>2019-06-10
+
+Discussion on MRI Findings. (insights by Dr. R. Johnson 3.11.2022)\tDOCTOR: R. Johnson\nDATE: 3.11.2022=>2022-11-03
+
+Follow-up on Ultrasound Report. (observations by Dr. K. Nguyen 7.9.2018)\tDOCTOR: K. Nguyen\nDATE: 7.9.2018=>2018-09-07
+
+Supplementary Notes on PET Scan. (remarks by Dr. S. Chang 14.5.2021)\tDOCTOR: S. Chang\nDATE: 14.5.2021=>2021-05-14
+
+Review of Blood Test Results. (notations by Dr. P. Rodriguez 26.2.2016)\tDOCTOR: P. Rodriguez\nDATE: 26.2.2016=>2016-02-26
+
+Consultation for ECG. (comments by Dr. N. Williams 19.7.2014)\tDOCTOR: N. Williams\nDATE: 19.7.2014=>2014-07-19
+
+Assessment of Endoscopy Findings. (insights by Dr. A. Johnson 8.3.2017)\tDOCTOR: A. Johnson\nDATE: 8.3.2017=>2017-03-08
+
+Second Opinion on Mammogram. (remarks by Dr. Q. Smith 12.9.2015)\tDOCTOR: Q. Smith\nDATE: 12.9.2015=>2015-09-12
+Lung cancer, lobectomy, chemotherapy 2030.\tDATE: 2030=>2030
+
+Prostate cancer, radical prostatectomy 2042.\tDATE: 2042=>2042
+
+Colon cancer, colectomy, adjuvant therapy 2067.\tDATE: 2067=>2067
+
+Ovarian cancer, hysterectomy, chemotherapy 2022.\tDATE: 2022=>2022
+
+Pancreatic cancer, Whipple procedure 2048.\tDATE: 2048=>2048
+
+Bladder cancer, cystectomy, urinary diversion 2059.\tDATE: 2059=>2059
+
+Thyroid cancer, thyroidectomy, radioactive iodine 2035.\tDATE: 2035=>2035
+
+Leukemia, bone marrow transplant 2045.\tDATE: 2045=>2045
+
+Brain tumor, craniotomy, radiation therapy 2073.\tDATE: 2073=>2073
+
+Kidney cancer, nephrectomy, targeted therapy 2018.\tDATE: 2018=>2018
+CRITERIA (ASCO/CAP recommendations):\tPHI: NULL
+CRITERIA (ASCO/CAP recommendations):\tPHI: NULL
+CRITERIA (ASCO/CAP recommendations):\tPHI: NULL
+CRITERIA (ASCO/CAP recommendations):\tPHI: NULL
+CRITERIA (ASCO/CAP recommendations):\tPHI: NULL
+CRITERIA (ASCO/CAP recommendations):\tPHI: NULL
+SCORING CRITERIA (Updated in line with ASCO/CAP recommendations 2013):\tPHI: NULL
+SCORING CRITERIA (Updated in line with ASCO/CAP recommendations 2013):\tPHI: NULL
+SCORING CRITERIA (Updated in line with ASCO/CAP recommendations 2013):\tPHI: NULL
+SCORING CRITERIA (Updated in line with ASCO/CAP recommendations 2013):\tPHI: NULL
+SCORING CRITERIA (Updated in line with ASCO/CAP recommendations 2013):\tPHI: NULL

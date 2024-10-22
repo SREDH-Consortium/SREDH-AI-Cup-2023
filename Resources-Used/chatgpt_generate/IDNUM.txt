@@ -1,0 +1,77 @@
+32H71245X65 unstained slides x 8.\tIDNUM:32H71245X65
+Please review the post-treatment results, 19F23561.\tIDNUM:19F23561
+The characteristics of the mass are consistent with those documented in the prior examination (74N12876).\tIDNUM:74N12876
+A subcutaneous fibrosarcoma is identified, presenting as a higher grade than previously observed in the needle biopsy (see 15R40982).\tIDNUM:15R40982
+The analysis of prior biopsies (62T70319) was taken into consideration during the evaluation of this case.\tIDNUM:62T70319
+Slides reveal numerous deposits of residual low-grade tumor, resembling the features of the previously identified fibrous histiocytoma (28M50473 and 28M50473).\tIDNUM:28M50473\tIDNUM:28M50473
+The 92mm lesion exhibits characteristics of a spindle cell neoplasm similar to those observed in previous excisions (53U62104 and 53U62104).\tIDNUM:53U62104\tIDNUM:53U62104
+KRAS gene mutations were examined using the Thermo Fisher KRAS Mutation Detection Kit (ARTG: 409823).\tIDNUM:409823
+This involves both ducts and lobules and closely resembles the peripheral areas of lobular carcinoma in situ identified in the prior resection specimen (47P40892).\tIDNUM:47P40892
+In-depth analysis of 15G7762 reveals unstained slides numbering 7.\tIDNUM: 15G7762
+Kindly review the post-intervention outcomes for reference, 44H56209.\tIDNUM: 44H56209
+The characteristics of the growth are reminiscent of those documented in the prior operation (88P11234).\tIDNUM: 88P11234
+Identified is a subdermal fibrosarcoma exhibiting a more advanced grade than indicated in the core biopsy (refer to 25X93671).\tIDNUM: 25X93671
+The reconsideration of past biopsies (70M29013) was integral to the analysis of this instance.\tIDNUM: 70M29013
+Slices manifest numerous deposits of persistent high-grade tumor, mirroring the traits of the previously ascertained epithelioid sarcoma (52U80973 and 52U80973).\tIDNUM: 52U80973\tIDNUM: 52U80973
+A spindle cell neoplasm measuring 105mm demonstrates akin attributes to prior excisions (39Z65027 and 39Z65027).\tIDNUM: 39Z65027\tIDNUM: 39Z65027
+Genetic scrutiny of *KRAS mutations was executed utilizing the Illumina KRAS Analysis Kit (ARTG: 765432).\tIDNUM: 765432
+This pertains to both ducts and lobules, displaying a striking resemblance to the periphery of DCIS in the antecedent resection specimen (58R90123).\tIDNUM: 58R90123
+Bilateral lymph nodes (samples A and B): Devoid of malignancy (0/14)\tIDNUM: A\tIDNUM: B
+Indications of lymphovascular invasion have been identified (Block H9)\tIDNUM: H9
+Shallow dimension: 4.8mm (Block K34)\tIDNUM: K34
+From the superior surface, the depth measures 2.2mm (Block K34)\tIDNUM: K34
+The examination revealed mutations in the *KRAS gene, utilizing the Illumina KRAS Mutation Detection Kit (ARTG: 567890).\tIDNUM: 567890
+Outcomes of FLOW CYTOMETRY (18V621304B):\tIDNUM: 18V621304B
+A total of 10Y18973 unstained slides were utilized for analysis.\tIDNUM: 10Y18973
+Reference the preliminary results for pre-treatment information, 33J78904.\tIDNUM: 33J78904
+The tumor displays features similar to those observed in the preceding surgical intervention (46L34521).\tIDNUM: 46L34521
+The subcutaneous leiomyosarcoma exhibits a heightened grade compared to the core biopsy findings (see 21K50689).\tIDNUM: 21K50689
+An in-depth review of earlier biopsies (84U90210) influenced the comprehensive evaluation of this case.\tIDNUM: 84U90210
+Sections reveal numerous deposits of residual low-grade tumor, resembling the characteristics of the previously diagnosed fibrous histiocytoma (64N70234 and 64N70234).\tIDNUM: 64N70234\tIDNUM: 64N70234
+A spindle cell neoplasm measuring 75mm shares similarities with features noted in prior excisions (77P40932 and 77P40932).\tIDNUM: 77P40932\tIDNUM: 77P40932
+Analysis of *EGFR gene mutations was conducted using the Thermo Fisher EGFR Mutation Test Kit (ARTG: 123456).\tIDNUM: 123456
+The histological appearance closely mimics the peripheral areas of DCIS observed in the previous resection specimen (35M20874).\tIDNUM: 35M20874
+Lymph nodes (specimens A and B): No evidence of malignancy detected (0/12)\tIDNUM: A\tIDNUM: B
+Noteworthy lymphovascular invasion is evident (Block G12)\tIDNUM: G12
+Superficial dimensions measure 7.1mm (Block K45)\tIDNUM: K45
+From the superior surface, the depth measures 1.8mm (Block K45)\tIDNUM: K45
+Genetic scrutiny revealed mutations in the *NRAS gene using the Thermo Fisher NRAS Mutation Analysis Kit (ARTG: 987654).\tIDNUM: 987654
+FLOW CYTOMETRY RESULTS (19W721409C):\tIDNUM: 19W721409C
+A reassessment of the previous biopsy (57L40328) confirms the presence of high-grade urothelial carcinoma invading the detrusor muscle.\tIDNUM: 57L40328
+Reporting this case involved collaboration with Dr. LILIANA GOMEZ and Dr. JAMES SMITH, considering prior core biopsy and FNA reports (43H60987, 43H60987).\tDOCTOR: LILIANA GOMEZ\tDOCTOR: JAMES SMITH\tIDNUM: 43H60987\tIDNUM: 43H60987
+The tumor exhibits a morphology resembling the previous specimen (25Z1345, diagnosed as medulloblastoma, WHO grade 4).\tIDNUM: 25Z1345
+"Genomic material was extracted from paraffin tissue from DR. ANTHONY WATSON(25Z13456).\tDOCTOR: ANTHONY WATSON\tIDNUM: 25Z13456
+BRAF gene mutations were analyzed using the Roche cobas BRAF V600 Mutation Test kit (ARTG: 765432).\tIDNUM: 765432
+A set of 14H89012 unstained slides was employed for comprehensive evaluation.\tIDNUM: 14H89012
+Review the pre-treatment results for reference, 29L60213.\tIDNUM: 29L60213
+The tumor exhibits features akin to those observed in the previous surgical procedure (50M70839).\tIDNUM: 50M70839
+The subcutaneous leiomyosarcoma is of a lower grade compared to the core biopsy findings (see 18T40567).\tIDNUM: 18T40567
+A meticulous review of previous biopsies (79N50243) played a pivotal role in the case assessment.\tIDNUM: 79N50243
+Sections unveil multiple deposits of residual high-grade tumor, resembling the characteristics of the previously diagnosed synovial sarcoma (61U90321 and 61U90321).\tIDNUM: 61U90321\tIDNUM: 61U90321
+A spindle cell neoplasm measuring 80mm displays features distinct from prior excisions (34Q81029 and 34Q81029).\tIDNUM: 34Q81029\tIDNUM: 34Q81029
+Genetic analysis of *PIK3CA gene mutations utilized the Illumina PIK3CA Mutation Analysis Kit (ARTG: 345678).\tIDNUM: 345678
+Histological examination reveals a close resemblance to the peripheral areas of DCIS identified in the previous resection specimen (53P70982).\tIDNUM: 53P70982
+Bilateral lymph nodes (samples A and B): Absence of malignancy detected (0/15)\tIDNUM: A\tIDNUM: B
+Indications of lymphovascular invasion are noted (Block H17)\tIDNUM: H17
+Superficial dimensions measure 6.3mm (Block K56)\tIDNUM: K56
+From the superior surface, the depth measures 2.5mm (Block K56)\tIDNUM: K56
+The examination revealed mutations in the *TP53 gene, utilizing the Illumina TP53 Mutation Detection Kit (ARTG: 987654).\tIDNUM: 987654
+FLOW CYTOMETRY RESULTS (20X834512D):\tIDNUM: 20X834512D
+A comprehensive review of the previous biopsy (63H70128) confirms the diagnosis of invasive ductal carcinoma and high-grade urothelial carcinoma infiltrating the detrusor muscle.\tIDNUM: 63H70128
+Collaboration with Dr. ELENA RAMIREZ and Dr. SAMUEL JONES was undertaken in reporting this case, taking into account the previous core biopsy and FNA reports (38Y90876, 38Y90876).\tDOCTOR: ELENA RAMIREZ\tDOCTOR: SAMUEL JONES\tIDNUM: 38Y90876\tIDNUM: 38Y90876
+The tumor exhibits a morphology distinct from the previous specimen (29Z5487, diagnosed as ependymoma, WHO grade 3).\tIDNUM: 29Z5487
+"Genomic material was extracted from paraffin tissue from DR. RACHEL SMITH(29Z54876).\tDOCTOR: RACHEL SMITH\tIDNUM: 29Z54876
+BRAF gene mutations were analyzed using the Roche cobas BRAF V600 Mutation Test kit (ARTG: 876543).\tIDNUM: 876543
+An assortment of 18P45023 unstained slides was utilized for comprehensive evaluation.\tIDNUM: 18P45023
+Consult the pre-treatment results for reference, 42K80927.\tIDNUM: 42K80927
+The tumor displays features reminiscent of those observed in the prior operative intervention (55N60813).\tIDNUM: 55N60813
+15F70283 unstained slides were employed for detailed examination.\tIDNUM: 15F70283
+Refer to the preliminary treatment outcomes, 37P20984.\tIDNUM: 37P20984
+The tumor exhibits characteristics distinct from those documented in the previous surgery (42K50672).\tIDNUM: 42K50672
+The subcutaneous leiomyosarcoma appears to be of a lower grade compared to the core biopsy findings (see 29R80936).\tIDNUM: 29R80936
+A thorough reevaluation of previous biopsies (55Q70812) significantly impacted the overall case assessment.\tIDNUM: 55Q70812
+Sections reveal multiple deposits of residual high-grade tumor, deviating from the features of the previously diagnosed fibrous histiocytoma (88U50321 and 88U50321).\tIDNUM: 88U50321\tIDNUM: 88U50321
+A spindle cell neoplasm measuring 110mm displays distinct features from prior excisions (64W60517 and 64W60517).\tIDNUM: 64W60517\tIDNUM: 64W60517
+Genetic analysis of *NRAS gene mutations utilized the Thermo Fisher NRAS Mutation Analysis Kit (ARTG: 876543).\tIDNUM: 876543
+The histological appearance exhibits notable differences from the peripheral areas of DCIS observed in the previous resection specimen (39N50123).\tIDNUM: 39N50123
+Bilateral lymph nodes (samples A and B): Evidence of malignancy detected (4/22)\tIDNUM: A\tIDNUM: B

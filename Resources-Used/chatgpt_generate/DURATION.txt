@@ -1,0 +1,1554 @@
+Previous breast cancer 5 years ago - lumpectomy.\tDURATION: 5 years=>P5Y
+
+24 week abdominal mass.\tDURATION: 24 weeks=>P24W
+
+High-grade glioma diagnosed 8 years ago.\tDURATION: 8 years=>P8Y
+
+Laparoscopy. Ovarian cystectomy for recurrent ovarian cysts 15 years ago.\tDURATION: 15 years=>P15Y
+
+Colonoscopy. Polypectomy for adenomatous polyps detected 3 years ago.\tDURATION: 3 years=>P3Y
+
+Enlarged lymph nodes in the neck - fine-needle aspiration for lymphoma diagnosis. Present for 4 months.\tDURATION: 4 months=>P4M
+
+Liver transplant performed 1 year ago. Follow-up scan shows normal liver function.\tDURATION: 1 year=>P1Y
+
+3 weeks of persistent abdominal pain. CT scan reveals diverticulitis.\tDURATION: 3 weeks=>P3W
+
+Gastric ulcer treated 7 years ago - gastric bypass surgery.\tDURATION: 7 years=>P7Y
+
+40 week gestation with abdominal discomfort.\tDURATION: 40 weeks=>P40W
+
+Low-grade bladder tumor removed 12 years ago.\tDURATION: 12 years=>P12Y
+
+Thoracotomy. Resection of lung cancer recurrence 18 years ago.\tDURATION: 18 years=>P18Y
+
+Colonoscopy. Removal of precancerous polyps detected 6 months ago.\tDURATION: 6 months=>P6M
+
+Thyroidectomy. Removal of thyroid nodule present for 2 years.\tDURATION: 2 years=>P2Y
+
+Cardiac bypass surgery performed 3 weeks ago.\tDURATION: 3 weeks=>P3W
+
+4 months of persistent joint pain. MRI reveals osteoarthritis.\tDURATION: 4 months=>P4M
+
+Previous lung infection treated 9 years ago - lobectomy.\tDURATION: 9 years=>P9Y
+
+38 week gestation with pelvic pressure.\tDURATION: 38 weeks=>P38W
+
+Removal of kidney stone 11 years ago - nephrolithotomy.\tDURATION: 11 years=>P11Y
+
+Hysterectomy. Removal of uterine fibroids 5 years ago.\tDURATION: 5 years=>P5Y
+
+Orthopedic surgery. Repair of torn meniscus present for 7 months.\tDURATION: 7 months=>P7M
+
+Cardiac stent placement performed 2 weeks ago.\tDURATION: 2 weeks=>P2W
+
+8 months of progressive fatigue. Blood tests reveal iron deficiency anemia.\tDURATION: 8 months=>P8M
+
+Hip replacement surgery performed 1 year ago.\tDURATION: 1 year=>P1Y
+
+3 weeks of persistent headaches. MRI reveals sinusitis.\tDURATION: 3 weeks=>P3W
+
+Removal of skin lesion 10 years ago - excisional biopsy.\tDURATION: 10 years=>P10Y
+
+Appendectomy performed 6 months ago.\tDURATION: 6 months=>P6M
+
+28 week gestation with abdominal bloating.\tDURATION: 28 weeks=>P28W
+Carpal tunnel release surgery performed 4 years ago.\tDURATION: 4 years=>P4Y
+
+32 week gestation with lower back pain.\tDURATION: 32 weeks=>P32W
+
+Removal of skin cancer 15 years ago - Mohs surgery.\tDURATION: 15 years=>P15Y
+
+Cervical disc replacement surgery performed 20 years ago.\tDURATION: 20 years=>P20Y
+
+Colonoscopy. Removal of benign polyps detected 8 months ago.\tDURATION: 8 months=>P8M
+
+Appendectomy performed 2 years ago.\tDURATION: 2 years=>P2Y
+
+5 weeks of persistent abdominal discomfort. CT scan reveals appendicitis.\tDURATION: 5 weeks=>P5W
+
+16 week gestation with nausea and vomiting.\tDURATION: 16 weeks=>P16W
+
+Kidney stone removal surgery performed 7 years ago.\tDURATION: 7 years=>P7Y
+
+42 week gestation with pelvic pressure.\tDURATION: 42 weeks=>P42W
+
+Hip arthroscopy. Repair of torn labrum present for 3 months.\tDURATION: 3 months=>P3M
+
+Cardiac bypass surgery performed 12 weeks ago.\tDURATION: 12 weeks=>P12W
+
+Mastectomy. Removal of breast cancer 6 years ago.\tDURATION: 6 years=>P6Y
+
+2 months of persistent joint pain. X-rays reveal rheumatoid arthritis.\tDURATION: 2 months=>P2M
+
+24 week gestation with shortness of breath.\tDURATION: 24 weeks=>P24W
+
+Tonsillectomy performed 9 years ago.\tDURATION: 9 years=>P9Y
+
+7 weeks of progressive fatigue. Blood tests reveal anemia.\tDURATION: 7 weeks=>P7W
+
+Coronary stent placement performed 18 months ago.\tDURATION: 18 months=>P18M
+
+Removal of ovarian cyst 10 years ago - laparoscopic surgery.\tDURATION: 10 years=>P10Y
+
+Knee replacement surgery performed 1 year ago.\tDURATION: 1 year=>P1Y
+Laparotomy. Debulking procedure. Tumour debulking of recurrence of ovarian cancer 7yrs ago.\tDURATION: 7yrs=>P7Y
+Laparotomy. Ovarian cancer recurrence debulking surgery performed 12 years ago.\tDURATION: 12yrs=>P12Y
+Laparotomy. Surgical debulking for recurrent ovarian cancer 18 years prior.\tDURATION: 18yrs=>P18Y
+Laparotomy. Procedure for debulking ovarian cancer recurrence 9 years ago.\tDURATION: 9yrs=>P9Y
+Laparotomy. Debulking procedure. Tumour debulking of recurrence of ovarian cancer 5yrs ago.\tDURATION: 5yrs=>P5Y
+Laparotomy. Ovarian cancer recurrence debulking surgery performed 20 years ago.\tDURATION: 20yrs=>P20Y
+Laparotomy. Surgical debulking for recurrent ovarian cancer 14 years prior.\tDURATION: 14yrs=>P14Y
+Laparotomy. Procedure for debulking ovarian cancer recurrence 11 years ago.\tDURATION: 11yrs=>P11Y
+Laparotomy. Debulking procedure. Tumour debulking of recurrence of ovarian cancer 8yrs ago.\tDURATION: 8yrs=>P8Y
+Laparotomy. Ovarian cancer recurrence debulking surgery performed 16 years ago.\tDURATION: 16yrs=>P16Y
+Laparotomy. Surgical debulking for recurrent ovarian cancer 22 years prior.\tDURATION: 22yrs=>P22Y
+Laparotomy. Procedure for debulking ovarian cancer recurrence 13 years ago.\tDURATION: 13yrs=>P13Y
+Laparotomy. Debulking procedure. Tumour debulking of recurrence of ovarian cancer 10yrs ago. \tDURATION: 10yrs=>P10Y
+Laparotomy. Ovarian cancer recurrence debulking surgery performed 19 years ago.\tDURATION: 19yrs=>P19Y
+Laparotomy. Surgical debulking for recurrent ovarian cancer 17 years prior.\tDURATION: 17yrs=>P17Y
+Laparotomy. Procedure for debulking ovarian cancer recurrence 6 years ago.\tDURATION: 6yrs=>P6Y
+Laparotomy. Debulking procedure. Tumour debulking of recurrence of ovarian cancer 14yrs ago.\tDURATION: 14yrs=>P14Y
+Laparotomy. Ovarian cancer recurrence debulking surgery performed 9 years ago.\tDURATION: 9yrs=>P9Y
+Laparotomy. Surgical debulking for recurrent ovarian cancer 11 years prior.\tDURATION: 11yrs=>P11Y
+Laparotomy. Procedure for debulking ovarian cancer recurrence 20 years ago.\tDURATION: 20yrs=>P20Y
+Laparotomy. Debulking procedure. Tumour debulking of recurrence of ovarian cancer 16yrs ago.\tDURATION: 16yrs=>P16Y
+Laparotomy. Ovarian cancer recurrence debulking surgery performed 8 years ago.\tDURATION: 8yrs=>P8Y
+Laparotomy. Surgical debulking for recurrent ovarian cancer 10 years prior.\tDURATION: 10yrs=>P10Y
+Laparotomy. Procedure for debulking ovarian cancer recurrence 19 years ago.\tDURATION: 19yrs=>P19Y
+Laparotomy. Debulking procedure. Tumour debulking of recurrence of ovarian cancer 12yrs ago.\tDURATION: 12yrs=>P12Y
+Laparotomy. Ovarian cancer recurrence debulking surgery performed 7 years ago.\tDURATION: 7yrs=>P7Y
+Laparotomy. Surgical debulking for recurrent ovarian cancer 13 years prior.\tDURATION: 13yrs=>P13Y
+Laparotomy. Procedure for debulking ovarian cancer recurrence 17 years ago.\tDURATION: 17yrs=>P17Y
+Laparotomy. Debulking procedure. Tumour debulking of recurrence of ovarian cancer 11yrs ago.\tDURATION: 11yrs=>P11Y
+Laparotomy. Ovarian cancer recurrence debulking surgery performed 10 years ago.\tDURATION: 10yrs=>P10Y
+Laparotomy. Surgical debulking for recurrent ovarian cancer 6 years prior.\tDURATION: 6yrs=>P6Y
+Laparotomy. Procedure for debulking ovarian cancer recurrence 8 years ago.\tDURATION: 8yrs=>P8Y
+Laparotomy. Debulking procedure. Tumour debulking of recurrence of ovarian cancer 17yrs ago.\tDURATION: 17yrs=>P17Y
+Laparotomy. Ovarian cancer recurrence debulking surgery performed 11 years ago.\tDURATION: 11yrs=>P11Y
+Laparotomy. Surgical debulking for recurrent ovarian cancer 16 years prior.\tDURATION: 16yrs=>P16Y
+Laparotomy. Procedure for debulking ovarian cancer recurrence 9 years ago.\tDURATION: 9yrs=>P9Y
+Laparotomy. Debulking procedure. Tumour debulking of recurrence of ovarian cancer 19yrs ago.\tDURATION: 19yrs=>P19Y
+Laparotomy. Ovarian cancer recurrence debulking surgery performed 14 years ago.\tDURATION: 14yrs=>P14Y
+Laparotomy. Surgical debulking for recurrent ovarian cancer 20 years prior.\tDURATION: 20yrs=>P20Y
+Laparotomy. Procedure for debulking ovarian cancer recurrence 8 years ago.\tDURATION: 8yrs=>P8Y
+Laparotomy. Debulking procedure. Tumour debulking of recurrence of ovarian cancer 6yrs ago.\tDURATION: 6yrs=>P6Y
+Laparotomy. Ovarian cancer recurrence debulking surgery performed 17 years ago.\tDURATION: 17yrs=>P17Y
+Laparotomy. Surgical debulking for recurrent ovarian cancer 12 years prior.\tDURATION: 12yrs=>P12Y
+Laparotomy. Procedure for debulking ovarian cancer recurrence 10 years ago.\tDURATION: 10yrs=>P10Y
+Laparotomy. Debulking procedure. Tumour debulking of recurrence of ovarian cancer 16yrs ago.\tDURATION: 16yrs=>P16Y
+Laparotomy. Ovarian cancer recurrence debulking surgery performed 19 years ago.\tDURATION: 19yrs=>P19Y
+Laparotomy. Surgical debulking for recurrent ovarian cancer 11 years prior.\tDURATION: 11yrs=>P11Y
+Laparotomy. Procedure for debulking ovarian cancer recurrence 7 years ago.\tDURATION: 7yrs=>P7Y
+Laparotomy. Debulking procedure. Tumour debulking of recurrence of ovarian cancer 14yrs ago.\tDURATION: 14yrs=>P14Y
+Laparotomy. Ovarian cancer recurrence debulking surgery performed 8 years ago.\tDURATION: 8yrs=>P8Y
+
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 5 years ago), AF, T2DM.\tDURATION: 5 years=>P5Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 12 years ago), AF, T2DM.\tDURATION: 12 years=>P12Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 8 years ago), AF, T2DM.\tDURATION: 8 years=>P8Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 15 years ago), AF, T2DM.\tDURATION: 15 years=>P15Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 7 years ago), AF, T2DM.\tDURATION: 7 years=>P7Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 10 years ago), AF, T2DM.\tDURATION: 10 years=>P10Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 14 years ago), AF, T2DM.\tDURATION: 14 years=>P14Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 6 years ago), AF, T2DM.\tDURATION: 6 years=>P6Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 11 years ago), AF, T2DM.\tDURATION: 11 years=>P11Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 9 years ago), AF, T2DM.\tDURATION: 9 years=>P9Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 13 years ago), AF, T2DM.\tDURATION: 13 years=>P13Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 16 years ago), AF, T2DM.\tDURATION: 16 years=>P16Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 18 years ago), AF, T2DM.\tDURATION: 18 years=>P18Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 4 years ago), AF, T2DM.\tDURATION: 4 years=>P4Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 17 years ago), AF, T2DM.\tDURATION: 17 years=>P17Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 3 years ago), AF, T2DM.\tDURATION: 3 years=>P3Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 19 years ago), AF, T2DM.\tDURATION: 19 years=>P19Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 20 years ago), AF, T2DM.\tDURATION: 20 years=>P20Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 2 years ago), AF, T2DM.\tDURATION: 2 years=>P2Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 1 year ago), AF, T2DM.\tDURATION: 1 year=>P1Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 22 years ago), AF, T2DM.\tDURATION: 22 years=>P22Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 25 years ago), AF, T2DM.\tDURATION: 25 years=>P25Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 21 years ago), AF, T2DM.\tDURATION: 21 years=>P21Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 23 years ago), AF, T2DM.\tDURATION: 23 years=>P23Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 24 years ago), AF, T2DM.\tDURATION: 24 years=>P24Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 26 years ago), AF, T2DM.\tDURATION: 26 years=>P26Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 27 years ago), AF, T2DM.\tDURATION: 27 years=>P27Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 28 years ago), AF, T2DM.\tDURATION: 28 years=>P28Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 29 years ago), AF, T2DM.\tDURATION: 29 years=>P29Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 30 years ago), AF, T2DM.\tDURATION: 30 years=>P30Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 31 years ago), AF, T2DM.\tDURATION: 31 years=>P31Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 32 years ago), AF, T2DM.\tDURATION: 32 years=>P32Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 33 years ago), AF, T2DM.\tDURATION: 33 years=>P33Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 34 years ago), AF, T2DM.\tDURATION: 34 years=>P34Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 35 years ago), AF, T2DM.\tDURATION: 35 years=>P35Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 36 years ago), AF, T2DM.\tDURATION: 36 years=>P36Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 37 years ago), AF, T2DM.\tDURATION: 37 years=>P37Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 38 years ago), AF, T2DM.\tDURATION: 38 years=>P38Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 39 years ago), AF, T2DM.\tDURATION: 39 years=>P39Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 40 years ago), AF, T2DM.\tDURATION: 40 years=>P40Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 41 years ago), AF, T2DM.\tDURATION: 41 years=>P41Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 42 years ago), AF, T2DM.\tDURATION: 42 years=>P42Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 43 years ago), AF, T2DM.\tDURATION: 43 years=>P43Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 44 years ago), AF, T2DM.\tDURATION: 44 years=>P44Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 45 years ago), AF, T2DM.\tDURATION: 45 years=>P45Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 46 years ago), AF, T2DM.\tDURATION: 46 years=>P46Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 47 years ago), AF, T2DM.\tDURATION: 47 years=>P47Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 48 years ago), AF, T2DM.\tDURATION: 48 years=>P48Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 49 years ago), AF, T2DM.\tDURATION: 49 years=>P49Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 50 years ago), AF, T2DM.\tDURATION: 50 years=>P50Y
+
+Large left parapharyngeal mass examined via FNA for possible salivary tumour. Intra-op identification of level 2 nodes in the right parapharyngeal space, confirmed by scans. Persistent symptoms over 6 years. Histopathology to analyze the right mass and level 2 lymph nodes.\tDURATION: 6 years=>P6Y
+
+Parapharyngeal tumour on the right, subjected to FNA to investigate salivary tumour. Intra-op discovery of level 2 nodes in the right parapharyngeal space, evident in scans. Symptoms have been present for 6 years. Histo examination for the right mass and right level 2 lymph nodes.\tDURATION: 6 years=>P6Y
+
+FNA performed on a sizable right parapharyngeal tumour suspected to be a salivary tumour. Intra-op detection of level 2 nodes in the right parapharyngeal space, confirmed by scans. Enduring symptoms for 6 years. Histopathological analysis of the right mass and right level 2 lymph nodes.\tDURATION: 6 years=>P6Y
+
+Salivary tumour possibility explored via FNA in a large right parapharyngeal mass. Intra-op identification of level 2 nodes in the right parapharyngeal space, visible in scans. Symptoms persisting for 6 years. Histology examination planned for the right mass and right level 2 lymph nodes.\tDURATION: 6 years=>P6Y
+
+Right parapharyngeal mass, possibly a salivary tumour, assessed through FNA. Intra-op presence of level 2 nodes in the right parapharyngeal space, evident in scans. Symptoms ongoing for 6 years. Histopathological scrutiny of the right mass and right level 2 lymph nodes.\tDURATION: 6 years=>P6Y
+
+FNA conducted on a significant right parapharyngeal tumour suspected as a salivary tumour. Intra-op identification of level 2 nodes in the right parapharyngeal space, confirmed by scans. Persistent symptoms for 6 years. Histology examination for the right mass and right level 2 lymph nodes.\tDURATION: 6 years=>P6Y
+
+Investigation into a large right parapharyngeal mass through FNA, considering salivary tumour. Intra-op discovery of level 2 nodes in the right parapharyngeal space, visible in scans. Symptoms present for 6 years. Histopathological analysis planned for the right mass and right level 2 lymph nodes.\tDURATION: 6 years=>P6Y
+
+FNA performed on a sizable right parapharyngeal tumour suspected to be a salivary tumour. Intra-op identification of level 2 nodes in the right parapharyngeal space, confirmed by scans. Symptoms enduring for 6 years. Histology examination scheduled for the right mass and right level 2 lymph nodes.\tDURATION: 6 years=>P6Y
+
+Right parapharyngeal mass examined via FNA for potential salivary tumour. Intra-op identification of level 2 nodes in the right parapharyngeal space, evident in scans. Symptoms persisting for 5 years. Histopathological analysis for the right mass and right level 2 lymph nodes.\tDURATION: 5 years=>P5Y
+
+Parapharyngeal tumour on the right, subjected to FNA to investigate salivary tumour. Intra-op discovery of level 2 nodes in the right parapharyngeal space, confirmed by scans. Symptoms present for 6 years. Histo examination for the right mass and right level 2 lymph nodes.\tDURATION: 6 years=>P6Y
+
+FNA conducted on a significant right parapharyngeal tumour suspected as a salivary tumour. Intra-op identification of level 2 nodes in the right parapharyngeal space, confirmed by scans. Symptoms ongoing for 6 years. Histology examination for the right mass and right level 2 lymph nodes.\tDURATION: 6 years=>P6Y
+
+Salivary tumour possibility explored via FNA in a large right parapharyngeal mass. Intra-op presence of level 2 nodes in the right parapharyngeal space, evident in scans. Symptoms persisting for 6 years. Histopathological scrutiny of the right mass and right level 2 lymph nodes.\tDURATION: 6 years=>P6Y
+
+Investigation into a large right parapharyngeal mass through FNA, considering salivary tumour. Intra-op discovery of level 2 nodes in the right parapharyngeal space, visible in scans. Symptoms present for 6 years. Histopathological analysis planned for the right mass and right level 2 lymph nodes.\tDURATION: 6 years=>P6Y
+
+FNA performed on a sizable right parapharyngeal tumour suspected to be a salivary tumour. Intra-op identification of level 2 nodes in the right parapharyngeal space, confirmed by scans. Symptoms enduring for 6 years. Histology examination scheduled for the right mass and right level 2 lymph nodes.\tDURATION: 6 years=>P6Y
+
+Right parapharyngeal mass examined via FNA for potential salivary tumour. Intra-op identification of level 2 nodes in the right parapharyngeal space, evident in scans. Symptoms persisting for 6 years. Histopathological analysis for the right mass and right level 2 lymph nodes.\tDURATION: 6 years=>P6Y
+
+Parapharyngeal tumour on the right, subjected to FNA to investigate salivary tumour. Intra-op discovery of level 2 nodes in the right parapharyngeal space, confirmed by scans. Symptoms present for 6 years. Histo examination for the right mass and right level 2 lymph nodes.\tDURATION: 6 years=>P6Y
+
+FNA conducted on a significant right parapharyngeal tumour suspected as a salivary tumour. Intra-op identification of level 2 nodes in the right parapharyngeal space, confirmed by scans. Symptoms ongoing for 6 years. Histology examination for the right mass and right level 2 lymph nodes.\tDURATION: 6 years=>P6Y
+
+Salivary tumour possibility explored via FNA in a large right parapharyngeal mass. Intra-op presence of level 2 nodes in the right parapharyngeal space, evident in scans. Symptoms persisting for 6 years. Histopathological scrutiny of the right mass and right level 2 lymph nodes.\tDURATION: 6 years=>P6Y
+
+Investigation into a large right parapharyngeal mass through FNA, considering salivary tumour. Intra-op discovery of level 2 nodes in the right parapharyngeal space, visible in scans. Symptoms present for 6 years. Histopathological analysis planned for the right mass and right level 2 lymph nodes.\tDURATION: 6 years=>P6Y
+
+FNA performed on a sizable right parapharyngeal tumour suspected to be a salivary tumour. Intra-op identification of level 2 nodes in the right parapharyngeal space, confirmed by scans. Symptoms enduring for 6 years. Histology examination scheduled for the right mass and right level 2 lymph nodes.\tDURATION: 6 years=>P6Y
+
+Right parapharyngeal mass examined via FNA for potential salivary tumour. Intra-op identification of level 2 nodes in the right parapharyngeal space, evident in scans. Symptoms persisting for 6 years. Histopathological analysis for the right mass and right level 2 lymph nodes.\tDURATION: 6 years=>P6Y
+
+Parapharyngeal tumour on the right, subjected to FNA to investigate salivary tumour. Intra-op discovery of level 2 nodes in the right parapharyngeal space, confirmed by scans. Symptoms present for 6 years. Histo examination for the right mass and right level 2 lymph nodes.\tDURATION: 6 years=>P6Y
+
+FNA conducted on a significant right parapharyngeal tumour suspected as a salivary tumour. Intra-op identification of level 2 nodes in the right parapharyngeal space, confirmed by scans. Symptoms ongoing for 6 years. Histology examination for the right mass and right level 2 lymph nodes.\tDURATION: 6 years=>P6Y
+
+Salivary tumour possibility explored via FNA in a large right parapharyngeal mass. Intra-op presence of level 2 nodes in the right parapharyngeal space, evident in scans. Symptoms persisting for 6 years. Histopathological scrutiny of the right mass and right level 2 lymph nodes.\tDURATION: 6 years=>P6Y
+
+Investigation into a large right parapharyngeal mass through FNA, considering salivary tumour. Intra-op discovery of level 2 nodes in the right parapharyngeal space, visible in scans. Symptoms present for 6 years. Histopathological analysis planned for the right mass and right level 2 lymph nodes.\tDURATION: 6 years=>P6Y
+
+FNA performed on a sizable right parapharyngeal tumour suspected to be a salivary tumour. Intra-op identification of level 2 nodes in the right parapharyngeal space, confirmed by scans. Symptoms enduring for 6 years. Histology examination scheduled for the right mass and right level 2 lymph nodes.\tDURATION: 6 years=>P6Y
+
+Right parapharyngeal mass examined via FNA for potential salivary tumour. Intra-op identification of level 2 nodes in the right parapharyngeal space, evident in scans. Symptoms persisting for 6 years. Histopathological analysis for the right mass and right level 2 lymph nodes.\tDURATION: 6 years=>P6Y
+
+Parapharyngeal tumour on the right, subjected to FNA to investigate salivary tumour. Intra-op discovery of level 2 nodes in the right parapharyngeal space, confirmed by scans. Symptoms present for 6 years. Histo examination for the right mass and right level 2 lymph nodes.\tDURATION: 6 years=>P6Y
+
+FNA conducted on a significant right parapharyngeal tumour suspected as a salivary tumour. Intra-op identification of level 2 nodes in the right parapharyngeal space, confirmed by scans. Symptoms ongoing for 6 years. Histology examination for the right mass and right level 2 lymph nodes.\tDURATION: 6 years=>P6Y
+
+Salivary tumour possibility explored via FNA in a large right parapharyngeal mass. Intra-op presence of level 2 nodes in the right parapharyngeal space, evident in scans. Symptoms persisting for 6 years. Histopathological scrutiny of the right mass and right level 2 lymph nodes.\tDURATION: 6 years=>P6Y
+
+Investigation into a large right parapharyngeal mass through FNA, considering salivary tumour. Intra-op discovery of level 2 nodes in the right parapharyngeal space, visible in scans. Symptoms present for 6 years. Histopathological analysis planned for the right mass and right level 2 lymph nodes.\tDURATION: 6 years=>P6Y
+
+FNA performed on a sizable right parapharyngeal tumour suspected to be a salivary tumour. Intra-op identification of level 2 nodes in the right parapharyngeal space, confirmed by scans. Symptoms enduring for 6 years. Histology examination scheduled for the right mass and right level 2 lymph nodes.\tDURATION: 6 years=>P6Y
+
+Right parapharyngeal mass examined via FNA for potential salivary tumour. Intra-op identification of level 2 nodes in the right parapharyngeal space, evident in scans. Symptoms persisting for 6 years. Histopathological analysis for the right mass and right level 2 lymph nodes.\tDURATION: 6 years=>P6Y
+
+Parapharyngeal tumour on the right, subjected to FNA to investigate salivary tumour. Intra-op discovery of level 2 nodes in the right parapharyngeal space, confirmed by scans. Symptoms present for 6 years. Histo examination for the right mass and right level 2 lymph nodes.\tDURATION: 6 years=>P6Y
+
+FNA conducted on a significant right parapharyngeal tumour suspected as a salivary tumour. Intra-op identification of level 2 nodes in the right parapharyngeal space, confirmed by scans. Symptoms ongoing for 6 years. Histology examination for the right mass and right level 2 lymph nodes.\tDURATION: 6 years=>P6Y
+
+Salivary tumour possibility explored via FNA in a large right parapharyngeal mass. Intra-op presence of level 2 nodes in the right parapharyngeal space, evident in scans. Symptoms persisting for 8 years. Histopathological scrutiny of the right mass and right level 2 lymph nodes.\tDURATION: 8 years=>P8Y
+
+Investigation into a large right parapharyngeal mass through FNA, considering salivary tumour. Intra-op discovery of level 2 nodes in the right parapharyngeal space, visible in scans. Symptoms present for 6 years. Histopathological analysis planned for the right mass and right level 2 lymph nodes.\tDURATION: 6 years=>P6Y
+
+FNA performed on a sizable right parapharyngeal tumour suspected to be a salivary tumour. Intra-op identification of level 2 nodes in the right parapharyngeal space, confirmed by scans. Symptoms enduring for 6 years. Histology examination scheduled for the right mass and right level 2 lymph nodes.\tDURATION: 6 years=>P6Y
+
+
+Lung cancer resected four weeks ago. Completion lobectomy. Right lower lobe.\tDURATION: four weeks=>P4W
+Lung cancer resected five weeks ago. Completion lobectomy. Right lower lobe.\tDURATION: five weeks=>P5W
+Lung cancer resected six weeks ago. Completion lobectomy. Right lower lobe.\tDURATION: six weeks=>P6W
+Lung cancer resected seven weeks ago. Completion lobectomy. Right lower lobe.\tDURATION: seven weeks=>P7W
+Lung cancer resected eight weeks ago. Completion lobectomy. Right lower lobe.\tDURATION: eight weeks=>P8W
+Lung cancer resected nine weeks ago. Completion lobectomy. Right lower lobe.\tDURATION: nine weeks=>P9W
+Lung cancer resected ten weeks ago. Completion lobectomy. Right lower lobe.\tDURATION: ten weeks=>P10W
+Lung cancer resected eleven weeks ago. Completion lobectomy. Right lower lobe.\tDURATION: eleven weeks=>P11W
+Lung cancer resected twelve weeks ago. Completion lobectomy. Right lower lobe.\tDURATION: twelve weeks=>P12W
+Lung cancer resected thirteen weeks ago. Completion lobectomy. Right lower lobe.\tDURATION: thirteen weeks=>P13W
+Lung cancer resected fourteen weeks ago. Completion lobectomy. Right lower lobe.\tDURATION: fourteen weeks=>P14W
+Lung cancer resected fifteen weeks ago. Completion lobectomy. Right lower lobe.\tDURATION: fifteen weeks=>P15W
+Lung cancer resected sixteen weeks ago. Completion lobectomy. Right lower lobe.\tDURATION: sixteen weeks=>P16W
+Lung cancer resected seventeen weeks ago. Completion lobectomy. Right lower lobe.\tDURATION: seventeen weeks=>P17W
+Lung cancer resected eighteen weeks ago. Completion lobectomy. Right lower lobe.\tDURATION: eighteen weeks=>P18W
+Lung cancer resected nineteen weeks ago. Completion lobectomy. Right lower lobe.\tDURATION: nineteen weeks=>P19W
+Lung cancer resected twenty weeks ago. Completion lobectomy. Right lower lobe.\tDURATION: twenty weeks=>P20W
+Lung cancer resected twenty-one weeks ago. Completion lobectomy. Right lower lobe.\tDURATION: twenty-one weeks=>P21W
+Lung cancer resected twenty-two weeks ago. Completion lobectomy. Right lower lobe.\tDURATION: twenty-two weeks=>P22W
+Lung cancer resected twenty-three weeks ago. Completion lobectomy. Right lower lobe.\tDURATION: twenty-three weeks=>P23W
+Lung cancer resected twenty-four weeks ago. Completion lobectomy. Right lower lobe.\tDURATION: twenty-four weeks=>P24W
+Lung cancer resected twenty-five weeks ago. Completion lobectomy. Right lower lobe.\tDURATION: twenty-five weeks=>P25W
+Lung cancer resected twenty-six weeks ago. Completion lobectomy. Right lower lobe.\tDURATION: twenty-six weeks=>P26W
+Lung cancer resected twenty-seven weeks ago. Completion lobectomy. Right lower lobe.\tDURATION: twenty-seven weeks=>P27W
+Lung cancer resected twenty-eight weeks ago. Completion lobectomy. Right lower lobe.\tDURATION: twenty-eight weeks=>P28W
+Lung cancer resected twenty-nine weeks ago. Completion lobectomy. Right lower lobe.\tDURATION: twenty-nine weeks=>P29W
+Lung cancer resected thirty weeks ago. Completion lobectomy. Right lower lobe.\tDURATION: thirty weeks=>P30W
+Lung cancer resected thirty-one weeks ago. Completion lobectomy. Right lower lobe.\tDURATION: thirty-one weeks=>P31W
+Lung cancer resected thirty-two weeks ago. Completion lobectomy. Right lower lobe.\tDURATION: thirty-two weeks=>P32W
+Lung cancer resected thirty-three weeks ago. Completion lobectomy. Right lower lobe.\tDURATION: thirty-three weeks=>P33W
+Lung cancer resected thirty-four weeks ago. Completion lobectomy. Right lower lobe.\tDURATION: thirty-four weeks=>P34W
+Lung cancer resected thirty-five weeks ago. Completion lobectomy. Right lower lobe.\tDURATION: thirty-five weeks=>P35W
+Lung cancer resected thirty-six weeks ago. Completion lobectomy. Right lower lobe.\tDURATION: thirty-six weeks=>P36W
+Lung cancer resected thirty-seven weeks ago. Completion lobectomy. Right lower lobe.\tDURATION: thirty-seven weeks=>P37W
+Lung cancer resected thirty-eight weeks ago. Completion lobectomy. Right lower lobe.\tDURATION: thirty-eight weeks=>P38W
+Lung cancer resected thirty-nine weeks ago. Completion lobectomy. Right lower lobe.\tDURATION: thirty-nine weeks=>P39W
+Lung cancer resected forty weeks ago. Completion lobectomy. Right lower lobe.\tDURATION: forty weeks=>P40W
+Lung cancer resected forty-one weeks ago. Completion lobectomy. Right lower lobe.\tDURATION: forty-one weeks=>P41W
+Lung cancer resected forty-two weeks ago. Completion lobectomy. Right lower lobe.\tDURATION: forty-two weeks=>P42W
+Lung cancer resected forty-three weeks ago. Completion lobectomy. Right lower lobe.\tDURATION: forty-three weeks=>P43W
+Lung cancer resected forty-four weeks ago. Completion lobectomy. Right lower lobe.\tDURATION: forty-four weeks=>P44W
+Lung cancer resected forty-five weeks ago. Completion lobectomy. Right lower lobe.\tDURATION: forty-five weeks=>P45W
+Lung cancer resected forty-six weeks ago. Completion lobectomy. Right lower lobe.\tDURATION: forty-six weeks=>P46W
+Lung cancer resected forty-seven weeks ago. Completion lobectomy. Right lower lobe.\tDURATION: forty-seven weeks=>P47W
+
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 18 years ago), AF, T2DM.\tDURATION: 18 years=>P18Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 9 years ago), AF, T2DM.\tDURATION: 9 years=>P9Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 14 years ago), AF, T2DM.\tDURATION: 14 years=>P14Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 11 years ago), AF, T2DM.\tDURATION: 11 years=>P11Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 6 years ago), AF, T2DM.\tDURATION: 6 years=>P6Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 13 years ago), AF, T2DM.\tDURATION: 13 years=>P13Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 16 years ago), AF, T2DM.\tDURATION: 16 years=>P16Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 3 years ago), AF, T2DM.\tDURATION: 3 years=>P3Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 20 years ago), AF, T2DM.\tDURATION: 20 years=>P20Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 8 years ago), AF, T2DM.\tDURATION: 8 years=>P8Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 15 years ago), AF, T2DM.\tDURATION: 15 years=>P15Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 10 years ago), AF, T2DM.\tDURATION: 10 years=>P10Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 5 years ago), AF, T2DM.\tDURATION: 5 years=>P5Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 18 years ago), AF, T2DM.\tDURATION: 18 years=>P18Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 9 years ago), AF, T2DM.\tDURATION: 9 years=>P9Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 14 years ago), AF, T2DM.\tDURATION: 14 years=>P14Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 11 years ago), AF, T2DM.\tDURATION: 11 years=>P11Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 6 years ago), AF, T2DM.\tDURATION: 6 years=>P6Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 13 years ago), AF, T2DM.\tDURATION: 13 years=>P13Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 16 years ago), AF, T2DM.\tDURATION: 16 years=>P16Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 3 years ago), AF, T2DM.\tDURATION: 3 years=>P3Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 20 years ago), AF, T2DM.\tDURATION: 20 years=>P20Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 8 years ago), AF, T2DM.\tDURATION: 8 years=>P8Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 15 years ago), AF, T2DM.\tDURATION: 15 years=>P15Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 10 years ago), AF, T2DM.\tDURATION: 10 years=>P10Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 5 years ago), AF, T2DM.\tDURATION: 5 years=>P5Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 18 years ago), AF, T2DM.\tDURATION: 18 years=>P18Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 9 years ago), AF, T2DM.\tDURATION: 9 years=>P9Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 14 years ago), AF, T2DM.\tDURATION: 14 years=>P14Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 11 years ago), AF, T2DM.\tDURATION: 11 years=>P11Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 6 years ago), AF, T2DM.\tDURATION: 6 years=>P6Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 13 years ago), AF, T2DM.\tDURATION: 13 years=>P13Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 16 years ago), AF, T2DM.\tDURATION: 16 years=>P16Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 3 years ago), AF, T2DM.\tDURATION: 3 years=>P3Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 20 years ago), AF, T2DM.\tDURATION: 20 years=>P20Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 8 years ago), AF, T2DM.\tDURATION: 8 years=>P8Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 15 years ago), AF, T2DM.\tDURATION: 15 years=>P15Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 10 years ago), AF, T2DM.\tDURATION: 10 years=>P10Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 5 years ago), AF, T2DM.\tDURATION: 5 years=>P5Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 18 years ago), AF, T2DM.\tDURATION: 18 years=>P18Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 9 years ago), AF, T2DM.\tDURATION: 9 years=>P9Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 14 years ago), AF, T2DM.\tDURATION: 14 years=>P14Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 11 years ago), AF, T2DM.\tDURATION: 11 years=>P11Y
+High anterior resection for suspected colon cancer. Smallfirm subcapsular nodule in seg IVB of liver. H/T, IDH (CABG 6 years ago), AF, T2DM.\tDURATION: 6 years=>P6Y
+
+Distal oesophageal AdenoCa. Neoadjuvant chemoRTx completed 8-9 weeks ago. Ivor Lewis oesophagectomy. Cardio-oesophageal junction. Sub-carinal lymph node. Bronchial lymph node. Proximal lymph node. Pt recurrent smoker.\tDURATION: 8-9 weeks=>P8.5W
+
+Distal oesophageal AdenoCa. Neoadjuvant chemoRTx completed 11-12 weeks ago. Ivor Lewis oesophagectomy. Cardio-oesophageal junction. Sub-carinal lymph node. Bronchial lymph node. Proximal lymph node. Pt recurrent smoker.\tDURATION: 11-12 weeks=>P11.5W
+
+Distal oesophageal AdenoCa. Neoadjuvant chemoRTx completed 6-7 weeks ago. Ivor Lewis oesophagectomy. Cardio-oesophageal junction. Sub-carinal lymph node. Bronchial lymph node. Proximal lymph node. Pt recurrent smoker.\tDURATION: 6-7 weeks=>P6.5W
+
+Distal oesophageal AdenoCa. Neoadjuvant chemoRTx completed 10-11 weeks ago. Ivor Lewis oesophagectomy. Cardio-oesophageal junction. Sub-carinal lymph node. Bronchial lymph node. Proximal lymph node. Pt recurrent smoker.\tDURATION: 10-11 weeks=>P10.5W
+
+Distal oesophageal AdenoCa. Neoadjuvant chemoRTx completed 7-8 weeks ago. Ivor Lewis oesophagectomy. Cardio-oesophageal junction. Sub-carinal lymph node. Bronchial lymph node. Proximal lymph node. Pt recurrent smoker.\tDURATION: 7-8 weeks=>P7.5W
+
+Distal oesophageal AdenoCa. Neoadjuvant chemoRTx completed 9-10 weeks ago. Ivor Lewis oesophagectomy. Cardio-oesophageal junction. Sub-carinal lymph node. Bronchial lymph node. Proximal lymph node. Pt recurrent smoker.\tDURATION: 9-10 weeks=>P9.5W
+
+Distal oesophageal AdenoCa. Neoadjuvant chemoRTx completed 5-6 weeks ago. Ivor Lewis oesophagectomy. Cardio-oesophageal junction. Sub-carinal lymph node. Bronchial lymph node. Proximal lymph node. Pt recurrent smoker.\tDURATION: 5-6 weeks=>P5.5W
+
+Distal oesophageal AdenoCa. Neoadjuvant chemoRTx completed 12-13 weeks ago. Ivor Lewis oesophagectomy. Cardio-oesophageal junction. Sub-carinal lymph node. Bronchial lymph node. Proximal lymph node. Pt recurrent smoker.\tDURATION: 12-13 weeks=>P12.5W
+
+Distal oesophageal AdenoCa. Neoadjuvant chemoRTx completed 8-9 weeks ago. Ivor Lewis oesophagectomy. Cardio-oesophageal junction. Sub-carinal lymph node. Bronchial lymph node. Proximal lymph node. Pt recurrent smoker.\tDURATION: 8-9 weeks=>P8.5W
+
+Distal oesophageal AdenoCa. Neoadjuvant chemoRTx completed 11-12 weeks ago. Ivor Lewis oesophagectomy. Cardio-oesophageal junction. Sub-carinal lymph node. Bronchial lymph node. Proximal lymph node. Pt recurrent smoker.\tDURATION: 11-12 weeks=>P11.5W
+
+Distal oesophageal AdenoCa. Neoadjuvant chemoRTx completed 6-7 weeks ago. Ivor Lewis oesophagectomy. Cardio-oesophageal junction. Sub-carinal lymph node. Bronchial lymph node. Proximal lymph node. Pt recurrent smoker.\tDURATION: 6-7 weeks=>P6.5W
+
+Distal oesophageal AdenoCa. Neoadjuvant chemoRTx completed 10-11 weeks ago. Ivor Lewis oesophagectomy. Cardio-oesophageal junction. Sub-carinal lymph node. Bronchial lymph node. Proximal lymph node. Pt recurrent smoker.\tDURATION: 10-11 weeks=>P10.5W
+
+Distal oesophageal AdenoCa. Neoadjuvant chemoRTx completed 7-8 weeks ago. Ivor Lewis oesophagectomy. Cardio-oesophageal junction. Sub-carinal lymph node. Bronchial lymph node. Proximal lymph node. Pt recurrent smoker.\tDURATION: 7-8 weeks=>P7.5W
+
+Distal oesophageal AdenoCa. Neoadjuvant chemoRTx completed 9-10 weeks ago. Ivor Lewis oesophagectomy. Cardio-oesophageal junction. Sub-carinal lymph node. Bronchial lymph node. Proximal lymph node. Pt recurrent smoker.\tDURATION: 9-10 weeks=>P9.5W
+
+Distal oesophageal AdenoCa. Neoadjuvant chemoRTx completed 5-6 weeks ago. Ivor Lewis oesophagectomy. Cardio-oesophageal junction. Sub-carinal lymph node. Bronchial lymph node. Proximal lymph node. Pt recurrent smoker.\tDURATION: 5-6 weeks=>P5.5W
+
+Distal oesophageal AdenoCa. Neoadjuvant chemoRTx completed 12-13 weeks ago. Ivor Lewis oesophagectomy. Cardio-oesophageal junction. Sub-carinal lymph node. Bronchial lymph node. Proximal lymph node. Pt recurrent smoker.\tDURATION: 12-13 weeks=>P12.5W
+
+Distal oesophageal AdenoCa. Neoadjuvant chemoRTx completed 8-9 weeks ago. Ivor Lewis oesophagectomy. Cardio-oesophageal junction. Sub-carinal lymph node. Bronchial lymph node. Proximal lymph node. Pt recurrent smoker.\tDURATION: 8-9 weeks=>P8.5W
+
+Distal oesophageal AdenoCa. Neoadjuvant chemoRTx completed 11-12 weeks ago. Ivor Lewis oesophagectomy. Cardio-oesophageal junction. Sub-carinal lymph node. Bronchial lymph node. Proximal lymph node. Pt recurrent smoker.\tDURATION: 11-12 weeks=>P11.5W
+
+Distal oesophageal AdenoCa. Neoadjuvant chemoRTx completed 6-7 weeks ago. Ivor Lewis oesophagectomy. Cardio-oesophageal junction. Sub-carinal lymph node. Bronchial lymph node. Proximal lymph node. Pt recurrent smoker.\tDURATION: 6-7 weeks=>P6.5W
+
+Distal oesophageal AdenoCa. Neoadjuvant chemoRTx completed 10-11 weeks ago. Ivor Lewis oesophagectomy. Cardio-oesophageal junction. Sub-carinal lymph node. Bronchial lymph node. Proximal lymph node. Pt recurrent smoker.\tDURATION: 10-11 weeks=>P10.5W
+
+Distal oesophageal AdenoCa. Neoadjuvant chemoRTx completed 7-8 weeks ago. Ivor Lewis oesophagectomy. Cardio-oesophageal junction. Sub-carinal lymph node. Bronchial lymph node. Proximal lymph node. Pt recurrent smoker.\tDURATION: 7-8 weeks=>P7.5W
+
+Distal oesophageal AdenoCa. Neoadjuvant chemoRTx completed 9-10 weeks ago. Ivor Lewis oesophagectomy. Cardio-oesophageal junction. Sub-carinal lymph node. Bronchial lymph node. Proximal lymph node. Pt recurrent smoker.\tDURATION: 9-10 weeks=>P9.5W
+
+Distal oesophageal AdenoCa. Neoadjuvant chemoRTx completed 5-6 weeks ago. Ivor Lewis oesophagectomy. Cardio-oesophageal junction. Sub-carinal lymph node. Bronchial lymph node. Proximal lymph node. Pt recurrent smoker.\tDURATION: 5-6 weeks=>P5.5W
+
+Distal oesophageal AdenoCa. Neoadjuvant chemoRTx completed 12-13 weeks ago. Ivor Lewis oesophagectomy. Cardio-oesophageal junction. Sub-carinal lymph node. Bronchial lymph node. Proximal lymph node. Pt recurrent smoker.\tDURATION: 12-13 weeks=>P12.5W
+
+Distal oesophageal AdenoCa. Neoadjuvant chemoRTx completed 8-9 weeks ago. Ivor Lewis oesophagectomy. Cardio-oesophageal junction. Sub-carinal lymph node. Bronchial lymph node. Proximal lymph node. Pt recurrent smoker.\tDURATION: 8-9 weeks=>P8.5W
+
+Distal oesophageal AdenoCa. Neoadjuvant chemoRTx completed 11-12 weeks ago. Ivor Lewis oesophagectomy. Cardio-oesophageal junction. Sub-carinal lymph node. Bronchial lymph node. Proximal lymph node. Pt recurrent smoker.\tDURATION: 11-12 weeks=>P11.5W
+
+Distal oesophageal AdenoCa. Neoadjuvant chemoRTx completed 6-7 weeks ago. Ivor Lewis oesophagectomy. Cardio-oesophageal junction. Sub-carinal lymph node. Bronchial lymph node. Proximal lymph node. Pt recurrent smoker.\tDURATION: 6-7 weeks=>P6.5W
+
+Distal oesophageal AdenoCa. Neoadjuvant chemoRTx completed 10-11 weeks ago. Ivor Lewis oesophagectomy. Cardio-oesophageal junction. Sub-carinal lymph node. Bronchial lymph node. Proximal lymph node. Pt recurrent smoker.\tDURATION: 10-11 weeks=>P10.5W
+
+Distal oesophageal AdenoCa. Neoadjuvant chemoRTx completed 7-8 weeks ago. Ivor Lewis oesophagectomy. Cardio-oesophageal junction. Sub-carinal lymph node. Bronchial lymph node. Proximal lymph node. Pt recurrent smoker.\tDURATION: 7-8 weeks=>P7.5W
+
+Distal oesophageal AdenoCa. Neoadjuvant chemoRTx completed 9-10 weeks ago. Ivor Lewis oesophagectomy. Cardio-oesophageal junction. Sub-carinal lymph node. Bronchial lymph node. Proximal lymph node. Pt recurrent smoker.\tDURATION: 9-10 weeks=>P9.5W
+
+Distal oesophageal AdenoCa. Neoadjuvant chemoRTx completed 5-6 weeks ago. Ivor Lewis oesophagectomy. Cardio-oesophageal junction. Sub-carinal lymph node. Bronchial lymph node. Proximal lymph node. Pt recurrent smoker.\tDURATION: 5-6 weeks=>P5.5W
+
+Distal oesophageal AdenoCa. Neoadjuvant chemoRTx completed 12-13 weeks ago. Ivor Lewis oesophagectomy. Cardio-oesophageal junction. Sub-carinal lymph node. Bronchial lymph node. Proximal lymph node. Pt recurrent smoker.\tDURATION: 12-13 weeks=>P12.5W
+
+Distal oesophageal AdenoCa. Neoadjuvant chemoRTx completed 8-9 weeks ago. Ivor Lewis oesophagectomy. Cardio-oesophageal junction. Sub-carinal lymph node. Bronchial lymph node. Proximal lymph node. Pt recurrent smoker.\tDURATION: 8-9 weeks=>P8.5W
+
+Distal oesophageal AdenoCa. Neoadjuvant chemoRTx completed 11-12 weeks ago. Ivor Lewis oesophagectomy. Cardio-oesophageal junction. Sub-carinal lymph node. Bronchial lymph node. Proximal lymph node. Pt recurrent smoker.\tDURATION: 11-12 weeks=>P11.5W
+
+Distal oesophageal AdenoCa. Neoadjuvant chemoRTx completed 6-7 weeks ago. Ivor Lewis oesophagectomy. Cardio-oesophageal junction. Sub-carinal lymph node. Bronchial lymph node. Proximal lymph node. Pt recurrent smoker.\tDURATION: 6-7 weeks=>P6.5W
+
+Distal oesophageal AdenoCa. Neoadjuvant chemoRTx completed 10-11 weeks ago. Ivor Lewis oesophagectomy. Cardio-oesophageal junction. Sub-carinal lymph node. Bronchial lymph node. Proximal lymph node. Pt recurrent smoker.\tDURATION: 10-11 weeks=>P10.5W
+
+Distal oesophageal AdenoCa. Neoadjuvant chemoRTx completed 7-8 weeks ago. Ivor Lewis oesophagectomy. Cardio-oesophageal junction. Sub-carinal lymph node. Bronchial lymph node. Proximal lymph node. Pt recurrent smoker.\tDURATION: 7-8 weeks=>P7.5W
+
+Pelvic mass for assessment. 20 week pelvic/abdominal mass.\tDURATION:20 week=>P20W
+Pelvic mass for examination. 32 week pelvic/abdominal mass.\tDURATION:32 week=>P32W
+Pelvic mass for investigation. 15 week pelvic/abdominal mass.\tDURATION:15 week=>P15W
+Pelvic mass for assessment. 28 week pelvic/abdominal mass.\tDURATION:28 week=>P28W
+Pelvic mass for examination. 22 week pelvic/abdominal mass.\tDURATION:22 week=>P22W
+Pelvic mass for investigation. 30 week pelvic/abdominal mass.\tDURATION:30 week=>P30W
+Pelvic mass for assessment. 18 week pelvic/abdominal mass.\tDURATION:18 week=>P18W
+Pelvic mass for examination. 25 week pelvic/abdominal mass.\tDURATION:25 week=>P25W
+Pelvic mass for investigation. 36 week pelvic/abdominal mass.\tDURATION:36 week=>P36W
+Pelvic mass for assessment. 27 week pelvic/abdominal mass.\tDURATION:27 week=>P27W
+Pelvic mass for examination. 14 week pelvic/abdominal mass.\tDURATION:14 week=>P14W
+Pelvic mass for investigation. 21 week pelvic/abdominal mass.\tDURATION:21 week=>P21W
+Pelvic mass for assessment. 26 week pelvic/abdominal mass.\tDURATION:26 week=>P26W
+Pelvic mass for examination. 19 week pelvic/abdominal mass.\tDURATION:19 week=>P19W
+Pelvic mass for investigation. 31 week pelvic/abdominal mass.\tDURATION:31 week=>P31W
+Pelvic mass for assessment. 23 week pelvic/abdominal mass.\tDURATION:23 week=>P23W
+Pelvic mass for examination. 17 week pelvic/abdominal mass.\tDURATION:17 week=>P17W
+Pelvic mass for investigation. 29 week pelvic/abdominal mass.\tDURATION:29 week=>P29W
+Pelvic mass for assessment. 33 week pelvic/abdominal mass.\tDURATION:33 week=>P33W
+Pelvic mass for examination. 16 week pelvic/abdominal mass.\tDURATION:16 week=>P16W
+Pelvic mass for investigation. 24 week pelvic/abdominal mass.\tDURATION:24 week=>P24W
+Pelvic mass for assessment. 20 week pelvic/abdominal mass.\tDURATION:20 week=>P20W
+Pelvic mass for examination. 32 week pelvic/abdominal mass.\tDURATION:32 week=>P32W
+Pelvic mass for investigation. 15 week pelvic/abdominal mass.\tDURATION:15 week=>P15W
+Pelvic mass for assessment. 28 week pelvic/abdominal mass.\tDURATION:28 week=>P28W
+Pelvic mass for examination. 22 week pelvic/abdominal mass.\tDURATION:22 week=>P22W
+Pelvic mass for investigation. 30 week pelvic/abdominal mass.\tDURATION:30 week=>P30W
+Pelvic mass for assessment. 18 week pelvic/abdominal mass.\tDURATION:18 week=>P18W
+Pelvic mass for examination. 25 week pelvic/abdominal mass.\tDURATION:25 week=>P25W
+Pelvic mass for investigation. 36 week pelvic/abdominal mass.\tDURATION:36 week=>P36W
+Pelvic mass for assessment. 27 week pelvic/abdominal mass.\tDURATION:27 week=>P27W
+Pelvic mass for examination. 14 week pelvic/abdominal mass.\tDURATION:14 week=>P14W
+Pelvic mass for investigation. 21 week pelvic/abdominal mass.\tDURATION:21 week=>P21W
+Pelvic mass for assessment. 26 week pelvic/abdominal mass.\tDURATION:26 week=>P26W
+Pelvic mass for examination. 19 week pelvic/abdominal mass.\tDURATION:19 week=>P19W
+Pelvic mass for investigation. 31 week pelvic/abdominal mass.\tDURATION:31 week=>P31W
+Pelvic mass for assessment. 23 week pelvic/abdominal mass.\tDURATION:23 week=>P23W
+Pelvic mass for examination. 17 week pelvic/abdominal mass.\tDURATION:17 week=>P17W
+Pelvic mass for investigation. 29 week pelvic/abdominal mass.\tDURATION:29 week=>P29W
+Pelvic mass for assessment. 33 week pelvic/abdominal mass.\tDURATION:33 week=>P33W
+Pelvic mass for examination. 16 week pelvic/abdominal mass.\tDURATION:16 week=>P16W
+
+Breast cancer. Mammogram 6/12. History of elbow fracture 3 wks ago.\tDURATION: 3 wks=>P3W
+Prostate adenoma. PSA test 8/52. History of knee arthroscopy 5 wks ago.\tDURATION: 5 wks=>P5W
+Ovarian cyst. Pelvic ultrasound 4/12. History of herniated disc surgery 7 wks ago.\tDURATION: 7 wks=>P7W
+Colorectal polyp. Colonoscopy 3/52. History of ankle sprain 6 wks ago.\tDURATION: 6 wks=>P6W
+Kidney stones. CT abdomen 2/12. History of hip replacement 4 wks ago.\tDURATION: 4 wks=>P4W
+Lung carcinoma. Chest X-ray 7/52. History of wrist surgery 9 wks ago.\tDURATION: 9 wks=>P9W
+Gastric ulcer. Endoscopy 5/12. History of shoulder dislocation 2 wks ago.\tDURATION: 2 wks=>P2W
+Liver hemangioma. MRI abdomen 9/52. History of toe fracture 8 wks ago.\tDURATION: 8 wks=>P8W
+Thyroid cancer. CT neck 6/12. History of knee ligament repair 5 wks ago.\tDURATION: 5 wks=>P5W
+Pancreatic cyst. MRI abdomen 4/52. History of finger fracture 3 wks ago.\tDURATION: 3 wks=>P3W
+Bladder infection. Urinalysis 3/12. History of ankle surgery 7 wks ago.\tDURATION: 7 wks=>P7W
+Esophageal varices. Upper endoscopy 8/52. History of elbow dislocation 6 wks ago.\tDURATION: 6 wks=>P6W
+Testicular tumor. Testicular ultrasound 5/12. History of knee replacement 4 wks ago.\tDURATION: 4 wks=>P4W
+Gallstones. Abdominal ultrasound 2/52. History of hand surgery 9 wks ago.\tDURATION: 9 wks=>P9W
+Rectal polyp. Colonoscopy 7/12. History of hip fracture 2 wks ago.\tDURATION: 2 wks=>P2W
+Pancreatitis. CT abdomen 6/52. History of shoulder surgery 8 wks ago.\tDURATION: 8 wks=>P8W
+Intestinal obstruction. Abdominal X-ray 4/12. History of toe surgery 5 wks ago.\tDURATION: 5 wks=>P5W
+Uterine fibroids. Pelvic ultrasound 9/52. History of knee surgery 3 wks ago.\tDURATION: 3 wks=>P3W
+Liver abscess. CT abdomen 8/12. History of finger dislocation 7 wks ago.\tDURATION: 7 wks=>P7W
+Stomach cancer. Endoscopy 3/52. History of hip arthroscopy 6 wks ago.\tDURATION: 6 wks=>P6W
+Bladder polyp. Cystoscopy 5/12. History of wrist fracture 4 wks ago.\tDURATION: 4 wks=>P4W
+Kidney infection. CT abdomen 7/52. History of elbow surgery 2 wks ago.\tDURATION: 2 wks=>P2W
+Prostate hyperplasia. PSA test 9/12. History of ankle fracture 8 wks ago.\tDURATION: 8 wks=>P8W
+Ovarian cancer. Pelvic ultrasound 6/52. History of finger surgery 5 wks ago.\tDURATION: 5 wks=>P5W
+Colorectal polyp. Colonoscopy 2/12. History of hip surgery 7 wks ago.\tDURATION: 7 wks=>P7W
+Lung nodule. Chest X-ray 4/52. History of toe fracture 3 wks ago.\tDURATION: 3 wks=>P3W
+Gastric ulcer. Endoscopy 8/12. History of shoulder dislocation 6 wks ago.\tDURATION: 6 wks=>P6W
+Liver cyst. MRI abdomen 5/52. History of knee ligament repair 4 wks ago.\tDURATION: 4 wks=>P4W
+Thyroid nodule. CT neck 3/12. History of finger fracture 9 wks ago.\tDURATION: 9 wks=>P9W
+Pancreatic cyst. MRI abdomen 7/52. History of hip replacement 2 wks ago.\tDURATION: 2 wks=>P2W
+Bladder infection. Urinalysis 4/12. History of ankle surgery 8 wks ago.\tDURATION: 8 wks=>P8W
+Esophageal varices. Upper endoscopy 6/52. History of elbow dislocation 5 wks ago.\tDURATION: 5 wks=>P5W
+Testicular tumor. Testicular ultrasound 2/12. History of knee replacement 7 wks ago.\tDURATION: 7 wks=>P7W
+Gallstones. Abdominal ultrasound 7/52. History of hand surgery 3 wks ago.\tDURATION: 3 wks=>P3W
+Rectal polyp. Colonoscopy 8/12. History of hip fracture 6 wks ago.\tDURATION: 6 wks=>P6W
+Pancreatitis. CT abdomen 5/52. History of shoulder surgery 9 wks ago.\tDURATION: 9 wks=>P9W
+Intestinal obstruction. Abdominal X-ray 3/12. History of toe surgery 4 wks ago.\tDURATION: 4 wks=>P4W
+Uterine fibroids. Pelvic ultrasound 8/52. History of knee surgery 2 wks ago.\tDURATION: 2 wks=>P2W
+Liver abscess. CT abdomen 6/12. History of finger dislocation 7 wks ago.\tDURATION: 7 wks=>P7W
+Stomach cancer. Endoscopy 2/52. History of hip arthroscopy 5 wks ago.\tDURATION: 5 wks=>P5W
+Bladder polyp. Cystoscopy 6/12. History of wrist fracture 3 wks ago.\tDURATION: 3 wks=>P3W
+Kidney infection. CT abdomen 8/52. History of elbow surgery 7 wks ago.\tDURATION: 7 wks=>P7W
+Prostate hyperplasia. PSA test 6/12. History of ankle fracture 2 wks ago.\tDURATION: 2 wks=>P2W
+Ovarian cancer. Pelvic ultrasound 5/52. History of finger surgery 4 wks ago.\tDURATION: 4 wks=>P4W
+Colorectal polyp. Colonoscopy 3/12. History of hip surgery 6 wks ago.\tDURATION: 6 wks=>P6W
+Lung nodule. Chest X-ray 8/52. History of toe fracture 9 wks ago.\tDURATION: 9 wks=>P9W
+Gastric ulcer. Endoscopy 4/52. History of shoulder dislocation 5 wks ago.\tDURATION: 5 wks=>P5W
+Liver cyst. MRI abdomen 3/12. History of knee ligament repair 7 wks ago.\tDURATION: 7 wks=>P7W
+Thyroid nodule. CT neck 7/52. History of finger fracture 2 wks ago.\tDURATION: 2 wks=>P2W
+Pancreatic cyst. MRI abdomen 6/12. History of hip replacement 5 wks ago.\tDURATION: 5 wks=>P5W
+
+
+2 weeks. Diagnosed with germ cell tumor. Possibly serous tumor. The specimen was received fresh for frozen section.\tDURATION: 2 weeks=>P2W
+4 months. Suspected germ cell tumor. Questionable serous tumor. The fresh specimen was received for frozen section.\tDURATION: 4 months=>P4M
+1 week. Preliminary diagnosis of germ cell tumor. Potentially serous tumor. Fresh specimen received for frozen section.\tDURATION: 1 week=>P1W
+6 months. Indications of germ cell tumor. Possible serous tumor. The received specimen was fresh for frozen section.\tDURATION: 6 months=>P6M
+3 weeks. Diagnosed with germ cell tumor. Possibly serous tumor. The specimen was received fresh for frozen section.\tDURATION: 3 weeks=>P3W
+5 months. Suspected germ cell tumor. Questionable serous tumor. The fresh specimen was received for frozen section.\tDURATION: 5 months=>P5M
+2 days. Preliminary diagnosis of germ cell tumor. Potentially serous tumor. Fresh specimen received for frozen section.\tDURATION: 2 days=>P2D
+7 months. Indications of germ cell tumor. Possible serous tumor. The received specimen was fresh for frozen section.\tDURATION: 7 months=>P7M
+4 weeks. Diagnosed with germ cell tumor. Possibly serous tumor. The specimen was received fresh for frozen section.\tDURATION: 4 weeks=>P4W
+8 months. Suspected germ cell tumor. Questionable serous tumor. The fresh specimen was received for frozen section.\tDURATION: 8 months=>P8M
+5 days. Preliminary diagnosis of germ cell tumor. Potentially serous tumor. Fresh specimen received for frozen section.\tDURATION: 5 days=>P5D
+9 months. Indications of germ cell tumor. Possible serous tumor. The received specimen was fresh for frozen section.\tDURATION: 9 months=>P9M
+6 weeks. Diagnosed with germ cell tumor. Possibly serous tumor. The specimen was received fresh for frozen section.\tDURATION: 6 weeks=>P6W
+10 months. Suspected germ cell tumor. Questionable serous tumor. The fresh specimen was received for frozen section.\tDURATION: 10 months=>P10M
+3 days. Preliminary diagnosis of germ cell tumor. Potentially serous tumor. Fresh specimen received for frozen section.\tDURATION: 3 days=>P3D
+11 months. Indications of germ cell tumor. Possible serous tumor. The received specimen was fresh for frozen section.\tDURATION: 11 months=>P11M
+7 weeks. Diagnosed with germ cell tumor. Possibly serous tumor. The specimen was received fresh for frozen section.\tDURATION: 7 weeks=>P7W
+1 year. Suspected germ cell tumor. Questionable serous tumor. The fresh specimen was received for frozen section.\tDURATION: 1 year=>P1Y
+8 days. Preliminary diagnosis of germ cell tumor. Potentially serous tumor. Fresh specimen received for frozen section.\tDURATION: 8 days=>P8D
+12 months. Indications of germ cell tumor. Possible serous tumor. The received specimen was fresh for frozen section.\tDURATION: 12 months=>P12M
+9 weeks. Diagnosed with germ cell tumor. Possibly serous tumor. The specimen was received fresh for frozen section.\tDURATION: 9 weeks=>P9W
+2 years. Suspected germ cell tumor. Questionable serous tumor. The fresh specimen was received for frozen section.\tDURATION: 2 years=>P2Y
+10 days. Preliminary diagnosis of germ cell tumor. Potentially serous tumor. Fresh specimen received for frozen section.\tDURATION: 10 days=>P10D
+13 months. Indications of germ cell tumor. Possible serous tumor. The received specimen was fresh for frozen section.\tDURATION: 13 months=>P13M
+11 weeks. Diagnosed with germ cell tumor. Possibly serous tumor. The specimen was received fresh for frozen section.\tDURATION: 11 weeks=>P11W
+3 years. Suspected germ cell tumor. Questionable serous tumor. The fresh specimen was received for frozen section.\tDURATION: 3 years=>P3Y
+12 days. Preliminary diagnosis of germ cell tumor. Potentially serous tumor. Fresh specimen received for frozen section.\tDURATION: 12 days=>P12D
+14 months. Indications of germ cell tumor. Possible serous tumor. The received specimen was fresh for frozen section.\tDURATION: 14 months=>P14M
+4 years. Diagnosed with germ cell tumor. Possibly serous tumor. The specimen was received fresh for frozen section.\tDURATION: 4 years=>P4Y
+15 months. Suspected germ cell tumor. Questionable serous tumor. The fresh specimen was received for frozen section.\tDURATION: 15 months=>P15M
+13 days. Preliminary diagnosis of germ cell tumor. Potentially serous tumor. Fresh specimen received for frozen section.\tDURATION: 13 days=>P13D
+5 years. Indications of germ cell tumor. Possible serous tumor. The received specimen was fresh for frozen section.\tDURATION: 5 years=>P5Y
+16 months. Diagnosed with germ cell tumor. Possibly serous tumor. The specimen was received fresh for frozen section.\tDURATION: 16 months=>P16M
+14 weeks. Suspected germ cell tumor. Questionable serous tumor. The fresh specimen was received for frozen section.\tDURATION: 14 weeks=>P14W
+6 years. Preliminary diagnosis of germ cell tumor. Potentially serous tumor. Fresh specimen received for frozen section.\tDURATION: 6 years=>P6Y
+17 months. Indications of germ cell tumor. Possible serous tumor. The received specimen was fresh for frozen section.\tDURATION: 17 months=>P17M
+15 days. Diagnosed with germ cell tumor. Possibly serous tumor. The specimen was received fresh for frozen section.\tDURATION: 15 days=>P15D
+7 years. Suspected germ cell tumor. Questionable serous tumor. The fresh specimen was received for frozen section.\tDURATION: 7 years=>P7Y
+18 months. Preliminary diagnosis of germ cell tumor. Potentially serous tumor. Fresh specimen received for frozen section.\tDURATION: 18 months=>P18M
+16 weeks. Indications of germ cell tumor. Possible serous tumor. The received specimen was fresh for frozen section.\tDURATION: 16 weeks=>P16W
+8 years. Diagnosed with germ cell tumor. Possibly serous tumor. The specimen was received fresh for frozen section.\tDURATION: 8 years=>P8Y
+19 months. Suspected germ cell tumor. Questionable serous tumor. The fresh specimen was received for frozen section.\tDURATION: 19 months=>P19M
+17 days. Preliminary diagnosis of germ cell tumor. Potentially serous tumor. Fresh specimen received for frozen section.\tDURATION: 17 days=>P17D
+9 years. Indications of germ cell tumor. Possible serous tumor. The received specimen was fresh for frozen section.\tDURATION: 9 years=>P9Y
+20 months. Diagnosed with germ cell tumor. Possibly serous tumor. The specimen was received fresh for frozen section.\tDURATION: 20 months=>P20M
+18 weeks. Suspected germ cell tumor. Questionable serous tumor. The fresh specimen was received for frozen section.\tDURATION: 18 weeks=>P18W
+10 years. Preliminary diagnosis of germ cell tumor. Potentially serous tumor. Fresh specimen received for frozen section.\tDURATION: 10 years=>P10Y
+21 months. Indications of germ cell tumor. Possible serous tumor. The received specimen was fresh for frozen section.\tDURATION: 21 months=>P21M
+19 days. Diagnosed with germ cell tumor. Possibly serous tumor. The specimen was received fresh for frozen section.\tDURATION: 19 days=>P19D
+11 years. Suspected germ cell tumor. Questionable serous tumor. The fresh specimen was received for frozen section.\tDURATION: 11 years=>P11Y
+
+
+BRCA gene mutation. Hysterectomy/BSO 18 months ago, left tubaladenocarcinoma in situ. Chemotherapy. Interval debulking 20 January 2063.\tDURATION: 18 months=>P18M\nDATE: 20 January 2063=>2063-01-20
+BRCA gene mutation. Hysterectomy/BSO 24 months ago, left tubaladenocarcinoma in situ. Chemotherapy. Interval debulking 15 March 2065.\tDURATION: 24 months=>P24M\nDATE: 15 March 2065=>2065-03-15
+BRCA gene mutation. Hysterectomy/BSO 10 months ago, left tubaladenocarcinoma in situ. Chemotherapy. Interval debulking 05 November 2070.\tDURATION: 10 months=>P10M\nDATE: 05 November 2070=>2070-11-05
+BRCA gene mutation. Hysterectomy/BSO 36 months ago, left tubaladenocarcinoma in situ. Chemotherapy. Interval debulking 08 September 2082.\tDURATION: 36 months=>P36M\nDATE: 08 September 2082=>2082-09-08
+BRCA gene mutation. Hysterectomy/BSO 15 months ago, left tubaladenocarcinoma in situ. Chemotherapy. Interval debulking 12 July 2077.\tDURATION: 15 months=>P15M\nDATE: 12 July 2077=>2077-07-12
+BRCA gene mutation. Hysterectomy/BSO 22 months ago, left tubaladenocarcinoma in situ. Chemotherapy. Interval debulking 18 October 2068.\tDURATION: 22 months=>P22M\nDATE: 18 October 2068=>2068-10-18
+BRCA gene mutation. Hysterectomy/BSO 8 months ago, left tubaladenocarcinoma in situ. Chemotherapy. Interval debulking 28 February 2066.\tDURATION: 8 months=>P8M\nDATE: 28 February 2066=>2066-02-28
+BRCA gene mutation. Hysterectomy/BSO 30 months ago, left tubaladenocarcinoma in situ. Chemotherapy. Interval debulking 09 December 2075.\tDURATION: 30 months=>P30M\nDATE: 09 December 2075=>2075-12-09
+BRCA gene mutation. Hysterectomy/BSO 12 months ago, left tubaladenocarcinoma in situ. Chemotherapy. Interval debulking 25 April 2088.\tDURATION: 12 months=>P12M\nDATE: 25 April 2088=>2088-04-25
+BRCA gene mutation. Hysterectomy/BSO 28 months ago, left tubaladenocarcinoma in situ. Chemotherapy. Interval debulking 14 August 2060.\tDURATION: 28 months=>P28M\nDATE: 14 August 2060=>2060-08-14
+BRCA gene mutation. Hysterectomy/BSO 16 months ago, left tubaladenocarcinoma in situ. Chemotherapy. Interval debulking 02 June 2073.\tDURATION: 16 months=>P16M\nDATE: 02 June 2073=>2073-06-02
+BRCA gene mutation. Hysterectomy/BSO 20 months ago, left tubaladenocarcinoma in situ. Chemotherapy. Interval debulking 23 October 2067.\tDURATION: 20 months=>P20M\nDATE: 23 October 2067=>2067-10-23
+BRCA gene mutation. Hysterectomy/BSO 14 months ago, left tubaladenocarcinoma in situ. Chemotherapy. Interval debulking 07 September 2081.\tDURATION: 14 months=>P14M\nDATE: 07 September 2081=>2081-09-07
+BRCA gene mutation. Hysterectomy/BSO 32 months ago, left tubaladenocarcinoma in situ. Chemotherapy. Interval debulking 19 March 2086.\tDURATION: 32 months=>P32M\nDATE: 19 March 2086=>2086-03-19
+BRCA gene mutation. Hysterectomy/BSO 25 months ago, left tubaladenocarcinoma in situ. Chemotherapy. Interval debulking 11 May 2069.\tDURATION: 25 months=>P25M\nDATE: 11 May 2069=>2069-05-11
+BRCA gene mutation. Hysterectomy/BSO 9 months ago, left tubaladenocarcinoma in situ. Chemotherapy. Interval debulking 03 November 2078.\tDURATION: 9 months=>P9M\nDATE: 03 November 2078=>2078-11-03
+BRCA gene mutation. Hysterectomy/BSO 40 months ago, left tubaladenocarcinoma in situ. Chemotherapy. Interval debulking 16 July 2083.\tDURATION: 40 months=>P40M\nDATE: 16 July 2083=>2083-07-16
+BRCA gene mutation. Hysterectomy/BSO 11 months ago, left tubaladenocarcinoma in situ. Chemotherapy. Interval debulking 29 September 2072.\tDURATION: 11 months=>P11M\nDATE: 29 September 2072=>2072-09-29
+BRCA gene mutation. Hysterectomy/BSO 34 months ago, left tubaladenocarcinoma in situ. Chemotherapy. Interval debulking 05 April 2066.\tDURATION: 34 months=>P34M\nDATE: 05 April 2066=>2066-04-05
+BRCA gene mutation. Hysterectomy/BSO 7 months ago, left tubaladenocarcinoma in situ. Chemotherapy. Interval debulking 22 December 2071.\tDURATION: 7 months=>P7M\nDATE: 22 December 2071=>2071-12-22
+BRCA gene mutation. Hysterectomy/BSO 22 months ago, left tubaladenocarcinoma in situ. Chemotherapy. Interval debulking 18 February 2080.\tDURATION: 22 months=>P22M\nDATE: 18 February 2080=>2080-02-18
+BRCA gene mutation. Hysterectomy/BSO 13 months ago, left tubaladenocarcinoma in situ. Chemotherapy. Interval debulking 14 June 2063.\tDURATION: 13 months=>P13M\nDATE: 14 June 2063=>2063-06-14
+BRCA gene mutation. Hysterectomy/BSO 29 months ago, left tubaladenocarcinoma in situ. Chemotherapy. Interval debulking 27 October 2074.\tDURATION: 29 months=>P29M\nDATE: 27 October 2074=>2074-10-27
+BRCA gene mutation. Hysterectomy/BSO 18 months ago, left tubaladenocarcinoma in situ. Chemotherapy. Interval debulking 20 January 2063.\tDURATION: 18 months=>P18M\nDATE: 20 January 2063=>2063-01-20
+BRCA gene mutation. Hysterectomy/BSO 24 months ago, left tubaladenocarcinoma in situ. Chemotherapy. Interval debulking 15 March 2065.\tDURATION: 24 months=>P24M\nDATE: 15 March 2065=>2065-03-15
+BRCA gene mutation. Hysterectomy/BSO 10 months ago, left tubaladenocarcinoma in situ. Chemotherapy. Interval debulking 05 November 2070.\tDURATION: 10 months=>P10M\nDATE: 05 November 2070=>2070-11-05
+BRCA gene mutation. Hysterectomy/BSO 36 months ago, left tubaladenocarcinoma in situ. Chemotherapy. Interval debulking 08 September 2082.\tDURATION: 36 months=>P36M\nDATE: 08 September 2082=>2082-09-08
+BRCA gene mutation. Hysterectomy/BSO 15 months ago, left tubaladenocarcinoma in situ. Chemotherapy. Interval debulking 12 July 2077.\tDURATION: 15 months=>P15M\nDATE: 12 July 2077=>2077-07-12
+BRCA gene mutation. Hysterectomy/BSO 22 months ago, left tubaladenocarcinoma in situ. Chemotherapy. Interval debulking 18 October 2068.\tDURATION: 22 months=>P22M\nDATE: 18 October 2068=>2068-10-18
+BRCA gene mutation. Hysterectomy/BSO 8 months ago, left tubaladenocarcinoma in situ. Chemotherapy. Interval debulking 28 February 2066.\tDURATION: 8 months=>P8M\nDATE: 28 February 2066=>2066-02-28
+BRCA gene mutation. Hysterectomy/BSO 30 months ago, left tubaladenocarcinoma in situ. Chemotherapy. Interval debulking 09 December 2075.\tDURATION: 30 months=>P30M\nDATE: 09 December 2075=>2075-12-09
+BRCA gene mutation. Hysterectomy/BSO 12 months ago, left tubaladenocarcinoma in situ. Chemotherapy. Interval debulking 25 April 2088.\tDURATION: 12 months=>P12M\nDATE: 25 April 2088=>2088-04-25
+BRCA gene mutation. Hysterectomy/BSO 28 months ago, left tubaladenocarcinoma in situ. Chemotherapy. Interval debulking 14 August 2060.\tDURATION: 28 months=>P28M\nDATE: 14 August 2060=>2060-08-14
+BRCA gene mutation. Hysterectomy/BSO 16 months ago, left tubaladenocarcinoma in situ. Chemotherapy. Interval debulking 02 June 2073.\tDURATION: 16 months=>P16M\nDATE: 02 June 2073=>2073-06-02
+BRCA gene mutation. Hysterectomy/BSO 20 months ago, left tubaladenocarcinoma in situ. Chemotherapy. Interval debulking 23 October 2067.\tDURATION: 20 months=>P20M\nDATE: 23 October 2067=>2067-10-23
+BRCA gene mutation. Hysterectomy/BSO 14 months ago, left tubaladenocarcinoma in situ. Chemotherapy. Interval debulking 07 September 2081.\tDURATION: 14 months=>P14M\nDATE: 07 September 2081=>2081-09-07
+BRCA gene mutation. Hysterectomy/BSO 32 months ago, left tubaladenocarcinoma in situ. Chemotherapy. Interval debulking 19 March 2086.\tDURATION: 32 months=>P32M\nDATE: 19 March 2086=>2086-03-19
+BRCA gene mutation. Hysterectomy/BSO 25 months ago, left tubaladenocarcinoma in situ. Chemotherapy. Interval debulking 11 May 2069.\tDURATION: 25 months=>P25M\nDATE: 11 May 2069=>2069-05-11
+BRCA gene mutation. Hysterectomy/BSO 9 months ago, left tubaladenocarcinoma in situ. Chemotherapy. Interval debulking 03 November 2078.\tDURATION: 9 months=>P9M\nDATE: 03 November 2078=>2078-11-03
+BRCA gene mutation. Hysterectomy/BSO 40 months ago, left tubaladenocarcinoma in situ. Chemotherapy. Interval debulking 16 July 2083.\tDURATION: 40 months=>P40M\nDATE: 16 July 2083=>2083-07-16
+BRCA gene mutation. Hysterectomy/BSO 11 months ago, left tubaladenocarcinoma in situ. Chemotherapy. Interval debulking 29 September 2072.\tDURATION: 11 months=>P11M\nDATE: 29 September 2072=>2072-09-29
+BRCA gene mutation. Hysterectomy/BSO 34 months ago, left tubaladenocarcinoma in situ. Chemotherapy. Interval debulking 05 April 2066.\tDURATION: 34 months=>P34M\nDATE: 05 April 2066=>2066-04-05
+
+
+Progressive deterioration in vision over 3 months due to a suprasellar lesion. Hypocortisolaemia persisted for 10 months, resulting in the diagnosis of a pituitary tumor. A craniotomy was performed to address the suprasellar tumor.\tDURATION: 3 months=>P3M\nDURATION: 10 months=>P10M
+
+A suprasellar lesion caused a progressive decrease in visual acuity over 6 months. Hypocortisolaemia lasting for 15 months was identified alongside a pituitary tumor, leading to a craniotomy.\tDURATION: 6 months=>P6M\nDURATION: 15 months=>P15M
+
+Over a period of 8 months, hypocortisolaemia persisted, leading to the diagnosis of a pituitary tumor. A craniotomy was performed to address the suprasellar lesion responsible for the progressive decline in visual acuity over 4 months.\tDURATION: 8 months=>P8M\nDURATION: 4 months=>P4M
+
+Progressive visual acuity decline over 12 months due to a suprasellar lesion. A craniotomy was performed to address the suprasellar tumor, and hypocortisolaemia persisted for 7 months, resulting in the diagnosis of a pituitary tumor.\tDURATION: 12 months=>P12M\nDURATION: 7 months=>P7M
+
+A suprasellar lesion caused a progressive decrease in visual acuity over 5 months. Hypocortisolaemia lasting for 9 months was identified alongside a pituitary tumor, leading to a craniotomy.\tDURATION: 5 months=>P5M\nDURATION: 9 months=>P9M
+
+Over a period of 11 months, hypocortisolaemia persisted, leading to the diagnosis of a pituitary tumor. A craniotomy was performed to address the suprasellar lesion responsible for the progressive decline in visual acuity over 2 months.\tDURATION: 11 months=>P11M\nDURATION: 2 months=>P2M
+
+Progressive deterioration in vision over 7 months due to a suprasellar lesion. Hypocortisolaemia persisted for 6 months, resulting in the diagnosis of a pituitary tumor. A craniotomy was performed to address the suprasellar tumor.\tDURATION: 7 months=>P7M\nDURATION: 6 months=>P6M
+
+A suprasellar lesion caused a progressive decrease in visual acuity over 9 months. Hypocortisolaemia lasting for 4 months was identified alongside a pituitary tumor, leading to a craniotomy.\tDURATION: 9 months=>P9M\nDURATION: 4 months=>P4M
+
+Over a period of 10 months, hypocortisolaemia persisted, leading to the diagnosis of a pituitary tumor. A craniotomy was performed to address the suprasellar lesion responsible for the progressive decline in visual acuity over 3 months.\tDURATION: 10 months=>P10M\nDURATION: 3 months=>P3M
+
+Progressive visual acuity decline over 6 months due to a suprasellar lesion. A craniotomy was performed to address the suprasellar tumor, and hypocortisolaemia persisted for 8 months, resulting in the diagnosis of a pituitary tumor.\tDURATION: 6 months=>P6M\nDURATION: 8 months=>P8M
+
+A suprasellar lesion caused a progressive decrease in visual acuity over 4 months. Hypocortisolaemia lasting for 11 months was identified alongside a pituitary tumor, leading to a craniotomy.\tDURATION: 4 months=>P4M\nDURATION: 11 months=>P11M
+
+Over a period of 5 months, hypocortisolaemia persisted, leading to the diagnosis of a pituitary tumor. A craniotomy was performed to address the suprasellar lesion responsible for the progressive decline in visual acuity over 9 months.\tDURATION: 5 months=>P5M\nDURATION: 9 months=>P9M
+
+Progressive deterioration in vision over 2 months due to a suprasellar lesion. Hypocortisolaemia persisted for 12 months, resulting in the diagnosis of a pituitary tumor. A craniotomy was performed to address the suprasellar tumor.\tDURATION: 2 months=>P2M\nDURATION: 12 months=>P12M
+
+A suprasellar lesion caused a progressive decrease in visual acuity over 8 months. Hypocortisolaemia lasting for 7 months was identified alongside a pituitary tumor, leading to a craniotomy.\tDURATION: 8 months=>P8M\nDURATION: 7 months=>P7M
+
+Over a period of 4 months, hypocortisolaemia persisted, leading to the diagnosis of a pituitary tumor. A craniotomy was performed to address the suprasellar lesion responsible for the progressive decline in visual acuity over 11 months.\tDURATION: 4 months=>P4M\nDURATION: 11 months=>P11M
+
+Progressive visual acuity decline over 9 months due to a suprasellar lesion. A craniotomy was performed to address the suprasellar tumor, and hypocortisolaemia persisted for 5 months, resulting in the diagnosis of a pituitary tumor.\tDURATION: 9 months=>P9M\nDURATION: 5 months=>P5M
+
+A suprasellar lesion caused a progressive decrease in visual acuity over 3 months. Hypocortisolaemia lasting for 10 months was identified alongside a pituitary tumor, leading to a craniotomy.\tDURATION: 3 months=>P3M\nDURATION: 10 months=>P10M
+
+Over a period of 7 months, hypocortisolaemia persisted, leading to the diagnosis of a pituitary tumor. A craniotomy was performed to address the suprasellar lesion responsible for the progressive decline in visual acuity over 6 months.\tDURATION: 7 months=>P7M\nDURATION: 6 months=>P6M
+
+Progressive deterioration in vision over 11 months due to a suprasellar lesion. Hypocortisolaemia persisted for 4 months, resulting in the diagnosis of a pituitary tumor. A craniotomy was performed to address the suprasellar tumor.\tDURATION: 11 months=>P11M\nDURATION: 4 months=>P4M
+
+A suprasellar lesion caused a progressive decrease in visual acuity over 7 months. Hypocortisolaemia lasting for 9 months was identified alongside a pituitary tumor, leading to a craniotomy.\tDURATION: 7 months=>P7M\nDURATION: 9 months=>P9M
+
+Over a period of 6 months, hypocortisolaemia persisted, leading to the diagnosis of a pituitary tumor. A craniotomy was performed to address the suprasellar lesion responsible for the progressive decline in visual acuity over 8 months.\tDURATION: 6 months=>P6M\nDURATION: 8 months=>P8M
+
+Progressive visual acuity decline over 10 months due to a suprasellar lesion. A craniotomy was performed to address the suprasellar tumor, and hypocortisolaemia persisted for 3 months, resulting in the diagnosis of a pituitary tumor.\tDURATION: 10 months=>P10M\nDURATION: 3 months=>P3M
+
+A suprasellar lesion caused a progressive decrease in visual acuity over 9 months. Hypocortisolaemia lasting for 5 months was identified alongside a pituitary tumor, leading to a craniotomy.\tDURATION: 9 months=>P9M\nDURATION: 5 months=>P5M
+
+Over a period of 12 months, hypocortisolaemia persisted, leading to the diagnosis of a pituitary tumor. A craniotomy was performed to address the suprasellar lesion responsible for the progressive decline in visual acuity over 2 months.\tDURATION: 12 months=>P12M\nDURATION: 2 months=>P2M
+
+Progressive deterioration in vision over 8 months due to a suprasellar lesion. Hypocortisolaemia persisted for 6 months, resulting in the diagnosis of a pituitary tumor. A craniotomy was performed to address the suprasellar tumor.\tDURATION: 8 months=>P8M\nDURATION: 6 months=>P6M
+
+A suprasellar lesion caused a progressive decrease in visual acuity over 3 months. Hypocortisolaemia lasting for 8 months was identified alongside a pituitary tumor, leading to a craniotomy.\tDURATION: 3 months=>P3M\nDURATION: 8 months=>P8M
+
+Over a period of 5 months, hypocortisolaemia persisted, leading to the diagnosis of a pituitary tumor. A craniotomy was performed to address the suprasellar lesion responsible for the progressive decline in visual acuity over 9 months.\tDURATION: 5 months=>P5M\nDURATION: 9 months=>P9M
+
+Progressive visual acuity decline over 2 months due to a suprasellar lesion. A craniotomy was performed to address the suprasellar tumor, and hypocortisolaemia persisted for 12 months, resulting in the diagnosis of a pituitary tumor.\tDURATION: 2 months=>P2M\nDURATION: 12 months=>P12M
+
+A suprasellar lesion caused a progressive decrease in visual acuity over 7 months. Hypocortisolaemia lasting for 5 months was identified alongside a pituitary tumor, leading to a craniotomy.\tDURATION: 7 months=>P7M\nDURATION: 5 months=>P5M
+
+Over a period of 4 months, hypocortisolaemia persisted, leading to the diagnosis of a pituitary tumor. A craniotomy was performed to address the suprasellar lesion responsible for the progressive decline in visual acuity over 11 months.\tDURATION: 4 months=>P4M\nDURATION: 11 months=>P11M
+
+Progressive deterioration in vision over 9 months due to a suprasellar lesion. Hypocortisolaemia persisted for 4 months, resulting in the diagnosis of a pituitary tumor. A craniotomy was performed to address the suprasellar tumor.\tDURATION: 9 months=>P9M\nDURATION: 4 months=>P4M
+
+A suprasellar lesion caused a progressive decrease in visual acuity over 8 months. Hypocortisolaemia lasting for 7 months was identified alongside a pituitary tumor, leading to a craniotomy.\tDURATION: 8 months=>P8M\nDURATION: 7 months=>P7M
+
+Over a period of 6 months, hypocortisolaemia persisted, leading to the diagnosis of a pituitary tumor. A craniotomy was performed to address the suprasellar lesion responsible for the progressive decline in visual acuity over 8 months.\tDURATION: 6 months=>P6M\nDURATION: 8 months=>P8M
+
+Progressive visual acuity decline over 10 months due to a suprasellar lesion. A craniotomy was performed to address the suprasellar tumor, and hypocortisolaemia persisted for 3 months, resulting in the diagnosis of a pituitary tumor.\tDURATION: 10 months=>P10M\nDURATION: 3 months=>P3M
+
+A suprasellar lesion caused a progressive decrease in visual acuity over 9 months. Hypocortisolaemia lasting for 5 months was identified alongside a pituitary tumor, leading to a craniotomy.\tDURATION: 9 months=>P9M\nDURATION: 5 months=>P5M
+
+Over a period of 12 months, hypocortisolaemia persisted, leading to the diagnosis of a pituitary tumor. A craniotomy was performed to address the suprasellar lesion responsible for the progressive decline in visual acuity over 2 months.\tDURATION: 12 months=>P12M\nDURATION: 2 months=>P2M
+
+Progressive deterioration in vision over 8 months due to a suprasellar lesion. Hypocortisolaemia persisted for 6 months, resulting in the diagnosis of a pituitary tumor. A craniotomy was performed to address the suprasellar tumor.\tDURATION: 8 months=>P8M\nDURATION: 6 months=>P6M
+
+A suprasellar lesion caused a progressive decrease in visual acuity over 3 months. Hypocortisolaemia lasting for 8 months was identified alongside a pituitary tumor, leading to a craniotomy.\tDURATION: 3 months=>P3M\nDURATION: 8 months=>P8M
+
+Over a period of 5 months, hypocortisolaemia persisted, leading to the diagnosis of a pituitary tumor. A craniotomy was performed to address the suprasellar lesion responsible for the progressive decline in visual acuity over 9 months.\tDURATION: 5 months=>P5M\nDURATION: 9 months=>P9M
+
+Progressive visual acuity decline over 2 months due to a suprasellar lesion. A craniotomy was performed to address the suprasellar tumor, and hypocortisolaemia persisted for 12 months, resulting in the diagnosis of a pituitary tumor.\tDURATION: 2 months=>P2M\nDURATION: 12 months=>P12M
+
+
+36 year old with bilateral complex ovarian masses, ascites, raised tumor markers, liver lesions. 2-week history of abdominal distension. 8-day history of constipation. Sepsis and ascites and pleural effusions. At surgery, retroperitoneal bowel perf at sigmoid, likely primary sigmoid tumor.\tAGE: 36\nDURATION: 2 week=>P2W\nDURATION: 8 day=>P8D
+
+50 year old with bilateral complex ovarian masses, ascites, raised tumor markers, liver lesions. 4-week history of abdominal distension. 12-day history of constipation. Sepsis and ascites and pleural effusions. At surgery, retroperitoneal bowel perf at sigmoid, likely primary sigmoid tumor.\tAGE: 50\nDURATION: 4 week=>P4W\nDURATION: 12 day=>P12D
+
+62 year old with bilateral complex ovarian masses, ascites, raised tumor markers, liver lesions. 6-week history of abdominal distension. 14-day history of constipation. Sepsis and ascites and pleural effusions. At surgery, retroperitoneal bowel perf at sigmoid, likely primary sigmoid tumor.\tAGE: 62\nDURATION: 6 week=>P6W\nDURATION: 14 day=>P14D
+
+44 year old with bilateral complex ovarian masses, ascites, raised tumor markers, liver lesions. 3-week history of abdominal distension. 10-day history of constipation. Sepsis and ascites and pleural effusions. At surgery, retroperitoneal bowel perf at sigmoid, likely primary sigmoid tumor.\tAGE: 44\nDURATION: 3 week=>P3W\nDURATION: 10 day=>P10D
+
+57 year old with bilateral complex ovarian masses, ascites, raised tumor markers, liver lesions. 5-week history of abdominal distension. 11-day history of constipation. Sepsis and ascites and pleural effusions. At surgery, retroperitoneal bowel perf at sigmoid, likely primary sigmoid tumor.\tAGE: 57\nDURATION: 5 week=>P5W\nDURATION: 11 day=>P11D
+
+48 year old with bilateral complex ovarian masses, ascites, raised tumor markers, liver lesions. 3-week history of abdominal distension. 9-day history of constipation. Sepsis and ascites and pleural effusions. At surgery, retroperitoneal bowel perf at sigmoid, likely primary sigmoid tumor.\tAGE: 48\nDURATION: 3 week=>P3W\nDURATION: 9 day=>P9D
+
+55 year old with bilateral complex ovarian masses, ascites, raised tumor markers, liver lesions. 4-week history of abdominal distension. 13-day history of constipation. Sepsis and ascites and pleural effusions. At surgery, retroperitoneal bowel perf at sigmoid, likely primary sigmoid tumor.\tAGE: 55\nDURATION: 4 week=>P4W\nDURATION: 13 day=>P13D
+
+42 year old with bilateral complex ovarian masses, ascites, raised tumor markers, liver lesions. 2-week history of abdominal distension. 7-day history of constipation. Sepsis and ascites and pleural effusions. At surgery, retroperitoneal bowel perf at sigmoid, likely primary sigmoid tumor.\tAGE: 42\nDURATION: 2 week=>P2W\nDURATION: 7 day=>P7D
+
+60 year old with bilateral complex ovarian masses, ascites, raised tumor markers, liver lesions. 5-week history of abdominal distension. 10-day history of constipation. Sepsis and ascites and pleural effusions. At surgery, retroperitoneal bowel perf at sigmoid, likely primary sigmoid tumor.\tAGE: 60\nDURATION: 5 week=>P5W\nDURATION: 10 day=>P10D
+
+39 year old with bilateral complex ovarian masses, ascites, raised tumor markers, liver lesions. 3-week history of abdominal distension. 8-day history of constipation. Sepsis and ascites and pleural effusions. At surgery, retroperitoneal bowel perf at sigmoid, likely primary sigmoid tumor.\tAGE: 39\nDURATION: 3 week=>P3W\nDURATION: 8 day=>P8D
+
+52 year old with bilateral complex ovarian masses, ascites, raised tumor markers, liver lesions. 4-week history of abdominal distension. 12-day history of constipation. Sepsis and ascites and pleural effusions. At surgery, retroperitoneal bowel perf at sigmoid, likely primary sigmoid tumor.\tAGE: 52\nDURATION: 4 week=>P4W\nDURATION: 12 day=>P12D
+
+49 year old with bilateral complex ovarian masses, ascites, raised tumor markers, liver lesions. 3-week history of abdominal distension. 9-day history of constipation. Sepsis and ascites and pleural effusions. At surgery, retroperitoneal bowel perf at sigmoid, likely primary sigmoid tumor.\tAGE: 49\nDURATION: 3 week=>P3W\nDURATION: 9 day=>P9D
+
+41 year old with bilateral complex ovarian masses, ascites, raised tumor markers, liver lesions. 2-week history of abdominal distension. 7-day history of constipation. Sepsis and ascites and pleural effusions. At surgery, retroperitoneal bowel perf at sigmoid, likely primary sigmoid tumor.\tAGE: 41\nDURATION: 2 week=>P2W\nDURATION: 7 day=>P7D
+
+56 year old with bilateral complex ovarian masses, ascites, raised tumor markers, liver lesions. 5-week history of abdominal distension. 11-day history of constipation. Sepsis and ascites and pleural effusions. At surgery, retroperitoneal bowel perf at sigmoid, likely primary sigmoid tumor.\tAGE: 56\nDURATION: 5 week=>P5W\nDURATION: 11 day=>P11D
+
+45 year old with bilateral complex ovarian masses, ascites, raised tumor markers, liver lesions. 3-week history of abdominal distension. 10-day history of constipation. Sepsis and ascites and pleural effusions. At surgery, retroperitoneal bowel perf at sigmoid, likely primary sigmoid tumor.\tAGE: 45\nDURATION: 3 week=>P3W\nDURATION: 10 day=>P10D
+
+53 year old with bilateral complex ovarian masses, ascites, raised tumor markers, liver lesions. 4-week history of abdominal distension. 13-day history of constipation. Sepsis and ascites and pleural effusions. At surgery, retroperitoneal bowel perf at sigmoid, likely primary sigmoid tumor.\tAGE: 53\nDURATION: 4 week=>P4W\nDURATION: 13 day=>P13D
+
+38 year old with bilateral complex ovarian masses, ascites, raised tumor markers, liver lesions. 2-week history of abdominal distension. 8-day history of constipation. Sepsis and ascites and pleural effusions. At surgery, retroperitoneal bowel perf at sigmoid, likely primary sigmoid tumor.\tAGE: 38\nDURATION: 2 week=>P2W\nDURATION: 8 day=>P8D
+
+58 year old with bilateral complex ovarian masses, ascites, raised tumor markers, liver lesions. 5-week history of abdominal distension. 10-day history of constipation. Sepsis and ascites and pleural effusions. At surgery, retroperitoneal bowel perf at sigmoid, likely primary sigmoid tumor.\tAGE: 58\nDURATION: 5 week=>P5W\nDURATION: 10 day=>P10D
+
+47 year old with bilateral complex ovarian masses, ascites, raised tumor markers, liver lesions. 3-week history of abdominal distension. 9-day history of constipation. Sepsis and ascites and pleural effusions. At surgery, retroperitoneal bowel perf at sigmoid, likely primary sigmoid tumor.\tAGE: 47\nDURATION: 3 week=>P3W\nDURATION: 9 day=>P9D
+
+63 year old with bilateral complex ovarian masses, ascites, raised tumor markers, liver lesions. 6-week history of abdominal distension. 14-day history of constipation. Sepsis and ascites and pleural effusions. At surgery, retroperitoneal bowel perf at sigmoid, likely primary sigmoid tumor.\tAGE: 63\nDURATION: 6 week=>P6W\nDURATION: 14 day=>P14D
+
+55 year old with bilateral complex ovarian masses, ascites, raised tumor markers, liver lesions. 4-week history of abdominal distension. 12-day history of constipation. Sepsis and ascites and pleural effusions. At surgery, retroperitoneal bowel perf at sigmoid, likely primary sigmoid tumor.\tAGE: 55\nDURATION: 4 week=>P4W\nDURATION: 12 day=>P12D
+
+42 year old with bilateral complex ovarian masses, ascites, raised tumor markers, liver lesions. 2-week history of abdominal distension. 7-day history of constipation. Sepsis and ascites and pleural effusions. At surgery, retroperitoneal bowel perf at sigmoid, likely primary sigmoid tumor.\tAGE: 42\nDURATION: 2 week=>P2W\nDURATION: 7 day=>P7D
+
+59 year old with bilateral complex ovarian masses, ascites, raised tumor markers, liver lesions. 5-week history of abdominal distension. 11-day history of constipation. Sepsis and ascites and pleural effusions. At surgery, retroperitoneal bowel perf at sigmoid, likely primary sigmoid tumor.\tAGE: 59\nDURATION: 5 week=>P5W\nDURATION: 11 day=>P11D
+
+44 year old with bilateral complex ovarian masses, ascites, raised tumor markers, liver lesions. 3-week history of abdominal distension. 10-day history of constipation. Sepsis and ascites and pleural effusions. At surgery, retroperitoneal bowel perf at sigmoid, likely primary sigmoid tumor.\tAGE: 44\nDURATION: 3 week=>P3W\nDURATION: 10 day=>P10D
+
+50 year old with bilateral complex ovarian masses, ascites, raised tumor markers, liver lesions. 4-week history of abdominal distension. 13-day history of constipation. Sepsis and ascites and pleural effusions. At surgery, retroperitoneal bowel perf at sigmoid, likely primary sigmoid tumor.\tAGE: 50\nDURATION: 4 week=>P4W\nDURATION: 13 day=>P13D
+
+38 year old with bilateral complex ovarian masses, ascites, raised tumor markers, liver lesions. 2-week history of abdominal distension. 8-day history of constipation. Sepsis and ascites and pleural effusions. At surgery, retroperitoneal bowel perf at sigmoid, likely primary sigmoid tumor.\tAGE: 38\nDURATION: 2 week=>P2W\nDURATION: 8 day=>P8D
+
+48 year old with bilateral complex ovarian masses, ascites, raised tumor markers, liver lesions. 3-week history of abdominal distension. 9-day history of constipation. Sepsis and ascites and pleural effusions. At surgery, retroperitoneal bowel perf at sigmoid, likely primary sigmoid tumor.\tAGE: 48\nDURATION: 3 week=>P3W\nDURATION: 9 day=>P9D
+
+52 year old with bilateral complex ovarian masses, ascites, raised tumor markers, liver lesions. 4-week history of abdominal distension. 10-day history of constipation. Sepsis and ascites and pleural effusions. At surgery, retroperitoneal bowel perf at sigmoid, likely primary sigmoid tumor.\tAGE: 52\nDURATION: 4 week=>P4W\nDURATION: 10 day=>P10D
+
+46 year old with bilateral complex ovarian masses, ascites, raised tumor markers, liver lesions. 3-week history of abdominal distension. 9-day history of constipation. Sepsis and ascites and pleural effusions. At surgery, retroperitoneal bowel perf at sigmoid, likely primary sigmoid tumor.\tAGE: 46\nDURATION: 3 week=>P3W\nDURATION: 9 day=>P9D
+
+54 year old with bilateral complex ovarian masses, ascites, raised tumor markers, liver lesions. 4-week history of abdominal distension. 11-day history of constipation. Sepsis and ascites and pleural effusions. At surgery, retroperitoneal bowel perf at sigmoid, likely primary sigmoid tumor.\tAGE: 54\nDURATION: 4 week=>P4W\nDURATION: 11 day=>P11D
+
+Endometrioid grade 1 on D&C. Smoker 20/year pack history. Obesity BMI 32. T cell disorder. Irritable bowel symptoms. Endometrial cancer. Mismatch repair gene IHC. \tDURATION: 20/year=>P20Y
+
+Endometrioid grade 1 on D&C. Smoker 28/year pack history. Obesity BMI 25. T cell disorder. Irritable bowel symptoms. Endometrial cancer. Mismatch repair gene IHC.\tDURATION: 28/year=>P28Y
+
+Endometrioid grade 1 on D&C. Smoker 12/year pack history. Obesity BMI 27. T cell disorder. Irritable bowel symptoms. Endometrial cancer. Mismatch repair gene IHC.\tDURATION: 12/year=>P12Y
+
+Endometrioid grade 1 on D&C. Smoker 35/year pack history. Obesity BMI 29. T cell disorder. Irritable bowel symptoms. Endometrial cancer. Mismatch repair gene IHC.\tDURATION: 35/year=>P35Y
+
+Endometrioid grade 1 on D&C. Smoker 18/year pack history. Obesity BMI 30. T cell disorder. Irritable bowel symptoms. Endometrial cancer. Mismatch repair gene IHC.\tDURATION: 18/year=>P18Y
+
+Endometrioid grade 1 on D&C. Smoker 25/year pack history. Obesity BMI 31. T cell disorder. Irritable bowel symptoms. Endometrial cancer. Mismatch repair gene IHC.\tDURATION: 25/year=>P25Y
+
+Endometrioid grade 1 on D&C. Smoker 22/year pack history. Obesity BMI 33. T cell disorder. Irritable bowel symptoms. Endometrial cancer. Mismatch repair gene IHC.\tDURATION: 22/year=>P22Y
+
+Endometrioid grade 1 on D&C. Smoker 30/year pack history. Obesity BMI 26. T cell disorder. Irritable bowel symptoms. Endometrial cancer. Mismatch repair gene IHC.\tDURATION: 30/year=>P30Y
+
+Endometrioid grade 1 on D&C. Smoker 15/year pack history. Obesity BMI 28. T cell disorder. Irritable bowel symptoms. Endometrial cancer. Mismatch repair gene IHC.\tDURATION: 15/year=>P15Y
+
+Endometrioid grade 1 on D&C. Smoker 33/year pack history. Obesity BMI 27. T cell disorder. Irritable bowel symptoms. Endometrial cancer. Mismatch repair gene IHC.\tDURATION: 33/year=>P33Y
+
+Endometrioid grade 1 on D&C. Smoker 20/year pack history. Obesity BMI 32. T cell disorder. Irritable bowel symptoms. Endometrial cancer. Mismatch repair gene IHC.\tDURATION: 20/year=>P20Y
+
+Endometrioid grade 1 on D&C. Smoker 28/year pack history. Obesity BMI 25. T cell disorder. Irritable bowel symptoms. Endometrial cancer. Mismatch repair gene IHC.\tDURATION: 28/year=>P28Y
+
+Endometrioid grade 1 on D&C. Smoker 12/year pack history. Obesity BMI 27. T cell disorder. Irritable bowel symptoms. Endometrial cancer. Mismatch repair gene IHC.\tDURATION: 12/year=>P12Y
+
+Endometrioid grade 1 on D&C. Smoker 35/year pack history. Obesity BMI 29. T cell disorder. Irritable bowel symptoms. Endometrial cancer. Mismatch repair gene IHC.\tDURATION: 35/year=>P35Y
+
+Endometrioid grade 1 on D&C. Smoker 18/year pack history. Obesity BMI 30. T cell disorder. Irritable bowel symptoms. Endometrial cancer. Mismatch repair gene IHC.\tDURATION: 18/year=>P18Y
+
+Endometrioid grade 1 on D&C. Smoker 25/year pack history. Obesity BMI 31. T cell disorder. Irritable bowel symptoms. Endometrial cancer. Mismatch repair gene IHC.\tDURATION: 25/year=>P25Y
+
+Endometrioid grade 1 on D&C. Smoker 22/year pack history. Obesity BMI 33. T cell disorder. Irritable bowel symptoms. Endometrial cancer. Mismatch repair gene IHC.\tDURATION: 22/year=>P22Y
+
+Endometrioid grade 1 on D&C. Smoker 30/year pack history. Obesity BMI 26. T cell disorder. Irritable bowel symptoms. Endometrial cancer. Mismatch repair gene IHC.\tDURATION: 30/year=>P30Y
+
+Endometrioid grade 1 on D&C. Smoker 15/year pack history. Obesity BMI 28. T cell disorder. Irritable bowel symptoms. Endometrial cancer. Mismatch repair gene IHC.\tDURATION: 15/year=>P15Y
+
+Endometrioid grade 1 on D&C. Smoker 33/year pack history. Obesity BMI 27. T cell disorder. Irritable bowel symptoms. Endometrial cancer. Mismatch repair gene IHC.\tDURATION: 33/year=>P33Y
+
+Endometrioid grade 1 on D&C. Smoker 20/year pack history. Obesity BMI 32. T cell disorder. Irritable bowel symptoms. Endometrial cancer. Mismatch repair gene IHC.\tDURATION: 20/year=>P20Y
+
+Endometrioid grade 1 on D&C. Smoker 28/year pack history. Obesity BMI 25. T cell disorder. Irritable bowel symptoms. Endometrial cancer. Mismatch repair gene IHC.\tDURATION: 28/year=>P28Y
+
+Endometrioid grade 1 on D&C. Smoker 12/year pack history. Obesity BMI 27. T cell disorder. Irritable bowel symptoms. Endometrial cancer. Mismatch repair gene IHC.\tDURATION: 12/year=>P12Y
+
+Endometrioid grade 1 on D&C. Smoker 35/year pack history. Obesity BMI 29. T cell disorder. Irritable bowel symptoms. Endometrial cancer. Mismatch repair gene IHC.\tDURATION: 35/year=>P35Y
+
+Endometrioid grade 1 on D&C. Smoker 18/year pack history. Obesity BMI 30. T cell disorder. Irritable bowel symptoms. Endometrial cancer. Mismatch repair gene IHC.\tDURATION: 18/year=>P18Y
+
+Endometrioid grade 1 on D&C. Smoker 25/year pack history. Obesity BMI 31. T cell disorder. Irritable bowel symptoms. Endometrial cancer. Mismatch repair gene IHC.\tDURATION: 25/year=>P25Y
+
+Endometrioid grade 1 on D&C. Smoker 22/year pack history. Obesity BMI 33. T cell disorder. Irritable bowel symptoms. Endometrial cancer. Mismatch repair gene IHC.\tDURATION: 22/year=>P22Y
+
+Endometrioid grade 1 on D&C. Smoker 30/year pack history. Obesity BMI 26. T cell disorder. Irritable bowel symptoms. Endometrial cancer. Mismatch repair gene IHC.\tDURATION: 30/year=>P30Y
+
+Endometrioid grade 1 on D&C. Smoker 15/year pack history. Obesity BMI 28. T cell disorder. Irritable bowel symptoms. Endometrial cancer. Mismatch repair gene IHC.\tDURATION: 15/year=>P15Y
+
+Endometrioid grade 1 on D&C. Smoker 33/year pack history. Obesity BMI 27. T cell disorder. Irritable bowel symptoms. Endometrial cancer. Mismatch repair gene IHC.\tDURATION: 33/year=>P33Y
+
+Endometrioid grade 1 on D&C. Smoker 20/year pack history. Obesity BMI 32. T cell disorder. Irritable bowel symptoms. Endometrial cancer. Mismatch repair gene IHC.\tDURATION: 20/year=>P20Y
+
+Endometrioid grade 1 on D&C. Smoker 28/year pack history. Obesity BMI 25. T cell disorder. Irritable bowel symptoms. Endometrial cancer. Mismatch repair gene IHC.\tDURATION: 28/year=>P28Y
+
+Endometrioid grade 1 on D&C. Smoker 12/year pack history. Obesity BMI 27. T cell disorder. Irritable bowel symptoms. Endometrial cancer. Mismatch repair gene IHC.\tDURATION: 12/year=>P12Y
+
+Endometrioid grade 1 on D&C. Smoker 35/year pack history. Obesity BMI 29. T cell disorder. Irritable bowel symptoms. Endometrial cancer. Mismatch repair gene IHC.\tDURATION: 35/year=>P35Y
+
+Endometrioid grade 1 on D&C. Smoker 18/year pack history. Obesity BMI 30. T cell disorder. Irritable bowel symptoms. Endometrial cancer. Mismatch repair gene IHC.\tDURATION: 18/year=>P18Y
+
+Endometrioid grade 1 on D&C. Smoker 25/year pack history. Obesity BMI 31. T cell disorder. Irritable bowel symptoms. Endometrial cancer. Mismatch repair gene IHC.\tDURATION: 25/year=>P25Y
+
+Endometrioid grade 1 on D&C. Smoker 22/year pack history. Obesity BMI 33. T cell disorder. Irritable bowel symptoms. Endometrial cancer. Mismatch repair gene IHC.\tDURATION: 22/year=>P22Y
+
+Endometrioid grade 1 on D&C. Smoker 30/year pack history. Obesity BMI 26. T cell disorder. Irritable bowel symptoms. Endometrial cancer. Mismatch repair gene IHC.\tDURATION: 30/year=>P30Y
+
+Endometrioid grade 1 on D&C. Smoker 15/year pack history. Obesity BMI 28. T cell disorder. Irritable bowel symptoms. Endometrial cancer. Mismatch repair gene IHC.\tDURATION: 15/year=>P15Y
+
+Endometrioid grade 1 on D&C. Smoker 33/year pack history. Obesity BMI 27. T cell disorder. Irritable bowel symptoms. Endometrial cancer. Mismatch repair gene IHC.\tDURATION: 33/year=>P33Y
+
+Endometrioid grade 1 on D&C. Smoker 20/year pack history. Obesity BMI 32. T cell disorder. Irritable bowel symptoms. Endometrial cancer. Mismatch repair gene IHC.\tDURATION: 20/year=>P20Y
+
+Endometrioid grade 1 on D&C. Smoker 28/year pack history. Obesity BMI 25. T cell disorder. Irritable bowel symptoms. Endometrial cancer. Mismatch repair gene IHC.\tDURATION: 28/year=>P28Y
+
+Endometrioid grade 1 on D&C. Smoker 12/year pack history. Obesity BMI 27. T cell disorder. Irritable bowel symptoms. Endometrial cancer. Mismatch repair gene IHC.\tDURATION: 12/year=>P12Y
+
+Endometrioid grade 1 on D&C. Smoker 35/year pack history. Obesity BMI 29. T cell disorder. Irritable bowel symptoms. Endometrial cancer. Mismatch repair gene IHC.\tDURATION: 35/year=>P35Y
+
+Endometrioid grade 1 on D&C. Smoker 18/year pack history. Obesity BMI 30. T cell disorder. Irritable bowel symptoms. Endometrial cancer. Mismatch repair gene IHC.\tDURATION: 18/year=>P18Y
+
+Endometrioid grade 1 on D&C. Smoker 25/year pack history. Obesity BMI 31. T cell disorder. Irritable bowel symptoms. Endometrial cancer. Mismatch repair gene IHC.\tDURATION: 25/year=>P25Y
+
+Endometrioid grade 1 on D&C. Smoker 22/year pack history. Obesity BMI 33. T cell disorder. Irritable bowel symptoms. Endometrial cancer. Mismatch repair gene IHC.\tDURATION: 22/year=>P22Y
+
+Endometrioid grade 1 on D&C. Smoker 30/year pack history. Obesity BMI 26. T cell disorder. Irritable bowel symptoms. Endometrial cancer. Mismatch repair gene IHC.\tDURATION: 30/year=>P30Y
+
+Endometrioid grade 1 on D&C. Smoker 15/year pack history. Obesity BMI 28. T cell disorder. Irritable bowel symptoms. Endometrial cancer. Mismatch repair gene IHC.\tDURATION: 15/year=>P15Y
+
+Endometrioid grade 1 on D&C. Smoker 33/year pack history. Obesity BMI 27. T cell disorder. Irritable bowel symptoms. Endometrial cancer. Mismatch repair gene IHC.\tDURATION: 33/year=>P33Y
+
+67-year-old with bilateral complex ovarian masses, ascites, elevated tumor markers, liver lesions. 14-week history of abdominal distension. 23-day history of constipation. Sepsis and ascites and pleural effusions. At surgery, retroperitoneal bowel perf at sigmoid, likely primary sigmoid tumor.\tAGE: 67\nDURATION: 14 week=>P14W\nDURATION: 23 day=>P23D
+
+48-year-old with bilateral complex ovarian masses, ascites, elevated tumor markers, liver lesions. 6-week history of abdominal distension. 5-day history of constipation. Sepsis and ascites and pleural effusions. At surgery, retroperitoneal bowel perf at sigmoid, likely primary sigmoid tumor.\tAGE: 48\nDURATION: 6 week=>P6W\nDURATION: 5 day=>P5D
+
+79-year-old with bilateral complex ovarian masses, ascites, elevated tumor markers, liver lesions. 10-week history of abdominal distension. 17-day history of constipation. Sepsis and ascites and pleural effusions. At surgery, retroperitoneal bowel perf at sigmoid, likely primary sigmoid tumor.\tAGE: 79\nDURATION: 10 week=>P10W\nDURATION: 17 day=>P17D
+
+55-year-old with bilateral complex ovarian masses, ascites, elevated tumor markers, liver lesions. 8-week history of abdominal distension. 12-day history of constipation. Sepsis and ascites and pleural effusions. At surgery, retroperitoneal bowel perf at sigmoid, likely primary sigmoid tumor.\tAGE: 55\nDURATION: 8 week=>P8W\nDURATION: 12 day=>P12D
+
+89-year-old with bilateral complex ovarian masses, ascites, elevated tumor markers, liver lesions. 3-week history of abdominal distension. 6-day history of constipation. Sepsis and ascites and pleural effusions. At surgery, retroperitoneal bowel perf at sigmoid, likely primary sigmoid tumor.\tAGE: 89\nDURATION: 3 week=>P3W\nDURATION: 6 day=>P6D
+
+72-year-old with bilateral complex ovarian masses, ascites, elevated tumor markers, liver lesions. 20-week history of abdominal distension. 8-day history of constipation. Sepsis and ascites and pleural effusions. At surgery, retroperitoneal bowel perf at sigmoid, likely primary sigmoid tumor.\tAGE: 72\nDURATION: 20 week=>P20W\nDURATION: 8 day=>P8D
+
+35-year-old with bilateral complex ovarian masses, ascites, elevated tumor markers, liver lesions. 16-week history of abdominal distension. 19-day history of constipation. Sepsis and ascites and pleural effusions. At surgery, retroperitoneal bowel perf at sigmoid, likely primary sigmoid tumor.\tAGE: 35\nDURATION: 16 week=>P16W\nDURATION: 19 day=>P19D
+
+60-year-old with bilateral complex ovarian masses, ascites, elevated tumor markers, liver lesions. 1-week history of abdominal distension. 10-day history of constipation. Sepsis and ascites and pleural effusions. At surgery, retroperitoneal bowel perf at sigmoid, likely primary sigmoid tumor.\tAGE: 60\nDURATION: 1 week=>P1W\nDURATION: 10 day=>P10D
+
+44-year-old with bilateral complex ovarian masses, ascites, elevated tumor markers, liver lesions. 5-week history of abdominal distension. 15-day history of constipation. Sepsis and ascites and pleural effusions. At surgery, retroperitoneal bowel perf at sigmoid, likely primary sigmoid tumor.\tAGE: 44\nDURATION: 5 week=>P5W\nDURATION: 15 day=>P15D
+
+78-year-old with bilateral complex ovarian masses, ascites, elevated tumor markers, liver lesions. 7-week history of abdominal distension. 2-day history of constipation. Sepsis and ascites and pleural effusions. At surgery, retroperitoneal bowel perf at sigmoid, likely primary sigmoid tumor.\tAGE: 78\nDURATION: 7 week=>P7W\nDURATION: 2 day=>P2D
+
+72-year-old with bilateral complex ovarian masses, ascites, raised tumor markers, liver lesions. 8-month history of abdominal distension. 3-year history of constipation. Sepsis and ascites and pleural effusions. At surgery, retroperitoneal bowel perf at sigmoid, likely primary sigmoid tumor.\tAGE: 72\nDURATION: 8 month=>P8M\nDURATION: 3 year=>P3Y
+
+57-year-old with bilateral complex ovarian masses, ascites, raised tumor markers, liver lesions. 12-month history of abdominal distension. 7-year history of constipation. Sepsis and ascites and pleural effusions. At surgery, retroperitoneal bowel perf at sigmoid, likely primary sigmoid tumor.\tAGE: 57\nDURATION: 12 month=>P12M\nDURATION: 7 year=>P7Y
+
+36-year-old with bilateral complex ovarian masses, ascites, raised tumor markers, liver lesions. 6-month history of abdominal distension. 5-year history of constipation. Sepsis and ascites and pleural effusions. At surgery, retroperitoneal bowel perf at sigmoid, likely primary sigmoid tumor.\tAGE: 36\nDURATION: 6 month=>P6M\nDURATION: 5 year=>P5Y
+
+45-year-old with bilateral complex ovarian masses, ascites, raised tumor markers, liver lesions. 9-month history of abdominal distension. 10-year history of constipation. Sepsis and ascites and pleural effusions. At surgery, retroperitoneal bowel perf at sigmoid, likely primary sigmoid tumor.\tAGE: 45\nDURATION: 9 month=>P9M\nDURATION: 10 year=>P10Y
+
+68-year-old with bilateral complex ovarian masses, ascites, raised tumor markers, liver lesions. 3-month history of abdominal distension. 6-year history of constipation. Sepsis and ascites and pleural effusions. At surgery, retroperitoneal bowel perf at sigmoid, likely primary sigmoid tumor.\tAGE: 68\nDURATION: 3 month=>P3M\nDURATION: 6 year=>P6Y
+
+84-year-old with bilateral complex ovarian masses, ascites, raised tumor markers, liver lesions. 11-month history of abdominal distension. 8-year history of constipation. Sepsis and ascites and pleural effusions. At surgery, retroperitoneal bowel perf at sigmoid, likely primary sigmoid tumor.\tAGE: 84\nDURATION: 11 month=>P11M\nDURATION: 8 year=>P8Y
+
+63-year-old with bilateral complex ovarian masses, ascites, raised tumor markers, liver lesions. 4-month history of abdominal distension. 9-year history of constipation. Sepsis and ascites and pleural effusions. At surgery, retroperitoneal bowel perf at sigmoid, likely primary sigmoid tumor.\tAGE: 63\nDURATION: 4 month=>P4M\nDURATION: 9 year=>P9Y
+
+50-year-old with bilateral complex ovarian masses, ascites, raised tumor markers, liver lesions. 7-month history of abdominal distension. 2-year history of constipation. Sepsis and ascites and pleural effusions. At surgery, retroperitoneal bowel perf at sigmoid, likely primary sigmoid tumor.\tAGE: 50\nDURATION: 7 month=>P7M\nDURATION: 2 year=>P2Y
+
+29-year-old with bilateral complex ovarian masses, ascites, raised tumor markers, liver lesions. 10-month history of abdominal distension. 1-year history of constipation. Sepsis and ascites and pleural effusions. At surgery, retroperitoneal bowel perf at sigmoid, likely primary sigmoid tumor.\tAGE: 29\nDURATION: 10 month=>P10M\nDURATION: 1 year=>P1Y
+
+58-year-old with bilateral complex ovarian masses, ascites, raised tumor markers, liver lesions. 5-month history of abdominal distension. 4-year history of constipation. Sepsis and ascites and pleural effusions. At surgery, retroperitoneal bowel perf at sigmoid, likely primary sigmoid tumor.\tAGE: 58\nDURATION: 5 month=>P5M\nDURATION: 4 year=>P4Y
+
+(20G82134 - Synovial sarcoma, FNCLCC grade 2 on core biopsy of soft tissue mass over right elbow in subcutaneous plane, present for three years. Recently growing.)\tIDNUM: 20G82134\nDURATION: three years=>P3Y
+
+(20G45921 - Liposarcoma, FNCLCC grade 3 on core biopsy of soft tissue mass over left knee in subcutaneous plane, present for seven years. Recently growing.)\tIDNUM: 20G45921\nDURATION: seven years=>P7Y
+
+(20G93256 - Rhabdomyosarcoma, FNCLCC grade 1 on core biopsy of soft tissue mass over right knee in subcutaneous plane, present for six years. Recently growing.)\tIDNUM: 20G93256\nDURATION: six years=>P6Y
+
+(20G71648 - Osteosarcoma, FNCLCC grade 2 on core biopsy of soft tissue mass over left shoulder in subcutaneous plane, present for two years. Recently growing.)\tIDNUM: 20G71648\nDURATION: two years=>P2Y
+
+(20G50379 - Fibrosarcoma, FNCLCC grade 3 on core biopsy of soft tissue mass over right shoulder in subcutaneous plane, present for nine years. Recently growing.)\tIDNUM: 20G50379\nDURATION: nine years=>P9Y
+
+(20G62417 - Chondrosarcoma, FNCLCC grade 1 on core biopsy of soft tissue mass over left hip in subcutaneous plane, present for four years. Recently growing.)\tIDNUM: 20G62417\nDURATION: four years=>P4Y
+
+(20G19845 - Angiosarcoma, FNCLCC grade 2 on core biopsy of soft tissue mass over right hip in subcutaneous plane, present for eight years. Recently growing.)\tIDNUM: 20G19845\nDURATION: eight years=>P8Y
+
+(20G76592 - Gastrointestinal stromal tumor, FNCLCC grade 3 on core biopsy of soft tissue mass over left ankle in subcutaneous plane, present for one year. Recently growing.)\tIDNUM: 20G76592\nDURATION: one year=>P1Y
+
+(20G35678 - Desmoid tumor, FNCLCC grade 1 on core biopsy of soft tissue mass over right ankle in subcutaneous plane, present for ten years. Recently growing.)\tIDNUM: 20G35678\nDURATION: ten years=>P10Y
+
+(20G60987 - Hemangiopericytoma, FNCLCC grade 2 on core biopsy of soft tissue mass over left wrist in subcutaneous plane, present for eleven years. Recently growing.)\tIDNUM: 20G60987\nDURATION: eleven years=>P11Y
+
+History of left hip replacement 2 wks ago.\tDURATION: 2 wks=>P2W
+
+History of bilateral shoulder replacements 6 wks ago.\tDURATION: 6 wks=>P6W
+
+History of right elbow replacement 8 wks ago.\tDURATION: 8 wks=>P8W
+
+History of left ankle replacement 10 wks ago.\tDURATION: 10 wks=>P10W
+
+History of bilateral knee replacements 3 wks ago.\tDURATION: 3 wks=>P3W
+
+History of right wrist replacement 7 wks ago.\tDURATION: 7 wks=>P7W
+
+History of left elbow replacement 9 wks ago.\tDURATION: 9 wks=>P9W
+
+History of bilateral hip replacements 5 wks ago.\tDURATION: 5 wks=>P5W
+
+History of right shoulder replacement 12 wks ago.\tDURATION: 12 wks=>P12W
+
+History of left knee replacement 11 wks ago.\tDURATION: 11 wks=>P11W
+
+Patient reported a 7-8 month history of intermittent headaches and dizziness. Initial neurological assessment underway to explore potential causes.\tDURATION: 7-8 month=>P7.5M
+
+The patient describes a 9-10 month history of joint pain and stiffness. Rheumatological evaluation scheduled to determine the underlying condition.\tDURATION: 9-10 month=>P9.5M
+
+Noted a 3-4 month history of recurrent respiratory infections. Immunological workup initiated to identify any underlying immune deficiency.\tDURATION: 3-4 month=>P3.5M
+
+The individual presented with a 12-13 month history of chronic back pain. Orthopedic consultation planned to assess and address the underlying musculoskeletal issue.\tDURATION: 12-13 month=>P12.5M
+
+The patient reports a 6-7 month history of digestive discomfort and irregular bowel habits. Gastroenterological investigations are underway.\tDURATION: 6-7 month=>P6.5M
+
+A 11-12 month history of persistent skin rash and itching is noted. Dermatological consultation scheduled for further evaluation.\tDURATION: 11-12 month=>P11.5M
+
+Presenting with a 8-9 month history of unexplained fevers and night sweats. Infectious disease assessment initiated to identify potential sources.\tDURATION: 8-9 month=>P8.5M
+
+The patient describes a 2-3 month history of cognitive decline and memory lapses. Neurocognitive testing scheduled for a comprehensive evaluation.\tDURATION: 2-3 month=>P2.5M
+
+Noted a 10-11 month history of persistent cough and shortness of breath. Pulmonary function tests planned to assess respiratory function.\tDURATION: 10-11 month=>P10.5M
+
+Reporting a 4-5 month history of visual disturbances and headaches. Ophthalmological examination scheduled to investigate potential eye-related issues.\tDURATION: 4-5 month=>P4.5M
+
+The patient presented with a 1-2 month history of unexplained weight gain. Endocrinological evaluation initiated to explore hormonal imbalances.\tDURATION: 1-2 month=>P1.5M
+
+Describing a 7-8 month history of recurrent urinary tract infections. Urological assessment planned to identify underlying causes.\tDURATION: 7-8 month=>P7.5M
+
+Noted a 9-10 month history of persistent joint swelling and pain. Rheumatological consultation scheduled for a comprehensive assessment.\tDURATION: 9-10 month=>P9.5M
+
+Presenting with a 5-6 month history of unexplained fatigue and weakness. Hematological investigations initiated to explore potential blood-related issues.\tDURATION: 5-6 month=>P5.5M
+
+The patient reports a 3-4 month history of recurrent abdominal pain and bloating. Gastrointestinal investigations underway for further assessment.\tDURATION: 3-4 month=>P3.5M
+
+Describing a 8-9 month history of persistent joint stiffness and swelling. Rheumatological consultation scheduled for a thorough evaluation.\tDURATION: 8-9 month=>P8.5M
+
+Presenting with a 6-7 month history of intermittent chest pain and palpitations. Cardiological assessment initiated to explore potential cardiovascular concerns.\tDURATION: 6-7 month=>P6.5M
+
+Noted a 2-3 month history of unexplained weight loss and loss of appetite. Comprehensive metabolic testing scheduled for further investigation.\tDURATION: 2-3 month=>P2.5M
+
+The patient describes a 10-11 month history of chronic back pain and limited mobility. Orthopedic consultation planned for a comprehensive musculoskeletal assessment.\tDURATION: 10-11 month=>P10.5M
+
+Reporting a 5-6 month history of persistent headaches and visual disturbances. Neurological evaluation initiated to explore potential underlying issues.\tDURATION: 5-6 month=>P5.5M
+
+The individual presents with a 9-10 month history of unexplained fatigue and weakness. Hematological investigations underway to explore potential blood-related issues.\tDURATION: 9-10 month=>P9.5M
+
+Describing a 1-2 month history of recurrent respiratory infections. Immunological workup initiated to identify any underlying immune deficiency.\tDURATION: 1-2 month=>P1.5M
+
+Noted a 7-8 month history of persistent cough and shortness of breath. Pulmonary function tests scheduled to assess respiratory function.\tDURATION: 7-8 month=>P7.5M
+
+Presenting with a 4-5 month history of unexplained skin rash and itching. Dermatological consultation planned for further evaluation.\tDURATION: 4-5 month=>P4.5M
+
+The patient describes a 3-4 week history of recurrent migraines and visual disturbances. Neurological assessment initiated to explore potential causes.\tDURATION: 3-4 week=>P3.5W
+
+Presenting with a 8-9 week history of persistent lower back pain and limited mobility. Orthopedic consultation planned for a comprehensive musculoskeletal evaluation.\tDURATION: 8-9 week=>P8.5W
+
+Noted a 6-7 week history of unexplained fatigue and weakness. Hematological investigations underway to explore potential blood-related issues.\tDURATION: 6-7 week=>P6.5W
+
+Reporting a 2-3 week history of recurrent respiratory infections. Immunological workup initiated to identify any underlying immune deficiency.\tDURATION: 2-3 week=>P2.5W
+
+Describing a 10-11 week history of persistent headaches and visual disturbances. Neurological evaluation scheduled to explore potential underlying issues.\tDURATION: 10-11 week=>P10.5W
+
+The individual presents with a 5-6 week history of intermittent chest pain and palpitations. Cardiological assessment initiated to explore potential cardiovascular concerns.\tDURATION: 5-6 week=>P5.5W
+
+Noted a 9-10 week history of persistent cough and shortness of breath. Pulmonary function tests scheduled to assess respiratory function.\tDURATION: 9-10 week=>P9.5W
+
+The patient reports a 1-2 week history of unexplained weight loss and loss of appetite. Comprehensive metabolic testing scheduled for further investigation.\tDURATION: 1-2 week=>P1.5W
+
+Presenting with a 7-8 week history of persistent joint stiffness and swelling. Rheumatological consultation planned for a thorough evaluation.\tDURATION: 7-8 week=>P7.5W
+
+Describing a 4-5 week history of recurrent abdominal pain and bloating. Gastrointestinal investigations underway for further assessment.\tDURATION: 4-5 week=>P4.5W
+
+The patient reports a 11-12 week history of digestive discomfort and irregular bowel habits. Gastroenterological investigations are underway.\tDURATION: 11-12 week=>P11.5W
+
+Describing a 6-7 week history of persistent joint swelling and pain. Rheumatological consultation scheduled for a comprehensive assessment.\tDURATION: 6-7 week=>P6.5W
+
+Presenting with a 8-9 week history of unexplained fevers and night sweats. Infectious disease assessment initiated to identify potential sources.\tDURATION: 8-9 week=>P8.5W
+
+Noted a 2-3 week history of unexplained weight gain. Endocrinological evaluation initiated to explore potential hormonal imbalances.\tDURATION: 2-3 week=>P2.5W
+
+The patient describes a 10-11 week history of chronic back pain and limited mobility. Orthopedic consultation planned for a comprehensive musculoskeletal assessment.\tDURATION: 10-11 week=>P10.5W
+
+Reporting a 5-6 week history of visual disturbances and headaches. Neurological evaluation initiated to explore potential underlying issues.\tDURATION: 5-6 week=>P5.5W
+
+The individual presents with a 9-10 week history of unexplained fatigue and weakness. Hematological investigations underway to explore potential blood-related issues.\tDURATION: 9-10 week=>P9.5W
+
+Describing a 1-2 week history of recurrent respiratory infections. Immunological workup initiated to identify any underlying immune deficiency.\tDURATION: 1-2 week=>P1.5W
+
+Noted a 7-8 week history of persistent cough and shortness of breath. Pulmonary function tests scheduled to assess respiratory function.\tDURATION: 7-8 week=>P7.5W
+
+Presenting with a 4-5 week history of unexplained skin rash and itching. Dermatological consultation planned for further evaluation.\tDURATION: 4-5 week=>P4.5W
+The patient reports a 3-4 week history of recurrent migraines and visual disturbances. Neurological assessment initiated to explore potential causes.\tDURATION: 3-4 week=>P3.5W
+
+Presenting with an 8-9 week history of persistent lower back pain and limited mobility. Orthopedic consultation planned for a comprehensive musculoskeletal evaluation.\tDURATION: 8-9 week=>P8.5W
+
+Noted a 6-7 week history of unexplained fatigue and weakness. Hematological investigations underway to explore potential blood-related issues.\tDURATION: 6-7 week=>P6.5W
+
+Reporting a 2-3 week history of recurrent respiratory infections. Immunological workup initiated to identify any underlying immune deficiency.\tDURATION: 2-3 week=>P2.5W
+
+Describing a 10-11 week history of persistent headaches and visual disturbances. Neurological evaluation scheduled to explore potential underlying issues.\tDURATION: 10-11 week=>P10.5W
+
+The individual presents with a 5-6 week history of intermittent chest pain and palpitations. Cardiological assessment initiated to explore potential cardiovascular concerns.\tDURATION: 5-6 week=>P5.5W
+
+Noted a 9-10 week history of persistent cough and shortness of breath. Pulmonary function tests scheduled to assess respiratory function.\tDURATION: 9-10 week=>P9.5W
+
+The patient reports a 1-2 week history of unexplained weight loss and loss of appetite. Comprehensive metabolic testing scheduled for further investigation.\tDURATION: 1-2 week=>P1.5W
+
+Presenting with a 7-8 week history of persistent joint stiffness and swelling. Rheumatological consultation planned for a thorough evaluation.\tDURATION: 7-8 week=>P7.5W
+
+Describing a 4-5 week history of recurrent abdominal pain and bloating. Gastrointestinal investigations underway for further assessment.\tDURATION: 4-5 week=>P4.5W
+
+A patient presents with a 5-6 year history of chronic joint pain and limited mobility. Rheumatological evaluation initiated to explore potential causes.\tDURATION: 5-6 year=>P5.6Y
+
+Describing a 10-11 year history of recurrent respiratory infections. Immunological workup initiated to identify any underlying immune deficiency.\tDURATION: 10-11 year=>P10.5Y
+
+Noted a 3-4 year history of unexplained fatigue and weakness. Hematological investigations underway to explore potential blood-related issues.\tDURATION: 3-4 year=>P3.5Y
+
+Reporting a 7-8 year history of persistent lower back pain and limited mobility. Orthopedic consultation planned for a comprehensive musculoskeletal evaluation.\tDURATION: 7-8 year=>P7.5Y
+
+The individual presents with a 9-10 year history of intermittent chest pain and palpitations. Cardiological assessment initiated to explore potential cardiovascular concerns.\tDURATION: 9-10 year=>P9.5Y
+
+Noted a 2-3 year history of recurrent migraines and visual disturbances. Neurological assessment initiated to explore potential causes.\tDURATION: 2-3 year=>P2.5Y
+
+Presenting with a 6-7 year history of persistent headaches and visual disturbances. Neurological evaluation scheduled to explore potential underlying issues.\tDURATION: 6-7 year=>P6.5Y
+
+The patient reports a 1-2 year history of unexplained weight loss and loss of appetite. Comprehensive metabolic testing scheduled for further investigation.\tDURATION: 1-2 year=>P1.5Y
+
+Describing a 4-5 year history of persistent joint stiffness and swelling. Rheumatological consultation planned for a thorough evaluation.\tDURATION: 4-5 year=>P4.5Y
+
+Presenting with an 8-9 year history of intermittent abdominal pain and bloating. Gastrointestinal investigations underway for further assessment.\tDURATION: 8-9 year=>P8.5Y
+
+The patient presents with a 12-13 year history of chronic joint pain and limited mobility. Rheumatological evaluation initiated to explore potential causes.\tDURATION: 12-13 year=>P12.5Y
+
+Describing a 15-16 year history of recurrent respiratory infections. Immunological workup initiated to identify any underlying immune deficiency.\tDURATION: 15-16 year=>P15.5Y
+
+Noted an 18-19 year history of unexplained fatigue and weakness. Hematological investigations underway to explore potential blood-related issues.\tDURATION: 18-19 year=>P18.5Y
+
+Reporting a 21-22 year history of persistent lower back pain and limited mobility. Orthopedic consultation planned for a comprehensive musculoskeletal evaluation.\tDURATION: 21-22 year=>P21.5Y
+
+The individual presents with a 24-25 year history of intermittent chest pain and palpitations. Cardiological assessment initiated to explore potential cardiovascular concerns.\tDURATION: 24-25 year=>P24.5Y
+
+Noted a 27-28 year history of recurrent migraines and visual disturbances. Neurological assessment initiated to explore potential causes.\tDURATION: 27-28 year=>P27.5Y
+
+Presenting with a 30-31 year history of persistent headaches and visual disturbances. Neurological evaluation scheduled to explore potential underlying issues.\tDURATION: 30-31 year=>P30.5Y
+
+The patient reports a 33-34 year history of unexplained weight loss and loss of appetite. Comprehensive metabolic testing scheduled for further investigation.\tDURATION: 33-34 year=>P33.5Y
+
+Describing a 36-37 year history of persistent joint stiffness and swelling. Rheumatological consultation planned for a thorough evaluation.\tDURATION: 36-37 year=>P36.5Y
+
+Presenting with a 39-40 year history of intermittent abdominal pain and bloating. Gastrointestinal investigations underway for further assessment.\tDURATION: 39-40 year=>P39.5Y
+The patient underwent a successful surgery 15 years ago for the removal of a benign tumor. Follow-up examinations scheduled to ensure long-term health.\tDURATION: 15 yr=>P15Y
+
+Describing a medical breakthrough that occurred 8 years ago, revolutionizing the approach to treating a particular condition. Ongoing research aims to build upon this milestone.\tDURATION: 8 yr=>P8Y
+
+Noted a significant lifestyle change 20 years ago, leading to improved overall health and well-being. Regular check-ups continue to monitor the sustained positive impact.\tDURATION: 20 yr=>P20Y
+
+The diagnostic imaging technology implemented 12 years ago has proven instrumental in early disease detection. Continuous advancements aim to enhance its capabilities.\tDURATION: 12 yr=>P12Y
+
+Following a major dietary adjustment 25 years ago, the patient experienced notable improvements in cholesterol levels and cardiovascular health. Regular follow-ups ensure sustained benefits.\tDURATION: 25 yr=>P25Y
+
+A groundbreaking therapeutic approach introduced 30 years ago has since become a standard in cancer treatment. Ongoing studies explore ways to refine and optimize its effectiveness.\tDURATION: 30 yr=>P30Y
+
+The establishment of a dedicated medical research center 18 years ago has significantly contributed to advancements in various fields. Continuous support ensures the center's ongoing impact.\tDURATION: 18 yr=>P18Y
+
+Noted a paradigm shift in mental health treatment 22 years ago with the introduction of innovative therapies. Research efforts persist to further understand and enhance these approaches.\tDURATION: 22 yr=>P22Y
+
+A successful organ transplantation procedure conducted 10 years ago marked a milestone in medical history. Ongoing studies focus on improving organ transplant outcomes.\tDURATION: 10 yr=>P10Y
+
+The implementation of a public health campaign 5 years ago led to a substantial reduction in a specific disease's prevalence. Continuous monitoring ensures the sustained success of the campaign.\tDURATION: 5 yr=>P5Y
+A groundbreaking medical research study conducted 7 years ago unveiled crucial insights into a rare genetic disorder. Ongoing investigations aim to expand knowledge and therapeutic options.\tDURATION: 7 yr=>P7Y
+
+Following a revolutionary surgical technique introduced 14 years ago, patients experienced accelerated recovery and reduced postoperative complications. Continuous improvements in surgical approaches are actively pursued.\tDURATION: 14 yr=>P14Y
+
+The implementation of a community-based wellness program 11 years ago has positively impacted residents' overall health. Regular evaluations ensure the sustained effectiveness of the program.\tDURATION: 11 yr=>P11Y
+
+Noted a significant advancement in personalized medicine 9 years ago, leading to more tailored treatment plans for patients with complex medical conditions. Ongoing research explores further customization options.\tDURATION: 9 yr=>P9Y
+
+A novel therapeutic intervention introduced 13 years ago has demonstrated remarkable efficacy in managing chronic pain conditions. Continuous efforts focus on refining and expanding the application of this intervention.\tDURATION: 13 yr=>P13Y
+
+The establishment of a cutting-edge medical facility 16 years ago has become a hub for innovative treatments and research initiatives. Sustained support ensures ongoing contributions to medical science.\tDURATION: 16 yr=>P16Y
+
+A nationwide vaccination campaign initiated 6 years ago significantly reduced the incidence of a prevalent infectious disease. Ongoing surveillance remains crucial to maintaining public health gains.\tDURATION: 6 yr=>P6Y
+
+The implementation of advanced telemedicine services 19 years ago revolutionized remote patient care. Continuous technological updates aim to enhance accessibility and quality of virtual healthcare.\tDURATION: 19 yr=>P19Y
+
+A landmark clinical trial conducted 8 years ago paved the way for the approval of a breakthrough medication. Ongoing studies explore additional indications and potential therapeutic combinations.\tDURATION: 8 yr=>P8Y
+
+The initiation of a global health collaboration 12 years ago has led to significant progress in addressing infectious diseases in underserved regions. Ongoing partnerships strive to further improve healthcare equity.\tDURATION: 12 yr=>P12Y
+A groundbreaking study conducted 15 years ago provided crucial insights into the genetic basis of a rare disorder. Subsequent research aims to build upon this foundation for potential therapeutic advancements.\tDURATION: 15 yr=>P15Y
+
+Following the introduction of an innovative surgical technique 22 years ago, patients experienced expedited recovery and reduced postoperative complications. Continuous refinements in surgical approaches are actively pursued.\tDURATION: 22 yr=>P22Y
+
+The initiation of a community-based wellness initiative 18 years ago has positively influenced the overall health of residents. Regular assessments ensure the sustained impact and effectiveness of the program.\tDURATION: 18 yr=>P18Y
+
+Noted a significant breakthrough in personalized medicine 20 years ago, leading to more individualized treatment plans for patients with complex medical conditions. Ongoing research explores further customization options.\tDURATION: 20 yr=>P20Y
+
+A novel therapeutic intervention introduced 13 years ago has shown remarkable efficacy in managing chronic pain conditions. Continuous efforts focus on refining and expanding the application of this intervention.\tDURATION: 13 yr=>P13Y
+
+The establishment of an advanced medical facility 25 years ago has become a center for innovative treatments and research initiatives. Sustained support ensures ongoing contributions to medical science.\tDURATION: 25 yr=>P25Y
+
+A nationwide vaccination campaign initiated 10 years ago significantly reduced the incidence of a prevalent infectious disease. Ongoing surveillance remains crucial for maintaining public health gains.\tDURATION: 10 yr=>P10Y
+
+The implementation of state-of-the-art telemedicine services 17 years ago revolutionized remote patient care. Continuous technological updates aim to enhance accessibility and the quality of virtual healthcare.\tDURATION: 17 yr=>P17Y
+
+A landmark clinical trial conducted 14 years ago paved the way for the approval of a breakthrough medication. Ongoing studies explore additional indications and potential therapeutic combinations.\tDURATION: 14 yr=>P14Y
+
+The initiation of a global health collaboration 16 years ago has led to significant progress in addressing infectious diseases in underserved regions. Ongoing partnerships strive to further improve healthcare equity.\tDURATION: 16 yr=>P16Y
+A pioneering research study conducted 42 years ago provided crucial insights into the genetic basis of a rare disorder. Subsequent investigations aim to build upon this foundation for potential therapeutic advancements.\tDURATION: 42 yr=>P42Y
+
+Following the introduction of an innovative surgical technique 53 years ago, patients experienced expedited recovery and reduced postoperative complications. Continuous refinements in surgical approaches are actively pursued.\tDURATION: 53 yr=>P53Y
+
+The initiation of a community-based wellness initiative 61 years ago has positively influenced the overall health of residents. Regular assessments ensure the sustained impact and effectiveness of the program.\tDURATION: 61 yr=>P61Y
+
+Noted a significant breakthrough in personalized medicine 37 years ago, leading to more individualized treatment plans for patients with complex medical conditions. Ongoing research explores further customization options.\tDURATION: 37 yr=>P37Y
+
+A novel therapeutic intervention introduced 78 years ago has shown remarkable efficacy in managing chronic pain conditions. Continuous efforts focus on refining and expanding the application of this intervention.\tDURATION: 78 yr=>P78Y
+
+The establishment of an advanced medical facility 68 years ago has become a center for innovative treatments and research initiatives. Sustained support ensures ongoing contributions to medical science.\tDURATION: 68 yr=>P68Y
+
+A nationwide vaccination campaign initiated 30 years ago significantly reduced the incidence of a prevalent infectious disease. Ongoing surveillance remains crucial for maintaining public health gains.\tDURATION: 30 yr=>P30Y
+
+The implementation of state-of-the-art telemedicine services 74 years ago revolutionized remote patient care. Continuous technological updates aim to enhance accessibility and the quality of virtual healthcare.\tDURATION: 74 yr=>P74Y
+
+A landmark clinical trial conducted 49 years ago paved the way for the approval of a breakthrough medication. Ongoing studies explore additional indications and potential therapeutic combinations.\tDURATION: 49 yr=>P49Y
+
+The initiation of a global health collaboration 85 years ago has led to significant progress in addressing infectious diseases in underserved regions. Ongoing partnerships strive to further improve healthcare equity.\tDURATION: 85 yr=>P85Y
+A groundbreaking study conducted 61 years ago provided crucial insights into the genetic basis of a rare disorder. Subsequent research aims to build upon this foundation for potential therapeutic advancements.\tDURATION: 61 yr=>P61Y
+
+Following the introduction of an innovative surgical technique 74 years ago, patients experienced expedited recovery and reduced postoperative complications. Continuous refinements in surgical approaches are actively pursued.\tDURATION: 74 yr=>P74Y
+
+The initiation of a community-based wellness initiative 43 years ago has positively influenced the overall health of residents. Regular assessments ensure the sustained impact and effectiveness of the program.\tDURATION: 43 yr=>P43Y
+
+Noted a significant breakthrough in personalized medicine 52 years ago, leading to more individualized treatment plans for patients with complex medical conditions. Ongoing research explores further customization options.\tDURATION: 52 yr=>P52Y
+
+A novel therapeutic intervention introduced 30 years ago has shown remarkable efficacy in managing chronic pain conditions. Continuous efforts focus on refining and expanding the application of this intervention.\tDURATION: 30 yr=>P30Y
+
+The establishment of an advanced medical facility 68 years ago has become a center for innovative treatments and research initiatives. Sustained support ensures ongoing contributions to medical science.\tDURATION: 68 yr=>P68Y
+
+A nationwide vaccination campaign initiated 85 years ago significantly reduced the incidence of a prevalent infectious disease. Ongoing surveillance remains crucial for maintaining public health gains.\tDURATION: 85 yr=>P85Y
+
+The implementation of state-of-the-art telemedicine services 61 years ago revolutionized remote patient care. Continuous technological updates aim to enhance accessibility and the quality of virtual healthcare.\tDURATION: 61 yr=>P61Y
+
+A landmark clinical trial conducted 52 years ago paved the way for the approval of a breakthrough medication. Ongoing studies explore additional indications and potential therapeutic combinations.\tDURATION: 52 yr=>P52Y
+
+The initiation of a global health collaboration 43 years ago has led to significant progress in addressing infectious diseases in underserved regions. Ongoing partnerships strive to further improve healthcare equity.\tDURATION: 43 yr=>P43Y
+A comprehensive screening program for detecting colorectal cancer was initiated for ca 72 yr ago, significantly improving early detection rates and patient outcomes.\tDURATION: 72 yr=>P72Y
+
+The introduction of a state-of-the-art diagnostic tool for prostate cancer occurred for ca 56 yr ago, allowing for more precise and timely identification of cases. Continuous advancements refine its diagnostic accuracy.\tDURATION: 56 yr=>P56Y
+
+A nationwide awareness campaign for breast cancer was launched for ca 39 yr ago, leading to increased public knowledge and early intervention. Ongoing efforts focus on maintaining awareness and education.\tDURATION: 39 yr=>P39Y
+
+The establishment of a multidisciplinary cancer care center for lung cancer took place for ca 68 yr ago, providing integrated and specialized treatment options. Continuous updates ensure the incorporation of the latest therapeutic approaches.\tDURATION: 68 yr=>P68Y
+
+A pioneering research initiative for understanding the genetic factors of ovarian cancer was initiated for ca 81 yr ago. Subsequent studies build upon this foundation to unravel the complexities of the disease.\tDURATION: 81 yr=>P81Y
+
+The implementation of a community-based prevention program for pancreatic cancer occurred for ca 44 yr ago, significantly reducing the incidence of new cases. Ongoing community engagement ensures the program's sustained impact.\tDURATION: 44 yr=>P44Y
+
+A dedicated support network for individuals affected by melanoma was established for ca 59 yr ago, providing emotional and practical assistance. Continuous expansion enhances the reach and services offered by the support network.\tDURATION: 59 yr=>P59Y
+
+The initiation of a groundbreaking clinical trial for bladder cancer happened for ca 75 yr ago, leading to the development of innovative treatment protocols. Ongoing trials explore further refinements and new therapeutic combinations.\tDURATION: 75 yr=>P75Y
+
+The implementation of a national registry for cervical cancer started for ca 62 yr ago, facilitating comprehensive data collection and analysis. Continuous updates ensure the registry's relevance in informing public health strategies.\tDURATION: 62 yr=>P62Y
+
+A targeted intervention program for liver cancer prevention and early detection was launched for ca 51 yr ago, contributing to a significant reduction in cancer-related morbidity and mortality. Ongoing evaluations refine the program's effectiveness.\tDURATION: 51 yr=>P51Y
+A pioneering initiative for researching esophageal cancer genetics was launched for ca 27 yr ago, laying the foundation for subsequent genetic studies and personalized treatment approaches.\tDURATION: 27 yr=>P27Y
+
+The establishment of a regional outreach program for colorectal cancer awareness occurred for ca 14 yr ago, enhancing public knowledge and early detection efforts. Ongoing outreach activities continue to raise awareness.\tDURATION: 14 yr=>P14Y
+
+A collaborative effort to improve brain cancer diagnostics was initiated for ca 46 yr ago, leading to advancements in imaging technology and diagnostic accuracy. Continuous research aims to further refine diagnostic tools.\tDURATION: 46 yr=>P46Y
+
+The introduction of a community-based screening initiative for ovarian cancer took place for ca 33 yr ago, contributing to early detection and improved patient outcomes. Ongoing community engagement ensures the program's success.\tDURATION: 33 yr=>P33Y
+
+A groundbreaking research project for understanding the genetic basis of prostate cancer was initiated for ca 68 yr ago. Subsequent studies build upon this foundation to unravel the complexities of the disease.\tDURATION: 68 yr=>P68Y
+
+The establishment of a specialized center for breast cancer treatment and research occurred for ca 52 yr ago, providing comprehensive care and advancing scientific knowledge. Ongoing collaborations drive further breakthroughs.\tDURATION: 52 yr=>P52Y
+
+A national campaign for pancreatic cancer awareness and prevention was launched for ca 21 yr ago, significantly influencing public perceptions and early intervention efforts. Continuous awareness initiatives aim to sustain impact.\tDURATION: 21 yr=>P21Y
+
+The implementation of a citywide screening program for lung cancer took place for ca 39 yr ago, contributing to the early detection of cases and improved survival rates. Ongoing updates ensure the program's effectiveness.\tDURATION: 39 yr=>P39Y
+
+A research consortium focusing on bladder cancer was established for ca 75 yr ago, fostering collaboration and advancements in treatment strategies. Ongoing studies explore novel therapeutic approaches and biomarkers.\tDURATION: 75 yr=>P75Y
+
+The initiation of a community-driven initiative for cervical cancer prevention started for ca 8 yr ago, enhancing vaccination rates and early detection efforts. Ongoing community involvement ensures the initiative's success.\tDURATION: 8 yr=>P8Y
+A regional symposium for addressing colorectal cancer challenges was organized for ca 62 yr ago, fostering interdisciplinary collaborations and knowledge exchange. Ongoing symposiums continue to drive progress in the field.\tDURATION: 62 yr=>P62Y
+
+The establishment of a comprehensive breast cancer registry occurred for ca 17 yr ago, providing valuable epidemiological data and guiding research efforts. Continuous updates enhance the registry's relevance in cancer studies.\tDURATION: 17 yr=>P17Y
+
+An innovative initiative for pancreatic cancer research and drug development was launched for ca 49 yr ago, leading to breakthroughs in treatment modalities. Ongoing research endeavors aim to further improve therapeutic options.\tDURATION: 49 yr=>P49Y
+
+A nationwide campaign for ovarian cancer awareness was initiated for ca 28 yr ago, significantly impacting public knowledge and early detection rates. Ongoing campaigns sustain momentum in raising awareness.\tDURATION: 28 yr=>P28Y
+
+The establishment of a research consortium focusing on lung cancer genetics occurred for ca 53 yr ago, catalyzing advancements in understanding the genetic basis of the disease. Ongoing collaborations drive continuous progress.\tDURATION: 53 yr=>P53Y
+
+A citywide initiative for prostate cancer screening and awareness was launched for ca 12 yr ago, contributing to increased early detection and improved patient outcomes. Ongoing initiatives maintain focus on awareness.\tDURATION: 12 yr=>P12Y
+
+The inception of a national program for brain cancer research took place for ca 35 yr ago, spurring advancements in treatment strategies. Ongoing studies explore novel therapeutic approaches and innovative technologies.\tDURATION: 35 yr=>P35Y
+
+The implementation of a community-based screening program for cervical cancer occurred for ca 21 yr ago, contributing to improved detection rates. Ongoing community engagement ensures the program's success.\tDURATION: 21 yr=>P21Y
+
+A pioneering effort for understanding bladder cancer epidemiology and risk factors was initiated for ca 74 yr ago, providing foundational knowledge for subsequent research. Ongoing studies explore emerging trends in the disease.\tDURATION: 74 yr=>P74Y
+
+A regional initiative for lung cancer prevention and smoking cessation was launched for ca 9 yr ago, contributing to reduced smoking rates and improved lung health. Ongoing initiatives focus on sustaining prevention efforts.\tDURATION: 9 yr=>P9Y
+An international collaboration for melanoma research was established for ca 83 yr ago, fostering global cooperation and advancements in treatment options. Ongoing collaborative efforts drive progress in melanoma studies.\tDURATION: 83 yr=>P83Y
+
+A citywide initiative for breast cancer screening and early detection was launched for ca 46 yr ago, significantly impacting timely diagnosis and patient outcomes. Ongoing screening programs sustain the initiative's success.\tDURATION: 46 yr=>P46Y
+
+The inception of a research consortium focused on pancreatic cancer genetics occurred for ca 18 yr ago, driving breakthroughs in understanding the genetic basis of the disease. Ongoing research endeavors aim to further unravel complexities.\tDURATION: 18 yr=>P18Y
+
+A national campaign for ovarian cancer awareness and education was initiated for ca 71 yr ago, leading to increased public knowledge and early detection rates. Ongoing campaigns continue to raise awareness.\tDURATION: 71 yr=>P71Y
+
+The establishment of a comprehensive registry for colorectal cancer patients took place for ca 34 yr ago, providing valuable data for epidemiological studies and research. Ongoing updates enhance the registry's relevance.\tDURATION: 34 yr=>P34Y
+
+A citywide program for prostate cancer research and treatment advancements was launched for ca 27 yr ago, contributing to improved patient outcomes. Ongoing research initiatives focus on innovative therapeutic approaches.\tDURATION: 27 yr=>P27Y
+
+The initiation of a national effort for lung cancer prevention and smoking cessation occurred for ca 52 yr ago, leading to reduced smoking rates and improved lung health. Ongoing initiatives sustain preventive efforts.\tDURATION: 52 yr=>P52Y
+
+A community-based screening program for cervical cancer was implemented for ca 11 yr ago, contributing to improved detection rates. Ongoing community engagement ensures the program's continued success.\tDURATION: 11 yr=>P11Y
+
+A regional initiative for brain cancer research and treatment advancements was launched for ca 64 yr ago, spurring breakthroughs in understanding and managing the disease. Ongoing studies explore emerging therapeutic approaches.\tDURATION: 64 yr=>P64Y
+
+The implementation of an international program for bladder cancer epidemiology and risk factor analysis took place for ca 9 yr ago, providing foundational knowledge for subsequent research. Ongoing studies explore evolving trends in the disease.\tDURATION: 9 yr=>P9Y
+A global initiative for leukemia research and treatment advancements was established for ca 37 yr ago, fostering international collaboration and breakthroughs in therapeutic approaches. Ongoing research efforts drive continuous progress.\tDURATION: 37 yr=>P37Y
+
+The initiation of a citywide program for skin cancer prevention and awareness occurred for ca 21 yr ago, leading to increased public education and early detection. Ongoing campaigns maintain the program's impact.\tDURATION: 21 yr=>P21Y
+
+An international collaboration for breast cancer genetics research was formed for ca 53 yr ago, contributing to significant discoveries in the genetic basis of the disease. Ongoing collaborations drive continued advancements.\tDURATION: 53 yr=>P53Y
+
+The inception of a nationwide effort for pancreatic cancer awareness and early detection took place for ca 8 yr ago, leading to improved public awareness and timely diagnosis. Ongoing initiatives sustain awareness efforts.\tDURATION: 8 yr=>P8Y
+
+A regional consortium focused on colorectal cancer screening and prevention was established for ca 44 yr ago, driving improvements in screening rates and patient outcomes. Ongoing efforts ensure the consortium's continued success.\tDURATION: 44 yr=>P44Y
+
+A citywide program for prostate cancer awareness and education was launched for ca 13 yr ago, significantly impacting public knowledge and early detection rates. Ongoing awareness campaigns continue to make a difference.\tDURATION: 13 yr=>P13Y
+
+The establishment of an international registry for ovarian cancer patients occurred for ca 63 yr ago, providing crucial data for research and epidemiological studies. Ongoing updates enhance the registry's relevance.\tDURATION: 63 yr=>P63Y
+
+A national campaign for lung cancer prevention and smoking cessation was initiated for ca 29 yr ago, leading to reduced smoking rates and improved lung health. Ongoing initiatives sustain preventive efforts.\tDURATION: 29 yr=>P29Y
+
+The initiation of a community-based screening program for cervical cancer took place for ca 16 yr ago, contributing to improved detection rates. Ongoing community engagement ensures the program's ongoing success.\tDURATION: 16 yr=>P16Y
+
+A regional initiative for brain cancer research and treatment advancements was launched for ca 76 yr ago, spurring breakthroughs in understanding and managing the disease. Ongoing studies explore emerging therapeutic approaches.\tDURATION: 76 yr=>P76Y
+A global initiative for diabetes research and management was established for ca 27 yr ago, fostering innovations in treatment modalities and patient care. Ongoing research endeavors aim to enhance diabetes outcomes.\tDURATION: 27 yr=>P27Y
+
+The inception of a citywide program for cardiovascular health promotion occurred for ca 14 yr ago, leading to increased public awareness and adoption of heart-healthy lifestyles. Ongoing campaigns sustain the program's positive impact.\tDURATION: 14 yr=>P14Y
+
+An international consortium for rare genetic disorders research was formed for ca 43 yr ago, contributing to significant discoveries in the understanding of rare diseases. Ongoing collaborations drive continuous advancements in genetic medicine.\tDURATION: 43 yr=>P43Y
+
+The establishment of a nationwide effort for mental health awareness and support took place for ca 6 yr ago, leading to reduced stigma and improved access to mental health resources. Ongoing initiatives continue to prioritize mental well-being.\tDURATION: 6 yr=>P6Y
+
+A regional coalition focused on infectious disease control and prevention was initiated for ca 37 yr ago, driving improvements in vaccination rates and public health preparedness. Ongoing efforts ensure the coalition's resilience against emerging threats.\tDURATION: 37 yr=>P37Y
+
+A citywide program for Alzheimer's disease awareness and caregiver support was launched for ca 18 yr ago, significantly impacting public knowledge and fostering a supportive community. Ongoing awareness campaigns continue to make a difference.\tDURATION: 18 yr=>P18Y
+
+The establishment of an international network for autoimmune disease research occurred for ca 54 yr ago, providing crucial data for understanding and managing autoimmune conditions. Ongoing studies explore emerging therapeutic approaches.\tDURATION: 54 yr=>P54Y
+
+A national campaign for childhood obesity prevention and healthy lifestyle promotion was initiated for ca 29 yr ago, leading to reduced childhood obesity rates and improved overall health. Ongoing initiatives sustain preventive efforts.\tDURATION: 29 yr=>P29Y
+
+The initiation of a community-based initiative for maternal and child health took place for ca 11 yr ago, contributing to improved maternal and child well-being. Ongoing community engagement ensures the program's ongoing success.\tDURATION: 11 yr=>P11Y
+
+A regional program for environmental health and sustainability was launched for ca 67 yr ago, spurring initiatives to protect ecosystems and promote eco-friendly practices. Ongoing projects focus on emerging environmental challenges.\tDURATION: 67 yr=>P67Y
+
+48 year old ,female, experiencing 24 months of intermittent abdominal pain, identified palpable adnexal masses, elevated CEA (54.6 ng/mL), and CA 19-9 (92.3 U/mL). Radiological assessments reveal mucin accumulation, predominantly within a 12cm right ovarian mass. The clinical presentation raises concerns about potential pseudomyxoma peritonei; further investigations are advised for accurate diagnosis and treatment planning.\tAGE: 48\nDURATION: 24months=>P24M
+
+36 year old ,male, presenting with 14 months of recurrent abdominal pain, noted palpable adnexal masses, elevated CEA (38.7 ng/mL), and CA 19-9 (61.8 U/mL). Imaging shows mucin accumulation, predominantly in a 10cm left ovarian mass, prompting concern for pseudomyxoma peritonei; further investigations are recommended for accurate diagnosis and treatment planning.\tAGE: 36\nDURATION: 14 months=>P14M
+
+55 year old ,female, with a history of 20 months of persistent abdominal discomfort, revealed palpable adnexal masses, increased CEA (47.5 ng/mL), and CA 19-9 (85.2 U/mL). Imaging displays mucin accumulation, notably in a 18cm right ovarian mass, raising suspicion of pseudomyxoma peritonei; additional investigations are necessary for a conclusive diagnosis and treatment strategy.\tAGE: 55\nDURATION: 20 months=>P20M
+
+40 year old ,male, experiencing 12 months of intermittent abdominal pain, identified palpable adnexal masses, elevated CEA (42.3 ng/mL), and CA 19-9 (73.6 U/mL). Radiological assessments reveal mucin accumulation, predominantly within a 14cm left ovarian mass, suggesting potential pseudomyxoma peritonei; further investigations are advised for accurate diagnosis and treatment planning.\tAGE: 40\nDURATION: 12 months=>P12M
+
+36 year old ,male, presenting with 14 months of recurrent abdominal pain, noted palpable adnexal masses, elevated CEA (38.7 ng/mL), and CA 19-9 (61.8 U/mL). Imaging shows mucin accumulation, predominantly in a 10cm left ovarian mass, prompting concern for pseudomyxoma peritonei; additional investigations are recommended to confirm the diagnosis and guide treatment decisions.\tAGE: 36\nDURATION: 14 months=>P14M
+
+55 year old ,female, with a history of 20 months of persistent abdominal discomfort, revealed palpable adnexal masses, increased CEA (47.5 ng/mL), and CA 19-9 (85.2 U/mL). Imaging displays mucin accumulation, notably in an 18cm right ovarian mass, raising suspicion of pseudomyxoma peritonei; further investigations are imperative for a definitive diagnosis and to determine an appropriate treatment approach.\tAGE: 55\nDURATION: 20 months=>P20M
+
+40 year old ,male, experiencing 12 months of intermittent abdominal pain, identified palpable adnexal masses, elevated CEA (42.3 ng/mL), and CA 19-9 (73.6 U/mL). Radiological assessments reveal mucin accumulation, predominantly within a 14cm left ovarian mass, suggesting potential pseudomyxoma peritonei; further investigations are advised for a thorough diagnosis and to formulate an effective treatment plan.\tAGE: 40\nDURATION: 12 months=>P12M
+
+35 year old male, with 8 years of persistent abdominal discomfort, noted palpable adnexal masses, elevated CEA (42.8 ng/mL), and CA 19-9 (78.1 U/mL). Imaging reveals mucin accumulation, particularly in a 14cm left ovarian mass, prompting suspicion of pseudomyxoma peritonei; additional investigations are recommended for precise diagnosis and treatment planning.\tAGE: 35\nDURATION: 8 years=>P8Y
+
+52 year old female, experiencing 10 years of intermittent abdominal pain, identified palpable adnexal masses, elevated CEA (49.5 ng/mL), and CA 19-9 (84.2 U/mL). Radiological assessments display mucin accumulation, notably in a 16cm right ovarian mass, raising concerns about potential pseudomyxoma peritonei; further investigations are crucial for an accurate diagnosis and treatment strategy.\tAGE: 52\nDURATION: 10 years=>P10Y
+
+44 year old male, with a history of 6 years of recurrent abdominal discomfort, suspected adnexal masses, elevated CEA (36.7 ng/mL), and CA 19-9 (67.3 U/mL). Imaging shows mucin accumulation, predominantly within a 10cm left ovarian mass, prompting concern for pseudomyxoma peritonei; additional investigations are necessary for a definitive diagnosis and to guide treatment decisions.\tAGE: 44\nDURATION: 6 years=>P6Y
+
+42 year old male, enduring 7 years of intermittent abdominal discomfort, discovered palpable adnexal masses, elevated CEA (44.2 ng/mL), and CA 19-9 (77.8 U/mL). Imaging reveals mucin accumulation, especially in a 13cm right ovarian mass. The clinical presentation raises concerns about potential pseudomyxoma peritonei; further investigations are essential for a precise diagnosis and to determine appropriate treatment strategies.\tAGE: 42\nDURATION: 7 years=>P7Y
+
+56 year old ,female, navigating 12 years of sporadic abdominal pain, detected palpable adnexal masses, elevated CEA (51.3 ng/mL), and CA 19-9 (89.5 U/mL). Radiological assessments demonstrate mucin accumulation, predominantly within a 15cm left ovarian mass. The clinical scenario suggests possible pseudomyxoma peritonei; comprehensive investigations are warranted for an accurate diagnosis and to formulate an effective treatment plan.\tAGE: 56\nDURATION: 12 years=>P12Y
+
+38 year old ,male, grappling with 9 years of recurrent abdominal discomfort, identified suspected adnexal masses, elevated CEA (39.6 ng/mL), and CA 19-9 (69.4 U/mL). Imaging exhibits mucin accumulation, notably in a 11cm right ovarian mass. The clinical presentation raises suspicions of pseudomyxoma peritonei; additional investigations are crucial for an accurate diagnosis and to guide tailored treatment approaches.\tAGE: 38\nDURATION: 9 years=>P9Y
+
+45 year old ,female, enduring 6 years of intermittent abdominal discomfort, discovered palpable adnexal masses, elevated CEA (43.1 ng/mL), and CA 19-9 (76.4 U/mL). Imaging reveals mucin accumulation, particularly in a 14cm left ovarian mass. The clinical presentation raises concerns about potential pseudomyxoma peritonei; further investigations are essential for a precise diagnosis and to tailor an effective treatment strategy.\tAGE: 45\nDURATION: 6 years=>P6Y
+
+53 year old ,male, navigating 11 years of sporadic abdominal pain, detected palpable adnexal masses, elevated CEA (50.2 ng/mL), and CA 19-9 (88.9 U/mL). Radiological assessments demonstrate mucin accumulation, predominantly within a 16cm right ovarian mass. The clinical scenario suggests possible pseudomyxoma peritonei; a thorough evaluation is necessary for an accurate diagnosis and to guide personalized treatment plans.\tAGE: 53\nDURATION: 11 years=>P11Y
+
+37 year old ,female, grappling with 8 years of recurrent abdominal discomfort, identified suspected adnexal masses, elevated CEA (38.5 ng/mL), and CA 19-9 (68.7 U/mL). Imaging exhibits mucin accumulation, notably in a 12cm left ovarian mass. The clinical presentation raises suspicions of pseudomyxoma peritonei; further investigations are crucial for an accurate diagnosis and to tailor effective treatment approaches.\tAGE: 37\nDURATION: 8 years=>P8Y
+
+49 year old ,male, coping with 9 years of intermittent abdominal pain, presented with palpable adnexal masses, elevated CEA (45.8 ng/mL), and CA 19-9 (79.3 U/mL). Imaging reveals mucin accumulation, particularly in a 13cm right ovarian mass. The clinical picture raises concerns about potential pseudomyxoma peritonei; thorough investigations are essential for an accurate diagnosis and to customize an appropriate treatment approach.\tAGE: 49\nDURATION: 9 years=>P9Y
+
+41-year-old ,female, experiencing 7 years of persistent abdominal discomfort, discovered palpable adnexal masses, elevated CEA (41.6 ng/mL), and CA 19-9 (73.2 U/mL). Imaging shows mucin accumulation, predominantly within a 15cm left ovarian mass. The clinical presentation suggests potential pseudomyxoma peritonei; further investigations are warranted for a precise diagnosis and to guide individualized treatment strategies.\tAGE: 41\nDURATION: 7 years=>P7Y
+
+55 year old ,male, with a history of 10 years of recurrent abdominal pain, noted palpable adnexal masses, elevated CEA (49.3 ng/mL), and CA 19-9 (87.1 U/mL). Imaging displays mucin accumulation, notably in a 17cm right ovarian mass. The clinical scenario raises suspicions of pseudomyxoma peritonei; comprehensive investigations are crucial for an accurate diagnosis and to customize effective treatment approaches.\tAGE: 55\nDURATION: 10 years=>P10Y
+
+36 year old ,female, grappling with 5 years of intermittent abdominal discomfort, identified suspected adnexal masses, elevated CEA (37.4 ng/mL), and CA 19-9 (65.8 U/mL). Imaging exhibits mucin accumulation, particularly in a 11cm left ovarian mass. The clinical presentation raises concerns about potential pseudomyxoma peritonei; further investigations are essential for a precise diagnosis and to guide tailored treatment strategies.\tAGE: 36\nDURATION: 5 years=>P5Y
+
+57 year old male, coping with 12 years of persistent abdominal pain, presented with palpable adnexal masses, elevated CEA (52.1 ng/mL), and CA 19-9 (90.6 U/mL). Imaging reveals mucin accumulation, predominantly within a 18cm right ovarian mass. The clinical picture raises concerns about potential pseudomyxoma peritonei; thorough investigations are essential for an accurate diagnosis and to customize an appropriate treatment approach.\tAGE: 57\nDURATION: 12 years=>P12Y
+
+39 year old ,female, experiencing 9 years of intermittent abdominal discomfort, discovered palpable adnexal masses, elevated CEA (40.8 ng/mL), and CA 19-9 (72.3 U/mL). Imaging shows mucin accumulation, particularly in a 14cm left ovarian mass. The clinical presentation suggests potential pseudomyxoma peritonei; further investigations are warranted for a precise diagnosis and to guide individualized treatment strategies.\tAGE: 39\nDURATION: 9 years=>P9Y
+
+A 44-year-old male, with a history of 8 years of recurrent abdominal pain, noted palpable adnexal masses, elevated CEA (46.5 ng/mL), and CA 19-9 (80.2 U/mL). Imaging displays mucin accumulation, notably in a 16cm right ovarian mass. The clinical scenario raises suspicions of pseudomyxoma peritonei; comprehensive investigations are crucial for an accurate diagnosis and to customize effective treatment approaches.\tAGE: 44\nDURATION: 8 years=>P8Y
+
+38 year old ,male, grappling with 5 weeks of intermittent abdominal discomfort, identified suspected adnexal masses, elevated CEA (38.5 ng/mL), and CA 19-9 (68.7 U/mL). Imaging exhibits mucin accumulation, notably in a 12cm left ovarian mass. The clinical presentation raises suspicions of pseudomyxoma peritonei; further investigations are crucial for an accurate diagnosis and to tailor effective treatment approaches.\tAGE: 38\nDURATION: 5 weeks=>P5W
+
+A 52-year-old ,female, navigating 8 weeks of sporadic abdominal pain, detected palpable adnexal masses, elevated CEA (50.2 ng/mL), and CA 19-9 (88.9 U/mL). Radiological assessments demonstrate mucin accumulation, predominantly within a 16cm right ovarian mass. The clinical scenario suggests possible pseudomyxoma peritonei; a thorough evaluation is necessary for an accurate diagnosis and to guide personalized treatment plans.\tAGE: 52\nDURATION: 8 weeks=>P8W
+
+A 44 year old ,male, coping with 7 weeks of recurrent abdominal pain, presented with palpable adnexal masses, elevated CEA (45.8 ng/mL), and CA 19-9 (79.3 U/mL). Imaging reveals mucin accumulation, particularly in a 13cm right ovarian mass. The clinical picture raises concerns about potential pseudomyxoma peritonei; thorough investigations are essential for an accurate diagnosis and to customize an appropriate treatment approach.\tAGE: 44\nDURATION: 7 weeks=>P7W
+
+49yo ,female, grappling with 6 weeks of intermittent abdominal pain, noted palpable adnexal masses, elevated CEA (44.2 ng/mL), and CA 19-9 (77.8 U/mL). Imaging reveals mucin accumulation, particularly in a 14cm left ovarian mass. The clinical presentation raises concerns about potential pseudomyxoma peritonei; further investigations are essential for a precise diagnosis and to customize an effective treatment strategy.\tAGE: 49\nDURATION: 6 weeks=>P6W
+
+41yo ,female, experiencing 9 weeks of persistent abdominal discomfort, discovered palpable adnexal masses, elevated CEA (41.6 ng/mL), and CA 19-9 (73.2 U/mL). Imaging shows mucin accumulation, predominantly within a 15cm left ovarian mass. The clinical presentation suggests potential pseudomyxoma peritonei; further investigations are warranted for a precise diagnosis and to guide individualized treatment strategies.\tAGE: 41\nDURATION: 9 weeks=>P9W
+
+55yo ,male, enduring 10 weeks of recurrent abdominal pain, suspected adnexal masses, elevated CEA (49.3 ng/mL), and CA 19-9 (87.1 U/mL). Imaging displays mucin accumulation, notably in a 17cm right ovarian mass. The clinical scenario raises suspicions of pseudomyxoma peritonei; comprehensive investigations are crucial for an accurate diagnosis and to customize effective treatment approaches.\tAGE: 55\nDURATION: 10 weeks=>P10W
+
+36yo ,female, navigating 4 weeks of intermittent abdominal discomfort, identified suspected adnexal masses, elevated CEA (37.4 ng/mL), and CA 19-9 (65.8 U/mL). Imaging exhibits mucin accumulation, particularly in an 11cm left ovarian mass. The clinical presentation raises concerns about potential pseudomyxoma peritonei; further investigations are essential for a precise diagnosis and to tailor effective treatment approaches.\tAGE: 36\nDURATION: 4 weeks=>P4W
+
+57 year old male, grappling with 12 weeks of persistent abdominal pain, presented with palpable adnexal masses, elevated CEA (52.1 ng/mL), and CA 19-9 (90.6 U/mL). Imaging reveals mucin accumulation, predominantly within an 18cm right ovarian mass. The clinical picture raises concerns about potential pseudomyxoma peritonei; thorough investigations are essential for an accurate diagnosis and to customize an appropriate treatment approach.\tAGE: 57\nDURATION: 12 weeks=>P12W
+
+39-year-old ,female, enduring 8 weeks of intermittent abdominal discomfort, discovered palpable adnexal masses, elevated CEA (40.8 ng/mL), and CA 19-9 (72.3 U/mL). Imaging shows mucin accumulation, particularly in a 14cm left ovarian mass. The clinical presentation suggests potential pseudomyxoma peritonei; further investigations are warranted for a precise diagnosis and to guide individualized treatment strategies.\tAGE: 39\nDURATION: 8 weeks=>P8W
+
+44yo ,male, grappling with 6 weeks of recurrent abdominal pain, suspected adnexal masses, elevated CEA (46.5 ng/mL), and CA 19-9 (80.2 U/mL). Imaging displays mucin accumulation, notably in a 16cm right ovarian mass. The clinical scenario raises suspicions of pseudomyxoma peritonei; comprehensive investigations are crucial for an accurate diagnosis and to customize effective treatment approaches.\tAGE: 44\nDURATION: 6 weeks=>P6W
+
+42-year-old female, navigating 3 weeks of intermittent abdominal discomfort, identified suspected adnexal masses, elevated CEA (42.7 ng/mL), and CA 19-9 (74.1 U/mL). Imaging exhibits mucin accumulation, particularly in a 13cm left ovarian mass. The clinical presentation raises concerns about potential pseudomyxoma peritonei; further investigations are essential for a precise diagnosis and to tailor effective treatment approaches.\tAGE: 42\nDURATION: 3 weeks=>P3W
+
+49 year old, male, grappling with 8 weeks of recurrent abdominal pain, presented with palpable adnexal masses, elevated CEA (47.5 ng/mL), and CA 19-9 (82.8 U/mL). Imaging reveals mucin accumulation, predominantly within a 15cm right ovarian mass. The clinical picture raises concerns about potential pseudomyxoma peritonei; thorough investigations are essential for an accurate diagnosis and to customize an appropriate treatment approach.\tAGE: 49\nDURATION: 8 weeks=>P8W
+
+36 year old, male, enduring 5 weeks of intermittent abdominal discomfort, discovered palpable adnexal masses, elevated CEA (36.2 ng/mL), and CA 19-9 (63.7 U/mL). Imaging shows mucin accumulation, particularly in a 12cm left ovarian mass. The clinical presentation suggests potential pseudomyxoma peritonei; further investigations are warranted for a precise diagnosis and to guide individualized treatment strategies.\tAGE: 36\nDURATION: 5 weeks=>P5W
+
+53 year old, female, experiencing 10 weeks of persistent abdominal pain, noted suspected adnexal masses, elevated CEA (50.8 ng/mL), and CA 19-9 (88.4 U/mL). Imaging displays mucin accumulation, notably in a 17cm right ovarian mass. The clinical scenario raises suspicions of pseudomyxoma peritonei; comprehensive investigations are crucial for an accurate diagnosis and to customize effective treatment approaches.\tAGE: 53\nDURATION: 10 weeks=>P10W
+
+41 year old, female, grappling with 7 weeks of recurrent abdominal pain, identified palpable adnexal masses, elevated CEA (40.4 ng/mL), and CA 19-9 (71.9 U/mL). Imaging exhibits mucin accumulation, particularly in a 14cm left ovarian mass. The clinical presentation raises concerns about potential pseudomyxoma peritonei; further investigations are essential for a precise diagnosis and to tailor effective treatment approaches.\tAGE: 41\nDURATION: 7 weeks=>P7W
+
+55 year old, male, navigating 12 weeks of intermittent abdominal discomfort, detected suspected adnexal masses, elevated CEA (49.1 ng/mL), and CA 19-9 (86.3 U/mL). Imaging reveals mucin accumulation, predominantly within a 16cm right ovarian mass. The clinical scenario suggests possible pseudomyxoma peritonei; a thorough evaluation is necessary for an accurate diagnosis and to guide personalized treatment plans.\tAGE: 55\nDURATION: 12 weeks=>P12W
+
+38 year old, female, enduring 4 weeks of persistent abdominal pain, discovered palpable adnexal masses, elevated CEA (38.6 ng/mL), and CA 19-9 (67.2 U/mL). Imaging shows mucin accumulation, particularly in an 11cm left ovarian mass. The clinical presentation suggests potential pseudomyxoma peritonei; further investigations are warranted for a precise diagnosis and to guide individualized treatment strategies.\tAGE: 38\nDURATION: 4 weeks=>P4W
+
+57 year old, male, coping with 9 weeks of intermittent abdominal discomfort, suspected adnexal masses, elevated CEA (51.7 ng/mL), and CA 19-9 (89.7 U/mL). Imaging displays mucin accumulation, notably in an 18cm right ovarian mass. The clinical scenario raises suspicions of pseudomyxoma peritonei; comprehensive investigations are crucial for an accurate diagnosis and to customize effective treatment approaches.\tAGE: 57\nDURATION: 9 weeks=>P9W
+
+39 year old, female, grappling with 6 weeks of recurrent abdominal pain, presented with palpable adnexal masses, elevated CEA (39.8 ng/mL), and CA 19-9 (69.5 U/mL). Imaging reveals mucin accumulation, predominantly within a 13cm left ovarian mass. The clinical picture raises concerns about potential pseudomyxoma peritonei; thorough investigations are essential for an accurate diagnosis and to customize an appropriate treatment approach.\tAGE: 39\nDURATION: 6 weeks=>P6W
+
+42 year ol, female, navigating 2 months of intermittent abdominal discomfort, identified suspected adnexal masses, elevated CEA (42.7 ng/mL), and CA 19-9 (74.1 U/mL). Imaging exhibits mucin accumulation, particularly in a 13cm left ovarian mass. The clinical presentation raises suspicions of pseudomyxoma peritonei; further investigations are crucial for a precise diagnosis and to tailor effective treatment approaches.\tAGE: 42\nDURATION: 2 months=>P2M
+
+49yearold, male, grappling with 6 months of recurrent abdominal pain, presented with palpable adnexal masses, elevated CEA (47.5 ng/mL), and CA 19-9 (82.8 U/mL). Imaging reveals mucin accumulation, predominantly within a 15cm right ovarian mass. The clinical picture raises concerns about potential pseudomyxoma peritonei; thorough investigations are essential for an accurate diagnosis and to customize an appropriate treatment approach.\tAGE: 49\nDURATION: 6 months=>P6M
+
+36 year old, male, enduring 4 months of intermittent abdominal discomfort, discovered palpable adnexal masses, elevated CEA (36.2 ng/mL), and CA 19-9 (63.7 U/mL). Imaging shows mucin accumulation, particularly in a 12cm left ovarian mass. The clinical presentation suggests potential pseudomyxoma peritonei; further investigations are warranted for a precise diagnosis and to guide individualized treatment strategies.\tAGE: 36\nDURATION: 4 months=>P4M
+
+53 year old, female, experiencing 9 months of persistent abdominal pain, noted suspected adnexal masses, elevated CEA (50.8 ng/mL), and CA 19-9 (88.4 U/mL). Imaging displays mucin accumulation, notably in a 17cm right ovarian mass. The clinical scenario raises suspicions of pseudomyxoma peritonei; comprehensive investigations are crucial for an accurate diagnosis and to customize effective treatment approaches.\tAGE: 53\nDURATION: 9 months=>P9M
+
+41 year old, female, grappling with 6 months of recurrent abdominal pain, identified palpable adnexal masses, elevated CEA (40.4 ng/mL), and CA 19-9 (71.9 U/mL). Imaging exhibits mucin accumulation, particularly in a 14cm left ovarian mass. The clinical presentation raises concerns about potential pseudomyxoma peritonei; further investigations are essential for a precise diagnosis and to tailor effective treatment approaches.\tAGE: 41\nDURATION: 6 months=>P6M
+
+55 yo, male, enduring 11 months of intermittent abdominal discomfort, detected suspected adnexal masses, elevated CEA (49.1 ng/mL), and CA 19-9 (86.3 U/mL). Imaging reveals mucin accumulation, predominantly within a 16cm right ovarian mass. The clinical scenario suggests possible pseudomyxoma peritonei; a thorough evaluation is necessary for an accurate diagnosis and to guide personalized treatment plans.\tAGE: 55\nDURATION: 11 months=>P11M
+
+38 yo, female, navigating 3 months of persistent abdominal pain, discovered palpable adnexal masses, elevated CEA (38.6 ng/mL), and CA 19-9 (67.2 U/mL). Imaging shows mucin accumulation, particularly in an 11cm left ovarian mass. The clinical presentation suggests potential pseudomyxoma peritonei; further investigations are essential for a precise diagnosis and to guide individualized treatment strategies.\tAGE: 38\nDURATION: 3 months=>P3M
+
+57 yo, male, coping with 8 months of intermittent abdominal discomfort, suspected adnexal masses, elevated CEA (51.7 ng/mL), and CA 19-9 (89.7 U/mL). Imaging displays mucin accumulation, notably in an 18cm right ovarian mass. The clinical scenario raises suspicions of pseudomyxoma peritonei; comprehensive investigations are crucial for an accurate diagnosis and to customize effective treatment approaches.\tAGE: 57\nDURATION: 8 months=>P8M
+
+39 yo, female, grappling with 5 months of recurrent abdominal pain, presented with palpable adnexal masses, elevated CEA (39.8 ng/mL), and CA 19-9 (69.5 U/mL). Imaging reveals mucin accumulation, predominantly within a 13cm left ovarian mass. The clinical picture raises concerns about potential pseudomyxoma peritonei; thorough investigations are essential for an accurate diagnosis and to customize an appropriate treatment approach.\tAGE: 39\nDURATION: 5 months=>P5M
+
+57-year-old female diagnosed with early-stage breast cancer. Completed adjuvant chemotherapy 4 weeks ago. Lumpectomy performed today with excision of axillary lymph nodes.\tAGE: 57\nDURATION: 4 weeks=>P4W
+
+49-year-old male with stage II colon cancer. Completed neoadjuvant chemotherapy 5 weeks ago. Underwent colectomy today with excision of mesenteric lymph nodes.\tAGE: 49\nDURATION: 5 weeks=>P5W
+
+68-year-old female diagnosed with stage III ovarian cancer. Completed neoadjuvant chemotherapy 7 weeks ago. Opted for debulking surgery today with excision of pelvic and para-aortic lymph nodes.\tAGE: 68\nDURATION: 7 weeks=>P7W
+
+55-year-old male with stage I lung cancer. Completed stereotactic body radiation therapy 3 weeks ago. Lobectomy performed today with excision of hilar lymph nodes.\tAGE: 55\nDURATION: 3 weeks=>P3W
+
+61-year-old female diagnosed with stage II pancreatic cancer. Completed neoadjuvant chemotherapy 6 weeks ago. Whipple procedure performed today with excision of peripancreatic lymph nodes.\tAGE: 61\nDURATION: 6 weeks=>P6W
+46-year-old male with stage I testicular cancer. Completed adjuvant chemotherapy 2 weeks ago. Orchidectomy performed today with excision of retroperitoneal lymph nodes.\tAGE: 46\nDURATION: 2 weeks=>P2W
+
+53-year-old female diagnosed with stage II cervical cancer. Completed neoadjuvant chemotherapy 8 weeks ago. Radical hysterectomy performed today with excision of pelvic lymph nodes.\tAGE: 53\nDURATION: 8 weeks=>P8W
+
+59-year-old male with stage III bladder cancer. Completed neoadjuvant chemotherapy 9 weeks ago. Cystectomy performed today with excision of pelvic and iliac lymph nodes.\tAGE: 59\nDURATION: 9 weeks=>P9W
+
+64-year-old female diagnosed with stage I renal cell carcinoma. Completed partial nephrectomy 4 weeks ago. Radical nephrectomy performed today with excision of renal hilar lymph nodes.\tAGE: 64\nDURATION: 4 weeks=>P4W
+
+51-year-old male with stage II rectal cancer. Completed neoadjuvant chemoradiotherapy 6 weeks ago. Rectal resection performed today with excision of mesorectal lymph nodes.\tAGE: 51\nDURATION: 6 weeks=>P6W
+
+43-year-old female diagnosed with stage III melanoma. Completed adjuvant immunotherapy 5 weeks ago. Wide local excision performed today with excision of sentinel lymph nodes.\tAGE: 43\nDURATION: 5 weeks=>P5W
+
+58-year-old male with stage II esophageal cancer. Completed neoadjuvant chemoradiotherapy 7 weeks ago. Esophagectomy performed today with excision of mediastinal lymph nodes.\tAGE: 58\nDURATION: 7 weeks=>P7W
+
+49-year-old female diagnosed with stage I ovarian cancer. Completed neoadjuvant chemotherapy 3 weeks ago. Opted for total abdominal hysterectomy today with excision of pelvic and para-aortic lymph nodes.\tAGE: 49\nDURATION: 3 weeks=>P3W
+
+55-year-old male with stage II pancreatic cancer. Completed neoadjuvant chemotherapy 10 weeks ago. Whipple procedure performed today with excision of peripancreatic lymph nodes.\tAGE: 55\nDURATION: 10 weeks=>P10W
+
+47-year-old female diagnosed with stage III breast cancer. Completed neoadjuvant chemotherapy 8 weeks ago. Mastectomy performed today with excision of axillary lymph nodes.\tAGE: 47\nDURATION: 8 weeks=>P8W
+
+50-year-old male diagnosed with stage II prostate cancer. Completed neoadjuvant hormone therapy 6 weeks ago. Radical prostatectomy performed today with excision of pelvic lymph nodes.\tAGE: 50\nDURATION: 6 weeks=>P6W
+
+52-year-old female with stage III colorectal cancer. Completed neoadjuvant chemotherapy 7 weeks ago. Colorectal resection performed today with excision of regional lymph nodes.\tAGE: 52\nDURATION: 7 weeks=>P7W
+
+55-year-old male diagnosed with stage II liver cancer. Completed neoadjuvant targeted therapy 5 weeks ago. Hepatectomy performed today with excision of adjacent lymph nodes.\tAGE: 55\nDURATION: 5 weeks=>P5W
+
+48-year-old female with stage I endometrial cancer. Completed adjuvant radiation therapy 4 weeks ago. Total hysterectomy performed today with excision of pelvic lymph nodes.\tAGE: 48\nDURATION: 4 weeks=>P4W
+
+61-year-old male diagnosed with stage III pancreatic cancer. Completed neoadjuvant chemotherapy 8 weeks ago. Whipple procedure performed today with excision of peripancreatic lymph nodes.\tAGE: 61\nDURATION: 8 weeks=>P8W
+
+43-year-old female with stage II ovarian cancer. Completed neoadjuvant chemotherapy 3 weeks ago. Bilateral salpingo-oophorectomy performed today with excision of pelvic and para-aortic lymph nodes.\tAGE: 43\nDURATION: 3 weeks=>P3W
+
+57-year-old male diagnosed with stage I lung cancer. Completed adjuvant immunotherapy 6 weeks ago. Lobectomy performed today with excision of mediastinal lymph nodes.\tAGE: 57\nDURATION: 6 weeks=>P6W
+
+49-year-old female with stage II gastric cancer. Completed neoadjuvant chemotherapy 9 weeks ago. Gastrectomy performed today with excision of regional lymph nodes.\tAGE: 49\nDURATION: 9 weeks=>P9W
+
+54-year-old male diagnosed with stage III kidney cancer. Completed neoadjuvant targeted therapy 5 weeks ago. Nephrectomy performed today with excision of regional lymph nodes.\tAGE: 54\nDURATION: 5 weeks=>P5W
+
+46-year-old female with stage II bladder cancer. Completed neoadjuvant chemotherapy 7 weeks ago. Cystectomy performed today with excision of pelvic and iliac lymph nodes.\tAGE: 46\nDURATION: 7 weeks=>P7W
+
+50-year-old male diagnosed with stage II prostate cancer. Completed neoadjuvant hormone therapy 3 months ago. Radical prostatectomy performed today with excision of pelvic lymph nodes.\tAGE: 50\nDURATION: 3 months=>P3M
+
+52-year-old female with stage III colorectal cancer. Completed neoadjuvant chemotherapy 4 months ago. Colorectal resection performed today with excision of regional lymph nodes.\tAGE: 52\nDURATION: 4 months=>P4M
+
+55-year-old male diagnosed with stage II liver cancer. Completed neoadjuvant targeted therapy 2 months ago. Hepatectomy performed today with excision of adjacent lymph nodes.\tAGE: 55\nDURATION: 2 months=>P2M
+
+48-year-old female with stage I endometrial cancer. Completed adjuvant radiation therapy 1 month ago. Total hysterectomy performed today with excision of pelvic lymph nodes.\tAGE: 48\nDURATION: 1 month=>P1M
+
+61-year-old male diagnosed with stage III pancreatic cancer. Completed neoadjuvant chemotherapy 4 months ago. Whipple procedure performed today with excision of peripancreatic lymph nodes.\tAGE: 61\nDURATION: 4 months=>P4M
+
+43-year-old female with stage II ovarian cancer. Completed neoadjuvant chemotherapy 1 month ago. Bilateral salpingo-oophorectomy performed today with excision of pelvic and para-aortic lymph nodes.\tAGE: 43\nDURATION: 1 month=>P1M
+
+57-year-old male diagnosed with stage I lung cancer. Completed adjuvant immunotherapy 3 months ago. Lobectomy performed today with excision of mediastinal lymph nodes.\tAGE: 57\nDURATION: 3 months=>P3M
+
+49-year-old female with stage II gastric cancer. Completed neoadjuvant chemotherapy 6 months ago. Gastrectomy performed today with excision of regional lymph nodes.\tAGE: 49\nDURATION: 6 months=>P6M
+
+54-year-old male diagnosed with stage III kidney cancer. Completed neoadjuvant targeted therapy 2 months ago. Nephrectomy performed today with excision of regional lymph nodes.\tAGE: 54\nDURATION: 2 months=>P2M
+
+46-year-old female with stage II bladder cancer. Completed neoadjuvant chemotherapy 4 months ago. Cystectomy performed today with excision of pelvic and iliac lymph nodes.\tAGE: 46\nDURATION: 4 months=>P4M
+
+56-year-old male diagnosed with stage II pancreatic cancer. Completed neoadjuvant chemotherapy 5 months ago. Whipple procedure performed today with excision of peripancreatic lymph nodes.\tAGE: 56\nDURATION: 5 months=>P5M
+
+48-year-old female with stage III ovarian cancer. Completed neoadjuvant chemotherapy 3 months ago. Opted for debulking surgery today with excision of pelvic and para-aortic lymph nodes.\tAGE: 48\nDURATION: 3 months=>P3M
+
+63-year-old male diagnosed with stage I esophageal cancer. Completed neoadjuvant chemoradiotherapy 2 months ago. Esophagectomy performed today with excision of mediastinal lymph nodes.\tAGE: 63\nDURATION: 2 months=>P2M
+
+51-year-old female with stage II lung cancer. Completed adjuvant immunotherapy 4 months ago. Lobectomy performed today with excision of mediastinal lymph nodes.\tAGE: 51\nDURATION: 4 months=>P4M
+
+47-year-old male diagnosed with stage I renal cell carcinoma. Completed partial nephrectomy 1 month ago. Radical nephrectomy performed today with excision of renal hilar lymph nodes.\tAGE: 47\nDURATION: 1 month=>P1M
+
+54-year-old female with stage III colorectal cancer. Completed neoadjuvant chemotherapy 6 months ago. Colorectal resection performed today with excision of regional lymph nodes.\tAGE: 54\nDURATION: 6 months=>P6M
+
+59-year-old male diagnosed with stage II liver cancer. Completed neoadjuvant targeted therapy 4 months ago. Hepatectomy performed today with excision of adjacent lymph nodes.\tAGE: 59\nDURATION: 4 months=>P4M
+
+42-year-old female with stage III cervical cancer. Completed neoadjuvant chemotherapy 2 months ago. Radical hysterectomy performed today with excision of pelvic lymph nodes.\tAGE: 42\nDURATION: 2 months=>P2M
+
+53-year-old male diagnosed with stage II gastric cancer. Completed neoadjuvant chemotherapy 7 months ago. Gastrectomy performed today with excision of regional lymph nodes.\tAGE: 53\nDURATION: 7 months=>P7M
+
+45-year-old female with stage I breast cancer. Completed adjuvant radiation therapy 3 months ago. Lumpectomy performed today with excision of axillary lymph nodes.\tAGE: 45\nDURATION: 3 months=>P3M
+
+56-year-old male diagnosed with stage II pancreatic cancer. Completed neoadjuvant chemotherapy 3 years ago. Whipple procedure performed today with excision of peripancreatic lymph nodes.\tAGE: 56\nDURATION: 3 years=>P3Y
+
+48-year-old female with stage III ovarian cancer. Completed neoadjuvant chemotherapy 2 years ago. Opted for debulking surgery today with excision of pelvic and para-aortic lymph nodes.\tAGE: 48\nDURATION: 2 years=>P2Y
+
+63-year-old male diagnosed with stage I esophageal cancer. Completed neoadjuvant chemoradiotherapy 1 year ago. Esophagectomy performed today with excision of mediastinal lymph nodes.\tAGE: 63\nDURATION: 1 year=>P1Y
+
+51-year-old female with stage II lung cancer. Completed adjuvant immunotherapy 2 years ago. Lobectomy performed today with excision of mediastinal lymph nodes.\tAGE: 51\nDURATION: 2 years=>P2Y
+
+47-year-old male diagnosed with stage I renal cell carcinoma. Completed partial nephrectomy 6 months ago. Radical nephrectomy performed today with excision of renal hilar lymph nodes.\tAGE: 47\nDURATION: 6 months=>P0.5Y
+
+54-year-old female with stage III colorectal cancer. Completed neoadjuvant chemotherapy 4 years ago. Colorectal resection performed today with excision of regional lymph nodes.\tAGE: 54\nDURATION: 4 years=>P4Y
+
+59-year-old male diagnosed with stage II liver cancer. Completed neoadjuvant targeted therapy 3 years ago. Hepatectomy performed today with excision of adjacent lymph nodes.\tAGE: 59\nDURATION: 3 years=>P3Y
+
+42-year-old female with stage III cervical cancer. Completed neoadjuvant chemotherapy 1 year ago. Radical hysterectomy performed today with excision of pelvic lymph nodes.\tAGE: 42\nDURATION: 1 year=>P1Y
+
+53-year-old male diagnosed with stage II gastric cancer. Completed neoadjuvant chemotherapy 5 years ago. Gastrectomy performed today with excision of regional lymph nodes.\tAGE: 53\nDURATION: 5 years=>P5Y
+
+45-year-old female with stage I breast cancer. Completed adjuvant radiation therapy 2 years ago. Lumpectomy performed today with excision of axillary lymph nodes.\tAGE: 45\nDURATION: 2 years=>P2Y
+
+58-year-old male diagnosed with stage III bladder cancer. Completed neoadjuvant chemotherapy 4 years ago. Cystectomy performed today with excision of pelvic and iliac lymph nodes.\tAGE: 58\nDURATION: 4 years=>P4Y
+
+49-year-old female with stage II ovarian cancer. Completed neoadjuvant chemotherapy 3 years ago. Bilateral salpingo-oophorectomy performed today with excision of pelvic and para-aortic lymph nodes.\tAGE: 49\nDURATION: 3 years=>P3Y
+
+55-year-old male diagnosed with stage I liver cancer. Completed neoadjuvant targeted therapy 2 years ago. Hepatectomy performed today with excision of adjacent lymph nodes.\tAGE: 55\nDURATION: 2 years=>P2Y
+
+44-year-old female with stage III endometrial cancer. Completed neoadjuvant chemotherapy 1 year ago. Total hysterectomy performed today with excision of pelvic lymph nodes.\tAGE: 44\nDURATION: 1 year=>P1Y
+
+61-year-old male diagnosed with stage II pancreatic cancer. Completed neoadjuvant chemotherapy 5 years ago. Whipple procedure performed today with excision of peripancreatic lymph nodes.\tAGE: 61\nDURATION: 5 years=>P5Y
+
+53-year-old female with stage I lung cancer. Completed adjuvant immunotherapy 3 years ago. Lobectomy performed today with excision of mediastinal lymph nodes.\tAGE: 53\nDURATION: 3 years=>P3Y
+
+46-year-old male diagnosed with stage II colorectal cancer. Completed neoadjuvant chemotherapy 6 years ago. Colorectal resection performed today with excision of regional lymph nodes.\tAGE: 46\nDURATION: 6 years=>P6Y
+
+59-year-old female with stage III kidney cancer. Completed neoadjuvant targeted therapy 4 years ago. Nephrectomy performed today with excision of regional lymph nodes.\tAGE: 59\nDURATION: 4 years=>P4Y
+
+52-year-old male diagnosed with stage I gastric cancer. Completed neoadjuvant chemotherapy 2 years ago. Gastrectomy performed today with excision of regional lymph nodes.\tAGE: 52\nDURATION: 2 years=>P2Y
+
+48-year-old female with stage II breast cancer. Completed adjuvant radiation therapy 5 years ago. Lumpectomy performed today with excision of axillary lymph nodes.\tAGE: 48\nDURATION: 5 years=>P5Y
+
+57-year-old male diagnosed with stage II prostate cancer. Completed neoadjuvant hormone therapy 2 years ago. Radical prostatectomy performed today with excision of pelvic lymph nodes.\tAGE: 57\nDURATION: 2 years=>P2Y
+
+49-year-old female with stage III colorectal cancer. Completed neoadjuvant chemotherapy 4 years ago. Colorectal resection performed today with excision of regional lymph nodes.\tAGE: 49\nDURATION: 4 years=>P4Y
+
+55-year-old male diagnosed with stage I liver cancer. Completed neoadjuvant targeted therapy 3 years ago. Hepatectomy performed today with excision of adjacent lymph nodes.\tAGE: 55\nDURATION: 3 years=>P3Y
+
+46-year-old female with stage II endometrial cancer. Completed neoadjuvant chemotherapy 1 year ago. Total hysterectomy performed today with excision of pelvic lymph nodes.\tAGE: 46\nDURATION: 1 year=>P1Y
+
+61-year-old male diagnosed with stage III pancreatic cancer. Completed neoadjuvant chemotherapy 5 years ago. Whipple procedure performed today with excision of peripancreatic lymph nodes.\tAGE: 61\nDURATION: 5 years=>P5Y
+
+53-year-old female with stage I lung cancer. Completed adjuvant immunotherapy 3 years ago. Lobectomy performed today with excision of mediastinal lymph nodes.\tAGE: 53\nDURATION: 3 years=>P3Y
+
+48-year-old male diagnosed with stage II colorectal cancer. Completed neoadjuvant chemotherapy 6 years ago. Colorectal resection performed today with excision of regional lymph nodes.\tAGE: 48\nDURATION: 6 years=>P6Y
+
+59-year-old female with stage III kidney cancer. Completed neoadjuvant targeted therapy 4 years ago. Nephrectomy performed today with excision of regional lymph nodes.\tAGE: 59\nDURATION: 4 years=>P4Y
+
+52-year-old male diagnosed with stage I gastric cancer. Completed neoadjuvant chemotherapy 2 years ago. Gastrectomy performed today with excision of regional lymph nodes.\tAGE: 52\nDURATION: 2 years=>P2Y
+
+45-year-old female with stage II breast cancer. Completed adjuvant radiation therapy 5 years ago. Lumpectomy performed today with excision of axillary lymph nodes.\tAGE: 45\nDURATION: 5 years=>P5Y

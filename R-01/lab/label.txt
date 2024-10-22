@@ -1,0 +1,22 @@
+| Label           | Count |
+|-----------------|-------|
+| DOCTOR          | 3784  | O
+| DATE            | 2922  | O?
+| IDNUM           | 2346  | O
+| MEDICALRECORD   | 1210  | O
+| PATIENT         | 1196  | O
+| HOSPITAL        | 1177  | O
+| TIME            | 664   | O
+| DEPARTMENT      | 537   | 0.8352570828961174
+| CITY            | 458   | XX
+| ZIP             | 452   | O
+| STREET          | 444   | O
+| STATE           | 428   | O
+| AGE             | 89    | O
+| ORGANIZATION    | 69    | 
+| DURATION        | 13    | 0.8275862068965517 # few
+| PHONE           | 5     | O
+| URL             | 3     | 
+| LOCATION-OTHER  | 2     | o
+| SET             | 1     | O.
+| COUNTRY         | 1     | 

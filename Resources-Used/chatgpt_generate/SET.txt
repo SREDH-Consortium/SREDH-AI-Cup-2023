@@ -1,0 +1,365 @@
+Comment: The specimen was re-examined twice to further section the anal canal and to also identify more lymph nodes. Only a small number of nodes were identified despite further examination.\tSET: twice=>R2
+Comment: The experiment was conducted twice to enhance the precision of the results and to identify potential variations. Only a few discrepancies were noted despite the repeated assessments.\tSET: twice=>R2
+Comment: The survey was administered twice to ensure the thorough investigation of participants' responses and to identify any underlying trends. Only a minor number of anomalies were observed despite the repeated scrutiny.\tSET: twice=>R2
+Comment: The document was reviewed twice to refine the analysis of the data and to identify additional key insights. Only a limited number of noteworthy findings emerged despite the dual examinations.\tSET: twice=>R2
+Comment: The inspection was carried out twice to meticulously dissect the intricate details and to identify any subtle abnormalities. Only a handful of irregularities were detected despite the repeated scrutiny.\tSET: twice=>R2
+
+Comment: The assessment was performed twice to delve deeper into the complexities of the subject matter and to identify potential areas for improvement. Only a minor number of issues were apparent despite the dual examinations.\tSET: twice=>R2
+
+Comment: The manuscript was revised twice to thoroughly address reviewer comments and to identify any overlooked errors. Only a small number of corrections were necessary despite the meticulous re-evaluations.\tSET: twice=>R2
+
+Comment: The procedure was repeated twice to ensure the reliability of the experimental results and to identify any unexpected variations. Only a few deviations were observed despite the thorough re-examinations.\tSET: twice=>R2
+
+Comment: The analysis was conducted twice to explore alternative methodologies and to identify any inherent biases. Only a limited number of confounding factors were identified despite the dual evaluations.\tSET: twice=>R2
+
+Comment: The simulation was run twice to validate the accuracy of the model and to identify any discrepancies in the predicted outcomes. Only a minor number of inconsistencies were noted despite the repeated simulations.\tSET: twice=>R2
+
+Comment: The interview process was conducted twice to ensure a comprehensive understanding of the candidate's qualifications and to identify any potential red flags. Only a small number of concerns were raised despite the dual assessments.\tSET: twice=>R2
+The sample was twice tested with the appropriate controls, revealing a lowly methylated (18%) MGMT promoter region.\tSET: twice=>R2
+
+After being twice subjected to analysis with proper controls, the sample was found to be lowly methylated (20%) at the MGMT promoter region.\tSET: twice=>R2
+
+The appropriate controls were applied, and the sample was twice tested, indicating a low methylation level (43%) at the MGMT promoter region.\tSET: twice=>R2
+
+Conducted twice with the necessary controls, the sample exhibited a low methylation rate (13%) at the MGMT promoter region.\tSET: twice=>R2
+
+The sample, with the relevant controls, underwent testing twice, unveiling a low methylation percentage (90%) at the MGMT promoter region.\tSET: twice=>R2
+Patient history reveals a significant smoking habit with 30 pack years. Intraop frozen section of the left parietal lesion is underway, and further examination is scheduled.\tSET: years:PR1D
+
+The patient's medical records indicate a smoking history of 40 pack years. Currently, undergoing VATS resection for the left upper lobe lesion identified on 5.9.63.\tSET: years:PR1D\nDATE: 5.9.63=>2063-09-05
+
+A thorough assessment of the left parietal lobe lesion is ongoing in a patient with a smoking history of 20 pack years.\tSET: years:PR1D
+Comment: The proposal underwent twice revisions to carefully incorporate feedback from reviewers and pinpoint any previously unnoticed errors. The final version required only minimal corrections despite the comprehensive reassessment.\tSET: twice=>R2
+
+Comment: Our team meticulously reviewed and revised the document twice to address all the constructive comments provided by the reviewers. Surprisingly, only a few corrections were needed, showcasing the thoroughness of our initial editing.\tSET: twice=>R2
+
+Comment: To ensure the manuscript met the highest standards, it underwent revisions twice, addressing reviewer comments and meticulously identifying any potential oversights. Remarkably, only a small number of corrections were deemed necessary during the final evaluation. \tSET: twice=>R2
+Comment: Despite the tight deadline, the team managed to revise the project proposal twice, incorporating valuable feedback from stakeholders. The final document showcased the team's adaptability and commitment to excellence.\tSET: twice=>R2
+
+Comment: The experimental design underwent twice modifications to accommodate unexpected variables and improve overall robustness. Remarkably, the results remained consistent, underscoring the efficacy of the changes made during the dual revision process. \tSET: twice=>R2
+
+Comment: In response to unexpected challenges, the research methodology was revised twice, demonstrating the team's dedication to methodological rigor. Despite the unforeseen obstacles, the final results were both accurate and reliable.\tSET: twice=>R2
+
+Comment: The software development cycle included twice revisions to enhance user interface elements and address potential security vulnerabilities. This iterative process ensured a high-quality product that met user expectations and industry standards.\tSET: twice=>R2
+
+Comment: To refine the marketing strategy, the campaign underwent twice revisions to optimize messaging and targeting. The resulting campaign not only resonated well with the target audience but also exceeded performance expectations.\tSET: twice=>R2
+Comment: The manuscript underwent thorough scrutiny, being revised twice to address intricate reviewer comments and refine its scholarly contributions. The meticulous editing process ensured a publication-ready document that met the highest academic standards.\tSET: twice=>R2
+
+Comment: Our team worked diligently on the project, iterating twice to incorporate client feedback and enhance the final deliverable. The dual revision process not only met but exceeded client expectations, showcasing our commitment to excellence.\tSET: twice=>R2
+
+Comment: The survey instrument was carefully crafted and revised twice to capture nuanced responses and ensure the reliability of collected data. This methodological precision contributed to robust findings and meaningful insights.\tSET: twice=>R2
+
+Comment: To meet stringent quality standards, the manufacturing process underwent twice inspections to identify and rectify potential defects. The dual scrutiny resulted in a flawless product that satisfied both regulatory requirements and customer expectations.\tSET: twice=>R2
+
+Comment: In response to user feedback, the software underwent twice updates to enhance functionality and address reported bugs. The iterative development process resulted in a more user-friendly and stable application.\tSET: twice=>R2
+
+Comment: The architectural design of the building was revised twice to optimize space utilization and ensure structural integrity. The dual revisions not only improved functionality but also added aesthetic appeal to the final construction.\tSET: twice=>R2
+
+Comment: The training program was revised twice to incorporate the latest industry trends and address emerging challenges. This iterative approach ensured that participants received up-to-date and relevant knowledge and skills.\tSET: twice=>R2
+
+Comment: Despite initial setbacks, the project timeline was revised twice to accommodate unforeseen delays and ensure successful completion. The dual adjustments demonstrated adaptability and effective project management.\tSET: twice=>R2
+
+Comment: The marketing campaign underwent twice revisions to refine messaging and target a broader audience. The dual adjustments resulted in increased engagement and a more impactful market presence.\tSET: twice=>R2
+
+Comment: To achieve optimal performance, the machine learning model underwent twice fine-tuning, incorporating additional data and adjusting hyperparameters. The dual optimization process significantly enhanced the model's accuracy and predictive capabilities.\tSET: twice=>R2
+Comment: The interview process was conducted twice to delve deeply into candidates' qualifications and to identify any potential concerns. Remarkably, only a few discrepancies were noted despite the comprehensive assessment.\tSET: twice=>R2
+
+Comment: Our quality control measures were implemented twice to scrutinize the manufacturing process and identify any potential defects. Surprisingly, only a minimal number of issues were detected despite the rigorous inspections.\tSET: twice=>R2
+
+Comment: The software testing phase was executed twice to ensure the reliability and functionality of the application. Notably, only a small number of bugs were identified despite the thorough testing process.\tSET: twice=>R2
+
+Comment: The training program evaluation was conducted twice to assess the effectiveness of the content and identify areas for improvement. Impressively, only a minor number of shortcomings were identified despite the rigorous evaluation process.\tSET: twice=>R2
+
+Comment: The project review meetings were held twice to evaluate progress and identify potential risks. Strikingly, only a few concerns were raised despite the thorough review process.\tSET: twice=>R2
+Comment: The experimental procedures were executed twice to ensure the validity of the study's results and to identify any potential confounding variables. Remarkably, only a minor number of deviations were observed despite the meticulous execution.\tSET: twice=>R2
+
+Comment: The financial audit was conducted twice to scrutinize the company's financial statements and identify any discrepancies. Surprisingly, only a few irregularities were found despite the comprehensive examination.\tSET: twice=>R2
+
+Comment: The policy review process was undertaken twice to assess its effectiveness and identify areas for improvement. Notably, only a small number of shortcomings were identified despite the thorough review process.\tSET: twice=>R2
+
+Comment: The software development cycle included testing phases twice to ensure the robustness of the code and identify potential bugs. Impressively, only a minor number of issues were detected despite the rigorous testing process.\tSET: twice=>R2
+
+Comment: The strategic planning sessions were conducted twice to refine the organization's goals and identify potential challenges. Strikingly, only a few concerns were raised despite the thorough planning process.\tSET: twice=>R2
+
+Comment: The marketing campaign analysis was performed twice to evaluate its effectiveness and identify areas for optimization. Remarkably, only a small number of inefficiencies were identified despite the comprehensive analysis.\tSET: twice=>R2
+
+Comment: The employee feedback surveys were administered twice to gather comprehensive insights into the workplace environment and identify potential areas for improvement. Surprisingly, only a few concerns were raised despite the thorough feedback process.\tSET: twice=>R2
+
+Comment: The product testing phase was conducted twice to ensure the quality and reliability of the final product. Notably, only a minor number of defects were identified despite the rigorous testing process.\tSET: twice=>R2
+
+Comment: The risk assessment procedures were undertaken twice to identify potential threats to the project and implement appropriate mitigation strategies. Impressively, only a small number of high-risk factors were identified despite the comprehensive assessment.\tSET: twice=>R2
+
+Comment: The customer satisfaction surveys were distributed twice to gather feedback on products and services and identify areas for enhancement. Strikingly, only a few dissatisfaction issues were identified despite the thorough survey process.\tSET: twice=>R2
+Evaluated twice with stringent controls, the experiment revealed a consistent low methylation rate (15%) at the MGMT promoter region.\tSET: twice=>R2
+
+Examined twice under controlled conditions, the study demonstrated a persistent low methylation rate (12%) at the MGMT promoter region.\tSET: twice=>R2
+
+Inspected twice with proper controls, the analysis showcased a stable low methylation rate (14%) at the MGMT promoter region.\tSET: twice=>R2
+
+Scrutinized twice with necessary precautions, the investigation highlighted a sustained low methylation rate (16%) at the MGMT promoter region.\tSET: twice=>R2
+
+Reviewed twice with appropriate controls, the research indicated a continual low methylation rate (11%) at the MGMT promoter region.\tSET: twice=>R2
+Conducted twice with the necessary controls, the experiment revealed a consistent low methylation rate (15%) at the MGMT promoter region.\tSET: twice=>R2
+
+Conducted twice under controlled conditions, the study demonstrated a persistent low methylation rate (12%) at the MGMT promoter region.\tSET: twice=>R2
+
+Conducted twice with proper controls, the analysis showcased a stable low methylation rate (14%) at the MGMT promoter region.\tSET: twice=>R2
+
+Conducted twice with necessary precautions, the investigation highlighted a sustained low methylation rate (16%) at the MGMT promoter region.\tSET: twice=>R2
+
+Conducted twice with appropriate controls, the research indicated a continual low methylation rate (11%) at the MGMT promoter region.\tSET: twice=>R2
+Conducted twice with rigorous protocols, the survey consistently captured nuanced responses and provided valuable insights into participants' experiences.\tSET: twice=>R2
+
+Conducted twice with meticulous oversight, the clinical trial consistently demonstrated the safety and efficacy of the experimental drug in treating the targeted condition.\tSET: twice=>R2
+
+Conducted twice with proper controls, the field study consistently revealed a stable ecological system, indicating the resilience of the local biodiversity.\tSET: twice=>R2
+
+Conducted twice with stringent methodologies, the genetic analysis consistently identified specific markers associated with the observed phenotype, enhancing our understanding of genetic variations.\tSET: twice=>R2
+
+Conducted twice with necessary precautions, the usability testing consistently uncovered user interface improvements, ensuring a more intuitive and user-friendly design.\tSET: twice=>R2
+
+Conducted twice with thorough scrutiny, the customer satisfaction survey consistently gauged customer feedback, providing valuable insights for enhancing products and services.\tSET: twice=>R2
+
+Conducted twice with comprehensive data collection, the market research consistently identified emerging trends, enabling proactive business strategies.\tSET: twice=>R2
+
+Conducted twice with appropriate controls, the performance evaluation consistently measured employee productivity and identified areas for professional development.\tSET: twice=>R2
+
+Conducted twice with meticulous observation, the astronomical observation consistently detected celestial phenomena, contributing to ongoing research in astrophysics.\tSET: twice=>R2
+
+Conducted twice with stringent quality checks, the manufacturing process consistently produced high-quality products, meeting and exceeding industry standards.\tSET: twice=>R2
+Conducted twice with rigorous experimental controls, the study consistently revealed statistically significant results, confirming the validity of the research hypothesis.\tSET: twice=>R2
+
+Conducted twice with meticulous attention to detail, the clinical trials consistently demonstrated the safety and efficacy of the new medical intervention, paving the way for regulatory approval.\tSET: twice=>R2
+
+Conducted twice with proper randomization, the psychological experiments consistently replicated findings, adding robustness to the established theories in cognitive science.\tSET: twice=>R2
+
+Conducted twice with stringent data analysis, the environmental monitoring consistently identified subtle changes in ecosystem dynamics, contributing to our understanding of ecological shifts.\tSET: twice=>R2
+
+Conducted twice with necessary precautions, the software testing consistently detected and addressed potential security vulnerabilities, ensuring a secure and reliable system.\tSET: twice=>R2
+
+Conducted twice with thorough participant interviews, the qualitative research consistently unveiled nuanced perspectives, enriching the depth of the sociological analysis.\tSET: twice=>R2
+
+Conducted twice with comprehensive market surveys, the consumer research consistently identified evolving preferences, guiding strategic decisions for product development.\tSET: twice=>R2
+
+Conducted twice with appropriate ethical considerations, the human trials consistently evaluated the safety profile of the investigational drug, with promising results.\tSET: twice=>R2
+
+Conducted twice with meticulous performance evaluations, the annual assessments consistently identified high-performing employees, recognizing and rewarding their contributions.\tSET: twice=>R2
+
+Conducted twice with stringent manufacturing standards, the quality control inspections consistently ensured that the final product met and exceeded industry benchmarks.\tSET: twice=>R2
+Comment: The inspection was carried out twice to meticulously dissect the intricate details and to identify any subtle abnormalities. Only a handful of irregularities were detected despite the repeated scrutiny.\tSET: twice=>R2
+
+Comment: The audit was conducted twice to thoroughly examine the financial records and to identify any potential discrepancies. Surprisingly, only a few irregularities were observed despite the comprehensive review.\tSET: twice=>R2
+
+Comment: The testing process was executed twice to systematically evaluate product functionality and to identify any hidden defects. Only a minor number of issues were detected despite the dual assessments.\tSET: twice=>R2
+
+Comment: The survey analysis was performed twice to intricately analyze participant responses and to identify any underlying trends. Only a handful of anomalies were observed despite the repeated scrutiny.\tSET: twice=>R2
+
+Comment: The design review was undertaken twice to meticulously assess architectural plans and to identify any potential flaws. Surprisingly, only a few irregularities were noted despite the comprehensive evaluations.\tSET: twice=>R2
+The experiment was twice conducted with meticulous controls, uncovering a lowly methylated (17%) MGMT promoter region.\tSET: twice=>R2
+
+The analysis was twice performed with stringent protocols, indicating a lowly methylated (19%) MGMT promoter region.\tSET: twice=>R2
+
+The study was twice executed with necessary precautions, displaying a lowly methylated (16%) MGMT promoter region.\tSET: twice=>R2
+
+The investigation was twice carried out with proper controls, demonstrating a lowly methylated (20%) MGMT promoter region.\tSET: twice=>R2
+
+The research was twice undertaken with thorough scrutiny, highlighting a lowly methylated (18%) MGMT promoter region.\tSET: twice=>R2
+The sample was twice tested with the appropriate controls, revealing a lowly methylated (17%) MGMT promoter region.\tSET: twice=>R2
+
+The sample was twice analyzed with stringent protocols, indicating a lowly methylated (19%) MGMT promoter region.\tSET: twice=>R2
+
+The sample was twice subjected to necessary precautions, displaying a lowly methylated (16%) MGMT promoter region.\tSET: twice=>R2
+
+The sample was twice investigated with proper controls, demonstrating a lowly methylated (20%) MGMT promoter region.\tSET: twice=>R2
+
+The sample was twice researched with thorough scrutiny, highlighting a lowly methylated (18%) MGMT promoter region.\tSET: twice=>R2
+
+The sample was twice examined with meticulous attention, showcasing a lowly methylated (21%) MGMT promoter region.\tSET: twice=>R2
+
+The sample was twice processed with comprehensive methodologies, indicating a lowly methylated (15%) MGMT promoter region.\tSET: twice=>R2
+
+The sample was twice assessed with proper analysis, displaying a lowly methylated (22%) MGMT promoter region.\tSET: twice=>R2
+
+The sample was twice scrutinized with meticulous evaluation, revealing a lowly methylated (14%) MGMT promoter region.\tSET: twice=>R2
+
+The sample was twice inspected with stringent examination, demonstrating a lowly methylated (23%) MGMT promoter region.\tSET: twice=>R2
+Comment: The manuscript was reviewed twice to enhance the analysis of the data and to uncover additional key insights. Only a few noteworthy findings emerged despite the dual examinations.\tSET: twice=>R2
+
+Comment: The report was reviewed twice to polish the analysis of the data and to discover additional key insights. Only a limited number of noteworthy findings surfaced despite the dual examinations.\tSET: twice=>R2
+
+Comment: The research paper was reviewed twice to improve the analysis of the data and to reveal additional key insights. Only a few noteworthy findings were identified despite the dual examinations.\tSET: twice=>R2
+
+Comment: The proposal was reviewed twice to fine-tune the analysis of the data and to unveil additional key insights. Only a limited number of noteworthy findings were evident despite the dual examinations.\tSET: twice=>R2
+
+Comment: The study was reviewed twice to optimize the analysis of the data and to expose additional key insights. Only a few noteworthy findings emerged despite the dual examinations.\tSET: twice=>R2
+No carcinoma cells are present in the sections examined (twice) with PR (1.2mm lesion); nevertheless, a similarly appearing microinvasive carcinoma is strongly positive.\tSET: twice=>R2
+
+No carcinoma cells are present in the sections examined (twice) with HER2 (1.6mm lesion); nevertheless, a similar appearing microinvasive carcinoma is strongly positive.\tSET: twice=>R2
+
+No carcinoma cells are present in the sections examined (twice) with Ki-67 (1.8mm lesion); however, a similarly appearing microinvasive carcinoma is strongly positive.\tSET: twice=>R2
+
+No carcinoma cells are present in the sections examined (twice) with p53 (1.3mm lesion); nevertheless, a similar appearing microinvasive carcinoma is strongly positive.\tSET: twice=>R2
+
+No carcinoma cells are present in the sections examined (twice) with Cyclin D1 (1.5mm lesion); nevertheless, a similarly appearing microinvasive carcinoma is strongly positive.\tSET: twice=>R2
+No carcinoma cells are present in the sections examined (twice) with E-cadherin (1.7mm lesion); nevertheless, a similar appearing microinvasive carcinoma is strongly positive.\tSET: twice=>R2
+
+No carcinoma cells are present in the sections examined (twice) with Vimentin (1.9mm lesion); however, a similarly appearing microinvasive carcinoma is strongly positive.\tSET: twice=>R2
+
+No carcinoma cells are present in the sections examined (twice) with Bcl-2 (1.1mm lesion); nevertheless, a similar appearing microinvasive carcinoma is strongly positive.\tSET: twice=>R2
+
+No carcinoma cells are present in the sections examined (twice) with CD44 (1.4mm lesion); however, a similarly appearing microinvasive carcinoma is strongly positive.\tSET: twice=>R2
+
+No carcinoma cells are present in the sections examined (twice) with CK5/6 (1.6mm lesion); nevertheless, a similar appearing microinvasive carcinoma is strongly positive.\tSET: twice=>R2
+
+No carcinoma cells are present in the sections examined (twice) with p16 (1.8mm lesion); however, a similarly appearing microinvasive carcinoma is strongly positive.\tSET: twice=>R2
+
+No carcinoma cells are present in the sections examined (twice) with CDH1 (1.3mm lesion); nevertheless, a similar appearing microinvasive carcinoma is strongly positive.\tSET: twice=>R2
+
+No carcinoma cells are present in the sections examined (twice) with EGFR (1.2mm lesion); however, a similarly appearing microinvasive carcinoma is strongly positive.\tSET: twice=>R2
+
+No carcinoma cells are present in the sections examined (twice) with Cyclin E (1.5mm lesion); nevertheless, a similar appearing microinvasive carcinoma is strongly positive.\tSET: twice=>R2
+
+No carcinoma cells are present in the sections examined (twice) with p63 (1.3mm lesion); however, a similarly appearing microinvasive carcinoma is strongly positive.\tSET: twice=>R2
+No carcinoma cells are present in the sections examined (twice) with CDKN2A (1.7mm lesion); however, a similar appearing microinvasive carcinoma is strongly positive.\tSET: twice=>R2
+
+No carcinoma cells are present in the sections examined (twice) with PDL1 (1.9mm lesion); nevertheless, a similarly appearing microinvasive carcinoma is strongly positive.\tSET: twice=>R2
+
+No carcinoma cells are present in the sections examined (twice) with PTEN (1.1mm lesion); however, a similar appearing microinvasive carcinoma is strongly positive.\tSET: twice=>R2
+
+No carcinoma cells are present in the sections examined (twice) with BRCA1 (1.4mm lesion); nevertheless, a similarly appearing microinvasive carcinoma is strongly positive.\tSET: twice=>R2
+
+No carcinoma cells are present in the sections examined (twice) with BRCA2 (1.6mm lesion); however, a similar appearing microinvasive carcinoma is strongly positive.\tSET: twice=>R2
+
+No carcinoma cells are present in the sections examined (twice) with PTGS2 (1.8mm lesion); nevertheless, a similarly appearing microinvasive carcinoma is strongly positive.\tSET: twice=>R2
+
+No carcinoma cells are present in the sections examined (twice) with ATM (1.3mm lesion); however, a similar appearing microinvasive carcinoma is strongly positive.\tSET: twice=>R2
+
+No carcinoma cells are present in the sections examined (twice) with TP53 (1.2mm lesion); nevertheless, a similarly appearing microinvasive carcinoma is strongly positive.\tSET: twice=>R2
+
+No carcinoma cells are present in the sections examined (twice) with APC (1.5mm lesion); however, a similar appearing microinvasive carcinoma is strongly positive.\tSET: twice=>R2
+
+No carcinoma cells are present in the sections examined (twice) with NF1 (1.3mm lesion); nevertheless, a similarly appearing microinvasive carcinoma is strongly positive.\tSET: twice=>R2
+The appropriate controls were implemented, and the sample was twice tested, indicating a low methylation level (42%) at the MGMT promoter region.\tSET: twice=>R2
+
+The appropriate measures were taken for quality assurance, and the sample was twice tested, revealing a low methylation level (40%) at the MGMT promoter region.\tSET: twice=>R2
+
+The appropriate procedures were followed, and the sample was twice tested, showing a low methylation level (43%) at the MGMT promoter region.\tSET: twice=>R2
+
+The appropriate protocols were applied, and the sample was twice tested, displaying a low methylation level (45%) at the MGMT promoter region.\tSET: twice=>R2
+
+The appropriate steps were taken for precision, and the sample was twice tested, indicating a low methylation level (41%) at the MGMT promoter region.\tSET: twice=>R2
+
+The appropriate guidelines were adhered to, and the sample was twice tested, revealing a low methylation level (44%) at the MGMT promoter region.\tSET: twice=>R2
+
+The appropriate standards were maintained, and the sample was twice tested, showing a low methylation level (39%) at the MGMT promoter region.\tSET: twice=>R2
+
+The appropriate checks were conducted, and the sample was twice tested, indicating a low methylation level (46%) at the MGMT promoter region.\tSET: twice=>R2
+
+The appropriate precautions were observed, and the sample was twice tested, revealing a low methylation level (38%) at the MGMT promoter region.\tSET: twice=>R2
+
+The appropriate validations were performed, and the sample was twice tested, displaying a low methylation level (47%) at the MGMT promoter region.\tSET: twice=>R2
+The experimental conditions were carefully maintained, and the sample was twice tested, revealing a low methylation level (40%) at the MGMT promoter region.\tSET: twice=>R2
+
+Rigorous controls were implemented, and the sample was twice tested, indicating a low methylation level (45%) at the MGMT promoter region.\tSET: twice=>R2
+
+Stringent measures were taken for quality assurance, and the sample was twice tested, displaying a low methylation level (42%) at the MGMT promoter region.\tSET: twice=>R2
+
+Comprehensive protocols were followed, and the sample was twice tested, showing a low methylation level (41%) at the MGMT promoter region.\tSET: twice=>R2
+
+Adequate safeguards were in place, and the sample was twice tested, revealing a low methylation level (44%) at the MGMT promoter region.\tSET: twice=>R2
+MSH6 Loss of nuclear staining (repeated twice, satisfactory staining seen in internal and external positive controls)\tSET: twice=>R2
+
+MSH7 Absence of nuclear staining (repeated twice, satisfactory staining observed in internal and external positive controls)\tSET: twice=>R2
+
+MSH8 Lack of nuclear staining (repeated twice, satisfactory staining seen in internal and external positive controls)\tSET: twice=>R2
+
+MSH9 Negative nuclear staining (repeated twice, satisfactory staining observed in internal and external positive controls)\tSET: twice=>R2
+
+MSH0 No nuclear staining detected (repeated twice, satisfactory staining seen in internal and external positive controls)\tSET: twice=>R2
+MSH1 Loss of nuclear staining (repeated twice, satisfactory staining seen in internal and external positive controls)\tSET: twice=>R2
+
+MSH2 Loss of cytoplasmic staining (repeated twice, satisfactory staining observed in internal and external positive controls)\tSET: twice=>R2
+
+MSH3 Loss of membrane staining (repeated twice, satisfactory staining seen in internal and external positive controls)\tSET: twice=>R2
+
+MSH4 Loss of focal staining (repeated twice, satisfactory staining observed in internal and external positive controls)\tSET: twice=>R2
+
+MSH5 Loss of specific staining (repeated twice, satisfactory staining seen in internal and external positive controls)\tSET: twice=>R2
+
+MSH6 Loss of intense staining (repeated twice, satisfactory staining observed in internal and external positive controls)\tSET: twice=>R2
+
+MSH7 Loss of distinct staining (repeated twice, satisfactory staining seen in internal and external positive controls)\tSET: twice=>R2
+
+MSH8 Loss of uniform staining (repeated twice, satisfactory staining observed in internal and external positive controls)\tSET: twice=>R2
+
+MSH9 Loss of strong staining (repeated twice, satisfactory staining seen in internal and external positive controls)\tSET: twice=>R2
+
+MSH0 Loss of consistent staining (repeated twice, satisfactory staining observed in internal and external positive controls)\tSET: twice=>R2
+The sample, with the necessary controls, underwent testing twice, revealing a low methylation percentage (88%) at the MGMT promoter region.\tSET: twice=>R2
+
+The sample, with appropriate controls, underwent testing twice, exposing a low methylation percentage (92%) at the MGMT promoter region.\tSET: twice=>R2
+
+The sample, with meticulous controls, underwent testing twice, indicating a low methylation percentage (89%) at the MGMT promoter region.\tSET: twice=>R2
+
+The sample, with stringent controls, underwent testing twice, showcasing a low methylation percentage (91%) at the MGMT promoter region.\tSET: twice=>R2
+
+The sample, with thorough controls, underwent testing twice, demonstrating a low methylation percentage (87%) at the MGMT promoter region.\tSET: twice=>R2
+The ER results in the current specimens are conflicting; the breast tumor is ER negative (tested twice with appropriate controls) and the axillary metastases ER positive.\tSET: twice=>R2
+
+Amidst conflicting ER findings in the current specimens, the breast tumor registers ER negativity (verified twice with appropriate controls), while the axillary metastases indicate ER positivity.\tSET: twice=>R2
+
+The current specimens reveal conflicting ER results; the breast tumor shows ER negativity (confirmed twice with appropriate controls), and the axillary metastases exhibit ER positivity.\tSET: twice=>R2
+The ER results in the current specimens are conflicting; the breast tumor is ER negative (tested twice with appropriate controls) and the axillary metastases ER positive.\tSET: twice=>R2
+
+Amidst conflicting ER findings in the current specimens, the breast tumor registers ER negativity (verified twice with appropriate controls), while the axillary metastases indicate ER positivity.\tSET: twice=>R2
+
+The current specimens reveal conflicting ER results; the breast tumor shows ER negativity (confirmed twice with appropriate controls), and the axillary metastases exhibit ER positivity.\tSET: twice=>R2
+
+Conflicting ER findings emerge in the current specimens; the breast tumor exhibits ER negativity (tested twice with appropriate controls), whereas the axillary metastases demonstrate ER positivity.\tSET: twice=>R2
+
+The current specimens yield conflicting ER results; the breast tumor is ER negative (validated twice with appropriate controls), and the axillary metastases show ER positivity.\tSET: twice=>R2
+
+Inconsistencies in ER results surface in the current specimens; the breast tumor presents ER negativity (confirmed twice with appropriate controls), while the axillary metastases indicate ER positivity.\tSET: twice=>R2
+
+The ER findings in the current specimens are inconclusive; the breast tumor is ER negative (examined twice with appropriate controls), and the axillary metastases are ER positive.\tSET: twice=>R2
+
+Contradictory ER outcomes arise from the current specimens; the breast tumor shows ER negativity (confirmed twice with appropriate controls), and the axillary metastases exhibit ER positivity.\tSET: twice=>R2
+
+Conflicting ER results are evident in the current specimens; the breast tumor is ER negative (verified twice with appropriate controls), while the axillary metastases demonstrate ER positivity.\tSET: twice=>R2
+
+The ER results in the current specimens are at odds; the breast tumor displays ER negativity (tested twice with appropriate controls), and the axillary metastases reveal ER positivity.\tSET: twice=>R2
+The sample was tested twice with the appropriate controls and was found to be unmethylated (5%) at the MGMT promoter region.\tSET: twice=>R2
+
+The sample, tested twice with the appropriate controls, was found to be unmethylated (5%) at the MGMT promoter region.\tSET: twice=>R2
+
+The sample was twice tested with the appropriate controls and was found to be unmethylated (5%) at the MGMT promoter region.\tSET: twice=>R2
+The sample was tested twice with the appropriate controls and was found to be unmethylated (5%) at the MGMT promoter region.\tSET: twice=>R2
+
+The sample, tested twice with the appropriate controls, was found to be unmethylated (5%) at the MGMT promoter region.\tSET: twice=>R2
+
+The sample was twice tested with the appropriate controls and was found to be unmethylated (5%) at the MGMT promoter region.\tSET: twice=>R2
+
+Examined twice with the proper controls, the sample displayed an unmethylated profile (5%) at the MGMT promoter region.\tSET: twice=>R2
+
+The sample, tested twice with the appropriate controls, demonstrated an unmethylated state (5%) at the MGMT promoter region.\tSET: twice=>R2
+
+Two rounds of testing with the proper controls revealed that the sample was unmethylated (5%) at the MGMT promoter region.\tSET: twice=>R2
+
+The sample underwent testing twice with the appropriate controls, indicating an unmethylated state (5%) at the MGMT promoter region.\tSET: twice=>R2
+
+After two rounds of testing with the proper controls, the sample was found to be unmethylated (5%) at the MGMT promoter region.\tSET: twice=>R2
+
+Examined twice with the appropriate controls, the data showed an unmethylated profile (5%) at the MGMT promoter region.\tSET: twice=>R2
+
+The sample, after being tested twice with the appropriate controls, exhibited an unmethylated status (5%) at the MGMT promoter region.\tSET: twice=>R2
+
+Left parietal lesion evaluated with intraoperative frozen section. Video-assisted thoracoscopic surgery (VATS) performed for the resection of the left upper lobe (LUL) lesion on May 9, 2063. The patient has a history of 10 pack years.\tDATE: May 9, 2063=>2063-05-09\nSET: years=>RP1D
+Intraoperative frozen section analysis conducted for the left parietal lesion. Video-assisted thoracoscopic surgery (VATS) executed for the removal of the left upper lobe (LUL) lesion on 7.1.43. The patient has a smoking history of 100 pack years.\tDATE: 7.1.43=>2043-01-07\nSET: years=>RP1D
+Evaluation of the left parietal lesion through intraoperative frozen section. Resection of the left upper lobe (LUL) lesion performed using video-assisted thoracoscopic surgery (VATS) on February 28, 2019. The patient's smoking history indicates 100 pack years.\tDATE: February 9, 2019=>2019-02-28\nSET: years=>RP1D
+Intraoperative frozen section assessment carried out for the left parietal lesion. Video-assisted thoracoscopic surgery (VATS) undertaken for the resection of the left upper lobe (LUL) lesion on December 31, 2058. The patient has a significant smoking history of 100 pack years.\tDATE: December 31, 2058=>2058-12-31\nSET: years=>RP1D
+
+
+
+
+
+

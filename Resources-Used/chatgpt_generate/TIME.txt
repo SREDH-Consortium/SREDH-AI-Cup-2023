@@ -1,0 +1,392 @@
+Result to Dr Burck by Dr A. Smith/Dr M. Johnson at 9:45am on 15.8.21.\tDOCTOR: Burck\nDOCTOR: A. Smith\nDOCTOR: M. Johnson\nTIME: 9:45am on 15.8.21=>2021-08-15T09:45
+Findings for Dr Burck by Dr K. Miller/Dr J. Thompson at 2:10pm on 10.5.19.\tDOCTOR: Burck\nDOCTOR: K. Miller\nDOCTOR: J. Thompson\nTIME: 2:10pm on 10.5.19=>2019-05-10T14:10
+Report submitted to Dr Burck by Dr L. Davis/Dr R. Martinez at 1:30pm on 5.11.17.\tDOCTOR: Burck\nDOCTOR: L. Davis\nDOCTOR: R. Martinez\nTIME: 1:30pm on 5.11.17=>2017-11-05T13:30
+Result to Dr Burck by Dr C. Thompson/Dr E. Johnson at 11:15am on 20.4.22.\tDOCTOR: Burck\nDOCTOR: C. Thompson\nDOCTOR: E. Johnson\nTIME: 11:15am on 20.4.22=>2022-04-20T11:15
+Findings for Dr Burck by Dr M. Davis/Dr S. Miller at 3:50pm on 8.9.23.\tDOCTOR: Burck\nDOCTOR: M. Davis\nDOCTOR: S. Miller\nTIME: 3:50pm on 8.9.23=>2023-09-08T15:50
+Report submitted to Dr Burck by Dr J. Brown/Dr L. Robinson at 8:00am on 12.7.21.\tDOCTOR: Burck\nDOCTOR: J. Brown\nDOCTOR: L. Robinson\nTIME: 8:00am on 12.7.21=>2021-07-12T08:00
+Analysis outcome for Dr Burck by Dr G. White/Dr P. Garcia at 6:30pm on 3.12.20.\tDOCTOR: Burck\nDOCTOR: G. White\nDOCTOR: P. Garcia\nTIME: 6:30pm on 3.12.20=>2020-12-03T18:30
+Findings shared with Dr Burck by Dr A. Johnson/Dr K. Davis at 4:05pm on 17.6.19.\tDOCTOR: Burck\nDOCTOR: A. Johnson\nDOCTOR: K. Davis\nTIME: 4:05pm on 17.6.19=>2019-06-17T16:05
+Outcome report to Dr Burck by Dr R. Martinez/Dr S. Thompson at 10:20am on 9.11.18.\tDOCTOR: Burck\nDOCTOR: R. Martinez\nDOCTOR: S. Thompson\nTIME: 10:20am on 9.11.18=>2018-11-09T10:20
+Evaluation findings for Dr Burck by Dr L. White/Dr E. Brown at 1:45pm on 14.5.17.\tDOCTOR: Burck\nDOCTOR: L. White\nDOCTOR: E. Brown\nTIME: 1:45pm on 14.5.17=>2017-05-14T13:45
+Results conveyed to Dr Burck by Dr P. Robinson/Dr M. Garcia at 5:55pm on 7.8.16.\tDOCTOR: Burck\nDOCTOR: P. Robinson\nDOCTOR: M. Garcia\nTIME: 5:55pm on 7.8.16=>2016-08-07T17:55
+Diagnostic findings for Dr Burck by Dr K. Thompson/Dr J. Miller at 12:30pm on 26.2.15.\tDOCTOR: Burck\nDOCTOR: K. Thompson\nDOCTOR: J. Miller\nTIME: 12:30pm on 26.2.15=>2015-02-26T12:30
+Assessment report submitted to Dr Burck by Dr S. Davis/Dr R. Brown at 3:15pm on 19.10.14.\tDOCTOR: Burck\nDOCTOR: S. Davis\nDOCTOR: R. Brown\nTIME: 3:15pm on 19.10.14=>2014-10-19T15:15
+Outcome shared with Dr Burck by Dr E. Martinez/Dr A. Garcia at 7:40am on 8.6.13.\tDOCTOR: Burck\nDOCTOR: E. Martinez\nDOCTOR: A. Garcia\nTIME: 7:40am on 8.6.13=>2013-06-08T07:40
+Result presentation to Dr Burck by Dr M. White/Dr J. Robinson at 2:55pm on 5.4.22.\tDOCTOR: Burck\nDOCTOR: M. White\nDOCTOR: J. Robinson\nTIME: 2:55pm on 5.4.22=>2022-04-05T14:55
+Diagnosis conveyed to Dr Burck by Dr S. Thompson/Dr L. Davis at 9:10am on 30.9.23.\tDOCTOR: Burck\nDOCTOR: S. Thompson\nDOCTOR: L. Davis\nTIME: 9:10am on 30.9.23=>2023-09-30T09:10
+Evaluation findings for Dr Burck by Dr P. Garcia/Dr K. Johnson at 4:25pm on 16.7.21.\tDOCTOR: Burck\nDOCTOR: P. Garcia\nDOCTOR: K. Johnson\nTIME: 4:25pm on 16.7.21=>2021-07-16T16:25
+Report submitted to Dr Burck by Dr R. Brown/Dr E. Smith at 6:50pm on 11.12.20.\tDOCTOR: Burck\nDOCTOR: R. Brown\nDOCTOR: E. Smith\nTIME: 6:50pm on 11.12.20=>2020-12-11T18:50
+Analysis outcome for Dr Burck by Dr J. Thompson/Dr L. Robinson at 11:35am on 5.6.19.\tDOCTOR: Burck\nDOCTOR: J. Thompson\nDOCTOR: L. Robinson\nTIME: 11:35am on 5.6.19=>2019-06-05T11:35
+Findings shared with Dr Burck by Dr A. Miller/Dr S. Davis at 3:20pm on 9.11.18.\tDOCTOR: Burck\nDOCTOR: A. Miller\nDOCTOR: S. Davis\nTIME: 3:20pm on 9.11.18=>2018-11-09T15:20
+Outcome report to Dr Burck by Dr K. Johnson/Dr M. White at 8:45am on 3.7.17.\tDOCTOR: Burck\nDOCTOR: K. Johnson\nDOCTOR: M. White\nTIME: 8:45am on 3.7.17=>2017-07-03T08:45
+Evaluation findings for Dr Burck by Dr E. Smith/Dr R. Martinez at 2:00pm on 15.4.16.\tDOCTOR: Burck\nDOCTOR: E. Smith\nDOCTOR: R. Martinez\nTIME: 2:00pm on 15.4.16=>2016-04-15T14:00
+Result to Anaesthetist by Dr B. Johnson at 11:15am on 10/7/21.\tDOCTOR: B. Johnson\nTIME: 11:15am on 10/7/21=>2021-07-10T11:15
+
+Findings for Anaesthetist by Dr M. Davis at 2:45pm on 5/12/19.\tDOCTOR: M. Davis\nTIME: 2:45pm on 5/12/19=>2019-12-05T14:45
+
+Report submitted to Anaesthetist by Dr K. Smith at 8:00am on 3/9/18.\tDOCTOR: K. Smith\nTIME: 8:00am on 3/9/18=>2018-09-03T08:00
+
+Analysis outcome for Anaesthetist by Dr L. Robinson at 4:30pm on 15/6/20.\tDOCTOR: L. Robinson\nTIME: 4:30pm on 15/6/20=>2020-06-15T16:30
+
+Findings shared with Anaesthetist by Dr A. Miller at 1:20pm on 7/11/17.\tDOCTOR: A. Miller\nTIME: 1:20pm on 7/11/17=>2017-11-07T13:20
+
+Outcome report to Anaesthetist by Dr E. Thompson at 10:45am on 26/4/19.\tDOCTOR: E. Thompson\nTIME: 10:45am on 26/4/19=>2019-04-26T10:45
+
+Evaluation findings for Anaesthetist by Dr P. Garcia at 3:55pm on 14/8/16.\tDOCTOR: P. Garcia\nTIME: 3:55pm on 14/8/16=>2016-08-14T15:55
+
+Results conveyed to Anaesthetist by Dr S. Davis at 6:10am on 11/10/15.\tDOCTOR: S. Davis\nTIME: 6:10am on 11/10/15=>2015-10-11T06:10
+
+Diagnostic findings for Anaesthetist by Dr J. Miller at 12:15pm on 19/3/14.\tDOCTOR: J. Miller\nTIME: 12:15pm on 19/3/14=>2014-03-19T12:15
+
+Assessment report submitted to Anaesthetist by Dr R. Brown at 5:30pm on 8/2/22.\tDOCTOR: R. Brown\nTIME: 5:30pm on 8/2/22=>2022-02-08T17:30
+
+Outcome shared with Anaesthetist by Dr K. Johnson at 7:40am on 18/5/23.\tDOCTOR: K. Johnson\nTIME: 7:40am on 18/5/23=>2023-05-18T07:40
+
+Result presentation to Anaesthetist by Dr M. White at 2:25pm on 10/10/21.\tDOCTOR: M. White\nTIME: 2:25pm on 10/10/21=>2021-10-10T14:25
+
+Diagnosis conveyed to Anaesthetist by Dr S. Thompson at 9:50am on 30/11/22.\tDOCTOR: S. Thompson\nTIME: 9:50am on 30/11/22=>2022-11-30T09:50
+
+Evaluation findings for Anaesthetist by Dr A. Robinson at 4:05pm on 16/7/20.\tDOCTOR: A. Robinson\nTIME: 4:05pm on 16/7/20=>2020-07-16T16:05
+
+Report submitted to Anaesthetist by Dr R. Smith at 8:20am on 5/6/19.\tDOCTOR: R. Smith\nTIME: 8:20am on 5/6/19=>2019-06-05T08:20
+
+Analysis outcome for Anaesthetist by Dr L. Garcia at 11:35am on 23/9/18.\tDOCTOR: L. Garcia\nTIME: 11:35am on 23/9/18=>2018-09-23T11:35
+
+Findings shared with Anaesthetist by Dr P. Johnson at 1:10pm on 9/12/17.\tDOCTOR: P. Johnson\nTIME: 1:10pm on 9/12/17=>2017-12-09T13:10
+
+Outcome report to Anaesthetist by Dr E. Davis at 6:45am on 3/2/16.\tDOCTOR: E. Davis\nTIME: 6:45am on 3/2/16=>2016-02-03T06:45
+
+Evaluation findings for Anaesthetist by Dr M. Brown at 2:00pm on 15/4/15.\tDOCTOR: M. Brown\nTIME: 2:00pm on 15/4/15=>2015-04-15T14:00
+
+Results conveyed to Anaesthetist by Dr J. Thompson at 5:15pm on 28/8/14.\tDOCTOR: J. Thompson\nTIME: 5:15pm on 28/8/14=>2014-08-28T17:15
+Phone result to Dr Y Halim by Dr A. Smith at 10:20am on 05.09.22.\tDOCTOR: Y Halim\nDOCTOR: A. Smith\nTIME: 10:20am on 05.09.22=>2022-09-05T10:20
+
+Urgent call to Dr Y Halim by Dr K. Johnson at 1:45pm on 12.11.19.\tDOCTOR: Y Halim\nDOCTOR: K. Johnson\nTIME: 1:45pm on 12.11.19=>2019-11-12T13:45
+
+Phone consultation with Dr Y Halim by Dr M. Davis at 4:50pm on 20.08.21.\tDOCTOR: Y Halim\nDOCTOR: M. Davis\nTIME: 4:50pm on 20.08.21=>2021-08-20T16:50
+
+Immediate update to Dr Y Halim by Dr L. Robinson at 6:15pm on 03.03.18.\tDOCTOR: Y Halim\nDOCTOR: L. Robinson\nTIME: 6:15pm on 03.03.18=>2018-03-03T18:15
+
+Phone result to Dr Y Halim by Dr P. Garcia at 11:30am on 14.06.23.\tDOCTOR: Y Halim\nDOCTOR: P. Garcia\nTIME: 11:30am on 14.06.23=>2023-06-14T11:30
+
+Urgent call to Dr Y Halim by Dr E. Thompson at 2:55pm on 29.12.16.\tDOCTOR: Y Halim\nDOCTOR: E. Thompson\nTIME: 2:55pm on 29.12.16=>2016-12-29T14:55
+
+Phone consultation with Dr Y Halim by Dr R. Martinez at 8:10am on 07.09.14.\tDOCTOR: Y Halim\nDOCTOR: R. Martinez\nTIME: 8:10am on 07.09.14=>2014-09-07T08:10
+
+Immediate update to Dr Y Halim by Dr S. Davis at 5:25pm on 18.11.17.\tDOCTOR: Y Halim\nDOCTOR: S. Davis\nTIME: 5:25pm on 18.11.17=>2017-11-18T17:25
+
+Phone result to Dr Y Halim by Dr J. Miller at 9:40am on 22.10.15.\tDOCTOR: Y Halim\nDOCTOR: J. Miller\nTIME: 9:40am on 22.10.15=>2015-10-22T09:40
+
+Urgent call to Dr Y Halim by Dr M. White at 3:05pm on 06.04.13.\tDOCTOR: Y Halim\nDOCTOR: M. White\nTIME: 3:05pm on 06.04.13=>2013-04-06T15:05
+
+Phone consultation with Dr Y Halim by Dr L. Garcia at 7:20am on 10.09.20.\tDOCTOR: Y Halim\nDOCTOR: L. Garcia\nTIME: 7:20am on 10.09.20=>2020-09-10T07:20
+
+Immediate update to Dr Y Halim by Dr A. Robinson at 1:35pm on 14.01.21.\tDOCTOR: Y Halim\nDOCTOR: A. Robinson\nTIME: 1:35pm on 14.01.21=>2021-01-14T13:35
+
+Phone result to Dr Y Halim by Dr K. Johnson at 4:50pm on 03.07.19.\tDOCTOR: Y Halim\nDOCTOR: K. Johnson\nTIME: 4:50pm on 03.07.19=>2019-07-03T16:50
+
+Urgent call to Dr Y Halim by Dr S. Thompson at 11:05am on 25.05.22.\tDOCTOR: Y Halim\nDOCTOR: S. Thompson\nTIME: 11:05am on 25.05.22=>2022-05-25T11:05
+
+Phone consultation with Dr Y Halim by Dr P. Garcia at 2:30pm on 08.12.18.\tDOCTOR: Y Halim\nDOCTOR: P. Garcia\nTIME: 2:30pm on 08.12.18=>2018-12-08T14:30
+
+Immediate update to Dr Y Halim by Dr E. Davis at 6:45am on 16.03.23.\tDOCTOR: Y Halim\nDOCTOR: E. Davis\nTIME: 6:45am on 16.03.23=>2023-03-16T06:45
+
+Phone result to Dr Y Halim by Dr M. Robinson at 9:00am on 30.08.21.\tDOCTOR: Y Halim\nDOCTOR: M. Robinson\nTIME: 9:00am on 30.08.21=>2021-08-30T09:00
+
+Urgent call to Dr Y Halim by Dr R. Smith at 1:15pm on 12.06.17.\tDOCTOR: Y Halim\nDOCTOR: R. Smith\nTIME: 1:15pm on 12.06.17=>2017-06-12T13:15
+
+Phone consultation with Dr Y Halim by Dr L. White at 4:30pm on 19.09.14.\tDOCTOR: Y Halim\nDOCTOR: L. White\nTIME: 4:30pm on 19.09.14=>2014-09-19T16:30
+
+Immediate update to Dr Y Halim by Dr P. Johnson at 8:45am on 05.04.16.\tDOCTOR: Y Halim\nDOCTOR: P. Johnson\nTIME: 8:45am on 05.04.16=>2016-04-05T08:45
+Collected: 18/06/2018 at 09:30\tTIME: 18/06/2018 at 09:30=>2018-06-18T09:30
+
+Collected: 10/11/2015 at 16:20\tTIME: 10/11/2015 at 16:20=>2015-11-10T16:20
+
+Collected: 05/09/2019 at 11:45\tTIME: 05/09/2019 at 11:45=>2019-09-05T11:45
+
+Collected: 07/12/2020 at 20:15\tTIME: 07/12/2020 at 20:15=>2020-12-07T20:15
+
+Collected: 14/04/2017 at 13:00\tTIME: 14/04/2017 at 13:00=>2017-04-14T13:00
+
+Collected: 03/08/2016 at 18:50\tTIME: 03/08/2016 at 18:50=>2016-08-03T18:50
+
+Collected: 26/01/2014 at 08:25\tTIME: 26/01/2014 at 08:25=>2014-01-26T08:25
+
+Collected: 30/09/2019 at 15:40\tTIME: 30/09/2019 at 15:40=>2019-09-30T15:40
+
+Collected: 12/05/2016 at 10:05\tTIME: 12/05/2016 at 10:05=>2016-05-12T10:05
+
+Collected: 19/11/2021 at 12:30\tTIME: 19/11/2021 at 12:30=>2021-11-19T12:30
+
+Collected: 08/03/2018 at 17:55\tTIME: 08/03/2018 at 17:55=>2018-03-08T17:55
+
+Collected: 02/06/2017 at 14:10\tTIME: 02/06/2017 at 14:10=>2017-06-02T14:10
+
+Collected: 15/10/2015 at 09:20\tTIME: 15/10/2015 at 09:20=>2015-10-15T09:20
+
+Collected: 21/07/2019 at 16:35\tTIME: 21/07/2019 at 16:35=>2019-07-21T16:35
+
+Collected: 04/12/2014 at 21:45\tTIME: 04/12/2014 at 21:45=>2014-12-04T21:45
+
+Collected: 17/09/2016 at 11:00\tTIME: 17/09/2016 at 11:00=>2016-09-17T11:00
+
+Collected: 23/04/2018 at 14:25\tTIME: 23/04/2018 at 14:25=>2018-04-23T14:25
+
+Collected: 09/08/2020 at 19:50\tTIME: 09/08/2020 at 19:50=>2020-08-09T19:50
+
+Collected: 06/02/2017 at 08:15\tTIME: 06/02/2017 at 08:15=>2017-02-06T08:15
+
+Collected: 28/05/2022 at 16:00\tTIME: 28/05/2022 at 16:00=>2022-05-28T16:00
+Result to Dr Messa by Dr R. Johnson at 09:30 on 15.9.21.\tDOCTOR: Messa\nDOCTOR: R. Johnson\nTIME: 09:30 on 15.9.21=>2021-09-15T09:30
+
+Findings for Dr Messa by Dr K. Davis at 3:45 on 10.12.19.\tDOCTOR: Messa\nDOCTOR: K. Davis\nTIME: 3:45 on 10.12.19=>2019-12-10T03:45
+
+Report submitted to Dr Messa by Dr L. Robinson at 8:00 on 5.9.18.\tDOCTOR: Messa\nDOCTOR: L. Robinson\nTIME: 8:00 on 5.9.18=>2018-09-05T08:00
+
+Analysis outcome for Dr Messa by Dr P. Garcia at 6:30 on 3.12.20.\tDOCTOR: Messa\nDOCTOR: P. Garcia\nTIME: 6:30 on 3.12.20=>2020-12-03T06:30
+
+Findings shared with Dr Messa by Dr A. Miller at 4:05 on 17.6.19.\tDOCTOR: Messa\nDOCTOR: A. Miller\nTIME: 4:05 on 17.6.19=>2019-06-17T04:05
+
+Outcome report to Dr Messa by Dr E. Thompson at 10:20 on 9.11.18.\tDOCTOR: Messa\nDOCTOR: E. Thompson\nTIME: 10:20 on 9.11.18=>2018-11-09T10:20
+
+Evaluation findings for Dr Messa by Dr L. White at 1:45 on 14.5.17.\tDOCTOR: Messa\nDOCTOR: L. White\nTIME: 1:45 on 14.5.17=>2017-05-14T01:45
+
+Results conveyed to Dr Messa by Dr P. Robinson at 5:55 on 7.8.16.\tDOCTOR: Messa\nDOCTOR: P. Robinson\nTIME: 5:55 on 7.8.16=>2016-08-07T05:55
+
+Diagnostic findings for Dr Messa by Dr K. Thompson at 12:30 on 26.2.15.\tDOCTOR: Messa\nDOCTOR: K. Thompson\nTIME: 12:30 on 26.2.15=>2015-02-26T12:30
+
+Assessment report submitted to Dr Messa by Dr S. Davis at 3:15 on 19.10.14.\tDOCTOR: Messa\nDOCTOR: S. Davis\nTIME: 3:15 on 19.10.14=>2014-10-19T03:15
+
+Outcome shared with Dr Messa by Dr E. Martinez at 7:40 on 8.6.13.\tDOCTOR: Messa\nDOCTOR: E. Martinez\nTIME: 7:40 on 8.6.13=>2013-06-08T07:40
+
+Result presentation to Dr Messa by Dr M. White at 2:55 on 5.4.22.\tDOCTOR: Messa\nDOCTOR: M. White\nTIME: 2:55 on 5.4.22=>2022-04-05T02:55
+
+Diagnosis conveyed to Dr Messa by Dr S. Thompson at 9:10 on 30.9.23.\tDOCTOR: Messa\nDOCTOR: S. Thompson\nTIME: 9:10 on 30.9.23=>2023-09-30T09:10
+
+Evaluation findings for Dr Messa by Dr P. Garcia at 4:25 on 16.7.21.\tDOCTOR: Messa\nDOCTOR: P. Garcia\nTIME: 4:25 on 16.7.21=>2021-07-16T04:25
+
+Report submitted to Dr Messa by Dr R. Brown at 6:50 on 11.12.20.\tDOCTOR: Messa\nDOCTOR: R. Brown\nTIME: 6:50 on 11.12.20=>2020-12-11T06:50
+
+Analysis outcome for Dr Messa by Dr J. Thompson at 11:35 on 5.6.19.\tDOCTOR: Messa\nDOCTOR: J. Thompson\nTIME: 11:35 on 5.6.19=>2019-06-05T11:35
+
+Findings shared with Dr Messa by Dr A. Miller at 3:20 on 9.11.18.\tDOCTOR: Messa\nDOCTOR: A. Miller\nTIME: 3:20 on 9.11.18=>2018-11-09T03:20
+
+Outcome report to Dr Messa by Dr K. Johnson at 8:45 on 3.7.17.\tDOCTOR: Messa\nDOCTOR: K. Johnson\nTIME: 8:45 on 3.7.17=>2017-07-03T08:45
+
+Evaluation findings for Dr Messa by Dr E. Smith at 2:00 on 15.4.16.\tDOCTOR: Messa\nDOCTOR: E. Smith\nTIME: 2:00 on 15.4.16=>2016-04-15T02:00
+
+Results conveyed to Dr Messa by Dr L. Davis at 5:15 on 28.8.15.\tDOCTOR: Messa\nDOCTOR: L. Davis\nTIME: 5:15 on 28.8.15=>2015-08-28T05:15
+Appointment reminder for Dr. LUCAS MARTINEZ by Dr. S Johnson at 10:30am on 5/20/22\tDOCTOR: LUCAS MARTINEZ\nDOCTOR: S Johnson\nTIME: 10:30am on 5/20/22=>2022-05-20T10:30
+
+Lab test update for Dr. EVELYN YANG by Dr. M Williams/ Dr. P Thompson at 3:45pm on 9-8-21\tDOCTOR: EVELYN YANG\nDOCTOR: M Williams\nDOCTOR: P Thompson\nTIME: 3:45pm on 9-8-21=>2021-08-09T15:45
+
+Prescription details for Dr. RACHEL TANAKA by Dr. A Patel at 2:15pm on 11.11.23\tDOCTOR: RACHEL TANAKA\nDOCTOR: A Patel\nTIME: 2:15pm on 11.11.23=>2023-11-11T14:15
+Phone results to Dr. NANCY WILSON by Dr. K Smith/ Dr. L Davis at 8:20am on 6-14-24\tDOCTOR: NANCY WILSON\nDOCTOR: K Smith\nDOCTOR: L Davis\nTIME: 8:20am on 6-14-24=>2024-06-14T08:20
+
+Emergency update for Dr. FRANK MILLER by Dr. R Johnson at 11:45pm on 3.5.25\tDOCTOR: FRANK MILLER\nDOCTOR: R Johnson\nTIME: 11:45pm on 3.5.25=>2025-05-03T23:45
+
+Appointment confirmation for Dr. ALICE CHEN by Dr. M Davis at 2:30pm on 7/10/23\tDOCTOR: ALICE CHEN\nDOCTOR: M Davis\nTIME: 2:30pm on 7/10/23=>2023-07-10T14:30
+
+Phone results to Dr. JASON WANG by Dr. H Anderson/ Dr. S Miller at 4:00pm on 12/8/22\tDOCTOR: JASON WANG\nDOCTOR: H Anderson\nDOCTOR: S Miller\nTIME: 4:00pm on 12/8/22=>2022-08-12T16:00
+
+Urgent message for Dr. EMMA JONES by Dr. P White at 9:15am on 10-5-21\tDOCTOR: EMMA JONES\nDOCTOR: P White\nTIME: 9:15am on 10-5-21=>2021-05-10T09:15
+
+Lab report notification for Dr. SAMANTHA REYES by Dr. G Rodriguez at 1:55pm on 4.20.23\tDOCTOR: SAMANTHA REYES\nDOCTOR: G Rodriguez\nTIME: 1:55pm on 4.20.23=>2023-04-20T13:55
+
+Phone results to Dr. JEFFREY WOODS by Dr. B Foster/ Dr. L Turner at 6:40pm on 8-12-25\tDOCTOR: JEFFREY WOODS\nDOCTOR: B Foster\nDOCTOR: L Turner\nTIME: 6:40pm on 8-12-25=>2025-12-08T18:40
+
+Medication update for Dr. LILY NGUYEN by Dr. J Kim at 3:10pm on 11/30/24\tDOCTOR: LILY NGUYEN\nDOCTOR: J Kim\nTIME: 3:10pm on 11/30/24=>2024-11-30T15:10
+
+Phone consultation with Dr. DAVID ANDERSON by Dr. A White at 10:25am on 7.7.22\tDOCTOR: DAVID ANDERSON\nDOCTOR: A White\nTIME: 10:25am on 7.7.22=>2022-07-07T10:25
+
+Important update for Dr. RUBY MARTIN by Dr. S Lee/ Dr. M Turner at 5:50pm on 9-15-23\tDOCTOR: RUBY MARTIN\nDOCTOR: S Lee\nDOCTOR: M Turner\nTIME: 5:50pm on 9-15-23=>2023-09-15T17:50
+Phone results to Dr. JENNIFER KIM by Dr. M Thompson/ Dr. E Davis at 9:30am on 4-25-22\tDOCTOR: JENNIFER KIM\nDOCTOR: M Thompson\nDOCTOR: E Davis\nTIME: 9:30am on 4-25-22=>2022-04-25T09:30
+
+Test findings for Dr. ALEXANDER MARTIN by Dr. R Patel at 1:15pm on 12/6/23\tDOCTOR: ALEXANDER MARTIN\nDOCTOR: R Patel\nTIME: 1:15pm on 12/6/23=>2023-06-12T13:15
+
+Phone consultation with Dr. SOPHIE NGUYEN by Dr. B Anderson at 4:45pm on 8/18/24\tDOCTOR: SOPHIE NGUYEN\nDOCTOR: B Anderson\nTIME: 4:45pm on 8/18/24=>2024-08-18T16:45
+
+Emergency update for Dr. WILLIAM HARRIS by Dr. J Miller at 11:00pm on 10.30.25\tDOCTOR: WILLIAM HARRIS\nDOCTOR: J Miller\nTIME: 11:00pm on 10.30.25=>2025-10-30T23:00
+
+Prescription details for Dr. OLIVIA YOUNG by Dr. S White at 3:20pm on 6-5-23\tDOCTOR: OLIVIA YOUNG\nDOCTOR: S White\nTIME: 3:20pm on 6-5-23=>2023-05-06T15:20
+
+Follow-up information for Dr. BENJAMIN CARTER by Dr. L Foster at 10:10am on 2-14-22\tDOCTOR: BENJAMIN CARTER\nDOCTOR: L Foster\nTIME: 10:10am on 2-14-22=>2022-02-14T10:10
+
+Phone results to Dr. ELIZABETH WILSON by Dr. C Lee/ Dr. A Turner at 6:55pm on 3-21-25\tDOCTOR: ELIZABETH WILSON\nDOCTOR: C Lee\nDOCTOR: A Turner\nTIME: 6:55pm on 3-21-25=>2025-03-21T18:55
+
+Lab report notification for Dr. JASON HALL by Dr. K Johnson at 2:40pm on 9/9/23\tDOCTOR: JASON HALL\nDOCTOR: K Johnson\nTIME: 2:40pm on 9/9/23=>2023-09-09T14:40
+
+Appointment reminder for Dr. EMMA REYES by Dr. P Smith at 11:15am on 7-12-24\tDOCTOR: EMMA REYES\nDOCTOR: P Smith\nTIME: 11:15am on 7-12-24=>2024-12-07T11:15
+
+Urgent message for Dr. ANDREW COOPER by Dr. S Miller at 8:30am on 5/3/22\tDOCTOR: ANDREW COOPER\nDOCTOR: S Miller\nTIME: 8:30am on 5/3/22=>2022-05-03T08:30
+Phone results to Dr. VICTORIA PARK by Dr. M Williams/ Dr. A Davis at 3:45pm on 11-8-23\tDOCTOR: VICTORIA PARK\nDOCTOR: M Williams\nDOCTOR: A Davis\nTIME: 3:45pm on 11-8-23=>2023-08-11T15:45
+
+Phone results to Dr. NATHANIEL WOODS by Dr. E Wilson at 6:20pm on 9.30.25\tDOCTOR: NATHANIEL WOODS\nDOCTOR: E Wilson\nTIME: 6:20pm on 9.30.25=>2025-09-30T18:20
+
+Phone results to Dr. LILY MARTINEZ by Dr. S Johnson/ Dr. K Foster at 10:15am on 7-5-22\tDOCTOR: LILY MARTINEZ\nDOCTOR: S Johnson\nDOCTOR: K Foster\nTIME: 10:15am on 7-5-22=>2022-05-07T10:15
+
+Phone results to Dr. JASON KIM by Dr. H White at 1:50pm on 3-12-23\tDOCTOR: JASON KIM\nDOCTOR: H White\nTIME: 1:50pm on 3-12-23=>2023-12-03T13:50
+
+Phone results to Dr. EMMA REYES by Dr. R Patel at 4:40pm on 5/18/24\tDOCTOR: EMMA REYES\nDOCTOR: R Patel\nTIME: 4:40pm on 5/18/24=>2024-05-18T16:40
+
+Phone results to Dr. BENJAMIN CARTER by Dr. L Turner at 9:30am on 8/15/23\tDOCTOR: BENJAMIN CARTER\nDOCTOR: L Turner\nTIME: 9:30am on 8/15/23=>2023-08-15T09:30
+
+Phone results to Dr. OLIVIA YOUNG by Dr. J Miller/ Dr. A Turner at 2:55pm on 10.10.22\tDOCTOR: OLIVIA YOUNG\nDOCTOR: J Miller\nDOCTOR: A Turner\nTIME: 2:55pm on 10.10.22=>2022-10-10T14:55
+
+Phone results to Dr. ANDREW COOPER by Dr. P Smith at 7:10pm on 12/7/25\tDOCTOR: ANDREW COOPER\nDOCTOR: P Smith\nTIME: 7:10pm on 12/7/25=>2025-07-12T19:10
+
+Phone results to Dr. ELIZABETH WILSON by Dr. G Rodriguez at 11:45am on 6/23/24\tDOCTOR: ELIZABETH WILSON\nDOCTOR: G Rodriguez\nTIME: 11:45am on 6/23/24=>2024-06-23T11:45
+
+Phone results to Dr. ALEXANDER MARTIN by Dr. K Johnson at 5:20pm on 4.5.22\tDOCTOR: ALEXANDER MARTIN\nDOCTOR: K Johnson\nTIME: 5:20pm on 4.5.22=>2022-05-04T17:20
+Result to Dr. TANYA WILLIAMS by Dr. SAMUEL ANDERSON/ELLEN FOSTER at 0930 hours on the 5th of June 2022.\tDOCTOR: TANYA WILLIAMS\nDOCTOR: SAMUEL ANDERSON\nDOCTOR: ELLEN FOSTER\nTIME: 0930 hours on the 5th of June 2022=>2022-06-05T09:30
+
+Result to Dr. MICHELLE NGUYEN by Dr. JAMES PARK/DAVID SMITH at 1545 hours on the 8th of October 2024.\tDOCTOR: MICHELLE NGUYEN\nDOCTOR: JAMES PARK\nDOCTOR: DAVID SMITH\nTIME: 1545 hours on the 8th of October 2024=>2024-10-08T15:45
+
+Result to Dr. CHRISTOPHER WONG by Dr. LINDA TAYLOR/MICHAEL JOHNSON at 0800 hours on the 21st of March 2021.\tDOCTOR: CHRISTOPHER WONG\nDOCTOR: LINDA TAYLOR\nDOCTOR: MICHAEL JOHNSON\nTIME: 0800 hours on the 21st of March 2021=>2021-03-21T08:00
+
+Result to Dr. MIA MARTIN by Dr. JOHN WHITE/EMMA TURNER at 2030 hours on the 12th of September 2023.\tDOCTOR: MIA MARTIN\nDOCTOR: JOHN WHITE\nDOCTOR: EMMA TURNER\nTIME: 2030 hours on the 12th of September 2023=>2023-09-12T20:30
+
+Result to Dr. NATHANIEL JONES by Dr. LAURA HALL/ALLEN THOMPSON at 1145 hours on the 3rd of November 2022.\tDOCTOR: NATHANIEL JONES\nDOCTOR: LAURA HALL\nDOCTOR: ALLEN THOMPSON\nTIME: 1145 hours on the 3rd of November 2022=>2022-11-03T11:45
+
+Result to Dr. SARAH GARCIA by Dr. KEVIN LEE/SUSAN TURNER at 0715 hours on the 18th of July 2025.\tDOCTOR: SARAH GARCIA\nDOCTOR: KEVIN LEE\nDOCTOR: SUSAN TURNER\nTIME: 0715 hours on the 18th of July 2025=>2025-07-18T07:15
+
+Result to Dr. JASON WANG by Dr. MEGAN MARTIN/DANIEL HARRIS at 1400 hours on the 9th of December 2023.\tDOCTOR: JASON WANG\nDOCTOR: MEGAN MARTIN\nDOCTOR: DANIEL HARRIS\nTIME: 1400 hours on the 9th of December 2023=>2023-12-09T14:00
+
+Result to Dr. LILY THOMAS by Dr. BRIAN WILSON/ALICE MARTINEZ at 0945 hours on the 7th of May 2024.\tDOCTOR: LILY THOMAS\nDOCTOR: BRIAN WILSON\nDOCTOR: ALICE MARTINEZ\nTIME: 0945 hours on the 7th of May 2024=>2024-05-07T09:45
+
+Result to Dr. JEFFREY WOODS by Dr. NATALIE BROWN/ROBERT JOHNSON at 1830 hours on the 15th of August 2022.\tDOCTOR: JEFFREY WOODS\nDOCTOR: NATALIE BROWN\nDOCTOR: ROBERT JOHNSON\nTIME: 1830 hours on the 15th of August 2022=>2022-08-15T18:30
+
+Result to Dr. EMMA JONES by Dr. RICHARD KIM/SANDRA WHITE at 1215 hours on the 22nd of April 2021.\tDOCTOR: EMMA JONES\nDOCTOR: RICHARD KIM\nDOCTOR: SANDRA WHITE\nTIME: 1215 hours on the 22nd of April 2021=>2021-04-22T12:15
+Result to Dr. ALEXANDER SMITH by Dr. LILY TURNER/DANIEL WILSON at 1000 hours on the 3rd of September 2023.\tDOCTOR: ALEXANDER SMITH\nDOCTOR: LILY TURNER\nDOCTOR: DANIEL WILSON\nTIME: 1000 hours on the 3rd of September 2023=>2023-09-03T10:00
+
+Result to Dr. SOPHIE MARTIN by Dr. JOHN ANDERSON/MICHELLE HALL at 1345 hours on the 12th of June 2022.\tDOCTOR: SOPHIE MARTIN\nDOCTOR: JOHN ANDERSON\nDOCTOR: MICHELLE HALL\nTIME: 1345 hours on the 12th of June 2022=>2022-06-12T13:45
+
+Result to Dr. CHRISTOPHER JONES by Dr. LINDA DAVIS/ROBERT THOMPSON at 2230 hours on the 5th of November 2024.\tDOCTOR: CHRISTOPHER JONES\nDOCTOR: LINDA DAVIS\nDOCTOR: ROBERT THOMPSON\nTIME: 2230 hours on the 5th of November 2024=>2024-11-05T22:30
+
+Result to Dr. MIA WANG by Dr. KEVIN MARTINEZ/SUSAN BROWN at 0805 hours on the 17th of March 2021.\tDOCTOR: MIA WANG\nDOCTOR: KEVIN MARTINEZ\nDOCTOR: SUSAN BROWN\nTIME: 0805 hours on the 17th of March 2021=>2021-03-17T08:05
+
+Result to Dr. NATHANIEL HALL by Dr. EMMA WILSON/ALLEN MARTIN at 1540 hours on the 9th of July 2025.\tDOCTOR: NATHANIEL HALL\nDOCTOR: EMMA WILSON\nDOCTOR: ALLEN MARTIN\nTIME: 1540 hours on the 9th of July 2025=>2025-07-09T15:40
+
+Result to Dr. SARAH TURNER by Dr. JASON REYNOLDS/ELLEN COOPER at 0415 hours on the 22nd of August 2022.\tDOCTOR: SARAH TURNER\nDOCTOR: JASON REYNOLDS\nDOCTOR: ELLEN COOPER\nTIME: 0415 hours on the 22nd of August 2022=>2022-08-22T04:15
+
+Result to Dr. JEFFREY MARTINEZ by Dr. NATALIE JOHNSON/ROBERT KIM at 1945 hours on the 30th of December 2023.\tDOCTOR: JEFFREY MARTINEZ\nDOCTOR: NATALIE JOHNSON\nDOCTOR: ROBERT KIM\nTIME: 1945 hours on the 30th of December 2023=>2023-12-30T19:45
+
+Result to Dr. LILY COOPER by Dr. BRIAN THOMPSON/ALICE WILSON at 1100 hours on the 6th of May 2024.\tDOCTOR: LILY COOPER\nDOCTOR: BRIAN THOMPSON\nDOCTOR: ALICE WILSON\nTIME: 1100 hours on the 6th of May 2024=>2024-05-06T11:00
+
+Result to Dr. JASON HARRIS by Dr. MEGAN WHITE/DANIEL ANDERSON at 2035 hours on the 15th of August 2022.\tDOCTOR: JASON HARRIS\nDOCTOR: MEGAN WHITE\nDOCTOR: DANIEL ANDERSON\nTIME: 2035 hours on the 15th of August 2022=>2022-08-15T20:35
+
+Result to Dr. EMMA ANDERSON by Dr. RICHARD MARTIN/SANDRA JONES at 1245 hours on the 4th of April 2021.\tDOCTOR: EMMA ANDERSON\nDOCTOR: RICHARD MARTIN\nDOCTOR: SANDRA JONES\nTIME: 1245 hours on the 4th of April 2021=>2021-04-04T12:45
+Smithson on the 12th of June 2022 at 4:45pm.\tTIME: 12th of June 2022 at 4:45pm=>2022-06-12T16:45
+
+Anderson on the 20th of September 2024 at 10:15am.\tTIME: 20th of September 2024 at 10:15am=>2024-09-20T10:15
+
+Chen on the 8th of March 2021 at 3:20pm.\tTIME: 8th of March 2021 at 3:20pm=>2021-03-08T15:20
+
+Reynolds on the 15th of September 2023 at 6:00pm.\tTIME: 15th of September 2023 at 6:00pm=>2023-09-15T18:00
+
+Taylor on the 7th of May 2024 at 12:45pm.\tTIME: 7th of May 2024 at 12:45pm=>2024-05-07T12:45
+
+Martinez on the 18th of August 2022 at 8:30am.\tTIME: 18th of August 2022 at 8:30am=>2022-08-18T08:30
+
+Turner on the 9th of December 2023 at 3:55pm.\tTIME: 9th of December 2023 at 3:55pm=>2023-12-09T15:55
+
+Nguyen on the 30th of July 2025 at 11:10am.\tTIME: 30th of July 2025 at 11:10am=>2025-07-30T11:10
+
+Davis on the 23rd of April 2021 at 2:15pm.\tTIME: 23rd of April 2021 at 2:15pm=>2021-04-23T14:15
+
+Rodriguez on the 4th of November 2022 at 5:40pm.\tTIME: 4th of November 2022 at 5:40pm=>2022-11-04T17:40
+Thompson on the 14th of February 2023 at 9:20am.\tTIME: 14th of February 2023 at 9:20am=>2023-02-14T09:20
+
+Foster on the 25th of June 2022 at 6:55pm.\tTIME: 25th of June 2022 at 6:55pm=>2022-06-25T18:55
+
+Harris on the 11th of October 2024 at 11:40am.\tTIME: 11th of October 2024 at 11:40am=>2024-10-11T11:40
+
+Turner on the 6th of March 2021 at 2:05pm.\tTIME: 6th of March 2021 at 2:05pm=>2021-03-06T14:05
+
+Kim on the 8th of July 2025 at 4:30pm.\tTIME: 8th of July 2025 at 4:30pm=>2025-07-08T16:30
+
+White on the 22nd of August 2022 at 1:15pm.\tTIME: 22nd of August 2022 at 1:15pm=>2022-08-22T13:15
+
+Miller on the 31st of December 2023 at 7:25pm.\tTIME: 31st of December 2023 at 7:25pm=>2023-12-31T19:25
+
+Wilson on the 7th of May 2024 at 10:50am.\tTIME: 7th of May 2024 at 10:50am=>2024-05-07T10:50
+
+Turner on the 15th of August 2022 at 8:15pm.\tTIME: 15th of August 2022 at 8:15pm=>2022-08-15T20:15
+
+Martin on the 4th of April 2021 at 3:30pm.\tTIME: 4th of April 2021 at 3:30pm=>2021-04-04T15:30
+Phone results to colleague at 2:15pm on 10/12/2022 by Dr. M.\tTIME: 2:15pm on 10/12/2022=>2022-12-10T14:15\nDOCTOR: M.
+
+Phone results to team member at 11:30am on 7/18/2019 by Dr. A.\tTIME: 11:30am on 7/18/2019=>2019-07-18T11:30\nDOCTOR: A.
+
+Phone results to partner at 8:45am on 3/24/2021 by Dr. S.\tTIME: 8:45am on 3/24/2021=>2021-03-24T08:45\nDOCTOR: S.
+
+Phone results to associate at 5:50pm on 9/5/2018 by Dr. R.\tTIME: 5:50pm on 9/5/2018=>2018-05-09T17:50\nDOCTOR: R.
+
+Phone results to colleague at 1:40pm on 12/15/2017 by Dr. L.\tTIME: 1:40pm on 12/15/2017=>2017-12-15T13:40\nDOCTOR: L.
+
+Phone results to team member at 9:10am on 6/7/2015 by Dr. K.\tTIME: 9:10am on 6/7/2015=>2015-07-06T09:10\nDOCTOR: K.
+
+Phone results to partner at 6:35pm on 11/3/2016 by Dr. E.\tTIME: 6:35pm on 11/3/2016=>2016-03-11T18:35\nDOCTOR: E.
+
+Phone results to associate at 3:20pm on 8/22/2020 by Dr. P.\tTIME: 3:20pm on 8/22/2020=>2020-08-22T15:20\nDOCTOR: P.
+
+Phone results to team member at 10:55am on 5/9/2014 by Dr. J.\tTIME: 10:55am on 5/9/2014=>2014-09-05T10:55\nDOCTOR: J.
+
+Phone results to colleague at 7:05pm on 2/18/2016 by Dr. B.\tTIME: 7:05pm on 2/18/2016=>2016-02-18T19:05\nDOCTOR: B.
+Phone results to coworker at 12:20pm on 9/21/2019 by Dr. H.\tTIME: 12:20pm on 9/21/2019=>2019-09-21T12:20\nDOCTOR: H.
+
+Phone results to partner at 3:45pm on 7/8/2016 by Dr. N.\tTIME: 3:45pm on 7/8/2016=>2016-08-07T15:45\nDOCTOR: N.
+
+Phone results to associate at 6:30pm on 5/12/2017 by Dr. W.\tTIME: 6:30pm on 5/12/2017=>2017-12-05T18:30\nDOCTOR: W.
+
+Phone results to team member at 10:10am on 3/3/2020 by Dr. Q.\tTIME: 10:10am on 3/3/2020=>2020-03-03T10:10\nDOCTOR: Q.
+
+Phone results to colleague at 2:55pm on 11/14/2015 by Dr. U.\tTIME: 2:55pm on 11/14/2015=>2015-11-14T14:55\nDOCTOR: U.
+
+Phone results to partner at 8:15am on 1/26/2018 by Dr. X.\tTIME: 8:15am on 1/26/2018=>2018-01-26T08:15\nDOCTOR: X.
+
+Phone results to coworker at 5:40pm on 4/7/2014 by Dr. I.\tTIME: 5:40pm on 4/7/2014=>2014-07-04T17:40\nDOCTOR: I.
+
+Phone results to associate at 11:25am on 6/29/2018 by Dr. E.\tTIME: 11:25am on 6/29/2018=>2018-06-29T11:25\nDOCTOR: E.
+
+Phone results to team member at 7:50pm on 10/10/2015 by Dr. Z.\tTIME: 7:50pm on 10/10/2015=>2015-10-10T19:50\nDOCTOR: Z.
+
+Phone results to colleague at 4:05pm on 8/17/2021 by Dr. Y.\tTIME: 4:05pm on 8/17/2021=>2021-08-17T16:05\nDOCTOR: Y.
+Urgent communication to Dr. A. Patel by Dr. R. Johnson at 8:40am on 22.6.21.\tDOCTOR: A. Patel\nDOCTOR: R. Johnson\nTIME: 8:40am on 22.6.21=>2021-06-22T08:40
+
+Immediate briefing to Dr. K. Nguyen by Dr. M. Davis at 2:15pm on 10.9.19.\tDOCTOR: K. Nguyen\nDOCTOR: M. Davis\nTIME: 2:15pm on 10.9.19=>2019-09-10T14:15
+
+Emergency notification to Dr. J. Reynolds by Dr. L. Carter at 3:55pm on 5.12.23.\tDOCTOR: J. Reynolds\nDOCTOR: L. Carter\nTIME: 3:55pm on 5.12.23=>2023-12-05T15:55
+
+Critical update to Dr. N. Williams by Dr. P. Rodriguez at 12:30pm on 7.3.20.\tDOCTOR: N. Williams\nDOCTOR: P. Rodriguez\nTIME: 12:30pm on 7.3.20=>2020-03-07T12:30
+
+Immediate report to Dr. S. Chang by Dr. Q. Smith at 6:45pm on 14.8.18.\tDOCTOR: S. Chang\nDOCTOR: Q. Smith\nTIME: 6:45pm on 14.8.18=>2018-08-14T18:45
+
+Urgent communication to Dr. R. Patel by Dr. A. Johnson at 10:10am on 26.2.22.\tDOCTOR: R. Patel\nDOCTOR: A. Johnson\nTIME: 10:10am on 26.2.22=>2022-02-26T10:10
+
+Emergency notification to Dr. M. Patel by Dr. S. Chang at 4:20pm on 19.7.16.\tDOCTOR: M. Patel\nDOCTOR: S. Chang\nTIME: 4:20pm on 19.7.16=>2016-07-19T16:20
+
+Immediate briefing to Dr. L. Patel by Dr. J. Smith at 1:55pm on 3.11.21.\tDOCTOR: L. Patel\nDOCTOR: J. Smith\nTIME: 1:55pm on 3.11.21=>2021-11-03T13:55
+
+Critical update to Dr. S. Davis by Dr. Y Halim at 9:10am on 7.9.24.\tDOCTOR: S. Davis\nDOCTOR: Y Halim\nTIME: 9:10am on 7.9.24=>2024-09-07T09:10
+
+Emergency notification to Dr. R. Johnson by Dr. M. Davis at 3:30pm on 12.5.26.\tDOCTOR: R. Johnson\nDOCTOR: M. Davis\nTIME: 3:30pm on 12.5.26=>2026-05-12T15:30
+Emergency message to Dr. J. Reynolds by Dr. A. Patel at 9:30am on 12.09.20.\tDOCTOR: J. Reynolds\nDOCTOR: A. Patel\nTIME: 9:30am on 12.09.20=>2020-09-12T09:30
+
+Immediate update to Dr. S. Chang by Dr. L. Carter at 1:45pm on 18.11.16.\tDOCTOR: S. Chang\nDOCTOR: L. Carter\nTIME: 1:45pm on 18.11.16=>2016-11-18T13:45
+
+Critical notification to Dr. N. Williams by Dr. Q. Smith at 6:20pm on 22.05.19.\tDOCTOR: N. Williams\nDOCTOR: Q. Smith\nTIME: 6:20pm on 22.05.19=>2019-05-22T18:20
+
+Urgent call to Dr. M. Davis by Dr. R. Johnson at 11:15am on 07.03.18.\tDOCTOR: M. Davis\nDOCTOR: R. Johnson\nTIME: 11:15am on 07.03.18=>2018-03-07T11:15
+
+Emergency message to Dr. A. Johnson by Dr. P. Rodriguez at 4:40pm on 10.08.22.\tDOCTOR: A. Johnson\nDOCTOR: P. Rodriguez\nTIME: 4:40pm on 10.08.22=>2022-08-10T16:40
+
+Immediate update to Dr. K. Nguyen by Dr. S. Davis at 2:25pm on 15.12.21.\tDOCTOR: K. Nguyen\nDOCTOR: S. Davis\nTIME: 2:25pm on 15.12.21=>2021-12-15T14:25
+
+Critical notification to Dr. R. Patel by Dr. Y Halim at 8:10am on 03.06.14.\tDOCTOR: R. Patel\nDOCTOR: Y Halim\nTIME: 8:10am on 03.06.14=>2014-06-03T08:10
+
+Emergency call to Dr. L. Patel by Dr. J. Smith at 5:55pm on 26.09.23.\tDOCTOR: L. Patel\nDOCTOR: J. Smith\nTIME: 5:55pm on 26.09.23=>2023-09-26T17:55
+
+Immediate message to Dr. S. Chang by Dr. M. White at 10:30am on 07.11.17.\tDOCTOR: S. Chang\nDOCTOR: M. White\nTIME: 10:30am on 07.11.17=>2017-11-07T10:30
+
+Urgent update to Dr. Q. Smith by Dr. A. Patel at 3:50pm on 14.02.25.\tDOCTOR: Q. Smith\nDOCTOR: A. Patel\nTIME: 3:50pm on 14.02.25=>2025-02-14T15:50

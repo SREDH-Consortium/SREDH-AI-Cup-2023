@@ -1,0 +1,2 @@
+command: mono $program/OpenDeid.exe $input $output
+description: Example competition evaluation program.

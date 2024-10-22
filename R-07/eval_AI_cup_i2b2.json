@@ -1,0 +1,38 @@
+{
+    "post_process":"argmax",
+    "threshold": null,
+    "model_name_or_path":"/home/ting/code/ehr_deidentification/chpt_addi2b2/formal_roberta-large_allsplit_lower_continue/output/checkpoint-47047",
+    "task_name":"ner",
+    "notation":"BILOU",
+    "ner_types":["DOCTOR", "DATE", "IDNUM", "MEDICALRECORD", "PATIENT", "HOSPITAL", "TIME", "DEPARTMENT", "CITY", "ZIP", "STREET", "STATE", "ORGANIZATION", "AGE", "DURATION", "SET", "PHONE", "LOCATION-OTHER", "COUNTRY", "URL", "ROOM", "USERNAME", "PROFESSION", "FAX", "DEVICE", "EMAIL", "BIOID", "HEALTHPLAN"],
+    "output_predictions_file": "/home/ting/code/ehr_deidentification/p_eval_addi2b2/formal_roberta-large_allsplit_lower_continue/predictions.jsonl",
+    "train_file":null,
+    "validation_file":["/home/ting/code/ehr_deidentification/First_Phase_Text_Dataset_addi2b2/formal_all_split_lower_continue/ner_datasets/validation.jsonl"],
+    "test_file":null,
+    "truncation":true,
+    "max_length":512,
+    "label_all_tokens":false,
+    "return_entity_level_metrics":true,
+    "text_column_name":"tokens",
+    "label_column_name":"labels",
+    "model_eval_script":"/home/ting/code/ehr_deidentification/src/robust_deid/sequence_tagging/evaluation/note_evaluation/note_evaluation.py",
+    "validation_spans_file":"/home/ting/code/ehr_deidentification/First_Phase_Text_Dataset_addi2b2/formal_all_split_lower_continue/validation_spans.jsonl",
+    "evaluation_mode":"strict",
+    "ner_type_maps":[
+        ["PHI", "PHI","PHI", "PHI", "PHI", "PHI", "PHI", "PHI", "PHI", "PHI", "PHI", "PHI","PHI", "PHI", "PHI", "PHI", "PHI", "PHI", "PHI", "PHI", "PHI", "PHI", "PHI", "PHI", "PHI", "PHI", "PHI", "PHI"],
+        ["PHI+", "PHI+","PHI+", "PHI+", "PHI+", "PHI+", "PHI+", "PHI+", "PHI+", "PHI+", "PHI+", "PHI+","PHI+", "PHI+", "PHI+", "PHI+", "PHI+", "PHI+", "PHI+", "PHI+", "PHI+", "PHI+", "PHI+", "PHI+", "PHI+", "PHI+", "PHI+", "PHI+"]
+   ],
+    "output_dir":"/home/ting/code/ehr_deidentification/chpt_addi2b2/formal_roberta-large_allsplit_lower_continue/output/checkpoint-47047",
+    "logging_dir":"/home/ting/code/ehr_deidentification/chpt_addi2b2/formal_roberta-large_allsplit_lower_continue/log",
+    "overwrite_output_dir":false,
+    "do_train":false,
+    "do_eval":true,
+    "do_predict":true,
+    "report_to":["tensorboard"],
+    "per_device_train_batch_size":0,
+    "per_device_eval_batch_size":8,
+    "logging_steps":1000,
+    "evaluation_strategy":"steps",
+    "eval_steps":4000
+   }
+   

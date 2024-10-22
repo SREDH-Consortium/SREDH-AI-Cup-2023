@@ -1,0 +1,27 @@
+{
+    "post_process":"argmax",
+    "threshold": null,
+    "model_name_or_path":"chpt_addi2b2/formal_roberta-large_allsplit_lower_continue/output/checkpoint-67210",
+    "output_AI_cup_prediction_file":"formal_test_addi2b2/formal_all_split_lower_continue/predict_67210_epoch10_predict.txt",
+    "task_name":"ner",
+    "deid_strategy" : "ai_cup_i2b2",
+    "notation":"BILOU",
+    "ner_types":["DOCTOR", "DATE", "IDNUM", "MEDICALRECORD", "PATIENT", "HOSPITAL", "TIME", "DEPARTMENT", "CITY", "ZIP", "STREET", "STATE", "ORGANIZATION", "AGE", "DURATION", "SET", "PHONE", "LOCATION-OTHER", "COUNTRY", "URL", "ROOM", "USERNAME", "PROFESSION", "FAX", "DEVICE", "EMAIL", "BIOID", "HEALTHPLAN"],
+    "truncation":true,
+    "max_length":512,
+    "label_all_tokens":false,
+    "return_entity_level_metrics":true,
+    "text_column_name":"tokens",
+    "label_column_name":"labels",
+    "output_dir":"./run/models",
+    "logging_dir":"./run/logs",
+    "overwrite_output_dir":false,
+    "do_train":false,
+    "do_eval":false,
+    "do_predict":true,
+    "report_to":["tensorboard"],
+    "per_device_train_batch_size":0,
+    "per_device_eval_batch_size":1,
+    "logging_steps":1000
+   }
+   

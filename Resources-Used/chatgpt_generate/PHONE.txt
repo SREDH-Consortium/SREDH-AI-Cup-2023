@@ -1,0 +1,757 @@
+Phone: 9876 5432\tPHONE: 9876 5432
+Phone: 6543 2109\tPHONE: 6543 2109
+Phone: 8765 4321\tPHONE: 8765 4321
+Phone: 3210 9876\tPHONE: 3210 9876
+Phone: 4567 8901\tPHONE: 4567 8901
+Phone: 7890 1234\tPHONE: 7890 1234
+Phone: 2345 6789\tPHONE: 2345 6789
+Phone: 5678 9012\tPHONE: 5678 9012
+Phone: 3456 7890\tPHONE: 3456 7890
+Phone: 8901 2345\tPHONE: 8901 2345
+Phone: 1234 5678\tPHONE: 1234 5678
+Phone: 6543 2109\tPHONE: 6543 2109
+Phone: 8765 4321\tPHONE: 8765 4321
+Phone: 3210 9876\tPHONE: 3210 9876
+Phone: 4567 8901\tPHONE: 4567 8901
+Phone: 7890 1234\tPHONE: 7890 1234
+Phone: 2345 6789\tPHONE: 2345 6789
+Phone: 5678 9012\tPHONE: 5678 9012
+Phone: 3456 7890\tPHONE: 3456 7890
+Phone: 8901 2345\tPHONE: 8901 2345
+Phone: 1234 5678\tPHONE: 1234 5678
+Phone: 6543 2109\tPHONE: 6543 2109
+Phone: 8765 4321\tPHONE: 8765 4321
+Phone: 3210 9876\tPHONE: 3210 9876
+Phone: 4567 8901\tPHONE: 4567 8901
+Phone: 7890 1234\tPHONE: 7890 1234
+Phone: 2345 6789\tPHONE: 2345 6789
+Phone: 5678 9012\tPHONE: 5678 9012
+Phone: 3456 7890\tPHONE: 3456 7890
+Phone: 8901 2345\tPHONE: 8901 2345
+Phone: 1234 5678\tPHONE: 1234 5678
+Phone: 6543 2109\tPHONE: 6543 2109
+Phone: 8765 4321\tPHONE: 8765 4321
+Phone: 3210 9876\tPHONE: 3210 9876
+Phone: 4567 8901\tPHONE: 4567 8901
+Phone: 7890 1234\tPHONE: 7890 1234
+Phone: 2345 6789\tPHONE: 2345 6789
+Phone: 5678 9012\tPHONE: 5678 9012
+Phone: 3456 7890\tPHONE: 3456 7890
+Phone: 8901 2345\tPHONE: 8901 2345
+Phone: 1234 5678\tPHONE: 1234 5678
+Phone: 6543 2109\tPHONE: 6543 2109
+Phone: 8765 4321\tPHONE: 8765 4321
+Phone: 3210 9876\tPHONE: 3210 9876
+Phone: 4567 8901\tPHONE: 4567 8901
+Phone: 7890 1234\tPHONE: 7890 1234
+Phone: 2345 6789\tPHONE: 2345 6789
+Phone: 5678 9012\tPHONE: 5678 9012
+Phone: 3456 7890\tPHONE: 3456 7890
+Phone: 8901 2345\tPHONE: 8901 2345
+Phone: 4567 8901\tPHONE: 4567 8901
+Phone: 1234 5678\tPHONE: 1234 5678
+Phone: 9876 5432\tPHONE: 9876 5432
+Phone: 1111 2222\tPHONE: 1111 2222
+Phone: 3333 4444\tPHONE: 3333 4444
+Phone: 5555 6666\tPHONE: 5555 6666
+Phone: 7777 8888\tPHONE: 7777 8888
+Phone: 9999 0000\tPHONE: 9999 0000
+Phone: 1357 2468\tPHONE: 1357 2468
+Phone: 9876 5432\tPHONE: 9876 5432
+Phone: 1111 2222\tPHONE: 1111 2222
+Phone: 3333 4444\tPHONE: 3333 4444
+Phone: 5555 6666\tPHONE: 5555 6666
+Phone: 7777 8888\tPHONE: 7777 8888
+Phone: 9999 0000\tPHONE: 9999 0000
+Phone: 1357 2468\tPHONE: 1357 2468
+Phone: 9876 5432\tPHONE: 9876 5432
+Phone: 1111 2222\tPHONE: 1111 2222
+Phone: 3333 4444\tPHONE: 3333 4444
+Phone: 5555 6666\tPHONE: 5555 6666
+Phone: 7777 8888\tPHONE: 7777 8888
+Phone: 9999 0000\tPHONE: 9999 0000
+Phone: 1357 2468\tPHONE: 1357 2468
+Phone: 9876 5432\tPHONE: 9876 5432
+Phone: 1111 2222\tPHONE: 1111 2222
+Phone: 3333 4444\tPHONE: 3333 4444
+Phone: 5555 6666\tPHONE: 5555 6666
+Phone: 7777 8888\tPHONE: 7777 8888
+Phone: 9999 0000\tPHONE: 9999 0000
+Phone: 1357 2468\tPHONE: 1357 2468
+Phone: 9876 5432\tPHONE: 9876 5432
+Phone: 1111 2222\tPHONE: 1111 2222
+Phone: 3333 4444\tPHONE: 3333 4444
+Phone: 5555 6666\tPHONE: 5555 6666
+Phone: 7777 8888\tPHONE: 7777 8888
+Phone: 9999 0000\tPHONE: 9999 0000
+Phone: 1357 2468\tPHONE: 1357 2468
+Phone: 9876 5432\tPHONE: 9876 5432
+Phone: 1111 2222\tPHONE: 1111 2222
+Phone: 3333 4444\tPHONE: 3333 4444
+Phone: 5555 6666\tPHONE: 5555 6666
+Phone: 7777 8888\tPHONE: 7777 8888
+Phone: 9999 0000\tPHONE: 9999 0000
+Phone: 1357 2468\tPHONE: 1357 2468
+Phone: 9876 5432\tPHONE: 9876 5432
+Phone: 1111 2222\tPHONE: 1111 2222
+Phone: 3333 4444\tPHONE: 3333 4444
+Phone: 5555 6666\tPHONE: 5555 6666
+Phone: 7777 8888\tPHONE: 7777 8888
+Phone: 9999 0000\tPHONE: 9999 0000
+
+Please advise laboratory (1111 2222) should interphase FISH be of assistance in this case.\tPHONE: 1111 2222
+Should interphase FISH be of assistance in this case, please advise laboratory (3333 4444).\tPHONE: 3333 4444
+If interphase FISH is required for assistance, please inform laboratory (5555 6666).\tPHONE: 5555 6666
+Kindly notify laboratory (7777 8888) if interphase FISH is needed in this case.\tPHONE: 7777 8888
+Please advise laboratory (9999 0000) if interphase FISH be of assistance in this case.\tPHONE: 9999 0000
+Notify laboratory (1234 5678) if interphase FISH is required for assistance.\tPHONE: 1234 5678
+If interphase FISH is needed for assistance, please inform laboratory (2345 6789).\tPHONE: 2345 6789
+Kindly notify laboratory (3456 7890) if interphase FISH be of assistance in this case.\tPHONE: 3456 7890
+Should interphase FISH be of assistance, please advise laboratory (4567 8901).\tPHONE: 4567 8901
+Please advise laboratory (5678 9012) if interphase FISH is required for assistance.\tPHONE: 5678 9012
+If interphase FISH is needed, please inform laboratory (6789 0123).\tPHONE: 6789 0123
+Kindly notify laboratory (7890 1234) if interphase FISH be of assistance.\tPHONE: 7890 1234
+Should interphase FISH be of assistance, please advise laboratory (8901 2345).\tPHONE: 8901 2345
+Please advise laboratory (9012 3456) if interphase FISH is required for assistance.\tPHONE: 9012 3456
+If interphase FISH is required, please inform laboratory (0123 4567).\tPHONE: 0123 4567
+Kindly notify laboratory (9876 5432) if interphase FISH be of assistance in this case.\tPHONE: 9876 5432
+Should interphase FISH be of assistance in this case, please advise laboratory (8765 4321).\tPHONE: 8765 4321
+If interphase FISH is needed for assistance, please inform laboratory (7654 3210).\tPHONE: 7654 3210
+Kindly notify laboratory (6543 2109) if interphase FISH be of assistance in this case.\tPHONE: 6543 2109
+Please advise laboratory (5432 1098) if interphase FISH be of assistance.\tPHONE: 5432 1098
+Should interphase FISH be of assistance, please advise laboratory (4321 0987).\tPHONE: 4321 0987
+If interphase FISH is required for assistance, please inform laboratory (3210 9876).\tPHONE: 3210 9876
+Kindly notify laboratory (2109 8765) if interphase FISH is needed in this case.\tPHONE: 2109 8765
+Please advise laboratory (1098 7654) if interphase FISH be of assistance.\tPHONE: 1098 7654
+If interphase FISH is required, please inform laboratory (0987 6543).\tPHONE: 0987 6543
+Kindly notify laboratory (8765 4321) if interphase FISH be of assistance in this case.\tPHONE: 8765 4321
+Should interphase FISH be of assistance in this case, please advise laboratory (7654 3210).\tPHONE: 7654 3210
+If interphase FISH is needed for assistance, please inform laboratory (6543 2109).\tPHONE: 6543 2109
+Please advise laboratory (5432 1098) if interphase FISH be of assistance.\tPHONE: 5432 1098
+Should interphase FISH be of assistance, please advise laboratory (4321 0987).\tPHONE: 4321 0987
+If interphase FISH is required for assistance, please inform laboratory (3210 9876).\tPHONE: 3210 9876
+Kindly notify laboratory (2109 8765) if interphase FISH is needed in this case.\tPHONE: 2109 8765
+Please advise laboratory (1098 7654) if interphase FISH be of assistance.\tPHONE: 1098 7654
+If interphase FISH is required, please inform laboratory (0987 6543).\tPHONE: 0987 6543
+Kindly notify laboratory (8765 4321) if interphase FISH be of assistance in this case.\tPHONE: 8765 4321
+Should interphase FISH be of assistance in this case, please advise laboratory (7654 3210).\tPHONE: 7654 3210
+If interphase FISH is needed for assistance, please inform laboratory (6543 2109).\tPHONE: 6543 2109
+Please advise laboratory (5432 1098) if interphase FISH be of assistance.\tPHONE: 5432 1098
+Should interphase FISH be of assistance, please advise laboratory (4321 0987).\tPHONE: 4321 0987
+If interphase FISH is required for assistance, please inform laboratory (3210 9876).\tPHONE: 3210 9876
+Kindly notify laboratory (2109 8765) if interphase FISH is needed in this case.\tPHONE: 2109 8765
+Please advise laboratory (1098 7654) if interphase FISH be of assistance.\tPHONE: 1098 7654
+If interphase FISH is required, please inform laboratory (0987 6543).\tPHONE: 0987 6543
+Kindly notify laboratory (8765 4321) if interphase FISH be of assistance in this case.\tPHONE: 8765 4321
+Should interphase FISH be of assistance in this case, please advise laboratory (7654 3210).\tPHONE: 7654 3210
+If interphase FISH is needed for assistance, please inform laboratory (6543 2109).\tPHONE: 6543 2109
+Please advise laboratory (5432 1098) if interphase FISH be of assistance.\tPHONE: 5432 1098
+Should interphase FISH be of assistance, please advise laboratory (4321 0987).\tPHONE: 4321 0987
+If interphase FISH is required for assistance, please inform laboratory (3210 9876).\tPHONE: 3210 9876
+Kindly notify laboratory (2109 8765) if interphase FISH is needed in this case.\tPHONE: 2109 8765
+Please advise laboratory (1111 2222) should interphase FISH be of assistance in this case.\tPHONE: 1111 2222
+Should interphase FISH be of assistance in this case, please advise the laboratory (3333 4444).\tPHONE: 3333 4444
+Please inform the laboratory (5555 6666) if interphase FISH is needed for this case.\tPHONE: 5555 6666
+Kindly notify the laboratory (7777 8888) if interphase FISH would be beneficial in this instance.\tPHONE: 7777 8888
+Please advise laboratory (9999 0000) should interphase FISH be of assistance in this case.\tPHONE: 9999 0000
+Should interphase FISH be of assistance in this case, please advise the laboratory (1234 5678).\tPHONE: 1234 5678
+Please inform the laboratory (2468 1357) if interphase FISH is needed for this case.\tPHONE: 2468 1357
+Kindly notify the laboratory (8765 4321) if interphase FISH would be beneficial in this instance.\tPHONE: 8765 4321
+Please advise laboratory (1122 3344) should interphase FISH be of assistance in this case.\tPHONE: 1122 3344
+Should interphase FISH be of assistance in this case, please advise the laboratory (5566 7788).\tPHONE: 5566 7788
+Please inform the laboratory (9900 0011) if interphase FISH is needed for this case.\tPHONE: 9900 0011
+Kindly notify the laboratory (2233 4455) if interphase FISH would be beneficial in this instance.\tPHONE: 2233 4455
+Please advise laboratory (6677 8899) should interphase FISH be of assistance in this case.\tPHONE: 6677 8899
+Should interphase FISH be of assistance in this case, please advise the laboratory (1122 3344).\tPHONE: 1122 3344
+Please inform the laboratory (5566 7788) if interphase FISH is needed for this case.\tPHONE: 5566 7788
+Kindly notify the laboratory (9900 0011) if interphase FISH would be beneficial in this instance.\tPHONE: 9900 0011
+Please advise laboratory (2233 4455) should interphase FISH be of assistance in this case.\tPHONE: 2233 4455
+Should interphase FISH be of assistance in this case, please advise the laboratory (6677 8899).\tPHONE: 6677 8899
+Please inform the laboratory (1122 3344) if interphase FISH is needed for this case.\tPHONE: 1122 3344
+Kindly notify the laboratory (5566 7788) if interphase FISH would be beneficial in this instance.\tPHONE: 5566 7788
+Please advise laboratory (9900 0011) should interphase FISH be of assistance in this case.\tPHONE: 9900 0011
+Should interphase FISH be of assistance in this case, please advise the laboratory (2233 4455).\tPHONE: 2233 4455
+Please inform the laboratory (6677 8899) if interphase FISH is needed for this case.\tPHONE: 6677 8899
+Kindly notify the laboratory (1122 3344) if interphase FISH would be beneficial in this instance.\tPHONE: 1122 3344
+Please advise laboratory (5566 7788) should interphase FISH be of assistance in this case.\tPHONE: 5566 7788
+Should interphase FISH be of assistance in this case, please advise the laboratory (9900 0011).\tPHONE: 9900 0011
+Please inform the laboratory (2233 4455) if interphase FISH is needed for this case.\tPHONE: 2233 4455
+Kindly notify the laboratory (6677 8899) if interphase FISH would be beneficial in this instance.\tPHONE: 6677 8899
+Please advise laboratory (1122 3344) should interphase FISH be of assistance in this case.\tPHONE: 1122 3344
+Should interphase FISH be of assistance in this case, please advise the laboratory (5566 7788).\tPHONE: 5566 7788
+Please inform the laboratory (9900 0011) if interphase FISH is needed for this case.\tPHONE: 9900 0011
+Kindly notify the laboratory (2233 4455) if interphase FISH would be beneficial in this instance.\tPHONE: 2233 4455
+Please advise laboratory (6677 8899) should interphase FISH be of assistance in this case.\tPHONE: 6677 8899
+Should interphase FISH be of assistance in this case, please advise the laboratory (1122 3344).\tPHONE: 1122 3344
+Please inform the laboratory (5566 7788) if interphase FISH is needed for this case.\tPHONE: 5566 7788
+Kindly notify the laboratory (9900 0011) if interphase FISH would be beneficial in this instance.\tPHONE: 9900 0011
+Please advise laboratory (2233 4455) should interphase FISH be of assistance in this case.\tPHONE: 2233 4455
+Should interphase FISH be of assistance in this case, please advise the laboratory (6677 8899).\tPHONE: 6677 8899
+Please inform the laboratory (1122 3344) if interphase FISH is needed for this case.\tPHONE: 1122 3344
+Kindly notify the laboratory (5566 7788) if interphase FISH would be beneficial in this instance.\tPHONE: 5566 7788
+Please advise laboratory (9900 0011) should interphase FISH be of assistance in this case.\tPHONE: 9900 0011
+Should interphase FISH be of assistance in this case, please advise the laboratory (2233 4455).\tPHONE: 2233 4455
+Please inform the laboratory (6677 8899) if interphase FISH is needed for this case.\tPHONE: 6677 8899
+Kindly notify the laboratory (1122 3344) if interphase FISH would be beneficial in this instance.\tPHONE: 1122 3344
+Please advise laboratory (5566 7788) should interphase FISH be of assistance in this case.\tPHONE: 5566 7788
+Should interphase FISH be of assistance in this case, please advise the laboratory (9900 0011).\tPHONE: 9900 0011
+Please inform the laboratory (2233 4455) if interphase FISH is needed for this case.\tPHONE: 2233 4455
+Kindly notify the laboratory (6677 8899) if interphase FISH would be beneficial in this instance.\tPHONE: 6677 8899
+Please advise laboratory (1122 3344) should interphase FISH be of assistance in this case.\tPHONE: 1122 3344
+Should interphase FISH be of assistance in this case, please advise the laboratory (5566 7788).\tPHONE: 5566 7788
+Please inform the laboratory (9900 0011) if interphase FISH is needed for this case.\tPHONE: 9900 0011
+Kindly notify the laboratory (2233 4455) if interphase FISH would be beneficial in this instance.\tPHONE: 2233 4455
+Please advise laboratory (6677 8899) should interphase FISH be of assistance in this case.\tPHONE: 6677 8899
+Should interphase FISH be of assistance in this case, please advise the laboratory (1122 3344).\tPHONE: 1122 3344
+Please inform the laboratory (5566 7788) if interphase FISH is needed for this case.\tPHONE: 5566 7788
+Kindly notify the laboratory (9900 0011) if interphase FISH would be beneficial in this instance.\tPHONE: 9900 0011
+Please advise laboratory (2233 4455) should interphase FISH be of assistance in this case.\tPHONE: 2233 4455
+Should interphase FISH be of assistance in this case, please advise the laboratory (6677 8899).\tPHONE: 6677 8899
+Please inform the laboratory (1122 3344) if interphase FISH is needed for this case.\tPHONE: 1122 3344
+Kindly notify the laboratory (5566 7788) if interphase FISH would be beneficial in this instance.\tPHONE: 5566 7788
+Please advise laboratory (9900 0011) should interphase FISH be of assistance in this case.\tPHONE: 9900 0011
+Should interphase FISH be of assistance in this case, please advise the laboratory (2233 4455).\tPHONE: 2233 4455
+Please inform the laboratory (6677 8899) if interphase FISH is needed for this case.\tPHONE: 6677 8899
+Kindly notify the laboratory (1122 3344) if interphase FISH would be beneficial in this instance.\tPHONE: 1122 3344
+Please advise laboratory (5566 7788) should interphase FISH be of assistance in this case.\tPHONE: 5566 7788
+Should interphase FISH be of assistance in this case, please advise the laboratory (9900 0011).\tPHONE: 9900 0011
+Please inform the laboratory (2233 4455) if interphase FISH is needed for this case.\tPHONE: 2233 4455
+Kindly notify the laboratory (6677 8899) if interphase FISH would be beneficial in this instance.\tPHONE: 6677 8899
+Please advise laboratory (1122 3344) should interphase FISH be of assistance in this case.\tPHONE: 1122 3344
+Should interphase FISH be of assistance in this case, please advise the laboratory (5566 7788).\tPHONE: 5566 7788
+Please inform the laboratory (9900 0011) if interphase FISH is needed for this case.\tPHONE: 9900 0011
+Kindly notify the laboratory (2233 4455) if interphase FISH would be beneficial in this instance.\tPHONE: 2233 4455
+Please advise laboratory (6677 8899) should interphase FISH be of assistance in this case.\tPHONE: 6677 8899
+Should interphase FISH be of assistance in this case, please advise the laboratory (1122 3344).\tPHONE: 1122 3344
+Please inform the laboratory (5566 7788) if interphase FISH is needed for this case.\tPHONE: 5566 7788
+Kindly notify the laboratory (9900 0011) if interphase FISH would be beneficial in this instance.\tPHONE: 9900 0011
+Please advise laboratory (2233 4455) should interphase FISH be of assistance in this case.\tPHONE: 2233 4455
+Should interphase FISH be of assistance in this case, please advise the laboratory (6677 8899).\tPHONE: 6677 8899
+Please inform the laboratory (1122 3344) if interphase FISH is needed for this case.\tPHONE: 1122 3344
+Kindly notify the laboratory (5566 7788) if interphase FISH would be beneficial in this instance.\tPHONE: 5566 7788
+Please advise laboratory (9900 0011) should interphase FISH be of assistance in this case.\tPHONE: 9900 0011
+Should interphase FISH be of assistance in this case, please advise the laboratory (2233 4455).\tPHONE: 2233 4455
+Please inform the laboratory (6677 8899) if interphase FISH is needed for this case.\tPHONE: 6677 8899
+Kindly notify the laboratory (1122 3344) if interphase FISH would be beneficial in this instance.\tPHONE: 1122 3344
+Please advise laboratory (5566 7788) should interphase FISH be of assistance in this case.\tPHONE: 5566 7788
+Should interphase FISH be of assistance in this case, please advise the laboratory (9900 0011).\tPHONE: 9900 0011
+Please inform the laboratory (2233 4455) if interphase FISH is needed for this case.\tPHONE: 2233 4455
+Kindly notify the laboratory (6677 8899) if interphase FISH would be beneficial in this instance.\tPHONE: 6677 8899
+
+
+Phone: 06-6666-7890\tPHONE: 06-6666-7890
+Phone: 07-7777-8901\tPHONE: 07-7777-8901
+Phone: 08-8888-9012\tPHONE: 08-8888-9012
+Phone: 09-9999-0123\tPHONE: 09-9999-0123
+Phone: 02-1111-2345\tPHONE: 02-1111-2345
+Phone: 03-2222-3456\tPHONE: 03-2222-3456
+Phone: 04-3333-4567\tPHONE: 04-3333-4567
+Phone: 05-4444-5678\tPHONE: 05-4444-5678
+Phone: 06-5555-6789\tPHONE: 06-5555-6789
+Phone: 07-6666-7890\tPHONE: 07-6666-7890
+Phone: 08-7777-8901\tPHONE: 08-7777-8901
+Phone: 09-8888-9012\tPHONE: 09-8888-9012
+Phone: 02-9999-0123\tPHONE: 02-9999-0123
+Phone: 03-1111-2345\tPHONE: 03-1111-2345
+Phone: 04-2222-3456\tPHONE: 04-2222-3456
+Phone: 05-3333-4567\tPHONE: 05-3333-4567
+Phone: 06-4444-5678\tPHONE: 06-4444-5678
+Phone: 07-5555-6789\tPHONE: 07-5555-6789
+Phone: 08-6666-7890\tPHONE: 08-6666-7890
+Phone: 09-7777-8901\tPHONE: 09-7777-8901
+Phone: 02-8888-9012\tPHONE: 02-8888-9012
+Phone: 03-9999-0123\tPHONE: 03-9999-0123
+Phone: 04-1111-2345\tPHONE: 04-1111-2345
+Phone: 05-2222-3456\tPHONE: 05-2222-3456
+Phone: 06-3333-4567\tPHONE: 06-3333-4567
+Phone: 07-4444-5678\tPHONE: 07-4444-5678
+Phone: 08-5555-6789\tPHONE: 08-5555-6789
+Phone: 09-6666-7890\tPHONE: 09-6666-7890
+Phone: 02-7777-8901\tPHONE: 02-7777-8901
+Phone: 03-8888-9012\tPHONE: 03-8888-9012
+Phone: 04-9999-0123\tPHONE: 04-9999-0123
+Phone: 05-1111-2345\tPHONE: 05-1111-2345
+Phone: 06-2222-3456\tPHONE: 06-2222-3456
+Phone: 07-3333-4567\tPHONE: 07-3333-4567
+Phone: 08-4444-5678\tPHONE: 08-4444-5678
+Phone: 09-5555-6789\tPHONE: 09-5555-6789
+Phone: 02-6666-7890\tPHONE: 02-6666-7890
+Phone: 03-7777-8901\tPHONE: 03-7777-8901
+Phone: 04-8888-9012\tPHONE: 04-8888-9012
+Phone: 05-9999-0123\tPHONE: 05-9999-0123
+Phone: 06-1111-2345\tPHONE: 06-1111-2345
+Phone: 07-2222-3456\tPHONE: 07-2222-3456
+Phone: 08-3333-4567\tPHONE: 08-3333-4567
+Phone: 09-4444-5678\tPHONE: 09-4444-5678
+Phone: 02-5555-6789\tPHONE: 02-5555-6789
+Phone: 03-6666-7890\tPHONE: 03-6666-7890
+Phone: 04-7777-8901\tPHONE: 04-7777-8901
+Phone: 05-8888-9012\tPHONE: 05-8888-9012
+Phone: 06-9999-0123\tPHONE: 06-9999-0123
+Phone: 07-1111-2345\tPHONE: 07-1111-2345
+Phone: 08-2222-3456\tPHONE: 08-2222-3456
+Phone: 09-3333-4567\tPHONE: 09-3333-4567
+Phone: 02-4444-5678\tPHONE: 02-4444-5678
+Phone: 03-5555-6789\tPHONE: 03-5555-6789
+Phone: 04-6666-7890\tPHONE: 04-6666-7890
+Phone: 05-7777-8901\tPHONE: 05-7777-8901
+Phone: 06-8888-9012\tPHONE: 06-8888-9012
+Phone: 07-9999-0123\tPHONE: 07-9999-0123
+Phone: 08-1111-2345\tPHONE: 08-1111-2345
+Phone: 09-2222-3456\tPHONE: 09-2222-3456
+Phone: 02-3333-4567\tPHONE: 02-3333-4567
+Phone: 03-4444-5678\tPHONE: 03-4444-5678
+Phone: 04-5555-6789\tPHONE: 04-5555-6789
+Phone: 05-6666-7890\tPHONE: 05-6666-7890
+Phone: 06-7777-8901\tPHONE: 06-7777-8901
+Phone: 07-8888-9012\tPHONE: 07-8888-9012
+Phone: 08-9999-0123\tPHONE: 08-9999-0123
+Phone: 09-1111-2345\tPHONE: 09-1111-2345
+Phone: 02-2222-3456\tPHONE: 02-2222-3456
+Phone: 03-3333-4567\tPHONE: 03-3333-4567
+Phone: 04-4444-5678\tPHONE: 04-4444-5678
+Phone: 05-5555-6789\tPHONE: 05-5555-6789
+Phone: 06-6666-7890\tPHONE: 06-6666-7890
+Phone: 07-7777-8901\tPHONE: 07-7777-8901
+Phone: 08-8888-9012\tPHONE: 08-8888-9012
+Phone: 09-9999-0123\tPHONE: 09-9999-0123
+Phone: 02-1111-2345\tPHONE: 02-1111-2345
+Phone: 03-2222-3456\tPHONE: 03-2222-3456
+Phone: 04-3333-4567\tPHONE: 04-3333-4567
+Phone: 05-4444-5678\tPHONE: 05-4444-5678
+Phone: 06-5555-6789\tPHONE: 06-5555-6789
+Phone: 07-6666-7890\tPHONE: 07-6666-7890
+Phone: 08-7777-8901\tPHONE: 08-7777-8901
+Phone: 09-8888-9012\tPHONE: 09-8888-9012
+Phone: 02-9999-0123\tPHONE: 02-9999-0123
+Phone: 03-1111-2345\tPHONE: 03-1111-2345
+Phone: 04-2222-3456\tPHONE: 04-2222-3456
+Phone: 02-1234-5678\tPHONE: 02-1234-5678
+
+Phone: 02-9876-5432\tPHONE: 02-9876-5432
+
+Phone: 02-4567-8901\tPHONE: 02-4567-8901
+
+Phone: 02-2345-6789\tPHONE: 02-2345-6789
+
+Phone: 02-8765-4321\tPHONE: 02-8765-4321
+
+Phone: 02-5432-1098\tPHONE: 02-5432-1098
+
+Phone: 02-2109-8765\tPHONE: 02-2109-8765
+
+Phone: 02-7890-1234\tPHONE: 02-7890-1234
+
+Phone: 02-3456-7890\tPHONE: 02-3456-7890
+
+Phone: 02-6543-2109\tPHONE: 02-6543-2109
+Phone: 02-5678-9012\tPHONE: 02-5678-9012
+
+Phone: 02-8901-2345\tPHONE: 02-8901-2345
+
+Phone: 02-3456-7890\tPHONE: 02-3456-7890
+
+Phone: 02-6789-0123\tPHONE: 02-6789-0123
+
+Phone: 02-9012-3456\tPHONE: 02-9012-3456
+
+Phone: 02-4321-0987\tPHONE: 02-4321-0987
+
+Phone: 02-7654-3210\tPHONE: 02-7654-3210
+
+Phone: 02-1098-7654\tPHONE: 02-1098-7654
+
+Phone: 02-2345-6789\tPHONE: 02-2345-6789
+
+Phone: 02-8765-4321\tPHONE: 02-8765-4321
+
+Phone: 02-5432-1098\tPHONE: 02-5432-1098
+
+Phone: 02-2109-8765\tPHONE: 02-2109-8765
+
+Phone: 02-7890-1234\tPHONE: 02-7890-1234
+
+Phone: 02-3456-7890\tPHONE: 02-3456-7890
+
+Phone: 02-6543-2109\tPHONE: 02-6543-2109
+
+Phone: 02-5678-9012\tPHONE: 02-5678-9012
+
+Phone: 02-8901-2345\tPHONE: 02-8901-2345
+
+Phone: 02-3456-7890\tPHONE: 02-3456-7890
+
+Phone: 02-6789-0123\tPHONE: 02-6789-0123
+
+Phone: 02-9012-3456\tPHONE: 02-9012-3456
+
+Phone: 02-4321-0987\tPHONE: 02-4321-0987
+
+Phone: 02-7654-3210\tPHONE: 02-7654-3210
+
+Phone: 02-1098-7654\tPHONE: 02-1098-7654
+
+Phone: 02-2345-6789\tPHONE: 02-2345-6789
+
+Phone: 02-8765-4321\tPHONE: 02-8765-4321
+
+Phone: 02-5432-1098\tPHONE: 02-5432-1098
+
+Phone: 02-2109-8765\tPHONE: 02-2109-8765
+
+Phone: 02-7890-1234\tPHONE: 02-7890-1234
+
+Phone: 02-3456-7890\tPHONE: 02-3456-7890
+
+Phone: 02-6543-2109\tPHONE: 02-6543-2109
+
+Phone: 02-5678-9012\tPHONE: 02-5678-9012
+
+Phone: 02-8901-2345\tPHONE: 02-8901-2345
+
+Phone: 02-3456-7890\tPHONE: 02-3456-7890
+
+Phone: 02-6789-0123\tPHONE: 02-6789-0123
+
+Phone: 02-9012-3456\tPHONE: 02-9012-3456
+
+Phone: 02-4321-0987\tPHONE: 02-4321-0987
+
+Phone: 02-7654-3210\tPHONE: 02-7654-3210
+
+Phone: 02-1098-7654\tPHONE: 02-1098-7654
+
+Phone: 02-2345-6789\tPHONE: 02-2345-6789
+
+Phone: 02-8765-4321\tPHONE: 02-8765-4321
+All 11 cells examined showed the 12;16 translocation typically seen in myxoid liposarcoma, resulting in DDIT3-FUS fusion and negative regulation of adipocyte function (Knight JC et al. Cancer Res (1995); 55:24-27). Trisomy 8 was also seen. Advise the Laboratory (12345678) should confirmatory FISH on paraffin-embedded tissue for DDIT3 and FUS rearrangement be required.\tPHONE: 12345678
+All 11 specimens analyzed displayed the 12;16 translocation characteristic of myxoid liposarcoma, leading to DDIT3-FUS fusion and the negative regulation of adipocyte function (Knight JC et al. Cancer Res (1995); 55:24-27). Trisomy 8 was also identified. Advise the Laboratory (23456781) to perform confirmatory FISH on paraffin-embedded tissue for DDIT3 and FUS rearrangement if required.\tPHONE: 23456781
+
+All 11 tissues examined revealed the 12;16 translocation characteristic of myxoid liposarcoma, leading to DDIT3-FUS fusion and the negative regulation of adipocyte function (Knight JC et al. Cancer Res (1995); 55:24-27). Trisomy 8 was also detected. Advise the Laboratory (34567812) to conduct confirmatory FISH on paraffin-embedded tissue for DDIT3 and FUS rearrangement if needed.\tPHONE: 34567812
+
+All 11 specimens examined demonstrated the 12;16 translocation typically associated with myxoid liposarcoma, resulting in DDIT3-FUS fusion and the negative regulation of adipocyte function (Knight JC et al. Cancer Res (1995); 55:24-27). Trisomy 8 was also present. Advise the Laboratory (45678123) to perform confirmatory FISH on paraffin-embedded tissue for DDIT3 and FUS rearrangement if necessary.\tPHONE: 45678123
+
+All 11 samples analyzed displayed the 12;16 translocation commonly seen in myxoid liposarcoma, leading to DDIT3-FUS fusion and the negative modulation of adipocyte function (Knight JC et al. Cancer Res (1995); 55:24-27). Trisomy 8 was additionally observed. Advise the Laboratory (56781234) should confirmatory FISH on paraffin-embedded tissue for DDIT3 and FUS rearrangement be necessary.\tPHONE: 56781234
+
+All 11 cells analyzed exhibited the 12;16 translocation characteristic of myxoid liposarcoma, resulting in DDIT3-FUS fusion and negative regulation of adipocyte function (Knight JC et al. Cancer Res (1995); 55:24-27). Trisomy 8 was also observed. Advise the Laboratory (67891234) should confirmatory FISH on paraffin-embedded tissue for DDIT3 and FUS rearrangement be necessary.\tPHONE: 67891234
+
+All 11 specimens examined showed the 12;16 translocation typically seen in myxoid liposarcoma, leading to DDIT3-FUS fusion and the negative regulation of adipocyte function (Knight JC et al. Cancer Res (1995); 55:24-27). Trisomy 8 was also seen. Advise the Laboratory (78912345) to perform confirmatory FISH on paraffin-embedded tissue for DDIT3 and FUS rearrangement if required.\tPHONE: 78912345
+
+All 11 tissues analyzed revealed the 12;16 translocation characteristic of myxoid liposarcoma, resulting in DDIT3-FUS fusion and the negative regulation of adipocyte function (Knight JC et al. Cancer Res (1995); 55:24-27). Trisomy 8 was also detected. Advise the Laboratory (89123456) to conduct confirmatory FISH on paraffin-embedded tissue for DDIT3 and FUS rearrangement if needed.\tPHONE: 89123456
+
+All 11 specimens examined demonstrated the 12;16 translocation typically associated with myxoid liposarcoma, resulting in DDIT3-FUS fusion and the negative regulation of adipocyte function (Knight JC et al. Cancer Res (1995); 55:24-27). Trisomy 8 was also present. Advise the Laboratory (91234567) to perform confirmatory FISH on paraffin-embedded tissue for DDIT3 and FUS rearrangement if necessary.\tPHONE: 91234567
+
+All 11 samples analyzed displayed the 12;16 translocation commonly seen in myxoid liposarcoma, leading to DDIT3-FUS fusion and the negative modulation of adipocyte function (Knight JC et al. Cancer Res (1995); 55:24-27). Trisomy 8 was additionally observed. Advise the Laboratory (12345678) should confirmatory FISH on paraffin-embedded tissue for DDIT3 and FUS rearrangement be necessary.\tPHONE: 12345678
+
+All 11 cells examined showed the 12;16 translocation typically seen in myxoid liposarcoma, resulting in DDIT3-FUS fusion and negative regulation of adipocyte function (Knight JC et al. Cancer Res (1995); 55:24-27). Trisomy 8 was also seen. Advise the Laboratory (23456789) to perform confirmatory FISH on paraffin-embedded tissue for DDIT3 and FUS rearrangement if required.\tPHONE: 23456789
+
+All 11 specimens analyzed displayed the 12;16 translocation characteristic of myxoid liposarcoma, leading to DDIT3-FUS fusion and the negative regulation of adipocyte function (Knight JC et al. Cancer Res (1995); 55:24-27). Trisomy 8 was also identified. Advise the Laboratory (34567890) should confirmatory FISH on paraffin-embedded tissue for DDIT3 and FUS rearrangement be necessary.\tPHONE: 34567890
+
+All 11 tissues examined revealed the 12;16 translocation characteristic of myxoid liposarcoma, resulting in DDIT3-FUS fusion and the negative regulation of adipocyte function (Knight JC et al. Cancer Res (1995); 55:24-27). Trisomy 8 was also detected. Advise the Laboratory (45678901) to conduct confirmatory FISH on paraffin-embedded tissue for DDIT3 and FUS rearrangement if needed.\tPHONE: 45678901
+
+All 11 specimens examined demonstrated the 12;16 translocation typically associated with myxoid liposarcoma, resulting in DDIT3-FUS fusion and the negative regulation of adipocyte function (Knight JC et al. Cancer Res (1995); 55:24-27). Trisomy 8 was also present. Advise the Laboratory (56789012) to perform confirmatory FISH on paraffin-embedded tissue for DDIT3 and FUS rearrangement if necessary.\tPHONE: 56789012
+
+No evidence of mitoses for examination. Please advise the laboratory (12345678) should interphase FISH on paraffin-embedded tissue be of assistance in this case.\tPHONE: 12345678
+
+Absence of mitotic activity available for analysis. Please advise the laboratory (23456789) should interphase FISH on paraffin-embedded tissue be of assistance in this case.\tPHONE: 23456789
+
+No mitoses detected for analysis. Please advise the laboratory (34567890) should interphase FISH on paraffin-embedded tissue be of assistance in this case.\tPHONE: 34567890
+
+Mitotic figures not present for examination. Please advise the laboratory (45678901) should interphase FISH on paraffin-embedded tissue be of assistance in this case.\tPHONE: 45678901
+
+No mitoses available for review. Please advise the laboratory (56789012) should interphase FISH on paraffin-embedded tissue be of assistance in this case.\tPHONE: 56789012
+
+Absence of mitotic activity observed for analysis. Please advise the laboratory (67890123) should interphase FISH on paraffin-embedded tissue be of assistance in this case.\tPHONE: 67890123
+
+No mitoses detected for examination. Please advise the laboratory (78901234) should interphase FISH on paraffin-embedded tissue be of assistance in this case.\tPHONE: 78901234
+
+Mitotic figures not present for analysis. Please advise the laboratory (89012345) should interphase FISH on paraffin-embedded tissue be of assistance in this case.\tPHONE: 89012345
+
+No mitoses available for review. Please advise the laboratory (90123456) should interphase FISH on paraffin-embedded tissue be of assistance in this case.\tPHONE: 90123456
+
+Absence of mitotic activity observed for analysis. Please advise the laboratory (12345678) should interphase FISH on paraffin-embedded tissue be of assistance in this case.\tPHONE: 12345678
+No mitotic figures identified for examination. Please advise the laboratory (23456789) should interphase FISH on paraffin-embedded tissue be of assistance in this case.\tPHONE: 23456789
+
+Absence of mitotic activity available for analysis. Please advise the laboratory (34567890) should interphase FISH on paraffin-embedded tissue be of assistance in this case.\tPHONE: 34567890
+
+No mitoses observed for examination. Please advise the laboratory (45678901) should interphase FISH on paraffin-embedded tissue be of assistance in this case.\tPHONE: 45678901
+
+Mitotic figures not present for analysis. Please advise the laboratory (56789012) should interphase FISH on paraffin-embedded tissue be of assistance in this case.\tPHONE: 56789012
+
+No mitotic activity available for review. Please advise the laboratory (67890123) should interphase FISH on paraffin-embedded tissue be of assistance in this case.\tPHONE: 67890123
+
+Absence of mitotic figures identified for analysis. Please advise the laboratory (78901234) should interphase FISH on paraffin-embedded tissue be of assistance in this case.\tPHONE: 78901234
+
+No mitotic activity observed for examination. Please advise the laboratory (89012345) should interphase FISH on paraffin-embedded tissue be of assistance in this case.\tPHONE: 89012345
+
+Mitotic figures not present for analysis. Please advise the laboratory (90123456) should interphase FISH on paraffin-embedded tissue be of assistance in this case.\tPHONE: 90123456
+
+No mitoses identified for review. Please advise the laboratory (23456789) should interphase FISH on paraffin-embedded tissue be of assistance in this case.\tPHONE: 23456789
+
+Absence of mitotic activity available for analysis. Please advise the laboratory (34567890) should interphase FISH on paraffin-embedded tissue be of assistance in this case.\tPHONE: 34567890
+
+Regrettably, no mitotic figures were available for cytogenetic analysis. Please advise the laboratory (12345678) should interphase FISH be of assistance in this case.\tPHONE: 12345678
+
+Unfortunately, no mitoses were available for cytogenetic analysis. Please advise the laboratory (23456789) should interphase FISH be of assistance in this case.\tPHONE: 23456789
+
+Regrettably, no mitotic figures were available for cytogenetic analysis. Please advise the laboratory (34567890) should interphase FISH be of assistance in this case.\tPHONE: 34567890
+
+Unfortunately, no mitoses were available for cytogenetic analysis. Please advise the laboratory (45678901) should interphase FISH be of assistance in this case.\tPHONE: 45678901
+
+Regrettably, no mitotic figures were available for cytogenetic analysis. Please advise the laboratory (56789012) should interphase FISH be of assistance in this case.\tPHONE: 56789012
+
+Unfortunately, no mitoses were available for cytogenetic analysis. Please advise the laboratory (67890123) should interphase FISH be of assistance in this case.\tPHONE: 67890123
+
+Regrettably, no mitotic figures were available for cytogenetic analysis. Please advise the laboratory (78901234) should interphase FISH be of assistance in this case.\tPHONE: 78901234
+
+Unfortunately, no mitoses were available for cytogenetic analysis. Please advise the laboratory (89012345) should interphase FISH be of assistance in this case.\tPHONE: 89012345
+
+Regrettably, no mitotic figures were available for cytogenetic analysis. Please advise the laboratory (90123456) should interphase FISH be of assistance in this case.\tPHONE: 90123456
+
+Unfortunately, no mitoses were available for cytogenetic analysis. Please advise the laboratory (12345678) should interphase FISH be of assistance in this case.\tPHONE: 12345678
+
+Unfortunately, no mitotic figures were available for cytogenetic analysis. Please advise the laboratory (23456789) should interphase FISH be of assistance in this case.\tPHONE: 23456789
+
+Regrettably, no mitoses were available for cytogenetic analysis. Please advise the laboratory (34567890) should interphase FISH be of assistance in this case.\tPHONE: 34567890
+
+Unfortunately, no mitotic figures were available for cytogenetic analysis. Please advise the laboratory (45678901) should interphase FISH be of assistance in this case.\tPHONE: 45678901
+
+Regrettably, no mitoses were available for cytogenetic analysis. Please advise the laboratory (56789012) should interphase FISH be of assistance in this case.\tPHONE: 56789012
+
+Unfortunately, no mitotic figures were available for cytogenetic analysis. Please advise the laboratory (67890123) should interphase FISH be of assistance in this case.\tPHONE: 67890123
+
+Regrettably, no mitoses were available for cytogenetic analysis. Please advise the laboratory (78901234) should interphase FISH be of assistance in this case.\tPHONE: 78901234
+
+Unfortunately, no mitotic figures were available for cytogenetic analysis. Please advise the laboratory (89012345) should interphase FISH be of assistance in this case.\tPHONE: 89012345
+
+Regrettably, no mitoses were available for cytogenetic analysis. Please advise the laboratory (90123456) should interphase FISH be of assistance in this case.\tPHONE: 90123456
+
+Unfortunately, no mitotic figures were available for cytogenetic analysis. Please advise the laboratory (23456789) should interphase FISH be of assistance in this case.\tPHONE: 23456789
+
+Regrettably, no mitoses were available for cytogenetic analysis. Please advise the laboratory (34567890) should interphase FISH be of assistance in this case.\tPHONE: 34567890
+
+No mitotic figures identified for examination. Please advise the laboratory (12345678) should interphase FISH on paraffin-embedded tissue be of assistance in this case.\tPHONE: 12345678
+
+Absence of mitotic activity available for analysis. Please advise the laboratory (23456789) should interphase FISH on paraffin-embedded tissue be of assistance in this case.\tPHONE: 23456789
+
+No mitoses observed for examination. Please advise the laboratory (34567890) should interphase FISH on paraffin-embedded tissue be of assistance in this case.\tPHONE: 34567890
+
+Mitotic figures not present for analysis. Please advise the laboratory (45678901) should interphase FISH on paraffin-embedded tissue be of assistance in this case.\tPHONE: 45678901
+
+No mitotic activity available for review. Please advise the laboratory (56789012) should interphase FISH on paraffin-embedded tissue be of assistance in this case.\tPHONE: 56789012
+
+Absence of mitotic figures identified for analysis. Please advise the laboratory (67890123) should interphase FISH on paraffin-embedded tissue be of assistance in this case.\tPHONE: 67890123
+
+No mitotic activity observed for examination. Please advise the laboratory (78901234) should interphase FISH on paraffin-embedded tissue be of assistance in this case.\tPHONE: 78901234
+
+Mitotic figures not present for analysis. Please advise the laboratory (89012345) should interphase FISH on paraffin-embedded tissue be of assistance in this case.\tPHONE: 89012345
+
+No mitoses available for review. Please advise the laboratory (90123456) should interphase FISH on paraffin-embedded tissue be of assistance in this case.\tPHONE: 90123456
+
+Absence of mitotic activity observed for analysis. Please advise the laboratory (12345678) should interphase FISH on paraffin-embedded tissue be of assistance in this case.\tPHONE: 12345678
+
+Unfortunately, no mitotic figures were available for cytogenetic analysis. Please advise the laboratory (23456789) should interphase FISH be of assistance in this case.\tPHONE: 23456789
+
+Regrettably, no mitoses were available for cytogenetic analysis. Please advise the laboratory (34567890) should interphase FISH be of assistance in this case.\tPHONE: 34567890
+
+Unfortunately, no mitotic figures were available for cytogenetic analysis. Please advise the laboratory (45678901) should interphase FISH be of assistance in this case.\tPHONE: 45678901
+
+Regrettably, no mitoses were available for cytogenetic analysis. Please advise the laboratory (56789012) should interphase FISH be of assistance in this case.\tPHONE: 56789012
+
+Unfortunately, no mitotic figures were available for cytogenetic analysis. Please advise the laboratory (67890123) should interphase FISH be of assistance in this case.\tPHONE: 67890123
+
+Regrettably, no mitoses were available for cytogenetic analysis. Please advise the laboratory (78901234) should interphase FISH be of assistance in this case.\tPHONE: 78901234
+
+Unfortunately, no mitotic figures were available for cytogenetic analysis. Please advise the laboratory (89012345) should interphase FISH be of assistance in this case.\tPHONE: 89012345
+
+Regrettably, no mitoses were available for cytogenetic analysis. Please advise the laboratory (90123456) should interphase FISH be of assistance in this case.\tPHONE: 90123456
+
+Unfortunately, no mitotic figures were available for cytogenetic analysis. Please advise the laboratory (23456789) should interphase FISH be of assistance in this case.\tPHONE: 23456789
+
+Regrettably, no mitoses were available for cytogenetic analysis. Please advise the laboratory (34567890) should interphase FISH be of assistance in this case.\tPHONE: 34567890
+
+All 11 cells examined demonstrated the 14;18 translocation typically seen in follicular lymphoma, resulting in BCL2-IGH fusion and dysregulation of B-cell apoptosis (Smith A et al. Blood (2005); 106:1989-1995). Trisomy 12 was also observed. Advise the laboratory (12345678) should confirmatory FISH on paraffin-embedded tissue for BCL2 and IGH rearrangement be required"".\tPHONE: 12345678
+
+All 11 cells examined displayed the 3;21 translocation typically seen in acute myeloid leukemia, resulting in RUNX1-MDS1-EVI1 fusion and altered hematopoietic cell differentiation (Jones C et al. Nat Genet (2010); 42:722-726). Monosomy 7 was also detected. Advise the laboratory (23456789) should confirmatory FISH on paraffin-embedded tissue for RUNX1 and MDS1-EVI1 rearrangement be required"".\tPHONE: 23456789
+
+All 11 cells examined presented the 9;22 translocation typically seen in chronic myeloid leukemia, resulting in BCR-ABL1 fusion and constitutive activation of tyrosine kinase signaling (Daley GQ et al. N Engl J Med (2003); 349:1451-1464). Trisomy 21 was also identified. Advise the laboratory (34567890) should confirmatory FISH on paraffin-embedded tissue for BCR and ABL1 rearrangement be required"".\tPHONE: 34567890
+
+All 11 cells examined showed the 17;19 translocation typically seen in alveolar rhabdomyosarcoma, resulting in PAX3-FKHR fusion and aberrant myogenic differentiation (Barr FG et al. Nat Genet (1993); 5:230-235). Trisomy 2 was also observed. Advise the laboratory (45678901) should confirmatory FISH on paraffin-embedded tissue for PAX3 and FKHR rearrangement be required"".\tPHONE: 45678901
+
+All 11 cells examined exhibited the 21;22 translocation typically seen in Ewing sarcoma, resulting in EWSR1-FLI1 fusion and dysregulation of transcriptional control (Delattre O et al. Nature (1992); 359:162-165). Monosomy 16 was also detected. Advise the laboratory (56789012) should confirmatory FISH on paraffin-embedded tissue for EWSR1 and FLI1 rearrangement be required"".\tPHONE: 56789012
+
+All 11 cells examined showed the 2;13 translocation typically seen in alveolar soft part sarcoma, resulting in ASPSCR1-TFE3 fusion and abnormal angiogenesis (Ladanyi M et al. Am J Pathol (2001); 159:1081-1088). Monosomy 1 was also identified. Advise the laboratory (67890123) should confirmatory FISH on paraffin-embedded tissue for ASPSCR1 and TFE3 rearrangement be required"".\tPHONE: 67890123
+
+All 11 cells examined demonstrated the 4;10 translocation typically seen in t(4;10)(q24;q11) positive B-cell acute lymphoblastic leukemia, resulting in MLL-AF10 fusion and aberrant gene expression (Dreyling MH et al. Blood (2006); 108:3950-3955). Monosomy 9 was also observed. Advise the laboratory (78901234) should confirmatory FISH on paraffin-embedded tissue for MLL and AF10 rearrangement be required"".\tPHONE: 78901234
+
+All 11 cells examined displayed the 7;14 translocation typically seen in T-cell acute lymphoblastic leukemia, resulting in TCRB-HOXA fusion and abnormal lymphoid development (Asnafi V et al. Blood (2003); 102:3494-3499). Trisomy 18 was also identified. Advise the laboratory (89012345) should confirmatory FISH on paraffin-embedded tissue for TCRB and HOXA rearrangement be required"".\tPHONE: 89012345
+
+All 11 cells examined presented the 1;8 translocation typically seen in Burkitt lymphoma, resulting in MYC-IGH fusion and dysregulation of cell cycle control (Love C et al. Proc Natl Acad Sci U S A (2012); 109:3979-3984). Monosomy 15 was also detected. Advise the laboratory (90123456) should confirmatory FISH on paraffin-embedded tissue for MYC and IGH rearrangement be required"".\tPHONE: 90123456
+
+All 11 cells examined showed the 11;17 translocation typically seen in acute promyelocytic leukemia, resulting in PML-RARA fusion and impaired myeloid differentiation (Kakizuka A et al. Cell (1991); 66:663-674). Monosomy 5 was also observed. Advise the laboratory (12345678) should confirmatory FISH on paraffin-embedded tissue for PML and RARA rearrangement be required"".\tPHONE: 12345678
+
+All 11 cells examined showed the 12;16 translocation typically seen in myxoid liposarcoma, resulting in DDIT3-FUS fusion and negative regulation of adipocyte function (Knight JC et al. Cancer Res (1995); 55:24-27). Trisomy 8 was also seen. Advise the Laboratory (12345678) should confirmatory FISH on paraffin-embedded tissue for DDIT3 and FUS rearrangement be required.\tPHONE: 12345678
+All 11 specimens analyzed displayed the 12;16 translocation characteristic of myxoid liposarcoma, leading to DDIT3-FUS fusion and the negative regulation of adipocyte function (Knight JC et al. Cancer Res (1995); 55:24-27). Trisomy 8 was also identified. Advise the Laboratory (2345 6781) to perform confirmatory FISH on paraffin-embedded tissue for DDIT3 and FUS rearrangement if required.\tPHONE: 2345 6781
+
+All 11 tissues examined revealed the 12;16 translocation characteristic of myxoid liposarcoma, leading to DDIT3-FUS fusion and the negative regulation of adipocyte function (Knight JC et al. Cancer Res (1995); 55:24-27). Trisomy 8 was also detected. Advise the Laboratory (3456 7812) to conduct confirmatory FISH on paraffin-embedded tissue for DDIT3 and FUS rearrangement if needed.\tPHONE: 3456 7812
+
+All 11 specimens examined demonstrated the 12;16 translocation typically associated with myxoid liposarcoma, resulting in DDIT3-FUS fusion and the negative regulation of adipocyte function (Knight JC et al. Cancer Res (1995); 55:24-27). Trisomy 8 was also present. Advise the Laboratory (4567 8123) to perform confirmatory FISH on paraffin-embedded tissue for DDIT3 and FUS rearrangement if necessary.\tPHONE: 4567 8123
+
+All 11 samples analyzed displayed the 12;16 translocation commonly seen in myxoid liposarcoma, leading to DDIT3-FUS fusion and the negative modulation of adipocyte function (Knight JC et al. Cancer Res (1995); 55:24-27). Trisomy 8 was additionally observed. Advise the Laboratory (5678 1234) should confirmatory FISH on paraffin-embedded tissue for DDIT3 and FUS rearrangement be necessary.\tPHONE: 5678 1234
+
+All 11 cells analyzed exhibited the 12;16 translocation characteristic of myxoid liposarcoma, resulting in DDIT3-FUS fusion and negative regulation of adipocyte function (Knight JC et al. Cancer Res (1995); 55:24-27). Trisomy 8 was also observed. Advise the Laboratory (6789 1234) should confirmatory FISH on paraffin-embedded tissue for DDIT3 and FUS rearrangement be necessary.\tPHONE: 6789 1234
+
+All 11 specimens examined showed the 12;16 translocation typically seen in myxoid liposarcoma, leading to DDIT3-FUS fusion and the negative regulation of adipocyte function (Knight JC et al. Cancer Res (1995); 55:24-27). Trisomy 8 was also seen. Advise the Laboratory (7891 2345) to perform confirmatory FISH on paraffin-embedded tissue for DDIT3 and FUS rearrangement if required.\tPHONE: 7891 2345
+
+All 11 tissues analyzed revealed the 12;16 translocation characteristic of myxoid liposarcoma, resulting in DDIT3-FUS fusion and the negative regulation of adipocyte function (Knight JC et al. Cancer Res (1995); 55:24-27). Trisomy 8 was also detected. Advise the Laboratory (8912 3456) to conduct confirmatory FISH on paraffin-embedded tissue for DDIT3 and FUS rearrangement if needed.\tPHONE: 8912 3456
+
+All 11 specimens examined demonstrated the 12;16 translocation typically associated with myxoid liposarcoma, resulting in DDIT3-FUS fusion and the negative regulation of adipocyte function (Knight JC et al. Cancer Res (1995); 55:24-27). Trisomy 8 was also present. Advise the Laboratory (9123 4567) to perform confirmatory FISH on paraffin-embedded tissue for DDIT3 and FUS rearrangement if necessary.\tPHONE: 9123 4567
+
+All 11 samples analyzed displayed the 12;16 translocation commonly seen in myxoid liposarcoma, leading to DDIT3-FUS fusion and the negative modulation of adipocyte function (Knight JC et al. Cancer Res (1995); 55:24-27). Trisomy 8 was additionally observed. Advise the Laboratory (1234 5678) should confirmatory FISH on paraffin-embedded tissue for DDIT3 and FUS rearrangement be necessary.\tPHONE: 1234 5678
+
+All 11 cells examined showed the 12;16 translocation typically seen in myxoid liposarcoma, resulting in DDIT3-FUS fusion and negative regulation of adipocyte function (Knight JC et al. Cancer Res (1995); 55:24-27). Trisomy 8 was also seen. Advise the Laboratory (2345 6789) to perform confirmatory FISH on paraffin-embedded tissue for DDIT3 and FUS rearrangement if required.\tPHONE: 2345 6789
+
+All 11 specimens analyzed displayed the 12;16 translocation characteristic of myxoid liposarcoma, leading to DDIT3-FUS fusion and the negative regulation of adipocyte function (Knight JC et al. Cancer Res (1995); 55:24-27). Trisomy 8 was also identified. Advise the Laboratory (3456 7890) should confirmatory FISH on paraffin-embedded tissue for DDIT3 and FUS rearrangement be necessary.\tPHONE: 3456 7890
+
+All 11 tissues examined revealed the 12;16 translocation characteristic of myxoid liposarcoma, resulting in DDIT3-FUS fusion and the negative regulation of adipocyte function (Knight JC et al. Cancer Res (1995); 55:24-27). Trisomy 8 was also detected. Advise the Laboratory (4567 8901) to conduct confirmatory FISH on paraffin-embedded tissue for DDIT3 and FUS rearrangement if needed.\tPHONE: 4567 8901
+
+All 11 specimens examined demonstrated the 12;16 translocation typically associated with myxoid liposarcoma, resulting in DDIT3-FUS fusion and the negative regulation of adipocyte function (Knight JC et al. Cancer Res (1995); 55:24-27). Trisomy 8 was also present. Advise the Laboratory (5678 9012) to perform confirmatory FISH on paraffin-embedded tissue for DDIT3 and FUS rearrangement if necessary.\tPHONE: 5678 9012
+
+No evidence of mitoses for examination. Please advise the laboratory (1234 5678) should interphase FISH on paraffin-embedded tissue be of assistance in this case.\tPHONE: 1234 5678
+
+Absence of mitotic activity available for analysis. Please advise the laboratory (2345 6789) should interphase FISH on paraffin-embedded tissue be of assistance in this case.\tPHONE: 2345 6789
+
+No mitoses detected for analysis. Please advise the laboratory (3456 7890) should interphase FISH on paraffin-embedded tissue be of assistance in this case.\tPHONE: 3456 7890
+
+Mitotic figures not present for examination. Please advise the laboratory (4567 8901) should interphase FISH on paraffin-embedded tissue be of assistance in this case.\tPHONE: 4567 8901
+
+No mitoses available for review. Please advise the laboratory (5678 9012) should interphase FISH on paraffin-embedded tissue be of assistance in this case.\tPHONE: 5678 9012
+
+Absence of mitotic activity observed for analysis. Please advise the laboratory (6789 0123) should interphase FISH on paraffin-embedded tissue be of assistance in this case.\tPHONE: 6789 0123
+
+No mitoses detected for examination. Please advise the laboratory (7890 1234) should interphase FISH on paraffin-embedded tissue be of assistance in this case.\tPHONE: 7890 1234
+
+Mitotic figures not present for analysis. Please advise the laboratory (8901 2345) should interphase FISH on paraffin-embedded tissue be of assistance in this case.\tPHONE: 8901 2345
+
+No mitoses available for review. Please advise the laboratory (9012 3456) should interphase FISH on paraffin-embedded tissue be of assistance in this case.\tPHONE: 9012 3456
+
+Absence of mitotic activity observed for analysis. Please advise the laboratory (1234 5678) should interphase FISH on paraffin-embedded tissue be of assistance in this case.\tPHONE: 1234 5678
+No mitotic figures identified for examination. Please advise the laboratory (2345 6789) should interphase FISH on paraffin-embedded tissue be of assistance in this case.\tPHONE: 2345 6789
+
+Absence of mitotic activity available for analysis. Please advise the laboratory (3456 7890) should interphase FISH on paraffin-embedded tissue be of assistance in this case.\tPHONE: 3456 7890
+
+No mitoses observed for examination. Please advise the laboratory (4567 8901) should interphase FISH on paraffin-embedded tissue be of assistance in this case.\tPHONE: 4567 8901
+
+Mitotic figures not present for analysis. Please advise the laboratory (5678 9012) should interphase FISH on paraffin-embedded tissue be of assistance in this case.\tPHONE: 5678 9012
+
+No mitotic activity available for review. Please advise the laboratory (6789 0123) should interphase FISH on paraffin-embedded tissue be of assistance in this case.\tPHONE: 6789 0123
+
+Absence of mitotic figures identified for analysis. Please advise the laboratory (7890 1234) should interphase FISH on paraffin-embedded tissue be of assistance in this case.\tPHONE: 7890 1234
+
+No mitotic activity observed for examination. Please advise the laboratory (8901 2345) should interphase FISH on paraffin-embedded tissue be of assistance in this case.\tPHONE: 8901 2345
+
+Mitotic figures not present for analysis. Please advise the laboratory (9012 3456) should interphase FISH on paraffin-embedded tissue be of assistance in this case.\tPHONE: 9012 3456
+
+No mitoses identified for review. Please advise the laboratory (2345 6789) should interphase FISH on paraffin-embedded tissue be of assistance in this case.\tPHONE: 2345 6789
+
+Absence of mitotic activity available for analysis. Please advise the laboratory (3456 7890) should interphase FISH on paraffin-embedded tissue be of assistance in this case.\tPHONE: 3456 7890
+
+Regrettably, no mitotic figures were available for cytogenetic analysis. Please advise the laboratory (1234 5678) should interphase FISH be of assistance in this case.\tPHONE: 1234 5678
+
+Unfortunately, no mitoses were available for cytogenetic analysis. Please advise the laboratory (2345 6789) should interphase FISH be of assistance in this case.\tPHONE: 2345 6789
+
+Regrettably, no mitotic figures were available for cytogenetic analysis. Please advise the laboratory (3456 7890) should interphase FISH be of assistance in this case.\tPHONE: 3456 7890
+
+Unfortunately, no mitoses were available for cytogenetic analysis. Please advise the laboratory (4567 8901) should interphase FISH be of assistance in this case.\tPHONE: 4567 8901
+
+Regrettably, no mitotic figures were available for cytogenetic analysis. Please advise the laboratory (5678 9012) should interphase FISH be of assistance in this case.\tPHONE: 5678 9012
+
+Unfortunately, no mitoses were available for cytogenetic analysis. Please advise the laboratory (6789 0123) should interphase FISH be of assistance in this case.\tPHONE: 6789 0123
+
+Regrettably, no mitotic figures were available for cytogenetic analysis. Please advise the laboratory (7890 1234) should interphase FISH be of assistance in this case.\tPHONE: 7890 1234
+
+Unfortunately, no mitoses were available for cytogenetic analysis. Please advise the laboratory (8901 2345) should interphase FISH be of assistance in this case.\tPHONE: 8901 2345
+
+Regrettably, no mitotic figures were available for cytogenetic analysis. Please advise the laboratory (9012 3456) should interphase FISH be of assistance in this case.\tPHONE: 9012 3456
+
+Unfortunately, no mitoses were available for cytogenetic analysis. Please advise the laboratory (1234 5678) should interphase FISH be of assistance in this case.\tPHONE: 1234 5678
+
+Unfortunately, no mitotic figures were available for cytogenetic analysis. Please advise the laboratory (2345 6789) should interphase FISH be of assistance in this case.\tPHONE: 2345 6789
+
+Regrettably, no mitoses were available for cytogenetic analysis. Please advise the laboratory (3456 7890) should interphase FISH be of assistance in this case.\tPHONE: 3456 7890
+
+Unfortunately, no mitotic figures were available for cytogenetic analysis. Please advise the laboratory (45678901) should interphase FISH be of assistance in this case.\tPHONE: 45678901
+
+Regrettably, no mitoses were available for cytogenetic analysis. Please advise the laboratory (5678 9012) should interphase FISH be of assistance in this case.\tPHONE: 5678 9012
+
+Unfortunately, no mitotic figures were available for cytogenetic analysis. Please advise the laboratory (6789 0123) should interphase FISH be of assistance in this case.\tPHONE: 6789 0123
+
+Regrettably, no mitoses were available for cytogenetic analysis. Please advise the laboratory (7890 1234) should interphase FISH be of assistance in this case.\tPHONE: 7890 1234
+
+Unfortunately, no mitotic figures were available for cytogenetic analysis. Please advise the laboratory (8901 2345) should interphase FISH be of assistance in this case.\tPHONE: 8901 2345
+
+Regrettably, no mitoses were available for cytogenetic analysis. Please advise the laboratory (9012 3456) should interphase FISH be of assistance in this case.\tPHONE: 9012 3456
+
+Unfortunately, no mitotic figures were available for cytogenetic analysis. Please advise the laboratory (2345 6789) should interphase FISH be of assistance in this case.\tPHONE: 2345 6789
+
+Regrettably, no mitoses were available for cytogenetic analysis. Please advise the laboratory (3456 7890) should interphase FISH be of assistance in this case.\tPHONE: 3456 7890
+
+No mitotic figures identified for examination. Please advise the laboratory (1234 5678) should interphase FISH on paraffin-embedded tissue be of assistance in this case.\tPHONE: 1234 5678
+
+Absence of mitotic activity available for analysis. Please advise the laboratory (2345 6789) should interphase FISH on paraffin-embedded tissue be of assistance in this case.\tPHONE: 2345 6789
+
+No mitoses observed for examination. Please advise the laboratory (3456 7890) should interphase FISH on paraffin-embedded tissue be of assistance in this case.\tPHONE: 3456 7890
+
+Mitotic figures not present for analysis. Please advise the laboratory (4567 8901) should interphase FISH on paraffin-embedded tissue be of assistance in this case.\tPHONE: 4567 8901
+
+No mitotic activity available for review. Please advise the laboratory (5678 9012) should interphase FISH on paraffin-embedded tissue be of assistance in this case.\tPHONE: 5678 9012
+
+Absence of mitotic figures identified for analysis. Please advise the laboratory (6789 0123) should interphase FISH on paraffin-embedded tissue be of assistance in this case.\tPHONE: 6789 0123
+
+No mitotic activity observed for examination. Please advise the laboratory (7890 1234) should interphase FISH on paraffin-embedded tissue be of assistance in this case.\tPHONE: 7890 1234
+
+Mitotic figures not present for analysis. Please advise the laboratory (8901 2345) should interphase FISH on paraffin-embedded tissue be of assistance in this case.\tPHONE: 8901 2345
+
+No mitoses available for review. Please advise the laboratory (9012 3456) should interphase FISH on paraffin-embedded tissue be of assistance in this case.\tPHONE: 9012 3456
+
+Absence of mitotic activity observed for analysis. Please advise the laboratory (1234 5678) should interphase FISH on paraffin-embedded tissue be of assistance in this case.\tPHONE: 1234 5678
+
+Unfortunately, no mitotic figures were available for cytogenetic analysis. Please advise the laboratory (2345 6789) should interphase FISH be of assistance in this case.\tPHONE: 2345 6789
+
+Regrettably, no mitoses were available for cytogenetic analysis. Please advise the laboratory (3456 7890) should interphase FISH be of assistance in this case.\tPHONE: 3456 7890
+
+Unfortunately, no mitotic figures were available for cytogenetic analysis. Please advise the laboratory (4567 8901) should interphase FISH be of assistance in this case.\tPHONE: 4567 8901
+
+Regrettably, no mitoses were available for cytogenetic analysis. Please advise the laboratory (5678 9012) should interphase FISH be of assistance in this case.\tPHONE: 5678 9012
+
+Unfortunately, no mitotic figures were available for cytogenetic analysis. Please advise the laboratory (6789 0123) should interphase FISH be of assistance in this case.\tPHONE: 6789 0123
+
+Regrettably, no mitoses were available for cytogenetic analysis. Please advise the laboratory (7890 1234) should interphase FISH be of assistance in this case.\tPHONE: 7890 1234
+
+Unfortunately, no mitotic figures were available for cytogenetic analysis. Please advise the laboratory (8901 2345) should interphase FISH be of assistance in this case.\tPHONE: 8901 2345
+
+Regrettably, no mitoses were available for cytogenetic analysis. Please advise the laboratory (9012 3456) should interphase FISH be of assistance in this case.\tPHONE: 9012 3456
+
+Unfortunately, no mitotic figures were available for cytogenetic analysis. Please advise the laboratory (2345 6789) should interphase FISH be of assistance in this case.\tPHONE: 2345 6789
+
+Regrettably, no mitoses were available for cytogenetic analysis. Please advise the laboratory (3456 7890) should interphase FISH be of assistance in this case.\tPHONE: 3456 7890
+
+All 11 cells examined demonstrated the 14;18 translocation typically seen in follicular lymphoma, resulting in BCL2-IGH fusion and dysregulation of B-cell apoptosis (Smith A et al. Blood (2005); 106:1989-1995). Trisomy 12 was also observed. Advise the laboratory (1234 5678) should confirmatory FISH on paraffin-embedded tissue for BCL2 and IGH rearrangement be required"".\tPHONE: 1234 5678
+
+All 11 cells examined displayed the 3;21 translocation typically seen in acute myeloid leukemia, resulting in RUNX1-MDS1-EVI1 fusion and altered hematopoietic cell differentiation (Jones C et al. Nat Genet (2010); 42:722-726). Monosomy 7 was also detected. Advise the laboratory (2345 6789) should confirmatory FISH on paraffin-embedded tissue for RUNX1 and MDS1-EVI1 rearrangement be required"".\tPHONE: 2345 6789
+
+All 11 cells examined presented the 9;22 translocation typically seen in chronic myeloid leukemia, resulting in BCR-ABL1 fusion and constitutive activation of tyrosine kinase signaling (Daley GQ et al. N Engl J Med (2003); 349:1451-1464). Trisomy 21 was also identified. Advise the laboratory (3456 7890) should confirmatory FISH on paraffin-embedded tissue for BCR and ABL1 rearrangement be required"".\tPHONE: 3456 7890
+
+All 11 cells examined showed the 17;19 translocation typically seen in alveolar rhabdomyosarcoma, resulting in PAX3-FKHR fusion and aberrant myogenic differentiation (Barr FG et al. Nat Genet (1993); 5:230-235). Trisomy 2 was also observed. Advise the laboratory (4567 8901) should confirmatory FISH on paraffin-embedded tissue for PAX3 and FKHR rearrangement be required"".\tPHONE: 4567 8901
+
+All 11 cells examined exhibited the 21;22 translocation typically seen in Ewing sarcoma, resulting in EWSR1-FLI1 fusion and dysregulation of transcriptional control (Delattre O et al. Nature (1992); 359:162-165). Monosomy 16 was also detected. Advise the laboratory (5678 9012) should confirmatory FISH on paraffin-embedded tissue for EWSR1 and FLI1 rearrangement be required"".\tPHONE: 5678 9012
+
+All 11 cells examined showed the 2;13 translocation typically seen in alveolar soft part sarcoma, resulting in ASPSCR1-TFE3 fusion and abnormal angiogenesis (Ladanyi M et al. Am J Pathol (2001); 159:1081-1088). Monosomy 1 was also identified. Advise the laboratory (6789 0123) should confirmatory FISH on paraffin-embedded tissue for ASPSCR1 and TFE3 rearrangement be required"".\tPHONE: 6789 0123
+
+All 11 cells examined demonstrated the 4;10 translocation typically seen in t(4;10)(q24;q11) positive B-cell acute lymphoblastic leukemia, resulting in MLL-AF10 fusion and aberrant gene expression (Dreyling MH et al. Blood (2006); 108:3950-3955). Monosomy 9 was also observed. Advise the laboratory (7890 1234) should confirmatory FISH on paraffin-embedded tissue for MLL and AF10 rearrangement be required"".\tPHONE: 7890 1234
+
+All 11 cells examined displayed the 7;14 translocation typically seen in T-cell acute lymphoblastic leukemia, resulting in TCRB-HOXA fusion and abnormal lymphoid development (Asnafi V et al. Blood (2003); 102:3494-3499). Trisomy 18 was also identified. Advise the laboratory (8901 2345) should confirmatory FISH on paraffin-embedded tissue for TCRB and HOXA rearrangement be required"".\tPHONE: 8901 2345
+
+All 11 cells examined presented the 1;8 translocation typically seen in Burkitt lymphoma, resulting in MYC-IGH fusion and dysregulation of cell cycle control (Love C et al. Proc Natl Acad Sci U S A (2012); 109:3979-3984). Monosomy 15 was also detected. Advise the laboratory (9012 3456) should confirmatory FISH on paraffin-embedded tissue for MYC and IGH rearrangement be required"".\tPHONE: 9012 3456
+
+All 11 cells examined showed the 11;17 translocation typically seen in acute promyelocytic leukemia, resulting in PML-RARA fusion and impaired myeloid differentiation (Kakizuka A et al. Cell (1991); 66:663-674). Monosomy 5 was also observed. Advise the laboratory (1234 5678) should confirmatory FISH on paraffin-embedded tissue for PML and RARA rearrangement be required"".\tPHONE: 1234 5678
