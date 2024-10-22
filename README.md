@@ -1,33 +1,6 @@
-# SREDH/AI CUP 2023
+# SREDH/AI CUP 2023 Top 10 teams
 
-
-<div align="center">
-
-<!-- Add your project logo if you have any -->
-<!-- <img width=200px height=200px src="images/logo.png" alt="Project logo">-->
-
-</div>
-
-<h1 align="center">Patient DeIdentification</h1>
-
- <p align="center">
- 	<!-- Add your tagline or very short intro of your project -->
-    Leveraging Large Language Models for De-identification and Temporal Normalization of Sensitive Health Information in Electronic Health Records
-<h3 align="center"> Find Detailed Implementation, Summaries and Descriptions Inside Each Project</h3>
-
-<hr />
-<br />
-
-<div align="center">
-
-<!-- Add your project demo gif here -->
-
-</div>
-
-<!-- You may write notes in your readme this way if you want to, it looks good and also different from other text -->
-
-
-<p align="center">Innovative solutions developed by the top 10 teams to tackle the challenge of deidentifying sensitive health information (SHI). This repository showcases cutting-edge approaches leveraging Large Language Models (LLMs), machine learning, and rule-based techniques to ensure robust privacy protection while maintaining the integrity of medical data.</p>
+<p align="center">Innovative solutions developed by the top 10 teams to tackle the challenge of deidentifying sensitive health information (SHI). This repository showcases cutting-edge approaches leveraging Large Language Models (LLMs), machine learning, and rule-based techniques to ensure robust privacy protection while maintaining the integrity of medical data. Find detailed implementation, summaries and descriptions inside each folder</p>
 
 ## 🧐 Background
 
