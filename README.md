@@ -33,8 +33,16 @@
 
 In recent years, artificial intelligence (AI) technology has developed rapidly. Especially in the past year, companies such as OpenAI, Microsoft and Google have introduced and used their own large-scale language models in related products. These applications such as ChatGPT shown the application potential of Large Language Models (LLMs) in various fields. The application of LLM in clinical medicine is therefore regarded as the future of AI in the field of digital health, which is now a very important and evolving research area. However, when applying such AI models, ordinary users and even system or program developers often do not realize the privacy information issues when interacting with LLMs, which may lead to the risk of leaking important confidential information. In addition, if the training data used in training such large language models contains real private information (such as an individual's name, phone number, ID card number, etc.), there is a certain possibility that it will be affected by the memory capacity of the LLM. The ability to interact with users leads to the leakage of private information.
 
+
 ## Competition website link
 [Codalab Competition web Link](https://codalab.lisn.upsaclay.fr/competitions/15425?secret_key=db7687a5-8fc7-4323-a94f-2cca2ac04d39)
+
+## 2024-IW-DMRN Workshop link
+https://www.sredhconsortium.org/sredh-workshops/2024-iw-dmrn
+
+## 2024-IW-DMRN Workshop Proceedings
+https://link.springer.com/book/9789819779659
+
 
 ## 💡 Top-10 Teams Summarries.
 
